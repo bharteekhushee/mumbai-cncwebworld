@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Python Course in Panvel - Learn with CNC Web World</title>
+    <meta name="description" content="Learn data analytics at CNC Web World in Mumbai with placement support. Expert training and job placement services to boost your career!">
+    <meta name="keywords" content="data analytics courses in Mumbai, data analytics courses in mumbai with placement, courses on data analytics in Mumbai, data analytics course fees in Mumbai, best data analytics courses in Mumbai, data analytics courses fees in mumbai">
+    <title>Data Analytics Courses in Mumbai: Start Learning Today!</title>
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
@@ -24,8 +26,8 @@
         <div class="container-lg">
             <div class="row py-5">
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
-                    <img src="./assets/img/python.svg" width="60px" alt="">
-                    <h1>Python Intensive Training Program</h1>
+                    <img src="./assets/img/data-analytics.webp" width="60px" alt="">
+                    <h1>Data Analytics with Python Intensive Training Program</h1>
                     <h3 class="fw-semibold"><i>100% Job Oriented Course</i></h3>
                     <div class="row">
                         <div class="col-4 ">
@@ -72,7 +74,7 @@
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
-                <h2 class="fw-bold mb-4 text-center">Why <span class="blue">Python?</span></h2>
+                <h2 class="fw-bold mb-4 text-center">Why choose <span class="blue">Data Analytics?</span></h2>
             </div>
             <div class="row ">
                 <div class="col-lg-6 ">
@@ -81,39 +83,23 @@
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center ">
                     <p>
-                        <b>CNC WEB WORLD </b> offers a <b>Python Course in Panvel</b> to teach students how to use
+                        <b>CNC WEB WORLD </b> offers a <b>Python Course in Mumbai</b> to teach students how to use
                         Python, a widely used programming language, for many different purposes. Python has the
                         flexibility to work in web development, data analysis, machine learning scientific computing,
                         and other areas.
                     </p>
                     <p>
-                        A standard Python course covers Python syntax, data types, functions, control structures,
+                        A standard <b>Python course</b> covers Python syntax, data types, functions, control structures,
                         object-oriented programming, file input/output, libraries and frameworks, web development, data
-                        analysis and visualization, and machine learning. The python course in thane aims to give
+                        analysis and visualization, and machine learning. The python classes in mumbai aims to give
                         hands-on experience, with practical exercises and projects to strengthen understanding.
                     </p>
-                    <p> The <b>Python course in Panvel</b> includes tools and frameworks like NumPy, Pandas, Matplotlib,
-                        Flask, Django, TensorFlow, and PyTorch. These tools help to manage data, create visual
-                        representations, build web applications, and put machine learning algorithms into practice.
+                    <p> The <b>Python Classes in Mumbai</b> includes tools and frameworks like NumPy, Pandas,
+                        Matplotlib, Flask, Django, TensorFlow, and PyTorch. These tools help to manage data, create
+                        visual representations, build web applications, and put machine learning algorithms into
+                        practice.
                     </p>
                 </div>
-            </div>
-            <div>
-                <p>
-                    <b>Python course in Panvel</b> work well for newcomers to coding and seasoned programmers who aim to
-                    pick up a new language or boost their abilities. Python has an easy-to-grasp structure, which makes
-                    it a great starting point for many students.
-                </p>
-                <p>
-                    In general, <b>python training in Panvel</b> offers a complete introduction to Python and its
-                    applications in different fields. This equips students with the know-how to create their own Python
-                    projects or pursue a Python programming career.
-                </p>
-                <p>
-                    A Python code syllabus lists topics a Python programming class will cover. The exact content can
-                    change based on the course level (beginner, intermediate, or advanced) and focus (data science, web
-                    development, or machine learning).
-                </p>
             </div>
             <div class="text-center mt-2">
                 <button class="btn btn-dark btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">Enquire
@@ -125,85 +111,19 @@
     <!-- roadmap-image start -->
     <div class="container  mt-5 mb-3">
         <div class="row mx-3 mx-md-0 mt-5 mb-3 pt-4 rounded" style="box-shadow: rgba(0, 0, 0, 0.5) 0px 4px 24px;">
-            <img src="./assets/img/roadmap-python.png" alt="" class="img-fluid">
+            <img src="./assets/img/roadmap-data-analytics.png" alt="" class="img-fluid">
         </div>
     </div>
     <!-- roadmap-image end -->
-    <!-- course-content start -->
-    <div class="course-content">
-        <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">A Python code syllabus often covers these common topics: </h4>
-            <p><b>Python fundamentals:</b> Data types, variables, operators, expressions, and control structures.</p>
-
-            <p><b>Functions:</b> How to call and define functions, handle return values and arguments
-
-            </p>
-            <p>
-                <b>Data structures: </b>: Lists, tuples, dictionaries, and sets.
-            </p>
-            <p><b>Object-oriented programming:</b> Objects, methods, inheritance, Classes and how things can take many
-                forms.
-            </p>
-            <p>
-                <b>Input/output:</b> How to read and write files, deal with command-line arguments, and manage standard
-                input/output.
-            </p>
-            <p>
-                <b>Modules and libraries:</b> How to import and use Python modules and libraries like NumPy, Pandas,
-                Matplotlib, Flask, and Django.
-            </p>
-            <p>
-                <b>Data analysis and visualization:</b> How to manipulate and visualize data with Python.
-            </p>
-            <p>
-                <b>Web development:</b> How to create web applications using Python and web frameworks such as Flask and
-                Django.
-            </p>
-            <p>
-                <b>Machine learning:</b> How to use Python and libraries like TensorFlow and PyTorch to build and train
-                machine learning models.
-            </p>
-            <p>This list doesn't cover everything, and the course might include other subjects too. A Python code
-                syllabus aims to give students a thorough introduction to the Python programming language and how to use
-                it in different situations.</p>
-        </div>
-    </div>
-    <!-- course-content end -->
     <!-- whoCanJoin start -->
     <?php include 'common/whoCanJoin.php' ?>
     <!-- WhoCanJoin end -->
-    <!-- course-content start -->
-    <div class="course-content">
-        <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">Python classes in Panvel With Placement </h4>
-            <p><b>CNC Web World</b> offers a <b>Python course in Panvel</b> that includes job placement. This program
-                teaches students Python and helps them find jobs after they finish. The course aims to give students the
-                abilities and understanding they need to do well in the job market. It also provides extra help like
-                looking over resumes, getting ready for interviews, and helping with job searches. </p>
-
-            <p>The <b>Python course in Panvel</b> with placement teach students the basics of Python programming. This
-                covers Python's structure types of data ways to control the program, and functions. Students also learn
-                to use libraries and frameworks like NumPy, Pandas, Matplotlib, Flask, and Django. The course shows how
-                to use Python for analyzing data making websites, and machine learning .</p>
-
-            <p><b>CNC WEB WORLD </b>offers placement services, which give you access to job boards networking events,
-                and career advice. We also set up internships or projects with industry partners at <b>CNC WEB
-                    WORLD</b>. This gives students hands-on experience and helps them build their professional
-                connections.</p>
-            <p>Python courses with job placement at <b>CNC WEB WORLD</b> suit students aiming to begin a Python
-                programming career and professionals wanting to switch careers or boost their skills. The growing need
-                for Python developers across industries gives students an edge in the job market and a clear route to
-                career success.
-            </p>
-        </div>
-    </div>
-    <!-- course-content end -->
     <!-- courseDetails section start -->
     <section id="courseDetail">
         <div class="container-lg">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h2 class="fw-bold mb-4 text-white">Python Development Curriculum</h2>
+                    <h2 class="fw-bold mb-4 text-white">Data Analytics Development Curriculum</h2>
                 </div>
             </div>
         </div>
@@ -254,7 +174,7 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#python" aria-expanded="true" aria-controls="python">
-                                    Python
+                                    Data Analysis with Python
                                     <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
                                         style="font-size: 12px;">#Backend</span>
                                     <span class="ms-auto">
@@ -268,19 +188,66 @@
                                 <div class="accordion-body">
                                     <div class="row">
                                         <div class="col-sm-6">
-                                            <ul>
-                                                <li>Introduction to Python</li>
-                                                <li>Operators in Python</li>
-                                                <li>Conditional Statement</li>
-                                                <li>Loops in Python</li>
-                                            </ul>
+                                            <ol>
+                                                <li>Introduction to Data Analysis
+                                                    <ul type="disc">
+                                                        <li>Importance of Data Analysis</li>
+                                                        <li>Overview of Python & Power BI for Data Analysis</li>
+                                                        <li>Data Analysis Process</li>
+                                                        <li>Data Analysis with Python</li>
+                                                    </ul>
+                                                </li>
+                                                <li>Python for Data Analysis
+                                                    <ul type="disc">
+                                                        <li>Setting Up Python Environment (Anaconda, Jupyter Notebook)
+                                                        </li>
+                                                        <li>Basics of Python (Variables, Data Types, Control Flow)</li>
+                                                    </ul>
+                                                </li>
+                                                <li>Data Manipulation with Pandas
+                                                    <ul type="disc">
+                                                        <li>Working with DataFrames & Series</li>
+                                                        <li>Handling Missing & Duplicate Data</li>
+                                                        <li>Data Aggregation & Grouping</li>
+                                                    </ul>
+                                                </li>
+                                                <li>Data Visualization with Matplotlib &Seaborn
+                                                    <ul type="disc">
+                                                        <li>Creating Line,Bar, Scatter, and Pie Charts</li>
+                                                        <li>Heatmaps & Correlation Plots</li>
+                                                    </ul>
+                                                </li>
+                                            </ol>
                                         </div>
                                         <div class="col-sm-6">
-                                            <ul>
-                                                <li> More on Data types</li>
-                                                <li> Function and Modules</li>
-                                                <li> OOPS in python</li>
-                                            </ul>
+                                            <ol start="5">
+                                                <li>Exploratory Data Analysis (EDA)
+                                                    <ul type="disc">
+                                                        <li>Descriptive Statistics (Mean, Median, Mode)</li>
+                                                        <li>Identifying Outliers & Trends</li>
+                                                        <li>Feature Engineering</li>
+                                                    </ul>
+                                                </li>
+                                                <li>Statistical & Predictive Analysis
+                                                    <ul type="disc">
+                                                        <li>Correlation & Regression Analysis</li>
+                                                        <li>Hypothesis Testing</li>
+                                                        <li>Time Series Analysis (ARIMA, Prophet)</li>
+                                                    </ul>
+                                                </li>
+                                                <li>Data Analysis with SQL & Python
+                                                    <ul type="disc">
+                                                        <li>Querying Data with SQLAlchemy</li>
+                                                        <li>Integrating SQL with Pandas for Analysis</li>
+                                                    </ul>
+                                                </li>
+                                                <li>Introduction to Machine Learning for Data Analysis
+                                                    <ul type="disc">
+                                                        <li>Basics of Supervised & Unsupervised Learning</li>
+                                                        <li>Implementing Regression & Clustering in Python</li>
+                                                    </ul>
+                                                </li>
+                                            </ol>
                                         </div>
                                     </div>
                                 </div>
@@ -332,8 +299,8 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#django" aria-expanded="false" aria-controls="django">
-                                    Django
+                                    data-bs-target="#power" aria-expanded="false" aria-controls="power">
+                                    Power BI
                                     <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
                                         style="font-size: 12px;">#Backend</span>
                                     <span class="ms-auto">
@@ -342,26 +309,63 @@
                                     </span>
                                 </button>
                             </h2>
-                            <div id="django" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div id="power" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="row">
                                         <div class="col-sm-6">
-                                            <ul>
-                                                <li>Introduction to Django Framework & Django Project Structure</li>
-                                                <li> Django Model</li>
-                                                <li>Django View</li>
-                                                <li>Django Template</li>
-                                                <li> Django Admin</li>
-                                            </ul>
+                                            <ol>
+                                                <li>Introduction to Power BI
+                                                    <ul type="disc">
+                                                        <li>Power BI Interface & Components</li>
+                                                        <li>Connecting to Data Sources (Excel, SQL, APIs)</li>
+                                                    </ul>
+                                                </li>
+                                                <li>Data Cleaning & Transformation in Power BI
+                                                    <ul type="disc">
+                                                        <li>Using Power Query for Data Preparation</li>
+                                                        <li>Creating Relationships Between Tables</li>
+                                                    </ul>
+                                                </li>
+                                                <li>Data Visualization in Power BI
+                                                    <ul type="disc">
+                                                        <li>Creating Reports & Dashboards</li>
+                                                        <li>Using Charts, Graphs & Maps</li>
+                                                        <li>Conditional Formatting & Custom Visuals</li>
+                                                    </ul>
+                                                </li>
+                                                <li>DAX (Data Analysis Expressions)
+                                                    <ul type="disc">
+                                                        <li>Introduction to DAX</li>
+                                                        <li>Calculated Columns & Measures</li>
+                                                        <li>Time Intelligence Functions</li>
+                                                    </ul>
+                                                </li>
+
+                                            </ol>
                                         </div>
                                         <div class="col-sm-6">
-                                            <ul>
-                                                <li>Security & Session Management</li>
-                                                <li>Additional Components in Project</li>
-                                                <li>Deployment</li>
-                                                <li>Django Rest Framework</li>
-                                                <li>React Django Integration</li>
-                                            </ul>
+                                            <ol start="5">
+                                                <li>Advanced Power BI Features
+                                                    <ul type="disc">
+                                                        <li>Row-Level Security (RLS)</li>
+                                                        <li>Power BI Service & Cloud Sharing</li>
+                                                        <li>Automating Reports & Scheduling</li>
+                                                    </ul>
+                                                </li>
+                                                <li>Integrating Python with Power BI
+                                                    <ul type="disc">
+                                                        <li>Running Python Scripts in Power BI</li>
+                                                        <li>Creating Advanced Visuals with Python</li>
+                                                    </ul>
+                                                </li>
+                                                <li>Case Studies & Projects
+                                                    <ul type="disc">
+                                                        <li>Business & Sales Data Analysis</li>
+                                                        <li>Financial Reporting & Forecasting</li>
+                                                        <li>Customer Segmentation & Market Analysis</li>
+                                                    </ul>
+                                                </li>
+                                            </ol>
                                         </div>
                                     </div>
                                 </div>
@@ -501,32 +505,6 @@
         </div>
     </section>
     <!-- courseDetails section end -->
-    <!-- course-content start -->
-    <div class="course-content">
-        <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">Python Training and Placement in Panvel</h4>
-            <p><b>CNC WEB WORLD</b> provides Python classes and helps students find jobs. These aim to equip students
-                with the know-how to thrive in Python-related jobs and to help them land positions after they finish
-                their training. The programs cover a lot of Python topics. This covers code structure variable types,
-                flow control, code blocks, class-based coding, and ready-made tools. </p>
-            <p>Along with the training, the program offers extra help like career advice looking over resumes, getting
-                ready for interviews, and helping with job searches. At CNC WEB WORLD, we also let students do
-                internships or work on projects with industry partners giving them real-world experience and a chance to
-                grow their professional connections.
-            </p>
-            <p>
-                After you finish the program, you'll get help finding a job. You'll have access to job listings, events
-                to meet people in the industry, and other tools to connect you with companies that might hire you.
-                Sometimes, the training program has teamed up with certain companies giving students a direct route to a
-                job.
-            </p>
-            <p>Python training and placement programs that cover everything give people who want to begin a Python
-                programming career or improve their skills a great choice. As more companies need Python developers,
-                these programs give students an edge in the job market and a clear way to succeed in their careers.
-            </p>
-        </div>
-    </div>
-    <!-- course-content end -->
     <!-- industryProject  section start -->
     <section id="industryProject">
         <div class="container-fluid py-5 px-2 px-md-5">
@@ -630,45 +608,6 @@
         </div>
     </section>
     <!-- industryProject  section end -->
-    <!-- course-content start -->
-    <div class="course-content">
-        <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">More About python course in Panvel</h4>
-            <p>You can take a <b>Python course in panvel</b> that runs for 2-3 months. This program teaches you the
-                basics of Python programming and some ways to use the language. The course aims to give students a
-                strong base in Python programming, including syntax, data types, control structures, functions, and
-                object-oriented programming.
-                A 2-3 month Python course might also teach you about:
-            </p>
-            <ul>
-                <li>NumPy, Pandas, Matplotlib, Flask, and Django: libraries and frameworks </li>
-                <li>Using Python to analyze and visualize data </li>
-                <li>Building websites with Python and web frameworks like Flask and Django </li>
-                <li>Getting started with machine learning and how to use Python for it </li>
-                <li>Tips to write Python code that's fast, easy to maintain, and reusable </li>
-            </ul>
-            <p>The course has assignments, quizzes, and projects to help students learn better. Also, the course offers
-                guidance or one-on-one help to support students with specific parts of the course content. </p>
-            <p>A Python course lasting 2-3 months is a great choice for people who want to learn Python programming and
-                how to use it in a short time. These courses can give students the skills and know-how to start a career
-                in Python programming or to add Python to what they already know.</p>
-
-            <h4 class="fw-bold"> Key highlights of Python Course in Panvel </h4>
-            <p>Our Python classes and training module have key features that put us ahead of our rivals and give
-                top-notch training to all our students. </p>
-            <ul>
-                <li> Experienced Faculties</li>
-                <li>Limited Batch Size</li>
-                <li>Assignments on LIVE Projects</li>
-                <li>Free Study Material</li>
-                <li>Interview Skills Training</li>
-                <li>Free Softwares</li>
-                <li>Offline Test & Certification</li>
-                <li>100% Job Guarantee</li>
-            </ul>
-        </div>
-    </div>
-    <!-- course-content end -->
     <!-- keyHighlights section start -->
     <?php include 'common/keyHighlights.php' ?>
     <!-- keyHighlights section end -->
@@ -690,16 +629,25 @@
             </div>
             <div class="row">
                 <div class="col-12 rounded-4 border py-3 px-4 bg-white shadow">
-                    <div class="row text-center row-cols-lg-6 row-cols-md-3 row-cols-sm-3 row-cols-2  mx-auto">
-
+                    <div class="row text-center row-cols-lg-6 row-cols-md-3 row-cols-sm-3 row-cols-2  mx-auto px-auto">
+                       
                         <div class="col">
                             <img src="./assets/img/python.svg" alt="" class="img-fluid">
                         </div>
                         <div class="col">
-                            <img src="./assets/img/mysql.png" alt="" class="img-fluid">
+                            <img src="./assets/img/numpy.png" alt="" class="img-fluid">
                         </div>
                         <div class="col">
-                            <img src="./assets/img/django.png" alt="" class="img-fluid">
+                            <img src="./assets/img/pandas.png" alt="" class="img-fluid">
+                        </div>
+                        <div class="col ">
+                            <img src="./assets/img/matplotlib.webp" alt="" class="img-fluid">
+                        </div>
+                        <div class="col">
+                            <img src="./assets/img/powerBI.jpeg" alt="" class="img-fluid">
+                        </div>
+                        <div class="col">
+                            <img src="./assets/img/mysql.png" alt="" class="img-fluid">
                         </div>
                         <div class="col">
                             <img src="./assets/img/aws.png" alt="" class="img-fluid">
@@ -709,7 +657,34 @@
                         </div>
                         <div class="col">
                             <img src="./assets/img/testing.png" alt="" class="img-fluid">
+                         </div> 
+                         <!--<div class="col mx-auto">
+                            <img src="./assets/img/python.svg" alt="" class="img-fluid">
                         </div>
+                        <div class="col mx-auto">
+                            <img src="./assets/img/numpy.png" alt="" class="img-fluid">
+                        </div>
+                        <div class="col mx-auto">
+                            <img src="./assets/img/pandas.png" alt="" class="img-fluid">
+                        </div>
+                        <div class="col mx-auto">
+                            <img src="./assets/img/matplotlib.webp" alt="" class="img-fluid">
+                        </div>
+                        <div class="col mx-auto">
+                            <img src="./assets/img/powerBI.jpeg" alt="" class="img-fluid">
+                        </div>
+                        <div class="col mx-auto">
+                            <img src="./assets/img/mysql.png" alt="" class="img-fluid">
+                        </div>
+                        <div class="col mx-auto">
+                            <img src="./assets/img/aws.png" alt="" class="img-fluid">
+                        </div>
+                        <div class="col mx-auto">
+                            <img src="./assets/img/docker.png" alt="" class="img-fluid">
+                        </div>
+                        <div class="col mx-auto">
+                            <img src="./assets/img/testing.png" alt="" class="img-fluid">
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -731,179 +706,6 @@
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
-    <!-- faq section start -->
-    <section id="faqs">
-        <div class="container-lg py-5 px-4 px-lg-0">
-            <h2 class="fw-bold text-center py-3">
-                Frequently Asked Questions
-            </h2>
-            <div class="accordion" id="accordionExample2">
-                <div class="accordion-item">
-                    <h2 class="accordion-header">
-                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                            <span class="fw-semibold"> What is python ?</span>
-                        </button>
-                    </h2>
-                    <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample2">
-                        <div class="accordion-body">
-                            Python shines as a high-level interpreted programming language. People know it for how easy
-                            it is to read and write. It is widely used for web development, data science, machine
-                            learning, automation, artificial intelligence, and more. Python's easy-to-learn syntax makes
-                            it ideal for beginners, while its powerful libraries and frameworks make it a favorite among
-                            experienced developers. With a strong community and vast applications, Python is one of the
-                            most popular programming languages in the world today.
-                        </div>
-                    </div>
-                </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                            <span class="fw-semibold"> What is Python used for?</span>
-                        </button>
-                    </h2>
-                    <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
-                        <div class="accordion-body">
-                            <p>Python is a versatile programming language used in various fields, including:</p>
-                            <ul>
-                                <li>
-                                    <b>Web Development –</b> Building websites and web applications using frameworks
-                                    like Django and Flask.
-                                </li>
-                                <li>
-                                    <b>Data Science & Analytics –</b> Processing, analyzing, and visualizing data with
-                                    libraries like Pandas and NumPy.
-                                </li>
-                                <li>
-                                    <b>Machine Learning & AI –</b> Developing intelligent applications using TensorFlow
-                                    and Scikit-learn.
-                                </li>
-                                <li><b>Automation & Scripting –</b> Automating repetitive tasks, such as file handling
-                                    and web scraping.</li>
-                                <li>
-                                    <b>Cybersecurity – </b>Writing security tools and performing ethical hacking.
-                                </li>
-                                <li>
-                                    <b>Game Development –</b> Creating games using Pygame and other libraries.
-                                </li>
-                                <li><b>Embedded Systems & IoT –</b> Controlling hardware devices and IoT applications.
-                                </li>
-                            </ul>
-                            <p>Python's simplicity and extensive libraries make it one of the most widely used
-                                programming languages across various industries.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                            <span class="fw-semibold">What kind of Jobs can Python get me ?</span>
-                        </button>
-                    </h2>
-                    <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
-                        <div class="accordion-body">
-                            <p>Python is one of the most in-demand programming languages, offering career opportunities
-                                in various fields. Some of the top jobs you can get include: </p>
-                            <ul>
-                                <li>
-                                    <b>Python Developer –</b> Build web applications, software, and automation scripts.
-                                </li>
-                                <li><b>Data Scientist –</b> Analyze and interpret complex data for decision-making.</li>
-                                <li><b>Machine Learning Engineer –</b> Develop AI models and predictive systems.</li>
-                                <li>
-                                    <b>Software Engineer –</b> Design and develop applications using Python.
-                                </li>
-
-                                <li>
-                                    <b>Backend Developer –</b>Work on server-side logic and database management.
-                                </li>
-                                <li>
-                                    <b>Cybersecurity Analyst –</b>
-                                    Identify and prevent security threats using Python tools.
-                                </li>
-                                <li> <b>DevOps Engineer – </b>Automate and optimize software development processes.</li>
-                                <li>
-                                    <b>Game Developer –</b>Create games using Python-based frameworks.
-                                </li>
-                                <li>
-                                    <b> Embedded Systems Engineer –</b>Develop applications for IoT and hardware
-                                    devices.
-                                </li>
-                            </ul>
-                            <p>Python's flexibility makes it valuable across industries like finance, healthcare,
-                                technology, and e-commerce, providing a strong career path.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header ">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                            <span class="fw-semibold"> Why is Python so popular as the first programming
-                                language?</span>
-                        </button>
-                    </h2>
-                    <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
-                        <div class="accordion-body">
-                            <p>Python is widely regarded as a beginner programming language due to its simplicity and
-                                ease of learning. Here’s why beginners prefer Python:</p>
-                            <ul>
-                                <li><b>Simple and Readable Syntax – </b>Python uses clear and human-friendly syntax,
-                                    making it easier to understand and write code.</li>
-                                <li><b>Minimal Setup Required – </b>
-                                    It runs on multiple platforms with an easy installation process.
-                                </li>
-                                <li>
-                                    <b>Versatile and Beginner-Friendly – </b>Python can be used for various
-                                    applications, including web development, data science, and automation.
-                                </li>
-                                <li> <b>Strong Community Support –</b>
-                                    A large community provides extensive learning resources, tutorials, and support.
-                                </li>
-                                <li> <b>Industry Demand – </b>
-                                    Python skills are highly valued in tech careers, making it a great choice for future
-                                    job opportunities.
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
-                            <span class="fw-semibold"> What should I learn before I start with Python?</span>
-                        </button>
-                    </h2>
-                    <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
-                        <div class="accordion-body">
-                            <p>Python is beginner-friendly, and you don’t need any prior programming experience to start
-                                learning. However, having a basic understanding of the following concepts can be
-                                helpful:</p>
-                            <ul>
-                                <li>
-                                    <b>Basic Computer Skills –</b> Familiarity with using a computer, file management,
-                                    and installing software.
-                                </li>
-                                <li><b>Logical Thinking & Problem-Solving –</b> Understanding how to break problems into
-                                    steps will help in coding.</li>
-                                <li><b>Fundamentals of Mathematics – </b> Basic arithmetic and logical operations can be
-                                    useful.</li>
-                                <li><b>Understanding of Algorithms (Optional) –</b> Knowing simple problem-solving
-                                    techniques can be an advantage.</li>
-                            </ul>
-
-                            <p>Even if you’re a complete beginner, Python’s simple syntax and vast learning resources
-                                make it easy to start programming from scratch</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- faq section end -->
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->

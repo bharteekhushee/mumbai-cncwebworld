@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP Training in Mumbai - Learn PHP with CNC Web World</title>
+    <meta name="description" content="Enroll in CNC Web World's Angular Course in Mumbai. Gain practical skills and advance your front-end development career!"/>
+    <meta name="keywords" content="angular classes in navi Mumbai, angular course in Mumbai, angular training in Mumbai,angular classes in mumbai"/>
+    <title>Angular Training in Mumbai by CNC Web World - Enroll Today</title>
     <?php include 'common/headerlink.php' ?>
-    <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
+     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
-
 <body class="body">
     <!-- top header start -->
     <?php include 'common/topheader.php' ?>
@@ -24,8 +24,8 @@
         <div class="container-lg">
             <div class="row py-5">
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
-                    <img src="./assets/img/php.png" width="60px" alt="">
-                    <h1 class="pe-lg-5">Php Intensive Training Program</h1>
+                    <img src="./assets/img/angular big.png" width="60px" alt="">
+                    <h1>Angular Js Intensive Training Program</h1>
                     <h3 class="fw-semibold"><i>100% Job Oriented Course</i></h3>
                     <div class="row">
                         <div class="col-4 ">
@@ -68,11 +68,11 @@
         </div>
     </section>
     <!-- banner end -->
-    <!-- why-pytho start -->
+    <!-- why-python start -->
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
-                <h2 class="fw-bold mb-4 text-center">Why <span class="blue">php?</span></h2>
+                <h2 class="fw-bold mb-4 text-center">Why <span class="blue">Angular Js Development?</span></h2>
             </div>
             <div class="row ">
                 <div class="col-lg-6 ">
@@ -105,23 +105,23 @@
             </div>
         </div>
     </section>
-    <!-- why-pytho end -->
+    <!-- why-python end -->
     <!-- roadmap-image start -->
     <div class="container  mt-5 mb-3">
         <div class="row mx-3 mx-md-0 mt-5 mb-3 pt-4 rounded" style="box-shadow: rgba(0, 0, 0, 0.5) 0px 4px 24px;">
-            <img src="./assets/img/roadmap-php.png" alt="" class="img-fluid">
+            <img src="./assets/img/roadmap-angular-js.png" alt="" class="img-fluid">
         </div>
     </div>
     <!-- roadmap-image end -->
-    <!-- whoCanJoin start -->
-    <?php include 'common/whoCanJoin.php' ?>
+     <!-- whoCanJoin start -->
+     <?php include 'common/whoCanJoin.php' ?>
     <!-- WhoCanJoin end -->
     <!-- courseDetails section start -->
     <section id="courseDetail">
         <div class="container-lg">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h2 class="fw-bold mb-4 text-white">Php Development Curriculum</h2>
+                    <h2 class="fw-bold mb-4 text-white">Angular Js Developer Curriculum</h2>
                 </div>
             </div>
         </div>
@@ -171,36 +171,39 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#php" aria-expanded="true" aria-controls="php">
-                                    Php
+                                    data-bs-target="#webDesign" aria-expanded="true" aria-controls="webDesign">
+                                    Web Design
                                     <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
-                                        style="font-size: 12px;">#Backend</span>
+                                        style="font-size: 12px;">#Frontend</span>
                                     <span class="ms-auto">
                                         <img src="./assets/img/clock.svg" alt="">
-                                        6 Weeks
+                                        4 Weeks
                                     </span>
                                 </button>
                             </h2>
-                            <div id="php" class="accordion-collapse collapse show"
+                            <div id="webDesign" class="accordion-collapse collapse show"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                <div class="row">
+                                    <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
-                                                <li>ntroduction to PHP & Web Development</li>
-                                                <li>PHP Syntax, Variables & Data Types</li>
-                                                <li>Functions & Arrays in PHP</li>
-                                                <li>Control Structures (Loops & Conditions)</li>
-                                                <li>Form Handling & Validation</li>
-                                              </ul>
+                                                <li>Weaving the World Wide Web</li>
+                                                <li>Text Formatting tags</li>
+                                                <li>HTML structures</li>
+                                                <li>Transformers of the Web (CSS)</li>
+                                                <li>Unlocking creative toolbox (CSS Properties)</li>
+                                                <li>Responsive Utilities</li>
+                                                <li>Bootstrap</li>
+                                            </ul>
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                                <li>PHP Sessions & Cookies</li>
-                                                <li>File Handling in PHP</li>
-                                                <li>PHP & MySQL (CRUD Operations)</li>
-                                                <li>Object-Oriented Programming (OOP) in PHP</li>
-                                                <li>Error Handling & Debugging in PHP</li>
+                                                <li>Introduction to Javascript</li>
+                                                <li>Conditional and Control Statements</li>
+                                                <li>Javascript Function</li>
+                                                <li>Javascript Objects</li>
+                                                <li>Document Object Model</li>
+                                                <li> Modern Javascript</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -210,81 +213,38 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#sql" aria-expanded="false" aria-controls="sql">
-                                    SQL
+                                    data-bs-target="#angular" aria-expanded="false" aria-controls="angular">
+                                    Angular
                                     <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
-                                        style="font-size: 12px;">#Database</span>
+                                        style="font-size: 12px;">#Frontend</span>
                                     <span class="ms-auto">
                                         <img src="./assets/img/clock.svg" alt="">
                                         4 Weeks
                                     </span>
                                 </button>
                             </h2>
-                            <div id="sql" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div id="angular" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
-                                                <li>Introduction to Computer Essentials</li>
-                                                <li>Computational Thinking</li>
-                                                <li>Coding Construct</li>
-                                                <li>SQL Launchpad</li>
-                                                <li>Crafting SQL Databases (DDL)</li>
-                                                <li>ER Diagram and Normalization</li>
-                                                <li>Querying into Data (DQL)</li>
-                                                <li>Mastering Data Control (DML)</li>
+                                                <li>Introduction to ReactJS</li>
+                                                <li>Component, Props and State</li>
+                                                <li>Displaying Components</li>
+                                                <li>Handling Side-Effects</li>
+                                                <li>React Router (v6)</li>
+                                                <li> Handling Forms in React</li>
                                             </ul>
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                                <li>Unlock the Built in Functions</li>
-                                                <li>Subquery</li>
-                                                <li>Connecting Data for Insights (Joins)</li>
-                                                <li>Views</li>
-                                                <li>Customising SQL (Stored Procedure & Functions)</li>
-                                                <li>Cursor</li>
-                                                <li>Automating SQL (Triggers)</li>
+                                                <li>Github Card List App</li>
+                                                <li>JSX</li>
+                                                <li>React Context & Reducers</li>
+                                                <li>Handline Errors in React</li>
+                                                <li>Testing in React</li>
+                                                <li>React Building & Deployment - Vercel/Netlify</li>
                                             </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#code" aria-expanded="false" aria-controls="code">
-                                    CodeIgniter (CI)
-                                    <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
-                                        style="font-size: 12px;">#Backend</span>
-                                    <span class="ms-auto">
-                                        <img src="./assets/img/clock.svg" alt="">
-                                        4 Weeks
-                                    </span>
-                                </button>
-                            </h2>
-                            <div id="code" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <div class="row">
-                                        <div class="col-sm-6">
-                                            <ul>
-                                                <li>Introduction to CodeIgniter & MVC Architecture</li>
-                                                <li>Installation & Configuration of CI</li>
-                                                <li>CodeIgniter Routing & Controllers</li>
-                                                <li>Views & Template Engine in CodeIgniter</li>
-                                                <li>Form Handling & Validation in CI</li>
-                                                <li>Working with Models & Database Integration</li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-sm-6">
-                                            <ul>
-                                                <li>Working with Sessions & Cookies in CI</li>
-                                                <li>CodeIgniter Helpers & Libraries</li>
-                                                <li>Authentication & User Management in CI</li>
-                                                <li>RESTful APIs in CodeIgniter</li>
-                                                <li>Security & Performance Optimization in CI</li>
-                                                <li>Deployment of CodeIgniter Applications</li>
-                                        </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -530,7 +490,7 @@
     <!-- keyHighlights section end -->
 
     <!-- benefits  section start -->
-    <!-- <?php include 'common/benefits.php' ?> -->
+    <?php include 'common/benefits.php' ?>
     <!-- benefits  section end -->
     <!-- brochure section start -->
     <?php include 'common/download.php' ?>
@@ -540,26 +500,14 @@
         <div class="container py-5 px-4 px-md-0">
             <div class="row">
                 <div class="col-12 text-center my-3">
-                    <h2 class="fw-bolder">Programming Languages & Tools Covered in Php Developer Course
+                    <h2 class="fw-bolder">Programming Languages & Tools Covered in Angular Js Developer Course
                     </h2>
                 </div>
-                <!-- <div class="col-12 mx-auto text-center">
-                    <img src="./assets/img/html.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/css.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/js.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/boostrap.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/react.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/mongodb.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/angular.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/python.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/django.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/mysql.webp"class="img-fluid" alt="">
-                </div> -->
             </div>
             <div class="row">
-                <div class="col-12 rounded-4 border py-3 px-4 bg-white shadow">
-                    <div class="row text-center row-cols-lg-6 row-cols-md-3 row-cols-sm-3 row-cols-2  mx-auto">
-                        <!-- <div class="col">
+                <div class="col-12 rounded-4 py-3 px-4 bg-white shadow" >
+                    <div class="row text-center row-cols-lg-6 row-cols-md-4 row-cols-sm-3 row-cols-2  mx-auto">
+                        <div class="col">
                             <img src="./assets/img/HTML-b.svg" alt="" class="img-fluid">
                         </div>
                         <div class="col">
@@ -575,19 +523,10 @@
                             <img src="./assets/img/tailwind-css-b.svg" alt="" class="img-fluid">
                         </div>
                         <div class="col">
-                            <img src="./assets/img/React-b.svg" alt="" class="img-fluid">
+                            <img src="./assets/img/github.png" alt="" class="img-fluid">
                         </div>
                         <div class="col">
                             <img src="./assets/img/angular big.png" alt="" class="img-fluid">
-                        </div> -->
-                        <div class="col">
-                            <img src="./assets/img/php.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="col">
-                            <img src="./assets/img/mysql.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="col">
-                            <img src="./assets/img/codeIgniter.png" alt="" class="img-fluid">
                         </div>
                         <div class="col">
                             <img src="./assets/img/aws.png" alt="" class="img-fluid">
@@ -661,5 +600,4 @@
         });
     </script>
 </body>
-
 </html>

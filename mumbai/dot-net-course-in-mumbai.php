@@ -4,6 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Discover Mumbai's leading DOT NET institute! Gain practical skills, expert knowledge, and advance your tech career with our top-notch training."/>
+    <meta name="keywords" content="dot net course in Mumbai, dot net institute in Mumbai, dot net course fees in Mumbai, dot net training institute in Mumbai, dotnet institute in mumbai"/>
     <title>Top DOT NET Course in Mumbai: Learn and Succeed!</title>
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
@@ -68,7 +70,7 @@
         </div>
     </section>
     <!-- banner end -->
-    <!-- why-pytho start -->
+    <!-- why-python start -->
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
@@ -105,11 +107,11 @@
             </div>
         </div>
     </section>
-    <!-- why-pytho end -->
+    <!-- why-python end -->
     <!-- roadmap-image start -->
     <div class="container  mt-5 mb-3">
         <div class="row mx-3 mx-md-0 mt-5 mb-3 pt-4 rounded" style="box-shadow: rgba(0, 0, 0, 0.5) 0px 4px 24px;">
-            <img src="./assets/img/roadmap-java.png" alt="" class="img-fluid">
+            <img src="./assets/img/roadmap-dotnet.png" alt="" class="img-fluid">
         </div>
     </div>
     <!-- roadmap-image end -->

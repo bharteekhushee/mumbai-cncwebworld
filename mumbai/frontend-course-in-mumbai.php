@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Python Full stack Course in Mumbai - Learn with CNC Web World</title>
+    <title>Frontend Course in Mumbai - Learn with CNC Web World</title>
     <?php include 'common/headerlink.php' ?>
      <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
@@ -66,7 +66,7 @@
         </div>
     </section>
     <!-- banner end -->
-    <!-- why-pytho start -->
+    <!-- why-python start -->
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
@@ -103,7 +103,7 @@
             </div>
         </div>
     </section>
-    <!-- why-pytho end -->
+    <!-- why-python end -->
     <!-- roadmap-image start -->
     <div class="container  mt-5 mb-3">
         <div class="row mx-3 mx-md-0 mt-5 mb-3 pt-4 rounded" style="box-shadow: rgba(0, 0, 0, 0.5) 0px 4px 24px;">

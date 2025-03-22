@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Get Expert MERN Stack Training in Mumbai at CNC Web World</title>
+    <meta name="description" content="CNC Web World’s React JS Course in Mumbai offers expert training and hands-on practice. Learn React JS effectively and boost your web development skills!"/>
+    <meta name="keywords" content="Best react js training and placement in Mumbai, React js training and placement in mumbai fees, ReactJS Certificate Courses in Mumbai, ReactJS Classes in Mumbai, React JS Training in Mumbai, React JS course in Mumbai, Best reactjs certificate courses in Mumbai, Reactjs certificate courses in mumbai for freshers"/>
+    <title>React JS Training in Mumbai - Learn with CNC Web World</title>
     <?php include 'common/headerlink.php' ?>
-    <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
+     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
-
 <body class="body">
     <!-- top header start -->
     <?php include 'common/topheader.php' ?>
@@ -24,8 +24,8 @@
         <div class="container-lg">
             <div class="row py-5">
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
-                    <img src="./assets/img/mern.svg" width="60px" alt="">
-                    <h1 class="pe-5">Mern Stack Intensive Training Program</h1>
+                    <img src="./assets/img/React-b.svg" width="60px" alt="">
+                    <h1>React Js Intensive Training Program</h1>
                     <h3 class="fw-semibold"><i>100% Job Oriented Course</i></h3>
                     <div class="row">
                         <div class="col-4 ">
@@ -68,11 +68,11 @@
         </div>
     </section>
     <!-- banner end -->
-    <!-- why-pytho start -->
+    <!-- why-python start -->
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
-                <h2 class="fw-bold mb-4 text-center">What is <span class="blue">Mern Stack?</span></h2>
+                <h2 class="fw-bold mb-4 text-center">Why <span class="blue">React Js Development?</span></h2>
             </div>
             <div class="row ">
                 <div class="col-lg-6 ">
@@ -105,23 +105,23 @@
             </div>
         </div>
     </section>
-    <!-- why-pytho end -->
+    <!-- why-python end -->
     <!-- roadmap-image start -->
     <div class="container  mt-5 mb-3">
         <div class="row mx-3 mx-md-0 mt-5 mb-3 pt-4 rounded" style="box-shadow: rgba(0, 0, 0, 0.5) 0px 4px 24px;">
-            <img src="./assets/img/roadmap-mern-fullstack.png" alt="" class="img-fluid">
+            <img src="./assets/img/roadmap-react-js.png" alt="" class="img-fluid">
         </div>
     </div>
     <!-- roadmap-image end -->
-    <!-- whoCanJoin start -->
-    <?php include 'common/whoCanJoin.php' ?>
+     <!-- whoCanJoin start -->
+     <?php include 'common/whoCanJoin.php' ?>
     <!-- WhoCanJoin end -->
     <!-- courseDetails section start -->
     <section id="courseDetail">
         <div class="container-lg">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h2 class="fw-bold mb-4 text-white">Mern Stack Developer Curriculum</h2>
+                    <h2 class="fw-bold mb-4 text-white">React Js Developer Curriculum</h2>
                 </div>
             </div>
         </div>
@@ -253,118 +253,6 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#node" aria-expanded="false" aria-controls="node">
-                                    Node Js
-                                    <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
-                                        style="font-size: 12px;">#Backend</span>
-                                    <span class="ms-auto">
-                                        <img src="./assets/img/clock.svg" alt="">
-                                        2 Weeks
-                                    </span>
-                                </button>
-                            </h2>
-                            <div id="node" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <div class="row">
-                                        <div class="col-sm-6">
-                                            <ul>
-                                                <li>Introduction to Node.js & Its Architecture</li>
-                                                <li>Setting Up Node.js Environment</li>
-                                                <li> Asynchronous Programming & Event Loop</li>
-                                                <li>Node.js Modules & NPM Packages</li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-sm-6">
-                                            <ul>
-                                                <li>File System & Streams in Node.js</li>
-                                                <li>Working with HTTP & HTTPS Modules</li>
-                                                <li>Building CLI Applications with Node.js</li>
-                                                <li>Introduction to Web Frameworks (Express.js)</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#express" aria-expanded="false" aria-controls="express">
-                                    Express Js
-                                    <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
-                                        style="font-size: 12px;">#Backend</span>
-                                    <span class="ms-auto">
-                                        <img src="./assets/img/clock.svg" alt="">
-                                        3 Weeks
-                                    </span>
-                                </button>
-                            </h2>
-                            <div id="express" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <div class="row">
-                                        <div class="col-sm-6">
-                                            <ul>
-                                                <li>Introduction to Express.js & Its Features</li>
-                                                <li>Setting Up Express.js Project</li>
-                                                <li>Routing & Middleware in Express.js</li>
-                                                <li>Handling Requests & Responses</li>
-                                                <li>Template Engines (EJS, Handlebars, Pug)</li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-sm-6">
-                                            <ul>
-                                                <li>Authentication & Authorization (JWT, OAuth)</li>
-                                                <li>RESTful API Development with Express.js</li>
-                                                <li>Error Handling & Logging in Express.js</li>
-                                                <li>WebSockets & Real-time Communication (Socket.io)</li>
-                                                <li> Deploying Express.js Applications</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#mangodb" aria-expanded="false" aria-controls="mangodb">
-                                    MangoDB
-                                    <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
-                                        style="font-size: 12px;">#Database</span>
-                                    <span class="ms-auto">
-                                        <img src="./assets/img/clock.svg" alt="">
-                                        1 Week
-                                    </span>
-                                </button>
-                            </h2>
-                            <div id="mangodb" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <div class="row">
-                                        <div class="col-sm-6">
-                                            <ul>
-                                                <li>Introduction to NoSQL & MongoDB</li>
-                                                <li>Installing & Setting Up MongoDB</li>
-                                                <li>CRUD Operations in MongoDB</li>
-                                                <li>Indexing & Aggregation Framework</li>
-                                                <li>MongoDB Data Models (Documents, Collections)</li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-sm-6">
-                                            <ul>
-                                                <li>MongoDB Schema Design & Relationships</li>
-                                                <li>Mongoose ODM (Object Data Modeling)</li>
-                                                <li>Authentication & Security in MongoDB</li>
-                                                <li>Replication & Sharding in MongoDB</li>
-                                                <li>MongoDB with Node.js & Express.js</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#aws" aria-expanded="false" aria-controls="aws">
                                     AWS CI/CD
                                     <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
@@ -377,7 +265,7 @@
                             </h2>
                             <div id="aws" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    <div class="row">
+                                <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Introduction to CI/CD and DevOps</li>
@@ -387,14 +275,13 @@
                                                 <li>AWS CodeDeploy: Automated Deployments</li>
                                                 <li>AWS Elastic Beanstalk for CI/CD</li>
                                                 <li>AWS CodePipeline: CI/CD Workflow Automation</li>
-
+                                                
                                             </ul>
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Docker and AWS CI/CD Integration</li>
-                                                <li>Infrastructure as Code (IaC) with AWS CloudFormation & Terraform
-                                                </li>
+                                                <li>Infrastructure as Code (IaC) with AWS CloudFormation & Terraform</li>
                                                 <li>AWS Lambda and Serverless CI/CD</li>
                                                 <li>Monitoring & Logging in AWS CI/CD (CloudWatch, CloudTrail)</li>
                                                 <li>Security Best Practices in AWS CI/CD</li>
@@ -421,7 +308,7 @@
                             </h2>
                             <div id="docker" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    <div class="row">
+                                <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Introduction to Docker</li>
@@ -435,13 +322,13 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                                <li>Docker Volumes and Persistent Storage</li>
-                                                <li>Docker Swarm: Container Orchestration </li>
-                                                <li>Docker Security Best Practices</li>
-                                                <li>Monitoring and Logging in Docker</li>
-                                                <li>CI/CD Integration with Docker</li>
-                                                <li>Deploying Applications with Docker</li>
-                                                <li>Docker in Cloud Environments (AWS, Azure)</li>
+                                               <li>Docker Volumes and Persistent Storage</li>
+                                               <li>Docker Swarm: Container Orchestration </li>
+                                               <li>Docker Security Best Practices</li>
+                                               <li>Monitoring and Logging in Docker</li>
+                                               <li>CI/CD Integration with Docker</li>
+                                               <li>Deploying Applications with Docker</li>
+                                               <li>Docker in Cloud Environments (AWS, Azure)</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -463,12 +350,11 @@
                             </h2>
                             <div id="testing" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    <div class="row">
+                                <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Introduction to Software Testing</li>
-                                                <li>Software Development Life Cycle (SDLC) & Testing Life Cycle (STLC)
-                                                </li>
+                                                <li>Software Development Life Cycle (SDLC) & Testing Life Cycle (STLC)</li>
                                                 <li>Types of Software Testing</li>
                                                 <li>Functional Testing & Non-Functional Testing</li>
                                                 <li>Black Box vs. White Box Testing</li>
@@ -477,14 +363,14 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                                <li>Usability & Accessibility Testing</li>
-                                                <li>Defect Life Cycle & Bug Reporting</li>
-                                                <li>Test Management Tools (JIRA.)</li>
+                                            <li>Usability & Accessibility Testing</li>
+                                               <li>Defect Life Cycle & Bug Reporting</li>
+                                                <li>Test Management Tools (JIRA.)</li> 
                                                 <li>Agile Testing & Scrum Methodology</li>
-                                                <li>User Acceptance Testing (UAT)</li>
-                                                <li>API Testing</li>
-                                                <li>Performance & Security Testing Concepts</li>
-                                            </ul>
+                                                <li>User Acceptance Testing (UAT)</li> 
+                                                <li>API Testing</li>                                         
+                                                <li>Performance & Security Testing Concepts</li>      
+                                             </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -614,24 +500,12 @@
         <div class="container py-5 px-4 px-md-0">
             <div class="row">
                 <div class="col-12 text-center my-3">
-                    <h2 class="fw-bolder">Programming Languages & Tools Covered in Mern Stack Developer Course
+                    <h2 class="fw-bolder">Programming Languages & Tools Covered in React Js Developer Course
                     </h2>
                 </div>
-                <!-- <div class="col-12 mx-auto text-center">
-                    <img src="./assets/img/html.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/css.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/js.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/boostrap.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/react.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/mongodb.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/angular.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/python.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/django.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/mysql.webp"class="img-fluid" alt="">
-                </div> -->
             </div>
             <div class="row">
-                <div class="col-12 rounded-4 border py-3 px-4 bg-white shadow">
+                <div class="col-12 rounded-4 py-3 px-4 bg-white shadow" >
                     <div class="row text-center row-cols-lg-6 row-cols-md-4 row-cols-sm-3 row-cols-2  mx-auto">
                         <div class="col">
                             <img src="./assets/img/HTML-b.svg" alt="" class="img-fluid">
@@ -649,16 +523,10 @@
                             <img src="./assets/img/tailwind-css-b.svg" alt="" class="img-fluid">
                         </div>
                         <div class="col">
+                            <img src="./assets/img/github.png" alt="" class="img-fluid">
+                        </div>
+                        <div class="col">
                             <img src="./assets/img/React-b.svg" alt="" class="img-fluid">
-                        </div>
-                        <div class="col">
-                            <img src="./assets/img/nodejs.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="col">
-                            <img src="./assets/img/express-js.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="col">
-                            <img src="./assets/img/mongodb-b.svg" alt="" class="img-fluid">
                         </div>
                         <div class="col">
                             <img src="./assets/img/aws.png" alt="" class="img-fluid">
@@ -732,5 +600,4 @@
         });
     </script>
 </body>
-
 </html>

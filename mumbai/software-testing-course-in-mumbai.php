@@ -3,6 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="CNC Web World’s Software Testing Course in Navi Mumbai provides hands-on training and career support. Learn essential skills and start your path to success!">
+    <meta name="description" content="software testing course in Mumbai, software testing course in mumbai with job guarantee, software testing certification course in Mumbai, software testing course in navi Mumbai, software testing course fees in Mumbai, software testing course in mumbai with course fees, best software testing course in mumbai">
     <title>Join CNC Web World's Software Testing Course in Mumbai</title>
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
@@ -67,7 +69,7 @@
         </div>
     </section>
     <!-- banner end -->
-    <!-- why-pytho start -->
+    <!-- why-python start -->
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
@@ -104,7 +106,7 @@
             </div>
         </div>
     </section>
-    <!-- why-pytho end -->
+    <!-- why-python end -->
     <!-- roadmap-image start -->
     <div class="container  mt-5 mb-3">
         <div class="row mx-3 mx-md-0 mt-5 mb-3 pt-4 rounded" style="box-shadow: rgba(0, 0, 0, 0.5) 0px 4px 24px;">

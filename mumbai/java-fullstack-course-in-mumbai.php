@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Learn Java Full stack Easily - Best Java Course in Mumbai | CNC Web World</title>
     <?php include 'common/headerlink.php' ?>
-     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
+    <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
+
 <body class="body">
     <!-- top header start -->
     <?php include 'common/topheader.php' ?>
@@ -66,11 +68,12 @@
         </div>
     </section>
     <!-- banner end -->
-    <!-- why-pytho start -->
+    <!-- why-python start -->
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
-                <h2 class="fw-bold mb-4 text-center">Why <span class="blue">Java?</span></h2>
+                <h2 class="fw-bold mb-4 text-center">Java Full Stack Developer Course in Mumbai – <span class="blue">CNC
+                        WEB WORLD </span></h2>
             </div>
             <div class="row ">
                 <div class="col-lg-6 ">
@@ -79,21 +82,20 @@
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center ">
                     <p>
-                        <b>CNC WEB WORLD </b> offers a <b>Python Course in Mumbai</b> to teach students how to use
-                        Python, a widely used programming language, for many different purposes. Python has the
-                        flexibility to work in web development, data analysis, machine learning scientific computing,
-                        and other areas.
+                        Are you ready to build a rewarding career as a <b>Java Full Stack Developer</b>? <b>CNC WEB
+                            WORLD</b> brings you the most comprehensive and industry-focused <b>Java Full Stack
+                            Developer Course in Mumbai</b>, designed to equip students with the most in-demand
+                        programming and development skills. Whether you are a fresh graduate or a working professional
+                        looking to switch your career path, our <b>Full Stack Java Developer</b> program offers the
+                        ideal training pathway to become a highly skilled developer.
                     </p>
-                    <p>
-                        A standard <b>Python course</b> covers Python syntax, data types, functions, control structures,
-                        object-oriented programming, file input/output, libraries and frameworks, web development, data
-                        analysis and visualization, and machine learning. The python classes in mumbai aims to give
-                        hands-on experience, with practical exercises and projects to strengthen understanding.
-                    </p>
-                    <p> The <b>Python Classes in Mumbai</b> includes tools and frameworks like NumPy, Pandas,
-                        Matplotlib, Flask, Django, TensorFlow, and PyTorch. These tools help to manage data, create
-                        visual representations, build web applications, and put machine learning algorithms into
-                        practice.
+                    <h6 class="fw-bold">What is Java Full Stack Development?</h6>
+                    <p> <b>Java Full Stack Development</b> refers to the ability to develop both the front-end and
+                        back-end of a web application using Java technologies. A <b>Full Stack Developer with Java</b>
+                        is proficient in building robust user interfaces, integrating dynamic databases, creating APIs,
+                        and deploying scalable backend systems. This role combines knowledge of UI/UX design, database
+                        management, server-side scripting, and deployment practices — making it one of the most
+                        versatile and sought-after skill sets in today’s tech-driven industry.
                     </p>
                 </div>
             </div>
@@ -103,7 +105,7 @@
             </div>
         </div>
     </section>
-    <!-- why-pytho end -->
+    <!-- why-python end -->
     <!-- roadmap-image start -->
     <div class="container  mt-5 mb-3">
         <div class="row mx-3 mx-md-0 mt-5 mb-3 pt-4 rounded" style="box-shadow: rgba(0, 0, 0, 0.5) 0px 4px 24px;">
@@ -111,9 +113,91 @@
         </div>
     </div>
     <!-- roadmap-image end -->
-     <!-- whoCanJoin start -->
-     <?php include 'common/whoCanJoin.php' ?>
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold">Why Choose CNC WEB WORLD for Java Developer Training?</h4>
+            <p>At <b>CNC WEB WORLD</b>, we understand the ever-evolving needs of the IT industry. Our <b>Java Developer
+                    Training in Mumbai</b> has been meticulously crafted by industry professionals to deliver practical
+                knowledge and hands-on experience. We focus on building your core coding skills while also sharpening
+                your logical thinking and real-world project implementation..</p>
+            <p>Key Highlights of Our Java Full Stack Developer Course:</p>
+            <ul type='none'>
+                <li>✅ Industry-Centric Curriculum</li>
+                <li>✅ Expert Trainers with Real-Time Project Experience</li>
+                <li>✅ Live Projects and Practical Assignments</li>
+                <li>✅ 100% Job Placement Assistance</li>
+                <li>✅ Interview Preparation & Resume Building Support</li>
+                <li>✅ Flexible Batch Timings & Weekend Classes</li>
+                <li>✅ Offline Tests & Certification</li>
+                <li>✅ One-to-One Mentoring Sessions</li>
+            </ul>
+            <h4 class="fw-bold">Who Can Join Our Java Full Stack Developer Training?</h4>
+            <p>Whether you’re a beginner or an experienced developer, <b>CNC WEB WORLD’s Java Developer Training in
+                    Mumbai</b> is suitable for:</p>
+            <ul type='none'>
+                <li>✅ IT Graduates & Freshers</li>
+                <li>✅ Professionals looking to upgrade their development skills</li>
+                <li>✅ Working Developers aiming for Full Stack roles</li>
+                <li>✅ Candidates switching careers into software development</li>
+            </ul>
+            <p>No prior coding experience is necessary — our structured learning path makes it easy for anyone to get
+                started!</p>
+        </div>
+    </div>
+    <!-- course-content end -->
+    <!-- whoCanJoin start -->
+    <?php include 'common/whoCanJoin.php' ?>
     <!-- WhoCanJoin end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold">Skills and Knowledge You’ll Acquire in Our Java Full Stack Course</h4>
+            <p>Our Full Stack Java Developer course offers a holistic approach to learning software development,
+                ensuring you master both front-end and back-end technologies. Below is an overview of what our Java Full
+                Stack syllabus covers:</p>
+            <h6 class="fw-bold">Core Java Fundamentals</h6>
+            <ul>
+                <li>Java Syntax, Data Types, Loops, and Control Structures</li>
+                <li>Object-Oriented Programming (OOPs) Concepts</li>
+                <li>Exception Handling and File Handling</li>
+                <li>Java Collections Framework</li>
+                <li>Multithreading and JDBC (Java Database Connectivity)</li>
+            </ul>
+            <h6 class="fw-bold">Front-End Development</h6>
+            <ul>
+                <li>HTML5, CSS3, JavaScript</li>
+                <li>Responsive Web Design using Bootstrap</li>
+                <li>DOM Manipulation & AJAX</li>
+                <li>Introduction to React.js or Angular (based on batch preference)</li>
+            </ul>
+            <h6 class="fw-bold"> Back-End Development with Java</h6>
+            <ul>
+                <li>Servlets and JSP (Java Server Pages)</li>
+                <li>MVC Architecture</li>
+                <li>JDBC and Hibernate Framework</li>
+                <li>Spring Framework Components: Core, Boot, and MVC Modules</li>
+                <li>RESTful Web Services API Integration</li>
+            </ul>
+            <h6 class="fw-bold">Database Management</h6>
+            <ul>
+                <li>SQL Fundamentals and Database Design</li>
+                <li>MySQL / PostgreSQL</li>
+                <li>CRUD Operations and Data Modeling</li>
+            </ul>
+            <h6 class="fw-bold">Version Control & Deployment</h6>
+            <ul>
+                <li>Git and GitHub for Version Control</li>
+                <li>Maven for Project Management</li>
+                <li>Deployment on Apache Tomcat / Cloud Platforms</li>
+            </ul>
+            <h6 class="fw-bold">Real-Time Projects</h6>
+            <p>Our <b>Java Full Stack Developer Training</b> includes live industry projects to provide you with
+                real-time experience. You’ll work on end-to-end application development — from frontend UI creation to
+                backend integration and final deployment.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- courseDetails section start -->
     <section id="courseDetail">
         <div class="container-lg">
@@ -328,7 +412,7 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                               
+
                                                 <li>Java Database Connectivity (JDBC):
                                                     <ul>
                                                         <li>JDBC Architecture</li>
@@ -338,7 +422,7 @@
                                                         <li>Enterprise JavaBeans (EJB)</li>
                                                     </ul>
                                                 </li>
-                                                
+
                                                 <li>JavaServer Pages (JSP):
                                                     <ul>
                                                         <li>JSP Lifecycle</li>
@@ -525,7 +609,7 @@
                             </h2>
                             <div id="aws" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                <div class="row">
+                                    <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Introduction to CI/CD and DevOps</li>
@@ -535,13 +619,14 @@
                                                 <li>AWS CodeDeploy: Automated Deployments</li>
                                                 <li>AWS Elastic Beanstalk for CI/CD</li>
                                                 <li>AWS CodePipeline: CI/CD Workflow Automation</li>
-                                                
+
                                             </ul>
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Docker and AWS CI/CD Integration</li>
-                                                <li>Infrastructure as Code (IaC) with AWS CloudFormation & Terraform</li>
+                                                <li>Infrastructure as Code (IaC) with AWS CloudFormation & Terraform
+                                                </li>
                                                 <li>AWS Lambda and Serverless CI/CD</li>
                                                 <li>Monitoring & Logging in AWS CI/CD (CloudWatch, CloudTrail)</li>
                                                 <li>Security Best Practices in AWS CI/CD</li>
@@ -568,7 +653,7 @@
                             </h2>
                             <div id="docker" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                <div class="row">
+                                    <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Introduction to Docker</li>
@@ -582,13 +667,13 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                               <li>Docker Volumes and Persistent Storage</li>
-                                               <li>Docker Swarm: Container Orchestration </li>
-                                               <li>Docker Security Best Practices</li>
-                                               <li>Monitoring and Logging in Docker</li>
-                                               <li>CI/CD Integration with Docker</li>
-                                               <li>Deploying Applications with Docker</li>
-                                               <li>Docker in Cloud Environments (AWS, Azure)</li>
+                                                <li>Docker Volumes and Persistent Storage</li>
+                                                <li>Docker Swarm: Container Orchestration </li>
+                                                <li>Docker Security Best Practices</li>
+                                                <li>Monitoring and Logging in Docker</li>
+                                                <li>CI/CD Integration with Docker</li>
+                                                <li>Deploying Applications with Docker</li>
+                                                <li>Docker in Cloud Environments (AWS, Azure)</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -610,11 +695,12 @@
                             </h2>
                             <div id="testing" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                <div class="row">
+                                    <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Introduction to Software Testing</li>
-                                                <li>Software Development Life Cycle (SDLC) & Testing Life Cycle (STLC)</li>
+                                                <li>Software Development Life Cycle (SDLC) & Testing Life Cycle (STLC)
+                                                </li>
                                                 <li>Types of Software Testing</li>
                                                 <li>Functional Testing & Non-Functional Testing</li>
                                                 <li>Black Box vs. White Box Testing</li>
@@ -623,14 +709,14 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                            <li>Usability & Accessibility Testing</li>
-                                               <li>Defect Life Cycle & Bug Reporting</li>
-                                                <li>Test Management Tools (JIRA.)</li> 
+                                                <li>Usability & Accessibility Testing</li>
+                                                <li>Defect Life Cycle & Bug Reporting</li>
+                                                <li>Test Management Tools (JIRA.)</li>
                                                 <li>Agile Testing & Scrum Methodology</li>
-                                                <li>User Acceptance Testing (UAT)</li> 
-                                                <li>API Testing</li>                                         
-                                                <li>Performance & Security Testing Concepts</li>      
-                                             </ul>
+                                                <li>User Acceptance Testing (UAT)</li>
+                                                <li>API Testing</li>
+                                                <li>Performance & Security Testing Concepts</li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -642,6 +728,28 @@
         </div>
     </section>
     <!-- courseDetails section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold">Java Full Stack Developer Career Opportunities</h4>
+            <p>With the rise in digital transformation across industries, <b>Full Stack Developers with Java </b> skills
+                are in high demand. After completing our <b>Java Full Stack Developer Course</b>, you can confidently
+                apply for job roles such as:</p>
+            <ul>
+                <li>Java Full Stack Developer</li>
+                <li>Full Stack Java Developer</li>
+                <li>Backend Java Developer</li>
+                <li>Web Application Developer</li>
+                <li>Software Engineer</li>
+                <li>Java Programmer Analyst</li>
+                <li>Java Application Support Engineer</li>
+                <li>Software Development Engineer (SDE)</li>
+            </ul>
+            <p>From startups to MNCs, every organization is looking for developers who can manage <b>full-stack
+                    development independently</b> — making this one of the most lucrative career paths.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- industryProject  section start -->
     <section id="industryProject">
         <div class="container-fluid py-5 px-2 px-md-5">
@@ -745,6 +853,27 @@
         </div>
     </section>
     <!-- industryProject  section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold">Java Full Stack Course with Placement in Mumbai</h4>
+            <p><b>CNC WEB WORLD offers a Java Full Stack Developer Course in Mumbai with Placement Assistance</b>. We go
+                beyond classroom teaching — our placement cell provides resume support, interview training, mock
+                interviews, and connects you with hiring partners in the IT industry. Our goal is to help you get placed
+                in top companies with a competitive salary package.</p>
+            <h6 class="fw-bold">Additional Placement Support Includes:</h6>
+            <ul>
+                <li>Access to exclusive job portals and industry referrals</li>
+                <li>Internships and industrial training opportunities</li>
+                <li>Personalized career guidance and HR mentorship</li>
+                <li>Interview scheduling with partner companies</li>
+            </ul>
+            <p>Our placement record speaks volumes about the success of our training programs — many of our alumni are
+                now working in leading IT companies across India and abroad.</p>
+        </div>
+
+    </div>
+    <!-- course-content end -->
     <!-- keyHighlights section start -->
     <?php include 'common/keyHighlights.php' ?>
     <!-- keyHighlights section end -->
@@ -755,6 +884,28 @@
     <!-- brochure section start -->
     <?php include 'common/download.php' ?>
     <!-- brochure section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold">Why Java Full Stack Development is a Smart Career Move</h4>
+            <ul type="none">
+                <li>✔ <b>High Industry Demand:</b> Java is the most widely used programming language in enterprise-level
+                    applications.</li>
+                <li>✔ <b>Excellent Salary Packages:</b> Full Stack Developers with Java skills are among the top earners
+                    in the
+                    tech field.</li>
+                <li>✔ <b>Versatile Job Roles:</b> You can work across various domains like FinTech, E-Commerce,
+                    Healthcare, and
+                    SaaS.</li>
+                <li>✔ <b>Continuous Learning:</b> Java ecosystem is evolving with powerful frameworks and tools, keeping
+                    your
+                    skills relevant.</li>
+                <li>✔ <b>Global Opportunities:</b> Java Full Stack is a universally applicable skill, giving you career
+                    mobility across the globe.</li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- programmingTools section start -->
     <section id="programmingTools">
         <div class="container py-5 px-4 px-md-0">
@@ -763,18 +914,6 @@
                     <h2 class="fw-bolder">Programming Languages & Tools Covered in Java Full Stack Developer Course
                     </h2>
                 </div>
-                <!-- <div class="col-12 mx-auto text-center">
-                    <img src="./assets/img/html.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/css.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/js.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/boostrap.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/react.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/mongodb.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/angular.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/python.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/django.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/mysql.webp"class="img-fluid" alt="">
-                </div> -->
             </div>
             <div class="row">
                 <div class="col-12 rounded-4 border py-3 px-4 bg-white shadow">
@@ -821,6 +960,22 @@
         </div>
     </section>
     <!-- programmingTools section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold">Key Features of Java Full Stack Developer Training at CNC WEB WORLD</h4>
+            <ul type="none">
+                <li>🎯 Experienced Trainers from Industry</li>
+                <li>🎯 Small Batch Size for Personalized Attention</li>
+                <li>🎯 Practical Assignments on Real Projects</li>
+                <li>🎯 Offline Tests and Recognized Certification</li>
+                <li>🎯 Soft Skills & Interview Training</li>
+                <li>🎯 Free Study Material and Software Support</li>
+                <li>🎯 100% Job Guarantee Program</li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- roadMapStep start -->
     <?php include 'common/roadMapStep.php' ?>
     <!-- roadMapStep end -->
@@ -836,6 +991,98 @@
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
+       <!-- faq section start -->
+    <section id="faqs">
+        <div class="container-lg py-5 px-4 px-lg-0">
+            <h2 class="fw-bold text-center py-3">
+                Frequently Asked Questions
+            </h2>
+            <div class="accordion" id="accordionExample2">
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                            <span class="fw-semibold"> What is Java Full Stack Development?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p><b>Java Full Stack Development</b> involves building both client-side (frontend) and server-side (backend) parts of a web application using Java technologies and frameworks.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                            <span class="fw-semibold"> What are the prerequisites for joining this course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>No prior coding experience is needed. Basic computer skills and logical thinking are sufficient to start.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                            <span class="fw-semibold">Will I get a job after the course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Yes, we provide <b>Java Developer Training with Placement Assistance</b>. Our students are placed in top MNCs, startups, and IT firms.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header ">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                            <span class="fw-semibold">Do you offer a certificate after completion?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Yes, you’ll receive a recognized course completion certificate from <b>CNC WEB WORLD</b> .
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                            <span class="fw-semibold"> Can I opt for weekend or online classes?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Yes, we offer flexible timings including weekend batches and hybrid learning options.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- faq section end -->
+      <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 ">
+            <h4 class="fw-bold">Key Features of Java Full Stack Developer Training at CNC WEB WORLD</h4>
+            <p>
+                <b>CNC WEB WORLD’s Java Full Stack Developer Course in Mumbai</b> is your gateway to a high-growth tech career. Join us to gain hands-on coding experience, master full stack development, and land your dream job in IT.
+            </p>
+            <ul type="none">
+                <li><b>📞 Call Now:</b> 7400193799 </li>
+                <li><b>📍 Visit Us:</b> Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above Union
+                    Bank, Nerul West, Navi Mumbai, Maharashtra 400706 </li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->
@@ -878,4 +1125,5 @@
         });
     </script>
 </body>
+
 </html>

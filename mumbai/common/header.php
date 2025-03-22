@@ -64,7 +64,7 @@
                                     </td>
                                     <td class="p-0">
                                         <li>
-                                            <a class="dropdown-item" href="./mern-stack-course-in-mumbai.php">
+                                            <a class="dropdown-item" href="./mern-stack-training-in-mumbai.php">
                                                 <img src="./assets/img/mern.svg" width="30px" alt=""> &nbsp; Mern Stack
                                             </a>
                                         </li>
@@ -75,7 +75,7 @@
 
                                     <td class="p-0">
                                         <li>
-                                            <a class="dropdown-item" href="./react-js-course-with-placement.php">
+                                            <a class="dropdown-item" href="./React-JS-Training-in-Mumbai.php">
                                                 <img src="./assets/img/react.png" width="30px" alt=""> &nbsp; Best
                                                 React Course
                                             </a>
@@ -105,7 +105,7 @@
                                     <td class="p-0">
                                         <li>
                                             <a class="dropdown-item"
-                                                href="./data-analytics-certification-in-mumbai.php">
+                                                href="./data-analytics-courses-in-mumbai.php">
                                                 <img src="./assets/img/data-a.png" width="30px" alt=""> &nbsp; Data
                                                 Analytics
                                             </a>
@@ -117,7 +117,7 @@
                                         <li>
                                             <a class="dropdown-item"
                                                 href="./learn-c-and-c-plus-plus-course-in-mumbai.php">
-                                                <img src="./assets/img/c.png" width="30px" alt=""> &nbsp; C Training
+                                                <img src="./assets/img/c.png" width="30px" alt=""> &nbsp; C &amp; C++ Training
                                                 Course
                                             </a>
                                         </li>
@@ -125,10 +125,8 @@
                                     <td class="p-0">
                                         <li>
                                             <a class="dropdown-item"
-                                                href="./learn-c-and-c-plus-plus-course-in-mumbai.php">
-                                                <img src="./assets/img/c.png" width="30px" alt=""> &nbsp; C++ Training
-                                                Course
-                                            </a>
+                                                href="./angular-training-in-mumbai.php">
+                                                <img src="./assets/img/angular.png" width="30px" alt=""> Angualr Training Course                                            </a>
                                         </li>
                                     </td>
                                 </tr>
@@ -290,11 +288,11 @@
                     </a>
                 </li>
                 <li>
-                    <a href="./mern-stack-course-in-mumbai.php">
+                    <a href="./mern-stack-training-in-mumbai.php">
                         <img src="./assets/img/mern.svg" width="30px" alt=""> &nbsp; Mern Stack
                     </a>
                 </li>
-                <li><a href="./react-js-course-with-placement.php">
+                <li><a href="./React-JS-Training-in-Mumbai.php">
                         <img src="./assets/img/react.png" width="30px" alt=""> &nbsp; Best React Course
                     </a></li>
                 <li>
@@ -304,16 +302,16 @@
                 </li>
                 <li>
                     <a href="./learn-c-and-c-plus-plus-course-in-mumbai.php">
-                        <img src="./assets/img/c.png" width="30px" alt=""> &nbsp; C Training Course
+                        <img src="./assets/img/c.png" width="30px" alt=""> &nbsp; C &amp; C++ Training Course
                     </a>
                 </li>
                 <li>
-                    <a href="./learn-c-and-c-plus-plus-course-in-mumbai.php">
-                        <img src="./assets/img/c.png" width="30px" alt=""> &nbsp; C++ Training Course
+                    <a href="./angular-training-in-mumbai.php">
+                        <img src="./assets/img/angular.png" width="30px" alt=""> &nbsp; Angular Training Course
                     </a>
                 </li>
                 <li>
-                    <a href="./data-analytics-certification-in-mumbai.php">
+                    <a href="./data-analytics-courses-in-mumbai.php">
                         <img src="./assets/img/data-a.png" width="30px" alt=""> &nbsp; Data Analytics
                     </a>
                 </li>

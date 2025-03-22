@@ -11,7 +11,7 @@
                     <div id="roadMapStepSection">
                         <div class="roadMapStepSectionBox" id="step1">
                             <span>01</span>
-                            <img src="./assets/img/roadMapIcon.png" alt="">
+                            <!-- <img src="./assets/img/roadMapIcon.png" alt=""> -->
                             <h6 class=" fw-bold mt-2">Career Framework </h6>
                             <p>
                                 <span style="font-size: 14px;  ;float: left;">
@@ -51,7 +51,7 @@
                         <p class="start">Start with</p>
                         <div class="roadMapStepSectionBox m-top" id="step2">
                             <span>02</span>
-                            <img src="./assets/img/roadMapIcon.png" alt="">
+                            <!-- <img src="./assets/img/roadMapIcon.png" alt=""> -->
                             <h6 class=" fw-bold mt-2">Admission Process</h6>
                             <p>
                                 <span style="font-size: 14px; float: left;">
@@ -91,7 +91,7 @@
                         </div>
                         <div class="roadMapStepSectionBox" id="step3">
                             <span>03</span>
-                            <img src="./assets/img/roadMapIcon.png" alt="">
+                            <!-- <img src="./assets/img/roadMapIcon.png" alt=""> -->
                             <h6 class=" fw-bold mt-2">Technical Training</h6>
                             <p>
                                 <span style="font-size: 14px;  ;float: left;">
@@ -131,7 +131,7 @@
                         </div>
                         <div class="roadMapStepSectionBox m-top" id="step4">
                             <span>04</span>
-                            <img src="./assets/img/roadMapIcon.png" alt="">
+                            <!-- <img src="./assets/img/roadMapIcon.png" alt=""> -->
                             <h6 class=" fw-bold mt-2">Project Development</h6>
                             <p>
                                 <span style="font-size: 14px;  ;float: left;">
@@ -171,7 +171,7 @@
                         </div>
                         <div class="roadMapStepSectionBox" id="step5">
                             <span>05</span>
-                            <img src="./assets/img/roadMapIcon.png" alt="">
+                            <!-- <img src="./assets/img/roadMapIcon.png" alt=""> -->
                             <h6 class=" fw-bold mt-2">Interview Preparation</h6>
                             <p>
                                 <span style="font-size: 14px;  ;float: left;">
@@ -213,7 +213,7 @@
                         <p class="start">Start with</p>
                         <div class="roadMapStepSectionBox m-top" id="step6">
                             <span>06</span>
-                            <img src="./assets/img/roadMapIcon.png" alt="">
+                            <!-- <img src="./assets/img/roadMapIcon.png" alt=""> -->
                             <h6 class=" fw-bold mt-2">100% Placement Assistance Program</h6>
                             <p>
                                 <span style="font-size: 14px;  ;float: left;">

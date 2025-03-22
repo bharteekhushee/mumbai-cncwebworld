@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Python Full stack Course in Mumbai - Learn with CNC Web World</title>
     <?php include 'common/headerlink.php' ?>
-     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
+    <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
+
 <body class="body">
     <!-- top header start -->
     <?php include 'common/topheader.php' ?>
@@ -66,11 +68,12 @@
         </div>
     </section>
     <!-- banner end -->
-    <!-- why-pytho start -->
+    <!-- why-python start -->
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
-                <h2 class="fw-bold mb-4 text-center">Why <span class="blue">Python?</span></h2>
+                <h2 class="fw-bold mb-4 text-center">Python Full Stack Developer Course at <span class="blue">CNC Web
+                        World </span></h2>
             </div>
             <div class="row ">
                 <div class="col-lg-6 ">
@@ -79,31 +82,28 @@
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center ">
                     <p>
-                        <b>CNC WEB WORLD </b> offers a <b>Python Course in Mumbai</b> to teach students how to use
-                        Python, a widely used programming language, for many different purposes. Python has the
-                        flexibility to work in web development, data analysis, machine learning scientific computing,
-                        and other areas.
+                        Are you ready to unlock the full potential of your career in software development? <b>CNC Web
+                            World</b> proudly presents the most comprehensive <b>Python Full Stack Developer Course in
+                            Mumbai</b>, designed to transform beginners and aspiring programmers into industry-ready
+                        professionals. This <b>full stack Python course</b> is perfect for those looking to build a
+                        strong foundation in Python and explore its applications across web development, data analytics,
+                        and emerging technologies like Machine Learning and AI.
                     </p>
                     <p>
-                        A standard <b>Python course</b> covers Python syntax, data types, functions, control structures,
-                        object-oriented programming, file input/output, libraries and frameworks, web development, data
-                        analysis and visualization, and machine learning. The python classes in mumbai aims to give
-                        hands-on experience, with practical exercises and projects to strengthen understanding.
+                        Whether you're a fresher or a working professional seeking a career switch, our <b>Python full
+                            stack developer course</b> will give you the competitive edge you need in today’s fast-paced
+                        tech industry.
                     </p>
-                    <p> The <b>Python Classes in Mumbai</b> includes tools and frameworks like NumPy, Pandas,
-                        Matplotlib, Flask, Django, TensorFlow, and PyTorch. These tools help to manage data, create
-                        visual representations, build web applications, and put machine learning algorithms into
-                        practice.
-                    </p>
+
                 </div>
             </div>
-            <div class="text-center mt-2">
+            <div class="text-center mt-3">
                 <button class="btn btn-dark btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">Enquire
                     Now</button>
             </div>
         </div>
     </section>
-    <!-- why-pytho end -->
+    <!-- why-python end -->
     <!-- roadmap-image start -->
     <div class="container  mt-5 mb-3">
         <div class="row mx-3 mx-md-0 mt-5 mb-3 pt-4 rounded" style="box-shadow: rgba(0, 0, 0, 0.5) 0px 4px 24px;">
@@ -111,9 +111,95 @@
         </div>
     </div>
     <!-- roadmap-image end -->
-     <!-- whoCanJoin start -->
-     <?php include 'common/whoCanJoin.php' ?>
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold">Why Choose CNC Web World's Python Full Stack Course?</h4>
+            <p>Python is one of the most versatile, in-demand programming languages in the world. With its
+                user-friendly syntax and powerful ecosystem of libraries and frameworks, Python is the backbone of
+                several tech domains — from web development to data science and automation. Our <b> Python full
+                    stack developer training</b> covers everything you need to become a skilled developer capable of
+                handling both front-end and back-end technologies.</p>
+            <p>Here’s what makes our full stack Python developer course stand out:</p>
+            <ul>
+                <li>In-depth theoretical and practical training</li>
+                <li>Real-time projects and hands-on assignments</li>
+                <li>Expert instructors with industry experience</li>
+                <li>100% placement assistance</li>
+                <li>Certification upon completion</li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
+    <!-- whoCanJoin start -->
+    <?php include 'common/whoCanJoin.php' ?>
     <!-- WhoCanJoin end -->
+
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold">Course Structure – Learn from Basics to Advanced</h4>
+            <p>Our <b>Python full stack course</b> is structured to provide a step-by-step learning experience, starting
+                from Python fundamentals to advanced web and application development. The curriculum includes:</p>
+            <h6 class="fw-bold">Core Python Programming</h6>
+            <ul>
+                <li>Introduction to Python and its architecture</li>
+                <li>Variables, Data Types, Operators</li>
+                <li>Control Flow: If-Else, Loops</li>
+                <li>Functions and Modules</li>
+                <li>Error Handling and Exception Management</li>
+                <li>File Handling</li>
+            </ul>
+            <h6 class="fw-bold">Data Structures and Algorithms</h6>
+            <ul>
+                <li>Lists, Tuples, Dictionaries, Sets</li>
+                <li>Searching and Sorting Algorithms</li>
+                <li>Recursive Programming</li>
+                <li>Problem-solving techniques for coding interviews</li>
+            </ul>
+            <h6 class="fw-bold">Object-Oriented Programming</h6>
+            <ul>
+                <li>Classes and Objects</li>
+                <li>Inheritance, Encapsulation, Polymorphism</li>
+                <li>Advanced OOP design patterns</li>
+            </ul>
+            <h6 class="fw-bold">Front-end Development</h6>
+            <ul>
+                <li>HTML, CSS, JavaScript</li>
+                <li>Responsive Design with Bootstrap</li>
+                <li>DOM Manipulation</li>
+                <li>Front-end Frameworks (Basics of React/Angular introduction if required)</li>
+            </ul>
+            <h6 class="fw-bold">Python Web Development (Back-end)</h6>
+            <ul>
+                <li>Flask and Django Frameworks</li>
+                <li>RESTful API Development</li>
+                <li>CRUD Operations</li>
+                <li>Authentication and Authorization</li>
+                <li>Database Integration (MySQL, SQLite)</li>
+            </ul>
+
+            <h6 class="fw-bold">Data Analysis and Visualization</h6>
+            <ul>
+                <li>Working with NumPy and Pandas</li>
+                <li>Data cleaning and manipulation</li>
+                <li>Visualization using Matplotlib and Seaborn</li>
+            </ul>
+            <h6 class="fw-bold">Introduction to Machine Learning</h6>
+            <ul>
+                <li>Basics of ML using Python</li>
+                <li>Working with TensorFlow and PyTorch</li>
+                <li>Building and deploying ML models</li>
+            </ul>
+            <h6 class="fw-bold">Deployment and DevOps Basics</h6>
+            <ul>
+                <li>Version Control with Git and GitHub</li>
+                <li>Web Application Deployment (Heroku, AWS basics)</li>
+                <li>Docker & Virtual Environments</li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- courseDetails section start -->
     <section id="courseDetail">
         <div class="container-lg">
@@ -417,7 +503,7 @@
                             </h2>
                             <div id="aws" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                <div class="row">
+                                    <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Introduction to CI/CD and DevOps</li>
@@ -427,13 +513,14 @@
                                                 <li>AWS CodeDeploy: Automated Deployments</li>
                                                 <li>AWS Elastic Beanstalk for CI/CD</li>
                                                 <li>AWS CodePipeline: CI/CD Workflow Automation</li>
-                                                
+
                                             </ul>
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Docker and AWS CI/CD Integration</li>
-                                                <li>Infrastructure as Code (IaC) with AWS CloudFormation & Terraform</li>
+                                                <li>Infrastructure as Code (IaC) with AWS CloudFormation & Terraform
+                                                </li>
                                                 <li>AWS Lambda and Serverless CI/CD</li>
                                                 <li>Monitoring & Logging in AWS CI/CD (CloudWatch, CloudTrail)</li>
                                                 <li>Security Best Practices in AWS CI/CD</li>
@@ -460,7 +547,7 @@
                             </h2>
                             <div id="docker" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                <div class="row">
+                                    <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Introduction to Docker</li>
@@ -474,13 +561,13 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                               <li>Docker Volumes and Persistent Storage</li>
-                                               <li>Docker Swarm: Container Orchestration </li>
-                                               <li>Docker Security Best Practices</li>
-                                               <li>Monitoring and Logging in Docker</li>
-                                               <li>CI/CD Integration with Docker</li>
-                                               <li>Deploying Applications with Docker</li>
-                                               <li>Docker in Cloud Environments (AWS, Azure)</li>
+                                                <li>Docker Volumes and Persistent Storage</li>
+                                                <li>Docker Swarm: Container Orchestration </li>
+                                                <li>Docker Security Best Practices</li>
+                                                <li>Monitoring and Logging in Docker</li>
+                                                <li>CI/CD Integration with Docker</li>
+                                                <li>Deploying Applications with Docker</li>
+                                                <li>Docker in Cloud Environments (AWS, Azure)</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -502,11 +589,12 @@
                             </h2>
                             <div id="testing" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                <div class="row">
+                                    <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Introduction to Software Testing</li>
-                                                <li>Software Development Life Cycle (SDLC) & Testing Life Cycle (STLC)</li>
+                                                <li>Software Development Life Cycle (SDLC) & Testing Life Cycle (STLC)
+                                                </li>
                                                 <li>Types of Software Testing</li>
                                                 <li>Functional Testing & Non-Functional Testing</li>
                                                 <li>Black Box vs. White Box Testing</li>
@@ -515,14 +603,14 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                            <li>Usability & Accessibility Testing</li>
-                                               <li>Defect Life Cycle & Bug Reporting</li>
-                                                <li>Test Management Tools (JIRA.)</li> 
+                                                <li>Usability & Accessibility Testing</li>
+                                                <li>Defect Life Cycle & Bug Reporting</li>
+                                                <li>Test Management Tools (JIRA.)</li>
                                                 <li>Agile Testing & Scrum Methodology</li>
-                                                <li>User Acceptance Testing (UAT)</li> 
-                                                <li>API Testing</li>                                         
-                                                <li>Performance & Security Testing Concepts</li>      
-                                             </ul>
+                                                <li>User Acceptance Testing (UAT)</li>
+                                                <li>API Testing</li>
+                                                <li>Performance & Security Testing Concepts</li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -534,6 +622,23 @@
         </div>
     </section>
     <!-- courseDetails section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold">Tools & Technologies You’ll Learn</h4>
+            <ul>
+                <li>Python, HTML, CSS, JavaScript</li>
+                <li>Django, Flask, REST APIs</li>
+                <li>Bootstrap, Git, GitHub</li>
+                <li>MySQL, SQLite, PostgreSQL</li>
+                <li>Pandas, NumPy, Matplotlib</li>
+                <li>TensorFlow, PyTorch (Introductory level)</li>
+            </ul>
+            <p>Our <b>Python full stack developer</b> course ensures that you’re equipped with real-world skills and
+                hands-on exposure to tools used by developers every day.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- industryProject  section start -->
     <section id="industryProject">
         <div class="container-fluid py-5 px-2 px-md-5">
@@ -637,16 +742,50 @@
         </div>
     </section>
     <!-- industryProject  section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold">Who Should Enroll in This Full Stack Python Developer Course?</h4>
+            <p>Our <b>full stack Python course in Mumbai</b> is ideal for:</p>
+            <ul>
+                <li>Fresh graduates seeking IT jobs</li>
+                <li>Non-IT professionals looking to switch to development</li>
+                <li>Entrepreneurs building web-based platforms</li>
+                <li>Students aiming to build a strong coding foundation</li>
+                <li>Working professionals upgrading their technical stack</li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- keyHighlights section start -->
     <?php include 'common/keyHighlights.php' ?>
     <!-- keyHighlights section end -->
-
     <!-- benefits  section start -->
     <?php include 'common/benefits.php' ?>
     <!-- benefits  section end -->
     <!-- brochure section start -->
     <?php include 'common/download.php' ?>
     <!-- brochure section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold">Python Full Stack Development Program with 100 % Job Placement Support</h4>
+            <p>At <b>CNC Web World</b>, we don’t just stop at training. We’re equally focused on helping you secure a
+                career after completing the course. Our <b>Python full stack developer course with placement support</b>
+                ensures that you’re fully prepared to enter the workforce.</p>
+            <h6 class="fw-bold">Placement services include:</h6>
+            <ul>
+                <li>Resume Building Workshops</li>
+                <li>Interview Preparation Sessions</li>
+                <li> Access to Job Portals and Industry Hiring Events</li>
+                <li>Internship Opportunities</li>
+                <li> Direct Hiring Referrals through Our Partner Companies</li>
+            </ul>
+            <p>With our <b>Python full stack developer training in Mumbai with placement</b>, you get the advantage of
+                hands-on learning and direct industry exposure — making you job-ready from day one.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- programmingTools section start -->
     <section id="programmingTools">
         <div class="container py-5 px-4 px-md-0">
@@ -655,21 +794,9 @@
                     <h2 class="fw-bolder">Programming Languages & Tools Covered in Python Full Stack Course
                     </h2>
                 </div>
-                <!-- <div class="col-12 mx-auto text-center">
-                    <img src="./assets/img/html.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/css.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/js.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/boostrap.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/react.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/mongodb.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/angular.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/python.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/django.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/mysql.webp"class="img-fluid" alt="">
-                </div> -->
             </div>
-            <div class="row">
-                <div class="col-12 rounded-4 py-3 px-4 bg-white shadow" style="border:5px solid #ff9100">
+            <div class="row"> <!--style="border:5px solid #ff9100"-->
+                <div class="col-12 rounded-4 py-3 px-4 bg-white shadow">
                     <div class="row text-center row-cols-lg-6 row-cols-md-4 row-cols-sm-3 row-cols-2  mx-auto">
                         <div class="col">
                             <img src="./assets/img/HTML-b.svg" alt="" class="img-fluid">
@@ -713,6 +840,38 @@
         </div>
     </section>
     <!-- programmingTools section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold">Why Python for Full Stack Development?</h4>
+            <p>Python is not just another programming language — it's a complete ecosystem that supports rapid
+                development, scalability, and ease of use. Here’s why our <b>full stack python developer</b> course is
+                the right choice:</p>
+            <ul>
+                <li>Easy syntax for quick learning</li>
+                <li>High demand across industries</li>
+                <li>Excellent community support</li>
+                <li>Versatility across domains: Web, ML, Automation, Data Science</li>
+                <li>Future-proof skill for developers</li>
+            </ul>
+            <h6 class="fw-bold">Duration & Learning Mode</h6>
+            <p>Our <b>Python full stack course in Mumbai</b> runs for 2-3 months, with options for both weekday and
+                weekend batches. Flexible timing, offline and online learning modes, and personalized mentoring ensure a
+                smooth learning journey for every student.</p>
+            <h4 class="fw-bold">Key Highlights of Our Full Stack Python Course</h4>
+            <Key>
+                <li>✅ Industry-experienced faculty</li>
+                <li>✅ Live project work</li>
+                <li>✅ Certification of completion</li>
+                <li>✅ One-on-one mentoring sessions</li>
+                <li>✅ Compact batches to enhance one-on-one learning support</li>
+                <li>✅ Offline tests and mock interviews</li>
+                <li>✅ Free software and study materials</li>
+                <li>✅ 100% job guarantee program</li>
+                </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- roadMapStep start -->
     <?php include 'common/roadMapStep.php' ?>
     <!-- roadMapStep end -->
@@ -728,6 +887,99 @@
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
+
+    <!-- faq section start -->
+    <section id="faqs">
+        <div class="container-lg py-5 px-4 px-lg-0">
+            <h2 class="fw-bold text-center py-3">
+                Frequently Asked Questions
+            </h2>
+            <div class="accordion" id="accordionExample2">
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                            <span class="fw-semibold"> What is a Python Full Stack Developer?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p><b>A Python full stack developer</b> is a professional skilled in both front-end
+                                (client-side) and back-end (server-side) programming using Python and related
+                                technologies. They build complete web applications, from design to database handling and
+                                deployment.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                            <span class="fw-semibold"> What jobs can I get after completing this course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>You can work as:</p>
+                            <ul>
+                                <li>Python Developer</li>
+                                <li>Full Stack Developer</li>
+                                <li>Backend Developer</li>
+                                <li>Software Engineer</li>
+                                <li>Data Analyst</li>
+                                <li>Machine Learning Engineer</li>
+                                <li>Web Application Developer</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                            <span class="fw-semibold">Is prior programming knowledge required?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Not at all! This course is designed for both beginners and experienced learners. You’ll
+                                start from the basics and gradually move to advanced concepts.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header ">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                            <span class="fw-semibold">Do I receive a certificate upon course completion?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Yes! After successful completion, <b>CNC Web World</b> will provide you a course
+                                completion certificate which is recognized by leading tech firms.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                            <span class="fw-semibold">Do you offer placement assistance?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Absolutely! Our course includes dedicated job placement support, resume building help,
+                                mock interviews, and job referrals to hiring partners.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- faq section end -->
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->
@@ -770,4 +1022,5 @@
         });
     </script>
 </body>
+
 </html>

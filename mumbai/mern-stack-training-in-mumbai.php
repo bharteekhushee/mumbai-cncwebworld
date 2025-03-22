@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Data Analytics Courses in Mumbai: Start Learning Today!</title>
+    <meta name="description" content="Enroll in CNC Web World’s MERN Stack Developer Course in Mumbai. Gain practical skills in web development and start your journey as a full-stack developer! "/>
+    <meta name="keywords" content="mern stack certification in mumbai fees, best mern stack certification in Mumbai, mern stack training in Mumbai, mern stack developer course in mumbai price, mern stack developer course in mumbai fees, mern stack developer course in mumbai"/>
+    <title>Get Expert MERN Stack Training in Mumbai at CNC Web World</title>
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
@@ -24,8 +26,8 @@
         <div class="container-lg">
             <div class="row py-5">
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
-                    <img src="./assets/img/data-analytics.webp" width="60px" alt="">
-                    <h1>Data Analytics with Python Intensive Training Program</h1>
+                    <img src="./assets/img/mern.svg" width="60px" alt="">
+                    <h1 class="pe-5">Mern Stack Intensive Training Program</h1>
                     <h3 class="fw-semibold"><i>100% Job Oriented Course</i></h3>
                     <div class="row">
                         <div class="col-4 ">
@@ -68,11 +70,11 @@
         </div>
     </section>
     <!-- banner end -->
-    <!-- why-pytho start -->
+    <!-- why-python start -->
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
-                <h2 class="fw-bold mb-4 text-center">Why choose <span class="blue">Data Analytics?</span></h2>
+                <h2 class="fw-bold mb-4 text-center">What is <span class="blue">Mern Stack?</span></h2>
             </div>
             <div class="row ">
                 <div class="col-lg-6 ">
@@ -105,11 +107,11 @@
             </div>
         </div>
     </section>
-    <!-- why-pytho end -->
+    <!-- why-python end -->
     <!-- roadmap-image start -->
     <div class="container  mt-5 mb-3">
         <div class="row mx-3 mx-md-0 mt-5 mb-3 pt-4 rounded" style="box-shadow: rgba(0, 0, 0, 0.5) 0px 4px 24px;">
-            <img src="./assets/img/roadmap-data-analytics.png" alt="" class="img-fluid">
+            <img src="./assets/img/roadmap-mern-fullstack.png" alt="" class="img-fluid">
         </div>
     </div>
     <!-- roadmap-image end -->
@@ -121,7 +123,7 @@
         <div class="container-lg">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h2 class="fw-bold mb-4 text-white">Data Analytics Development Curriculum</h2>
+                    <h2 class="fw-bold mb-4 text-white">Mern Stack Developer Curriculum</h2>
                 </div>
             </div>
         </div>
@@ -171,81 +173,40 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#python" aria-expanded="true" aria-controls="python">
-                                    Data Analysis with Python
+                                    data-bs-target="#webDesign" aria-expanded="true" aria-controls="webDesign">
+                                    Web Design
                                     <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
-                                        style="font-size: 12px;">#Backend</span>
+                                        style="font-size: 12px;">#Frontend</span>
                                     <span class="ms-auto">
                                         <img src="./assets/img/clock.svg" alt="">
                                         4 Weeks
                                     </span>
                                 </button>
                             </h2>
-                            <div id="python" class="accordion-collapse collapse show"
+                            <div id="webDesign" class="accordion-collapse collapse show"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="row">
                                         <div class="col-sm-6">
-                                            <ol>
-                                                <li>Introduction to Data Analysis
-                                                    <ul type="disc">
-                                                        <li>Importance of Data Analysis</li>
-                                                        <li>Overview of Python & Power BI for Data Analysis</li>
-                                                        <li>Data Analysis Process</li>
-                                                        <li>Data Analysis with Python</li>
-                                                    </ul>
-                                                </li>
-                                                <li>Python for Data Analysis
-                                                    <ul type="disc">
-                                                        <li>Setting Up Python Environment (Anaconda, Jupyter Notebook)
-                                                        </li>
-                                                        <li>Basics of Python (Variables, Data Types, Control Flow)</li>
-                                                    </ul>
-                                                </li>
-                                                <li>Data Manipulation with Pandas
-                                                    <ul type="disc">
-                                                        <li>Working with DataFrames & Series</li>
-                                                        <li>Handling Missing & Duplicate Data</li>
-                                                        <li>Data Aggregation & Grouping</li>
-                                                    </ul>
-                                                </li>
-                                                <li>Data Visualization with Matplotlib &Seaborn
-                                                    <ul type="disc">
-                                                        <li>Creating Line,Bar, Scatter, and Pie Charts</li>
-                                                        <li>Heatmaps & Correlation Plots</li>
-                                                    </ul>
-                                                </li>
-                                            </ol>
+                                            <ul>
+                                                <li>Weaving the World Wide Web</li>
+                                                <li>Text Formatting tags</li>
+                                                <li>HTML structures</li>
+                                                <li>Transformers of the Web (CSS)</li>
+                                                <li>Unlocking creative toolbox (CSS Properties)</li>
+                                                <li>Responsive Utilities</li>
+                                                <li>Bootstrap</li>
+                                            </ul>
                                         </div>
                                         <div class="col-sm-6">
-                                            <ol start="5">
-                                                <li>Exploratory Data Analysis (EDA)
-                                                    <ul type="disc">
-                                                        <li>Descriptive Statistics (Mean, Median, Mode)</li>
-                                                        <li>Identifying Outliers & Trends</li>
-                                                        <li>Feature Engineering</li>
-                                                    </ul>
-                                                </li>
-                                                <li>Statistical & Predictive Analysis
-                                                    <ul type="disc">
-                                                        <li>Correlation & Regression Analysis</li>
-                                                        <li>Hypothesis Testing</li>
-                                                        <li>Time Series Analysis (ARIMA, Prophet)</li>
-                                                    </ul>
-                                                </li>
-                                                <li>Data Analysis with SQL & Python
-                                                    <ul type="disc">
-                                                        <li>Querying Data with SQLAlchemy</li>
-                                                        <li>Integrating SQL with Pandas for Analysis</li>
-                                                    </ul>
-                                                </li>
-                                                <li>Introduction to Machine Learning for Data Analysis
-                                                    <ul type="disc">
-                                                        <li>Basics of Supervised & Unsupervised Learning</li>
-                                                        <li>Implementing Regression & Clustering in Python</li>
-                                                    </ul>
-                                                </li>
-                                            </ol>
+                                            <ul>
+                                                <li>Introduction to Javascript</li>
+                                                <li>Conditional and Control Statements</li>
+                                                <li>Javascript Function</li>
+                                                <li>Javascript Objects</li>
+                                                <li>Document Object Model</li>
+                                                <li> Modern Javascript</li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -254,40 +215,37 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#sql" aria-expanded="false" aria-controls="sql">
-                                    SQL
+                                    data-bs-target="#react" aria-expanded="false" aria-controls="react">
+                                    React
                                     <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
-                                        style="font-size: 12px;">#Database</span>
+                                        style="font-size: 12px;">#Frontend</span>
                                     <span class="ms-auto">
                                         <img src="./assets/img/clock.svg" alt="">
                                         4 Weeks
                                     </span>
                                 </button>
                             </h2>
-                            <div id="sql" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div id="react" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
-                                                <li>Introduction to Computer Essentials</li>
-                                                <li>Computational Thinking</li>
-                                                <li>Coding Construct</li>
-                                                <li>SQL Launchpad</li>
-                                                <li>Crafting SQL Databases (DDL)</li>
-                                                <li>ER Diagram and Normalization</li>
-                                                <li>Querying into Data (DQL)</li>
-                                                <li>Mastering Data Control (DML)</li>
+                                                <li>Introduction to ReactJS</li>
+                                                <li>Component, Props and State</li>
+                                                <li>Displaying Components</li>
+                                                <li>Handling Side-Effects</li>
+                                                <li>React Router (v6)</li>
+                                                <li> Handling Forms in React</li>
                                             </ul>
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                                <li>Unlock the Built in Functions</li>
-                                                <li>Subquery</li>
-                                                <li>Connecting Data for Insights (Joins)</li>
-                                                <li>Views</li>
-                                                <li>Customising SQL (Stored Procedure & Functions)</li>
-                                                <li>Cursor</li>
-                                                <li>Automating SQL (Triggers)</li>
+                                                <li>Github Card List App</li>
+                                                <li>JSX</li>
+                                                <li>React Context & Reducers</li>
+                                                <li>Handline Errors in React</li>
+                                                <li>Testing in React</li>
+                                                <li>React Building & Deployment - Vercel/Netlify</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -297,73 +255,110 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#power" aria-expanded="false" aria-controls="power">
-                                    Power BI
+                                    data-bs-target="#node" aria-expanded="false" aria-controls="node">
+                                    Node Js
                                     <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
                                         style="font-size: 12px;">#Backend</span>
                                     <span class="ms-auto">
                                         <img src="./assets/img/clock.svg" alt="">
-                                        6 Weeks
+                                        2 Weeks
                                     </span>
                                 </button>
                             </h2>
-                            <div id="power" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div id="node" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="row">
                                         <div class="col-sm-6">
-                                            <ol>
-                                                <li>Introduction to Power BI
-                                                    <ul type="disc">
-                                                        <li>Power BI Interface & Components</li>
-                                                        <li>Connecting to Data Sources (Excel, SQL, APIs)</li>
-                                                    </ul>
-                                                </li>
-                                                <li>Data Cleaning & Transformation in Power BI
-                                                    <ul type="disc">
-                                                        <li>Using Power Query for Data Preparation</li>
-                                                        <li>Creating Relationships Between Tables</li>
-                                                    </ul>
-                                                </li>
-                                                <li>Data Visualization in Power BI
-                                                    <ul type="disc">
-                                                        <li>Creating Reports & Dashboards</li>
-                                                        <li>Using Charts, Graphs & Maps</li>
-                                                        <li>Conditional Formatting & Custom Visuals</li>
-                                                    </ul>
-                                                </li>
-                                                <li>DAX (Data Analysis Expressions)
-                                                    <ul type="disc">
-                                                        <li>Introduction to DAX</li>
-                                                        <li>Calculated Columns & Measures</li>
-                                                        <li>Time Intelligence Functions</li>
-                                                    </ul>
-                                                </li>
-
-                                            </ol>
+                                            <ul>
+                                                <li>Introduction to Node.js & Its Architecture</li>
+                                                <li>Setting Up Node.js Environment</li>
+                                                <li> Asynchronous Programming & Event Loop</li>
+                                                <li>Node.js Modules & NPM Packages</li>
+                                            </ul>
                                         </div>
                                         <div class="col-sm-6">
-                                            <ol start="5">
-                                                <li>Advanced Power BI Features
-                                                    <ul type="disc">
-                                                        <li>Row-Level Security (RLS)</li>
-                                                        <li>Power BI Service & Cloud Sharing</li>
-                                                        <li>Automating Reports & Scheduling</li>
-                                                    </ul>
-                                                </li>
-                                                <li>Integrating Python with Power BI
-                                                    <ul type="disc">
-                                                        <li>Running Python Scripts in Power BI</li>
-                                                        <li>Creating Advanced Visuals with Python</li>
-                                                    </ul>
-                                                </li>
-                                                <li>Case Studies & Projects
-                                                    <ul type="disc">
-                                                        <li>Business & Sales Data Analysis</li>
-                                                        <li>Financial Reporting & Forecasting</li>
-                                                        <li>Customer Segmentation & Market Analysis</li>
-                                                    </ul>
-                                                </li>
-                                            </ol>
+                                            <ul>
+                                                <li>File System & Streams in Node.js</li>
+                                                <li>Working with HTTP & HTTPS Modules</li>
+                                                <li>Building CLI Applications with Node.js</li>
+                                                <li>Introduction to Web Frameworks (Express.js)</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#express" aria-expanded="false" aria-controls="express">
+                                    Express Js
+                                    <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
+                                        style="font-size: 12px;">#Backend</span>
+                                    <span class="ms-auto">
+                                        <img src="./assets/img/clock.svg" alt="">
+                                        3 Weeks
+                                    </span>
+                                </button>
+                            </h2>
+                            <div id="express" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="row">
+                                        <div class="col-sm-6">
+                                            <ul>
+                                                <li>Introduction to Express.js & Its Features</li>
+                                                <li>Setting Up Express.js Project</li>
+                                                <li>Routing & Middleware in Express.js</li>
+                                                <li>Handling Requests & Responses</li>
+                                                <li>Template Engines (EJS, Handlebars, Pug)</li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <ul>
+                                                <li>Authentication & Authorization (JWT, OAuth)</li>
+                                                <li>RESTful API Development with Express.js</li>
+                                                <li>Error Handling & Logging in Express.js</li>
+                                                <li>WebSockets & Real-time Communication (Socket.io)</li>
+                                                <li> Deploying Express.js Applications</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#mangodb" aria-expanded="false" aria-controls="mangodb">
+                                    MangoDB
+                                    <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
+                                        style="font-size: 12px;">#Database</span>
+                                    <span class="ms-auto">
+                                        <img src="./assets/img/clock.svg" alt="">
+                                        1 Week
+                                    </span>
+                                </button>
+                            </h2>
+                            <div id="mangodb" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="row">
+                                        <div class="col-sm-6">
+                                            <ul>
+                                                <li>Introduction to NoSQL & MongoDB</li>
+                                                <li>Installing & Setting Up MongoDB</li>
+                                                <li>CRUD Operations in MongoDB</li>
+                                                <li>Indexing & Aggregation Framework</li>
+                                                <li>MongoDB Data Models (Documents, Collections)</li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <ul>
+                                                <li>MongoDB Schema Design & Relationships</li>
+                                                <li>Mongoose ODM (Object Data Modeling)</li>
+                                                <li>Authentication & Security in MongoDB</li>
+                                                <li>Replication & Sharding in MongoDB</li>
+                                                <li>MongoDB with Node.js & Express.js</li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -611,7 +606,7 @@
     <!-- keyHighlights section end -->
 
     <!-- benefits  section start -->
-    <!-- <?php include 'common/benefits.php' ?> -->
+    <?php include 'common/benefits.php' ?>
     <!-- benefits  section end -->
     <!-- brochure section start -->
     <?php include 'common/download.php' ?>
@@ -621,31 +616,51 @@
         <div class="container py-5 px-4 px-md-0">
             <div class="row">
                 <div class="col-12 text-center my-3">
-                    <h2 class="fw-bolder">Programming Languages & Tools Covered in Python Developer Course
+                    <h2 class="fw-bolder">Programming Languages & Tools Covered in Mern Stack Developer Course
                     </h2>
                 </div>
+                <!-- <div class="col-12 mx-auto text-center">
+                    <img src="./assets/img/html.webp"class="img-fluid" alt="">
+                    <img src="./assets/img/css.webp"class="img-fluid" alt="">
+                    <img src="./assets/img/js.webp"class="img-fluid" alt="">
+                    <img src="./assets/img/boostrap.webp"class="img-fluid" alt="">
+                    <img src="./assets/img/react.webp"class="img-fluid" alt="">
+                    <img src="./assets/img/mongodb.webp"class="img-fluid" alt="">
+                    <img src="./assets/img/angular.webp"class="img-fluid" alt="">
+                    <img src="./assets/img/python.webp"class="img-fluid" alt="">
+                    <img src="./assets/img/django.webp"class="img-fluid" alt="">
+                    <img src="./assets/img/mysql.webp"class="img-fluid" alt="">
+                </div> -->
             </div>
             <div class="row">
                 <div class="col-12 rounded-4 border py-3 px-4 bg-white shadow">
-                    <div class="row text-center row-cols-lg-6 row-cols-md-3 row-cols-sm-3 row-cols-2  mx-auto px-auto">
-                       
+                    <div class="row text-center row-cols-lg-6 row-cols-md-4 row-cols-sm-3 row-cols-2  mx-auto">
                         <div class="col">
-                            <img src="./assets/img/python.svg" alt="" class="img-fluid">
+                            <img src="./assets/img/HTML-b.svg" alt="" class="img-fluid">
                         </div>
                         <div class="col">
-                            <img src="./assets/img/numpy.png" alt="" class="img-fluid">
+                            <img src="./assets/img/CSS3.svg" alt="" class="img-fluid">
                         </div>
                         <div class="col">
-                            <img src="./assets/img/pandas.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="col ">
-                            <img src="./assets/img/matplotlib.webp" alt="" class="img-fluid">
+                            <img src="./assets/img/javascript-b.svg" alt="" class="img-fluid">
                         </div>
                         <div class="col">
-                            <img src="./assets/img/powerBI.jpeg" alt="" class="img-fluid">
+                            <img src="./assets/img/bootstrap.png" alt="" class="img-fluid">
                         </div>
                         <div class="col">
-                            <img src="./assets/img/mysql.png" alt="" class="img-fluid">
+                            <img src="./assets/img/tailwind-css-b.svg" alt="" class="img-fluid">
+                        </div>
+                        <div class="col">
+                            <img src="./assets/img/React-b.svg" alt="" class="img-fluid">
+                        </div>
+                        <div class="col">
+                            <img src="./assets/img/nodejs.png" alt="" class="img-fluid">
+                        </div>
+                        <div class="col">
+                            <img src="./assets/img/express-js.png" alt="" class="img-fluid">
+                        </div>
+                        <div class="col">
+                            <img src="./assets/img/mongodb-b.svg" alt="" class="img-fluid">
                         </div>
                         <div class="col">
                             <img src="./assets/img/aws.png" alt="" class="img-fluid">
@@ -655,34 +670,7 @@
                         </div>
                         <div class="col">
                             <img src="./assets/img/testing.png" alt="" class="img-fluid">
-                         </div> 
-                         <!--<div class="col mx-auto">
-                            <img src="./assets/img/python.svg" alt="" class="img-fluid">
                         </div>
-                        <div class="col mx-auto">
-                            <img src="./assets/img/numpy.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="col mx-auto">
-                            <img src="./assets/img/pandas.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="col mx-auto">
-                            <img src="./assets/img/matplotlib.webp" alt="" class="img-fluid">
-                        </div>
-                        <div class="col mx-auto">
-                            <img src="./assets/img/powerBI.jpeg" alt="" class="img-fluid">
-                        </div>
-                        <div class="col mx-auto">
-                            <img src="./assets/img/mysql.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="col mx-auto">
-                            <img src="./assets/img/aws.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="col mx-auto">
-                            <img src="./assets/img/docker.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="col mx-auto">
-                            <img src="./assets/img/testing.png" alt="" class="img-fluid">
-                        </div> -->
                     </div>
                 </div>
             </div>
