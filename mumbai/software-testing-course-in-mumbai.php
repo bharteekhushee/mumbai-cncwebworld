@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="CNC Web World’s Software Testing Course in Navi Mumbai provides hands-on training and career support. Learn essential skills and start your path to success!">
-    <meta name="description" content="software testing course in Mumbai, software testing course in mumbai with job guarantee, software testing certification course in Mumbai, software testing course in navi Mumbai, software testing course fees in Mumbai, software testing course in mumbai with course fees, best software testing course in mumbai">
+    <meta name="description"
+        content="CNC Web World’s Software Testing Course in Navi Mumbai provides hands-on training and career support. Learn essential skills and start your path to success!">
+    <meta name="description"
+        content="software testing course in Mumbai, software testing course in mumbai with job guarantee, software testing certification course in Mumbai, software testing course in navi Mumbai, software testing course fees in Mumbai, software testing course in mumbai with course fees, best software testing course in mumbai">
     <title>Join CNC Web World's Software Testing Course in Mumbai</title>
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
@@ -73,7 +76,8 @@
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
-                <h2 class="fw-bold mb-4 text-center">Why <span class="blue">Software Testing?</span></h2>
+                <h2 class="fw-bold mb-4 text-center">Software Testing Course in Mumbai – <span class="blue">CNC WEB
+                        WORLD</span></h2>
             </div>
             <div class="row ">
                 <div class="col-lg-6 ">
@@ -82,21 +86,17 @@
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center ">
                     <p>
-                        <b>CNC WEB WORLD </b> offers a <b>Python Course in Mumbai</b> to teach students how to use
-                        Python, a widely used programming language, for many different purposes. Python has the
-                        flexibility to work in web development, data analysis, machine learning scientific computing,
-                        and other areas.
+                        Looking to start a career in software testing? Want to enroll in the <strong>Best Software
+                            Testing Course in Navi Mumbai</strong> with hands-on training and job placement assistance?
+                        <strong>CNC WEB WORLD</strong> offers one of the most comprehensive and industry-relevant
+                        <strong>software testing certification courses in Mumbai</strong> tailored to kick-start your
+                        journey in quality assurance and software testing.
                     </p>
                     <p>
-                        A standard <b>Python course</b> covers Python syntax, data types, functions, control structures,
-                        object-oriented programming, file input/output, libraries and frameworks, web development, data
-                        analysis and visualization, and machine learning. The python classes in mumbai aims to give
-                        hands-on experience, with practical exercises and projects to strengthen understanding.
-                    </p>
-                    <p> The <b>Python Classes in Mumbai</b> includes tools and frameworks like NumPy, Pandas,
-                        Matplotlib, Flask, Django, TensorFlow, and PyTorch. These tools help to manage data, create
-                        visual representations, build web applications, and put machine learning algorithms into
-                        practice.
+                        Whether you're a fresher stepping into the IT industry or a professional looking to switch your
+                        career path, our <strong>software testing course in Mumbai</strong> with job guarantee is
+                        designed to equip you with in-demand skills, practical experience, and assured career
+                        opportunities.
                     </p>
                 </div>
             </div>
@@ -114,9 +114,62 @@
         </div>
     </div>
     <!-- roadmap-image end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Why Choose CNC WEB WORLD for Software Testing Course?</h4>
+            <p> <strong>CNC WEB WORLD</strong> stands out as a premier institute offering specialized <strong>software
+                    testing training in Mumbai</strong>. Our course is crafted by industry experts to ensure you gain
+                the technical expertise, confidence, and practical exposure required to work as a professional software
+                tester.
+            </p>
+            <h6 class="fw-bold">Key Highlights:</h6>
+            <ul>
+                <li> Expert Trainers with Industry Experience</li>
+                <li> Real-Time Project Training</li>
+                <li> Hands-on Practice with Latest Testing Tools</li>
+                <li> ISTQB-Oriented Curriculum</li>
+                <li> 100% Placement Assistance</li>
+                <li> Interview Preparation & Resume Building</li>
+                <li> Internship Opportunities</li>
+                <li> Job Guarantee After Course Completion</li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- whoCanJoin start -->
     <?php include 'common/whoCanJoin.php' ?>
     <!-- WhoCanJoin end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Best Software Testing Course in Mumbai – Course Overview</h4>
+            <p> Our <strong>software testing course in Mumbai</strong> offers a solid foundation in both manual and
+                automation testing. You will gain a deep understanding of the software development lifecycle (SDLC),
+                testing methodologies, defect tracking, and test case creation.
+            </p>
+            <h6 class="fw-bold">Curriculum Covers:</h6>
+            <ul>
+                <li> Software Testing Fundamentals</li>
+                <li> SDLC & STLC Processes</li>
+                <li> Requirement Analysis & Test Planning</li>
+                <li> Test Case Design & Execution</li>
+                <li> Defect Life Cycle & Bug Reporting</li>
+                <li> Manual Testing Tools (JIRA, Bugzilla, Mantis)</li>
+                <li> Automation Testing using Selenium</li>
+                <li> TestNG Framework & Maven</li>
+                <li> API Testing with Postman</li>
+                <li>Mobile App Testing Basics</li>
+                <li> Agile Testing & Scrum Methodology</li>
+                <li> Interview Preparation & Mock Interviews</li>
+            </ul>
+            <span>
+                Our program also emphasizes communication skills, analytical thinking, and real-world project scenarios
+                to prepare you for real-time challenges in the testing domain.
+            </span>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- courseDetails section start -->
     <section id="courseDetail">
         <div class="container-lg">
@@ -346,7 +399,7 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#jenkins" aria-expanded="false" aria-controls="jenkins">
-                                    Jenkins 
+                                    Jenkins
                                     <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
                                         style="font-size: 12px;">#Backend</span>
                                     <span class="ms-auto">
@@ -406,7 +459,7 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#JMeter" aria-expanded="false" aria-controls="JMeter">
-                                    JMeter 
+                                    JMeter
                                     <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
                                         style="font-size: 12px;">#Backend</span>
                                     <span class="ms-auto">
@@ -469,7 +522,7 @@
                                                         <li>Cloud Load Testing with BlazeMeter</li>
                                                     </ul>
                                                 </li>
-                                                
+
                                                 <li>JMeter Elements & Components
                                                     <ul type="disc">
                                                         <li>HTTP Requests & Listeners</li>
@@ -500,7 +553,7 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#api" aria-expanded="false" aria-controls="api">
-                                   API Testing
+                                    API Testing
                                     <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
                                         style="font-size: 12px;">#Backend</span>
                                     <span class="ms-auto">
@@ -553,7 +606,7 @@
                                                         <li>API Security Testing (Token Expiry, SQL Injection)</li>
                                                     </ul>
                                                 </li>
-                                              
+
                                                 <li>Working with Postman
                                                     <ul type="disc">
                                                         <li>Using Environment Variables</li>
@@ -757,6 +810,30 @@
         </div>
     </section>
     <!-- courseDetails section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Software Testing Course in Navi Mumbai – Learn Closer to You</h4>
+            <p> If you're located in Navi Mumbai and looking for a professional training institute nearby, <strong>CNC
+                    WEB WORLD</strong> also offers the <strong>best software testing course in Navi Mumbai</strong>. Our
+                training center is easily accessible, equipped with modern labs, and designed to deliver a high-quality
+                learning experience for students and professionals alike.
+            </p>
+            <p>Whether you are from Vashi, Nerul, Kharghar, Belapur, or Panvel – our <strong>software testing classes in
+                    Navi Mumbai</strong> are your ideal learning destination.</p>
+            <h5 class="fw-bold blue">Who Can Join This Software Testing Course?</h5>
+            <span>Our course is suitable for:</span>
+            <ul>
+                <li>Fresh Graduates (B.Sc, B.E, B.Tech, BCA, MCA)</li>
+                <li> Working Professionals looking to switch to testing</li>
+                <li>Non-IT background students aiming to enter IT</li>
+                <li>Anyone passionate about software quality assurance</li>
+            </ul>
+            <p>No prior coding or technical background is required. We start from the fundamentals and gradually advance
+                toward complex testing scenarios.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- industryProject  section start -->
     <section id="industryProject">
         <div class="container-fluid py-5 px-2 px-md-5">
@@ -860,16 +937,88 @@
         </div>
     </section>
     <!-- industryProject  section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Software Testing Certification Course in Mumbai – Become Industry-Ready</h4>
+            <p> Upon successful completion of the course, students will receive a <strong>software testing
+                    certification,</strong> validating their skills and making them job-ready. Our curriculum aligns
+                with current industry standards and best practices, ensuring your learning is practical and
+                career-focused.
+            </p>
+            <p>
+                <strong>CNC WEB WORLD’s software testing certification course in Mumbai</strong> not only builds your
+                technical knowledge but also focuses on professional grooming to help you succeed in job interviews.
+            </p>
+            <h6 class="fw-bold">What You’ll Learn:</h6>
+            <ul>
+                <li> How to write effective test cases</li>
+                <li> Defect reporting with clarity and accuracy</li>
+                <li> End-to-end testing lifecycle involvement</li>
+                <li> Web application and mobile app testing</li>
+                <li> Frameworks and tools used in MNCs</li>
+                <li>Version control systems and test environments </li>
+            </ul>
+            <span>
+                Our program also emphasizes communication skills, analytical thinking, and real-world project scenarios
+                to prepare you for real-time challenges in the testing domain.
+            </span>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- keyHighlights section start -->
     <?php include 'common/keyHighlights.php' ?>
     <!-- keyHighlights section end -->
-
-    <!-- benefits  section start -->
-    <!-- <?php include 'common/benefits.php' ?> -->
-    <!-- benefits  section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Software Testing Course in Mumbai with Job Guarantee – Your Career Starts Here</h4>
+            <p> One of the biggest advantages of enrolling in <strong>CNC WEB WORLD</strong>’s program is our
+                <strong>software testing course in Mumbai with job guarantee</strong>. Our strong placement network and
+                collaborations with top IT companies ensure that our students get placed in reputed organizations.
+            </p>
+            <h6 class="fw-bold">Placement Support Includes:</h6>
+            <ul>
+                <li> Resume Building Workshops</li>
+                <li> Mock Interviews with Experts</li>
+                <li>Job Alerts & Referrals</li>
+                <li> Campus Interviews</li>
+                <li> Personality Development Sessions</li>
+                <li> Direct Connect with Hiring Managers </li>
+            </ul>
+            <span>
+                We believe in training that results in employment – and that’s what we consistently deliver.
+            </span>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- brochure section start -->
     <?php include 'common/download.php' ?>
     <!-- brochure section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Why Software Testing is a Great Career Choice?</h4>
+            <p>With every business going digital, software testing has become a critical part of software development.
+                Today, companies cannot afford bugs in their applications – and this has dramatically increased the
+                demand for skilled software testers.
+            </p>
+            <h6 class="fw-bold">Career Opportunities after Software Testing Course:</h6>
+            <ul>
+                <li>Software Test Engineer</li>
+                <li> Quality Assurance Analyst</li>
+                <li> Automation Test Engineer</li>
+                <li> Selenium Tester</li>
+                <li> Mobile App Tester</li>
+                <li> QA Consultant</li>
+                <li> Test Lead or Test Manager (with experience)</li>
+            </ul>
+            <span>
+                Software testing is not only a high-demand skill but also offers long-term career growth, attractive
+                salaries, and global opportunities.</span>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- programmingTools section start -->
     <section id="programmingTools">
         <div class="container py-5 px-4 px-md-0">
@@ -882,7 +1031,7 @@
             <div class="row">
                 <div class="col-12 rounded-4 border py-3 px-4 bg-white shadow">
                     <div class="row text-center row-cols-lg-6 row-cols-md-3 row-cols-sm-3 row-cols-2  mx-auto px-auto">
-                       
+
                         <div class="col">
                             <img src="./assets/img/software-testing.png" alt="" class="img-fluid">
                         </div>
@@ -919,7 +1068,7 @@
                         <div class="col">
                             <img src="./assets/img/docker.png" alt="" class="img-fluid">
                         </div>
-                         <!--<div class="col mx-auto">
+                        <!--<div class="col mx-auto">
                             <img src="./assets/img/python.svg" alt="" class="img-fluid">
                         </div>
                         <div class="col mx-auto">
@@ -952,6 +1101,34 @@
         </div>
     </section>
     <!-- programmingTools section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Duration and Course Format</h4>
+            <p> Our <strong>software testing course in Mumbai</strong> typically runs for 2 to 3 months, depending on
+                the learning track you choose (basic/manual, automation, or full-stack testing). You can opt for:
+            </p>
+            <ul>
+                <li>Regular Weekday Batches</li>
+                <li>Weekend Batches (for Working Professionals)</li>
+                <li>Fast Track / Crash Courses </li>
+            </ul>
+            <p>
+                We also provide offline classroom training and online <strong>software testing classes</strong> to suit
+                your convenience and learning style.
+            </p>
+            <h5 class="fw-bold blue">Why CNC WEB WORLD is the Best Choice for Software Testing Training in Mumbai?</h5>
+            <ul>
+                <li>Experienced Mentors: Learn from industry veterans who’ve worked with top IT firms.</li>
+                <li>Interactive Classroom Training: Practical-oriented sessions, not boring lectures.</li>
+                <li>Live Projects: Apply your skills on real-time testing assignments.</li>
+                <li>Job-Oriented Curriculum: Aligned with industry needs and placement trends.</li>
+                <li>Support Beyond Training: From career guidance to mock interviews, we walk the extra mile for you.</li>
+            </ul>
+            <span>Our commitment is not just to teach you testing – but to build your career in it.</span>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- roadMapStep start -->
     <?php include 'common/roadMapStep.php' ?>
     <!-- roadMapStep end -->
@@ -967,6 +1144,110 @@
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
+    <!-- faqs-footer section start -->
+    <section id="faqs-footer">
+        <div class="container-lg py-5 px-4 px-lg-0">
+            <h2 class="fw-bold text-center py-3 ">
+                Frequently Asked Questions
+            </h2>
+            <div class="accordion" id="accordionExample2">
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                            <span class="fw-semibold">Do you offer a software testing course in Navi Mumbai?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Yes, we offer full-fledged software testing training at our Navi Mumbai center with
+                                practical sessions and placement support.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                            <span class="fw-semibold"> Will I get job placement assistance after this course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Absolutely. Our course comes with 100% placement support, and we have tie-ups with
+                                several hiring companies.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                            <span class="fw-semibold">Can I join if I don’t have a technical background?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Yes, our training starts from scratch. Anyone with a passion to learn and work in IT can
+                                join.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header ">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                            <span class="fw-semibold">Do you provide certification?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Yes, after course completion, you’ll receive a professional <strong>software testing
+                                    certification from CNC WEB WORLD</strong>.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                            <span class="fw-semibold">Which tools will I learn during the course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>You’ll learn tools like Selenium, JIRA, Bugzilla, Postman, TestNG, Maven, Git, and more.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- faqs-footer section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 py-5 px-lg-0 ">
+            <h4 class="fw-bold blue">Enroll Today and Secure Your Future in Software Testing !</h4>
+            <p>
+                Join the <strong>best software testing course in Navi Mumbai at CNC WEB WORLD</strong> and give your
+                career the right start. With structured learning, practical knowledge, and placement assistance – we
+                make sure your learning translates into a successful job.
+            </p>
+            <ul type="none">
+                <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
+                    Session .</li>
+                <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
+                    Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
+                <li>
+                    <b>🌐 Website: </b> [<a
+                        href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->

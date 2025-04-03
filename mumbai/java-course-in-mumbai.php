@@ -123,7 +123,7 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">Learn Java Programming language In Mumbai</h4>
+            <h4 class="fw-bold blue">Learn Java Programming language In Mumbai</h4>
             <p><b>Java course in navi Mumbai</b> is a high-level, object-oriented programming language that is intended
                 to be
                 portable and platform independent. Java is well-known for its simplicity, readability, and ease of use.
@@ -158,7 +158,7 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">Java certification in navi mumbai</h4>
+            <h4 class="fw-bold blue">Java certification in navi mumbai</h4>
             <p>Getting <b>Java certification training in navi mumbai </b> is a way to validate your Java programming
                 skills and expertise, and <b>CNC Web World</b> will provide you with the necessary skills. There are
                 several Java certifications available, each focusing on a different aspect of Java programming,
@@ -590,7 +590,7 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">Java training and placement in navi mumbai</h4>
+            <h4 class="fw-bold blue">Java training and placement in navi mumbai</h4>
             <p>Java is a popular programming language, so there are numerous job opportunities for Java developers. <b>CNC
             WEB WORLD</b> offers a <b>Java course in mumbai with a placement</b> option. Completing a Java course can help you
                 develop the skills and knowledge required to work with Java, increasing your chances of getting hired in
@@ -719,7 +719,7 @@
      <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">The main highlights of the Java course in mumbai</h4>
+            <h4 class="fw-bold blue">The main highlights of the Java course in mumbai</h4>
         <p>The following are the key features of our courses and training modules that allow us to stay ahead of the competition and provide high-quality training to all of our students.</p>
         <ul>
             <li>Highly qualified instructors</li>
@@ -797,8 +797,8 @@
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
-    <!-- faq section start -->
-    <section id="faqs">
+    <!-- faqs-footer section start -->
+    <section id="faqs-footer">
         <div class="container-lg py-5 px-4 px-lg-0">
             <h2 class="fw-bold text-center py-3">
                 Frequently Asked Questions
@@ -932,7 +932,7 @@
             </div>
         </div>
     </section>
-    <!-- faq section end -->
+    <!-- faqs-footer section end -->
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->

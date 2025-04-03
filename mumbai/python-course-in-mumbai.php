@@ -131,7 +131,7 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">A Python code syllabus often covers these common topics: </h4>
+            <h4 class="fw-bold blue">A Python code syllabus often covers these common topics: </h4>
             <p><b>Python fundamentals:</b> Data types, variables, operators, expressions, and control structures.</p>
             <p><b>Functions:</b> How to call and define functions, handle return values and arguments
               
@@ -175,7 +175,7 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">Python classes in navi Mumbai With Placement </h4>
+            <h4 class="fw-bold blue">Python classes in navi Mumbai With Placement </h4>
             <p><b>CNC Web World</b> offers a <b>Python course in mumbai</b> that includes job placement. This program
                 teaches students Python and helps them find jobs after they finish. The course aims to give students the
                 abilities and understanding they need to do well in the job market. It also provides extra help like
@@ -503,7 +503,7 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">Python Training and Placement in Mumbai</h4>
+            <h4 class="fw-bold blue">Python Training and Placement in Mumbai</h4>
             <p><b>CNC WEB WORLD</b> provides <b>Python classes</b> and helps students find jobs. These aim to equip
                 students with the know-how to thrive in Python-related jobs and to help them land positions after they
                 finish their training. The programs cover a lot of Python topics. This covers code structure variable
@@ -629,7 +629,7 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">More About python course in mumbai</h4>
+            <h4 class="fw-bold blue">More About python course in mumbai</h4>
             <p>You can take a <b>Python classes in mumbai</b> that runs for 2-3 months. This program teaches you the basics of
                 Python programming and some ways to use the language. The course aims to give students a strong base in
                 Python programming, including syntax, data types, control structures, functions, and object-oriented
@@ -649,7 +649,7 @@
             <p>A Python course lasting 2-3 months is a great choice for people who want to learn Python programming and
                 how to use it in a short time. These courses can give students the skills and know-how to start a career
                 in Python programming or to add Python to what they already know.</p>
-            <h4 class="fw-bold">
+            <h4 class="fw-bold blue">
                 Key highlights of Python Course in mumbai
             </h4>
             <p>Our Python classes and training module have key features that put us ahead of our rivals and give
@@ -750,8 +750,8 @@
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
-    <!-- faq section start -->
-    <section id="faqs">
+    <!-- faqs-footer section start -->
+    <section id="faqs-footer">
         <div class="container-lg py-5 px-4 px-lg-0">
             <h2 class="fw-bold text-center py-3">
                 Frequently Asked Questions
@@ -921,7 +921,7 @@
             </div>
         </div>
     </section>
-    <!-- faq section end -->
+    <!-- faqs-footer section end -->
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->

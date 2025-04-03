@@ -81,28 +81,43 @@
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center ">
                     <p>
-                        <b>CNC WEB WORLD </b> offers a <b>Python Course in belapur</b>  to teach students how to use Python, a widely used programming language, for many different purposes. Python has the flexibility to work in web development, data analysis, machine learning scientific computing, and other areas. 
+                        <b>CNC WEB WORLD </b> offers a <b>Python Course in belapur</b> to teach students how to use
+                        Python, a widely used programming language, for many different purposes. Python has the
+                        flexibility to work in web development, data analysis, machine learning scientific computing,
+                        and other areas.
                     </p>
                     <p>
-                    A standard Python course covers Python syntax, data types, functions, control structures, object-oriented programming, file input/output, libraries and frameworks, web development, data analysis and visualization, and machine learning. The <b>Python course in belapur</b> aims to give hands-on experience, with practical exercises and projects to strengthen understanding.
+                        A standard Python course covers Python syntax, data types, functions, control structures,
+                        object-oriented programming, file input/output, libraries and frameworks, web development, data
+                        analysis and visualization, and machine learning. The <b>Python course in belapur</b> aims to
+                        give hands-on experience, with practical exercises and projects to strengthen understanding.
                     </p>
-                    <p> The <b>Python course in belapur</b> includes tools and frameworks like NumPy, Pandas, Matplotlib, Flask, Django, TensorFlow, and PyTorch. These tools help to manage data, create visual representations, build web applications, and put machine learning algorithms into practice.
+                    <p> The <b>Python course in belapur</b> includes tools and frameworks like NumPy, Pandas,
+                        Matplotlib, Flask, Django, TensorFlow, and PyTorch. These tools help to manage data, create
+                        visual representations, build web applications, and put machine learning algorithms into
+                        practice.
                     </p>
                 </div>
             </div>
-           <div>
-            <p> <b>Python classes in belapur</b> work well for newcomers to coding and seasoned programmers who aim to pick up a new language or boost their abilities. Python has an easy-to-grasp structure, which makes it a great starting point for many students.</p>
-            <p>
-            In general, Python training offers a complete introduction to Python and its applications in different fields. This equips students with the know-how to create their own Python projects or pursue a Python programming career. 
-            </p>
-            <p>
-            A Python code syllabus lists topics a Python programming class will cover. The exact content can change based on the course level (beginner, intermediate, or advanced) and focus (data science, web development, or machine learning). 
-            </p>
-            <div class="text-center mt-2">
-                <button class="btn btn-dark btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">Enquire
-                    Now</button>
+            <div>
+                <p> <b>Python classes in belapur</b> work well for newcomers to coding and seasoned programmers who aim
+                    to pick up a new language or boost their abilities. Python has an easy-to-grasp structure, which
+                    makes it a great starting point for many students.</p>
+                <p>
+                    In general, Python training offers a complete introduction to Python and its applications in
+                    different fields. This equips students with the know-how to create their own Python projects or
+                    pursue a Python programming career.
+                </p>
+                <p>
+                    A Python code syllabus lists topics a Python programming class will cover. The exact content can
+                    change based on the course level (beginner, intermediate, or advanced) and focus (data science, web
+                    development, or machine learning).
+                </p>
+                <div class="text-center mt-2">
+                    <button class="btn btn-dark btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">Enquire
+                        Now</button>
+                </div>
             </div>
-           </div>
         </div>
     </section>
     <!-- why-python end -->
@@ -116,7 +131,7 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">A Python code syllabus often covers these common topics: </h4>
+            <h4 class="fw-bold blue">A Python code syllabus often covers these common topics: </h4>
             <p><b>Python fundamentals:</b> Data types, variables, operators, expressions, and control structures.</p>
 
             <p><b>Functions:</b> How to call and define functions, handle return values and arguments
@@ -159,13 +174,25 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">Python classes in belapur With Placement </h4>
-            <p><b>CNC Web World</b> offers a <b>Python course in belapur </b> that includes job placement. This program teaches students Python and helps them find jobs after they finish. The course aims to give students the abilities and understanding they need to do well in the job market. It also provides extra help like looking over resumes, getting ready for interviews, and helping with job searches. </p>
+            <h4 class="fw-bold blue">Python classes in belapur With Placement </h4>
+            <p><b>CNC Web World</b> offers a <b>Python course in belapur </b> that includes job placement. This program
+                teaches students Python and helps them find jobs after they finish. The course aims to give students the
+                abilities and understanding they need to do well in the job market. It also provides extra help like
+                looking over resumes, getting ready for interviews, and helping with job searches. </p>
 
-            <p>The <b>Python course in belapur </b> placement teach students the basics of Python programming. This covers Python's structure types of data ways to control the program, and functions. Students also learn to use libraries and frameworks like NumPy, Pandas, Matplotlib, Flask, and Django. The course shows how to use Python for analyzing data making websites, and machine learning</p>
+            <p>The <b>Python course in belapur </b> placement teach students the basics of Python programming. This
+                covers Python's structure types of data ways to control the program, and functions. Students also learn
+                to use libraries and frameworks like NumPy, Pandas, Matplotlib, Flask, and Django. The course shows how
+                to use Python for analyzing data making websites, and machine learning</p>
 
-            <p><b>CNC WEB WORLD </b>offers placement services, which give you access to job boards networking events, and career advice. We also set up internships or projects with industry partners at <b> CNC WEB WORLD</b>. This gives students hands-on experience and helps them build their professional connections.</p>
-            <p>Python courses with job placement at <b>CNC WEB WORLD </b>suit students aiming to begin a Python programming career and professionals wanting to switch careers or boost their skills. The growing need for Python developers across industries gives students an edge in the job market and a clear route to career success.
+            <p><b>CNC WEB WORLD </b>offers placement services, which give you access to job boards networking events,
+                and career advice. We also set up internships or projects with industry partners at <b> CNC WEB
+                    WORLD</b>. This gives students hands-on experience and helps them build their professional
+                connections.</p>
+            <p>Python courses with job placement at <b>CNC WEB WORLD </b>suit students aiming to begin a Python
+                programming career and professionals wanting to switch careers or boost their skills. The growing need
+                for Python developers across industries gives students an edge in the job market and a clear route to
+                career success.
             </p>
         </div>
     </div>
@@ -354,7 +381,7 @@
                             </h2>
                             <div id="aws" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                <div class="row">
+                                    <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Introduction to CI/CD and DevOps</li>
@@ -364,13 +391,14 @@
                                                 <li>AWS CodeDeploy: Automated Deployments</li>
                                                 <li>AWS Elastic Beanstalk for CI/CD</li>
                                                 <li>AWS CodePipeline: CI/CD Workflow Automation</li>
-                                                
+
                                             </ul>
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Docker and AWS CI/CD Integration</li>
-                                                <li>Infrastructure as Code (IaC) with AWS CloudFormation & Terraform</li>
+                                                <li>Infrastructure as Code (IaC) with AWS CloudFormation & Terraform
+                                                </li>
                                                 <li>AWS Lambda and Serverless CI/CD</li>
                                                 <li>Monitoring & Logging in AWS CI/CD (CloudWatch, CloudTrail)</li>
                                                 <li>Security Best Practices in AWS CI/CD</li>
@@ -397,7 +425,7 @@
                             </h2>
                             <div id="docker" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                <div class="row">
+                                    <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Introduction to Docker</li>
@@ -411,13 +439,13 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                               <li>Docker Volumes and Persistent Storage</li>
-                                               <li>Docker Swarm: Container Orchestration </li>
-                                               <li>Docker Security Best Practices</li>
-                                               <li>Monitoring and Logging in Docker</li>
-                                               <li>CI/CD Integration with Docker</li>
-                                               <li>Deploying Applications with Docker</li>
-                                               <li>Docker in Cloud Environments (AWS, Azure)</li>
+                                                <li>Docker Volumes and Persistent Storage</li>
+                                                <li>Docker Swarm: Container Orchestration </li>
+                                                <li>Docker Security Best Practices</li>
+                                                <li>Monitoring and Logging in Docker</li>
+                                                <li>CI/CD Integration with Docker</li>
+                                                <li>Deploying Applications with Docker</li>
+                                                <li>Docker in Cloud Environments (AWS, Azure)</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -439,11 +467,12 @@
                             </h2>
                             <div id="testing" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                <div class="row">
+                                    <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Introduction to Software Testing</li>
-                                                <li>Software Development Life Cycle (SDLC) & Testing Life Cycle (STLC)</li>
+                                                <li>Software Development Life Cycle (SDLC) & Testing Life Cycle (STLC)
+                                                </li>
                                                 <li>Types of Software Testing</li>
                                                 <li>Functional Testing & Non-Functional Testing</li>
                                                 <li>Black Box vs. White Box Testing</li>
@@ -452,14 +481,14 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                            <li>Usability & Accessibility Testing</li>
-                                               <li>Defect Life Cycle & Bug Reporting</li>
-                                                <li>Test Management Tools (JIRA.)</li> 
+                                                <li>Usability & Accessibility Testing</li>
+                                                <li>Defect Life Cycle & Bug Reporting</li>
+                                                <li>Test Management Tools (JIRA.)</li>
                                                 <li>Agile Testing & Scrum Methodology</li>
-                                                <li>User Acceptance Testing (UAT)</li> 
-                                                <li>API Testing</li>                                         
-                                                <li>Performance & Security Testing Concepts</li>      
-                                             </ul>
+                                                <li>User Acceptance Testing (UAT)</li>
+                                                <li>API Testing</li>
+                                                <li>Performance & Security Testing Concepts</li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -474,14 +503,25 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">Python Training and Placement in belapur</h4>
-            <p><b>CNC WEB WORLD</b> provides Python classes and helps students find jobs. These aim to equip students with the know-how to thrive in Python-related jobs and to help them land positions after they finish their training. The programs cover a lot of Python topics. This covers code structure variable types, flow control, code blocks, class-based coding, and ready-made tools.  </p>
-            <p>Along with the training, the program offers extra help like career advice looking over resumes, getting ready for interviews, and helping with job searches. At <b>CNC WEB WORLD</b>, we also let students do internships or work on projects with industry partners giving them real-world experience and a chance to grow their professional connections. 
+            <h4 class="fw-bold blue">Python Training and Placement in belapur</h4>
+            <p><b>CNC WEB WORLD</b> provides Python classes and helps students find jobs. These aim to equip students
+                with the know-how to thrive in Python-related jobs and to help them land positions after they finish
+                their training. The programs cover a lot of Python topics. This covers code structure variable types,
+                flow control, code blocks, class-based coding, and ready-made tools. </p>
+            <p>Along with the training, the program offers extra help like career advice looking over resumes, getting
+                ready for interviews, and helping with job searches. At <b>CNC WEB WORLD</b>, we also let students do
+                internships or work on projects with industry partners giving them real-world experience and a chance to
+                grow their professional connections.
             </p>
             <p>
-            After you finish the program, you'll get help finding a job. You'll have access to job listings, events to meet people in the industry, and other tools to connect you with companies that might hire you.  Sometimes, the training program has teamed up with certain companies giving students a direct route to a job. 
+                After you finish the program, you'll get help finding a job. You'll have access to job listings, events
+                to meet people in the industry, and other tools to connect you with companies that might hire you.
+                Sometimes, the training program has teamed up with certain companies giving students a direct route to a
+                job.
             </p>
-            <p>Python training and placement programs that cover everything give people who want to begin a Python programming career or improve their skills a great choice. As more companies need Python developers, these programs give students an edge in the job market and a clear way to succeed in their careers.
+            <p>Python training and placement programs that cover everything give people who want to begin a Python
+                programming career or improve their skills a great choice. As more companies need Python developers,
+                these programs give students an edge in the job market and a clear way to succeed in their careers.
             </p>
         </div>
     </div>
@@ -592,9 +632,12 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">More About python course in belapur</h4>
-            <p>You can take a <b>Python course in belapur</b> that runs for 2-3 months. This program teaches you the basics of Python programming and some ways to use the language. The course aims to give students a strong base in Python programming, including syntax, data types, control structures, functions, and object-oriented programming. 
-A 2-3 month Python course might also teach you about: 
+            <h4 class="fw-bold blue">More About python course in belapur</h4>
+            <p>You can take a <b>Python course in belapur</b> that runs for 2-3 months. This program teaches you the
+                basics of Python programming and some ways to use the language. The course aims to give students a
+                strong base in Python programming, including syntax, data types, control structures, functions, and
+                object-oriented programming.
+                A 2-3 month Python course might also teach you about:
 
             </p>
             <ul>
@@ -605,11 +648,15 @@ A 2-3 month Python course might also teach you about:
                 <li>Tips to write Python code that's fast, easy to maintain, and reusable </li>
 
             </ul>
-            <p>The course has assignments, quizzes, and projects to help students learn better. Also, the course offers guidance or one-on-one help to support students with specific parts of the course content.  </p>
-            <p>A Python course lasting 2-3 months is a great choice for people who want to learn Python programming and how to use it in a short time. These courses can give students the skills and know-how to start a career in Python programming or to add Python to what they already know.</p>
+            <p>The course has assignments, quizzes, and projects to help students learn better. Also, the course offers
+                guidance or one-on-one help to support students with specific parts of the course content. </p>
+            <p>A Python course lasting 2-3 months is a great choice for people who want to learn Python programming and
+                how to use it in a short time. These courses can give students the skills and know-how to start a career
+                in Python programming or to add Python to what they already know.</p>
 
-            <h4 class="fw-bold"> Key highlights of Python Course in belapur </h4>
-            <p>Our Python classes and training module have key features that put us ahead of our rivals and give top-notch training to all our students.  </p>
+            <h4 class="fw-bold blue"> Key highlights of Python Course in belapur </h4>
+            <p>Our Python classes and training module have key features that put us ahead of our rivals and give
+                top-notch training to all our students. </p>
             <ul>
                 <li> Experienced Faculties</li>
                 <li>Limited Batch Size</li>
@@ -645,7 +692,7 @@ A 2-3 month Python course might also teach you about:
             <div class="row">
                 <div class="col-12 rounded-4 border py-3 px-4 bg-white shadow">
                     <div class="row text-center row-cols-lg-6 row-cols-md-3 row-cols-sm-3 row-cols-2  mx-auto">
-                    
+
                         <div class="col">
                             <img src="./assets/img/python.svg" alt="" class="img-fluid">
                         </div>
@@ -685,8 +732,8 @@ A 2-3 month Python course might also teach you about:
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
-      <!-- faq section start -->
-    <section id="faqs">
+    <!-- faqs-footer section start -->
+    <section id="faqs-footer">
         <div class="container-lg py-5 px-4 px-lg-0">
             <h2 class="fw-bold text-center py-3">
                 Frequently Asked Questions
@@ -795,7 +842,8 @@ A 2-3 month Python course might also teach you about:
                     <h2 class="accordion-header ">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                            <span class="fw-semibold"> Why is Python so popular as the first programming language?</span>
+                            <span class="fw-semibold"> Why is Python so popular as the first programming
+                                language?</span>
                         </button>
                     </h2>
                     <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
@@ -856,7 +904,7 @@ A 2-3 month Python course might also teach you about:
             </div>
         </div>
     </section>
-    <!-- faq section end -->
+    <!-- faqs-footer section end -->
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->

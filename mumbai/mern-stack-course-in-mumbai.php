@@ -4,9 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Learn data analytics at CNC Web World in Mumbai with placement support. Expert training and job placement services to boost your career!">
-    <meta name="keywords" content="data analytics courses in Mumbai, data analytics courses in mumbai with placement, courses on data analytics in Mumbai, data analytics course fees in Mumbai, best data analytics courses in Mumbai, data analytics courses fees in mumbai">
-    <title>Data Analytics Courses in Mumbai: Start Learning Today!</title>
+    <meta name="description"
+        content="Enroll in CNC Web World’s MERN Stack Developer Course in Mumbai. Gain practical skills in web development and start your journey as a full-stack developer! " />
+    <meta name="keywords"
+        content="mern stack certification in mumbai fees, best mern stack certification in Mumbai, mern stack training in Mumbai, mern stack developer course in mumbai price, mern stack developer course in mumbai fees, mern stack developer course in mumbai" />
+    <title>Get Expert MERN Stack Training in Mumbai at CNC Web World</title>
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
@@ -26,8 +28,8 @@
         <div class="container-lg">
             <div class="row py-5">
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
-                    <img src="./assets/img/data-analytics.webp" width="60px" alt="">
-                    <h1>Data Analytics with Python Intensive Training Program</h1>
+                    <img src="./assets/img/mern.svg" width="60px" alt="">
+                    <h1 class="pe-5">Mern Stack Intensive Training Program</h1>
                     <h3 class="fw-semibold"><i>100% Job Oriented Course</i></h3>
                     <div class="row">
                         <div class="col-4 ">
@@ -74,7 +76,8 @@
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
-                <h2 class="fw-bold mb-4 text-center">Why choose <span class="blue">Data Analytics?</span></h2>
+                <h2 class="fw-bold mb-4 text-center">Best MERN Stack Developer Course in Mumbai – <span class="blue">CNC
+                        WEB WORLD</span></h2>
             </div>
             <div class="row ">
                 <div class="col-lg-6 ">
@@ -83,21 +86,19 @@
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center ">
                     <p>
-                        <b>CNC WEB WORLD </b> offers a <b>Python Course in Mumbai</b> to teach students how to use
-                        Python, a widely used programming language, for many different purposes. Python has the
-                        flexibility to work in web development, data analysis, machine learning scientific computing,
-                        and other areas.
+                        Are you passionate about building powerful web applications and looking to kickstart a
+                        high-paying career in full-stack development? <b>CNC WEB WORLD</b> brings you the <b>Best MERN
+                            Stack Developer Course in Mumbai</b>, designed to equip you with cutting-edge skills in
+                        modern web development technologies. Whether you're a beginner or a working professional looking
+                        to upskill, our <b>MERN Stack Training in Mumbai</b> provides the perfect learning environment
+                        to shape your future as a successful web developer.
                     </p>
                     <p>
-                        A standard <b>Python course</b> covers Python syntax, data types, functions, control structures,
-                        object-oriented programming, file input/output, libraries and frameworks, web development, data
-                        analysis and visualization, and machine learning. The python classes in mumbai aims to give
-                        hands-on experience, with practical exercises and projects to strengthen understanding.
-                    </p>
-                    <p> The <b>Python Classes in Mumbai</b> includes tools and frameworks like NumPy, Pandas,
-                        Matplotlib, Flask, Django, TensorFlow, and PyTorch. These tools help to manage data, create
-                        visual representations, build web applications, and put machine learning algorithms into
-                        practice.
+                        The demand for full-stack developers is skyrocketing, and the <b>MERN stack – MongoDB,
+                            Express.js, React.js, and Node.js</b> – is the top choice for developing dynamic, scalable,
+                        and robust web applications. With CNC WEB WORLD, you get hands-on training, real-world projects,
+                        and 100% placement assistance, making this the <b>Best MERN Stack course with placement in
+                            Mumbai</b>.
                     </p>
                 </div>
             </div>
@@ -111,19 +112,75 @@
     <!-- roadmap-image start -->
     <div class="container  mt-5 mb-3">
         <div class="row mx-3 mx-md-0 mt-5 mb-3 pt-4 rounded" style="box-shadow: rgba(0, 0, 0, 0.5) 0px 4px 24px;">
-            <img src="./assets/img/roadmap-data-analytics.png" alt="" class="img-fluid">
+            <img src="./assets/img/roadmap-mern-fullstack.png" alt="" class="img-fluid">
         </div>
     </div>
     <!-- roadmap-image end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">What is MERN Stack and Why Should You Learn It?</h4>
+            <p>The MERN stack is a powerful combination of four leading technologies used in web development:</p>
+            <ul>
+                <li><b>MongoDB –</b> A non-relational database designed to store data in flexible, document-based
+                    formats similar to JSON.</li>
+                <li><b>Express.js –</b> A backend framework for Node.js that simplifies API creation.</li>
+                <li><b>React.js –</b> A frontend JavaScript library for creating dynamic user interfaces.</li>
+                <li><b>Node.js –</b> A JavaScript runtime that facilitates backend development by running code on the
+                    server.</li>
+            </ul>
+            <p>
+                The MERN Stack allows developers to use JavaScript for both frontend and backend development,
+                streamlining the entire development process and increasing productivity.
+            </p>
+            <p>If you’re looking to learn the latest technologies and stay ahead of the curve in the IT job market,
+                enrolling in our <b>MERN Stack Developer Course in Mumbai</b> is your best step forward.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- whoCanJoin start -->
     <?php include 'common/whoCanJoin.php' ?>
     <!-- WhoCanJoin end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Why Choose CNC WEB WORLD for MERN Stack Training in Mumbai?</h4>
+            <p>At CNC WEB WORLD, we don’t just teach you code — we prepare you for a successful IT career. Our MERN
+                Stack training is structured with one goal in mind: to make you industry-ready.</p>
+            <p>
+                <b>✅ Experienced Trainers :- </b>Our faculty members are seasoned MERN Stack professionals with
+                real-world project experience. They provide detailed guidance, industry insights, and personalized
+                support.
+            </p>
+            <p>
+                <b>✅ Practical, Project-Based Learning :- </b>Our MERN Stack Course in Mumbai emphasizes hands-on
+                development. Students work on real-time projects such as e-commerce platforms, portfolio websites,
+                blogging systems, and more.
+            </p>
+            <p>
+                <b>✅ Small Batch Size :- </b>We maintain small class sizes to ensure individual attention, interactive
+                learning, and smooth doubt-solving sessions.
+            </p>
+            <p>
+                <b>✅ 100% Job Guarantee :- </b>What makes our course unique is the <b>MERN Stack Course with Placement
+                    in Mumbai</b>. We assist you with resume building, interview preparation, mock tests, and connect
+                you with our hiring partners.
+            </p>
+            <p>
+                <b>✅ Best MERN Stack Certification in Mumbai :- </b>After completing your training, you’ll earn the
+                <b>MERN Stack Developer Certification in Mumbai from CNC WEB WORLD</b> – a highly recognized credential
+                in the tech industry.
+            </p>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- courseDetails section start -->
     <section id="courseDetail">
         <div class="container-lg">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h2 class="fw-bold mb-4 text-white">Data Analytics Development Curriculum</h2>
+                    <h2 class="fw-bold mb-4 text-white">Mern Stack Developer Curriculum</h2>
                 </div>
             </div>
         </div>
@@ -173,81 +230,40 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#python" aria-expanded="true" aria-controls="python">
-                                    Data Analysis with Python
+                                    data-bs-target="#webDesign" aria-expanded="true" aria-controls="webDesign">
+                                    Web Design
                                     <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
-                                        style="font-size: 12px;">#Backend</span>
+                                        style="font-size: 12px;">#Frontend</span>
                                     <span class="ms-auto">
                                         <img src="./assets/img/clock.svg" alt="">
                                         4 Weeks
                                     </span>
                                 </button>
                             </h2>
-                            <div id="python" class="accordion-collapse collapse show"
+                            <div id="webDesign" class="accordion-collapse collapse show"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="row">
                                         <div class="col-sm-6">
-                                            <ol>
-                                                <li>Introduction to Data Analysis
-                                                    <ul type="disc">
-                                                        <li>Importance of Data Analysis</li>
-                                                        <li>Overview of Python & Power BI for Data Analysis</li>
-                                                        <li>Data Analysis Process</li>
-                                                        <li>Data Analysis with Python</li>
-                                                    </ul>
-                                                </li>
-                                                <li>Python for Data Analysis
-                                                    <ul type="disc">
-                                                        <li>Setting Up Python Environment (Anaconda, Jupyter Notebook)
-                                                        </li>
-                                                        <li>Basics of Python (Variables, Data Types, Control Flow)</li>
-                                                    </ul>
-                                                </li>
-                                                <li>Data Manipulation with Pandas
-                                                    <ul type="disc">
-                                                        <li>Working with DataFrames & Series</li>
-                                                        <li>Handling Missing & Duplicate Data</li>
-                                                        <li>Data Aggregation & Grouping</li>
-                                                    </ul>
-                                                </li>
-                                                <li>Data Visualization with Matplotlib &Seaborn
-                                                    <ul type="disc">
-                                                        <li>Creating Line,Bar, Scatter, and Pie Charts</li>
-                                                        <li>Heatmaps & Correlation Plots</li>
-                                                    </ul>
-                                                </li>
-                                            </ol>
+                                            <ul>
+                                                <li>Weaving the World Wide Web</li>
+                                                <li>Text Formatting tags</li>
+                                                <li>HTML structures</li>
+                                                <li>Transformers of the Web (CSS)</li>
+                                                <li>Unlocking creative toolbox (CSS Properties)</li>
+                                                <li>Responsive Utilities</li>
+                                                <li>Bootstrap</li>
+                                            </ul>
                                         </div>
                                         <div class="col-sm-6">
-                                            <ol start="5">
-                                                <li>Exploratory Data Analysis (EDA)
-                                                    <ul type="disc">
-                                                        <li>Descriptive Statistics (Mean, Median, Mode)</li>
-                                                        <li>Identifying Outliers & Trends</li>
-                                                        <li>Feature Engineering</li>
-                                                    </ul>
-                                                </li>
-                                                <li>Statistical & Predictive Analysis
-                                                    <ul type="disc">
-                                                        <li>Correlation & Regression Analysis</li>
-                                                        <li>Hypothesis Testing</li>
-                                                        <li>Time Series Analysis (ARIMA, Prophet)</li>
-                                                    </ul>
-                                                </li>
-                                                <li>Data Analysis with SQL & Python
-                                                    <ul type="disc">
-                                                        <li>Querying Data with SQLAlchemy</li>
-                                                        <li>Integrating SQL with Pandas for Analysis</li>
-                                                    </ul>
-                                                </li>
-                                                <li>Introduction to Machine Learning for Data Analysis
-                                                    <ul type="disc">
-                                                        <li>Basics of Supervised & Unsupervised Learning</li>
-                                                        <li>Implementing Regression & Clustering in Python</li>
-                                                    </ul>
-                                                </li>
-                                            </ol>
+                                            <ul>
+                                                <li>Introduction to Javascript</li>
+                                                <li>Conditional and Control Statements</li>
+                                                <li>Javascript Function</li>
+                                                <li>Javascript Objects</li>
+                                                <li>Document Object Model</li>
+                                                <li> Modern Javascript</li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -256,40 +272,37 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#sql" aria-expanded="false" aria-controls="sql">
-                                    SQL
+                                    data-bs-target="#react" aria-expanded="false" aria-controls="react">
+                                    React
                                     <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
-                                        style="font-size: 12px;">#Database</span>
+                                        style="font-size: 12px;">#Frontend</span>
                                     <span class="ms-auto">
                                         <img src="./assets/img/clock.svg" alt="">
                                         4 Weeks
                                     </span>
                                 </button>
                             </h2>
-                            <div id="sql" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div id="react" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
-                                                <li>Introduction to Computer Essentials</li>
-                                                <li>Computational Thinking</li>
-                                                <li>Coding Construct</li>
-                                                <li>SQL Launchpad</li>
-                                                <li>Crafting SQL Databases (DDL)</li>
-                                                <li>ER Diagram and Normalization</li>
-                                                <li>Querying into Data (DQL)</li>
-                                                <li>Mastering Data Control (DML)</li>
+                                                <li>Introduction to ReactJS</li>
+                                                <li>Component, Props and State</li>
+                                                <li>Displaying Components</li>
+                                                <li>Handling Side-Effects</li>
+                                                <li>React Router (v6)</li>
+                                                <li> Handling Forms in React</li>
                                             </ul>
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                                <li>Unlock the Built in Functions</li>
-                                                <li>Subquery</li>
-                                                <li>Connecting Data for Insights (Joins)</li>
-                                                <li>Views</li>
-                                                <li>Customising SQL (Stored Procedure & Functions)</li>
-                                                <li>Cursor</li>
-                                                <li>Automating SQL (Triggers)</li>
+                                                <li>Github Card List App</li>
+                                                <li>JSX</li>
+                                                <li>React Context & Reducers</li>
+                                                <li>Handline Errors in React</li>
+                                                <li>Testing in React</li>
+                                                <li>React Building & Deployment - Vercel/Netlify</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -299,73 +312,110 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#power" aria-expanded="false" aria-controls="power">
-                                    Power BI
+                                    data-bs-target="#node" aria-expanded="false" aria-controls="node">
+                                    Node Js
                                     <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
                                         style="font-size: 12px;">#Backend</span>
                                     <span class="ms-auto">
                                         <img src="./assets/img/clock.svg" alt="">
-                                        6 Weeks
+                                        2 Weeks
                                     </span>
                                 </button>
                             </h2>
-                            <div id="power" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div id="node" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="row">
                                         <div class="col-sm-6">
-                                            <ol>
-                                                <li>Introduction to Power BI
-                                                    <ul type="disc">
-                                                        <li>Power BI Interface & Components</li>
-                                                        <li>Connecting to Data Sources (Excel, SQL, APIs)</li>
-                                                    </ul>
-                                                </li>
-                                                <li>Data Cleaning & Transformation in Power BI
-                                                    <ul type="disc">
-                                                        <li>Using Power Query for Data Preparation</li>
-                                                        <li>Creating Relationships Between Tables</li>
-                                                    </ul>
-                                                </li>
-                                                <li>Data Visualization in Power BI
-                                                    <ul type="disc">
-                                                        <li>Creating Reports & Dashboards</li>
-                                                        <li>Using Charts, Graphs & Maps</li>
-                                                        <li>Conditional Formatting & Custom Visuals</li>
-                                                    </ul>
-                                                </li>
-                                                <li>DAX (Data Analysis Expressions)
-                                                    <ul type="disc">
-                                                        <li>Introduction to DAX</li>
-                                                        <li>Calculated Columns & Measures</li>
-                                                        <li>Time Intelligence Functions</li>
-                                                    </ul>
-                                                </li>
-
-                                            </ol>
+                                            <ul>
+                                                <li>Introduction to Node.js & Its Architecture</li>
+                                                <li>Setting Up Node.js Environment</li>
+                                                <li> Asynchronous Programming & Event Loop</li>
+                                                <li>Node.js Modules & NPM Packages</li>
+                                            </ul>
                                         </div>
                                         <div class="col-sm-6">
-                                            <ol start="5">
-                                                <li>Advanced Power BI Features
-                                                    <ul type="disc">
-                                                        <li>Row-Level Security (RLS)</li>
-                                                        <li>Power BI Service & Cloud Sharing</li>
-                                                        <li>Automating Reports & Scheduling</li>
-                                                    </ul>
-                                                </li>
-                                                <li>Integrating Python with Power BI
-                                                    <ul type="disc">
-                                                        <li>Running Python Scripts in Power BI</li>
-                                                        <li>Creating Advanced Visuals with Python</li>
-                                                    </ul>
-                                                </li>
-                                                <li>Case Studies & Projects
-                                                    <ul type="disc">
-                                                        <li>Business & Sales Data Analysis</li>
-                                                        <li>Financial Reporting & Forecasting</li>
-                                                        <li>Customer Segmentation & Market Analysis</li>
-                                                    </ul>
-                                                </li>
-                                            </ol>
+                                            <ul>
+                                                <li>File System & Streams in Node.js</li>
+                                                <li>Working with HTTP & HTTPS Modules</li>
+                                                <li>Building CLI Applications with Node.js</li>
+                                                <li>Introduction to Web Frameworks (Express.js)</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#express" aria-expanded="false" aria-controls="express">
+                                    Express Js
+                                    <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
+                                        style="font-size: 12px;">#Backend</span>
+                                    <span class="ms-auto">
+                                        <img src="./assets/img/clock.svg" alt="">
+                                        3 Weeks
+                                    </span>
+                                </button>
+                            </h2>
+                            <div id="express" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="row">
+                                        <div class="col-sm-6">
+                                            <ul>
+                                                <li>Introduction to Express.js & Its Features</li>
+                                                <li>Setting Up Express.js Project</li>
+                                                <li>Routing & Middleware in Express.js</li>
+                                                <li>Handling Requests & Responses</li>
+                                                <li>Template Engines (EJS, Handlebars, Pug)</li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <ul>
+                                                <li>Authentication & Authorization (JWT, OAuth)</li>
+                                                <li>RESTful API Development with Express.js</li>
+                                                <li>Error Handling & Logging in Express.js</li>
+                                                <li>WebSockets & Real-time Communication (Socket.io)</li>
+                                                <li> Deploying Express.js Applications</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#mangodb" aria-expanded="false" aria-controls="mangodb">
+                                    MangoDB
+                                    <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
+                                        style="font-size: 12px;">#Database</span>
+                                    <span class="ms-auto">
+                                        <img src="./assets/img/clock.svg" alt="">
+                                        1 Week
+                                    </span>
+                                </button>
+                            </h2>
+                            <div id="mangodb" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="row">
+                                        <div class="col-sm-6">
+                                            <ul>
+                                                <li>Introduction to NoSQL & MongoDB</li>
+                                                <li>Installing & Setting Up MongoDB</li>
+                                                <li>CRUD Operations in MongoDB</li>
+                                                <li>Indexing & Aggregation Framework</li>
+                                                <li>MongoDB Data Models (Documents, Collections)</li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <ul>
+                                                <li>MongoDB Schema Design & Relationships</li>
+                                                <li>Mongoose ODM (Object Data Modeling)</li>
+                                                <li>Authentication & Security in MongoDB</li>
+                                                <li>Replication & Sharding in MongoDB</li>
+                                                <li>MongoDB with Node.js & Express.js</li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -505,6 +555,74 @@
         </div>
     </section>
     <!-- courseDetails section end -->
+
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Course Highlights: <span class="blue"> MERN Stack Developer Course in Mumbai</span></h4>
+            <p>Our MERN Stack syllabus is designed to take you from fundamentals to advanced-level development in just a
+                few months. Here's what you will learn:</p>
+            <div class="row">
+                <div class="col-md-6">
+                    <h6 class="fst-italic fw-semibold blue"> <span class=" fw-bold" style="color:#F8312F;"> 📌 Module 1
+                            :</span> HTML, CSS, JavaScript
+                        Basics</h6>
+                    <ul>
+                        <li>HTML5 Semantic Elements</li>
+                        <li>CSS3, Flexbox & Responsive Design</li>
+                        <li>Core JavaScript, DOM Manipulation, ES6+</li>
+                    </ul>
+                    <h6 class="fst-italic fw-semibold blue"> <span class=" fw-bold" style="color:#F8312F;"> 📌 Module 2
+                            :</span> React.js – Frontend
+                        Development</h6>
+                    <ul>
+                        <li>React Components and Props</li>
+                        <li>State Management</li>
+                        <li>React Hooks (useState, useEffect)</li>
+                        <li>React Router</li>
+                        <li>Redux (State Management Library)</li>
+                        <li>RESTful APIs integration</li>
+                    </ul>
+                    <h6 class="fst-italic fw-semibold blue"> <span class=" fw-bold" style="color:#F8312F;"> 📌 Module 3
+                            :</span> Node.js and Express.js
+                        – Backend Development</h6>
+                    <ul>
+                        <li> Introduction to Node.js</li>
+                        <li>NPM Packages and Modules</li>
+                        <li>Express.js Framework</li>
+                        <li>Building RESTful APIs</li>
+                        <li>Authentication & Authorization (JWT)</li>
+
+                    </ul>
+                </div>
+                <div class="col-md-6">
+
+                    <h6 class="fst-italic fw-semibold blue"> <span class=" fw-bold" style="color:#F8312F;"> 📌 Module 4
+                            :</span> MongoDB – Database
+                        Management</h6>
+                    <ul>
+                        <li> Introduction to NoSQL Databases</li>
+                        <li>MongoDB CRUD Operations</li>
+                        <li>Mongoose ODM Integration</li>
+                        <li>Data Modeling and Schema Design</li>
+
+                    </ul>
+                    <h6 class="fst-italic fw-semibold blue"> <span class=" fw-bold" style="color:#F8312F;"> 📌 Module 5
+                            :</span> Real-World Project
+                        Development</h6>
+                    <ul>
+                        <li>Full-stack projects with frontend/backend/database integration</li>
+                        <li>Debugging and Testing Tools</li>
+                        <li>Version Control using Git & GitHub</li>
+                        <li>Deployment on cloud platforms (Heroku, Netlify, Vercel)</li>
+
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- industryProject  section start -->
     <section id="industryProject">
         <div class="container-fluid py-5 px-2 px-md-5">
@@ -608,46 +726,104 @@
         </div>
     </section>
     <!-- industryProject  section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">MERN Stack Course with Placement in Mumbai – Our Commitment to Your Career</h4>
+            <p>Our dedicated placement cell ensures that every student is ready to face the real world. Here’s what we
+                provide:</p>
+            <ul>
+                <li>Resume Writing Assistance</li>
+                <li>Interview Preparation Sessions</li>
+                <li>Mock Technical & HR Interviews</li>
+                <li>Job Referrals to Partner Companies</li>
+                <li>Internship Opportunities & Live Projects</li>
+            </ul>
+            <p>
+                With strong industry ties and a proven track record, our <b>MERN Stack Training in Mumbai with Placement
+                    Support</b> is your gateway to joining top IT firms and startups as a Full Stack Developer.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- keyHighlights section start -->
     <?php include 'common/keyHighlights.php' ?>
     <!-- keyHighlights section end -->
-
     <!-- benefits  section start -->
-    <!-- <?php include 'common/benefits.php' ?> -->
+    <?php include 'common/benefits.php' ?>
     <!-- benefits  section end -->
     <!-- brochure section start -->
     <?php include 'common/download.php' ?>
     <!-- brochure section end -->
+
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Who Should Enroll in this <span class="blue">MERN Stack Developer Course in
+                    Mumbai?</span></h4>
+            <p>The MERN stack is a powerful combination of four leading technologies used in web development:</p>
+            <span>Our course is ideal for:</span>
+            <ul>
+                <li>Fresh graduates aiming for a career in web development</li>
+                <li>Professionals looking to switch to full-stack development</li>
+                <li>Entrepreneurs wanting to build their own tech platforms</li>
+                <li>Freelancers seeking in-demand skills</li>
+            </ul>
+            <p>
+                Whether you come from a tech background or not, our <b>MERN Stack course</b> is designed to make you
+                job-ready from scratch.</p>
+            <h5 class="fw-bold blue">Why Our Certification Matters?</h5>
+            <p>Upon successful completion, you’ll receive the <b>MERN Stack Developer Certification in Mumbai</b>,
+                proving your expertise in full-stack development. Our certification opens doors to:</p>
+            <ul>
+                <li> Entry-level and mid-level developer roles</li>
+                <li>Freelance or remote development projects</li>
+                <li>Opportunities in product-based and service-based companies</li>
+
+            </ul>
+            <p>Being certified from a reputed institute like <b>CNC WEB WORLD</b> is a valuable asset in your portfolio
+                and gives you an edge in job interviews.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- programmingTools section start -->
     <section id="programmingTools">
         <div class="container py-5 px-4 px-md-0">
             <div class="row">
                 <div class="col-12 text-center my-3">
-                    <h2 class="fw-bolder">Programming Languages & Tools Covered in Python Developer Course
+                    <h2 class="fw-bolder">Programming Languages & Tools Covered in Mern Stack Developer Course
                     </h2>
                 </div>
+
             </div>
             <div class="row">
                 <div class="col-12 rounded-4 border py-3 px-4 bg-white shadow">
-                    <div class="row text-center row-cols-lg-6 row-cols-md-3 row-cols-sm-3 row-cols-2  mx-auto px-auto">
-                       
+                    <div class="row text-center row-cols-lg-6 row-cols-md-4 row-cols-sm-3 row-cols-2  mx-auto">
                         <div class="col">
-                            <img src="./assets/img/python.svg" alt="" class="img-fluid">
+                            <img src="./assets/img/HTML-b.svg" alt="" class="img-fluid">
                         </div>
                         <div class="col">
-                            <img src="./assets/img/numpy.png" alt="" class="img-fluid">
+                            <img src="./assets/img/CSS3.svg" alt="" class="img-fluid">
                         </div>
                         <div class="col">
-                            <img src="./assets/img/pandas.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="col ">
-                            <img src="./assets/img/matplotlib.webp" alt="" class="img-fluid">
+                            <img src="./assets/img/javascript-b.svg" alt="" class="img-fluid">
                         </div>
                         <div class="col">
-                            <img src="./assets/img/powerBI.jpeg" alt="" class="img-fluid">
+                            <img src="./assets/img/bootstrap.png" alt="" class="img-fluid">
                         </div>
                         <div class="col">
-                            <img src="./assets/img/mysql.png" alt="" class="img-fluid">
+                            <img src="./assets/img/tailwind-css-b.svg" alt="" class="img-fluid">
+                        </div>
+                        <div class="col">
+                            <img src="./assets/img/React-b.svg" alt="" class="img-fluid">
+                        </div>
+                        <div class="col">
+                            <img src="./assets/img/nodejs.png" alt="" class="img-fluid">
+                        </div>
+                        <div class="col">
+                            <img src="./assets/img/express-js.png" alt="" class="img-fluid">
+                        </div>
+                        <div class="col">
+                            <img src="./assets/img/mongodb-b.svg" alt="" class="img-fluid">
                         </div>
                         <div class="col">
                             <img src="./assets/img/aws.png" alt="" class="img-fluid">
@@ -657,40 +833,36 @@
                         </div>
                         <div class="col">
                             <img src="./assets/img/testing.png" alt="" class="img-fluid">
-                         </div> 
-                         <!--<div class="col mx-auto">
-                            <img src="./assets/img/python.svg" alt="" class="img-fluid">
                         </div>
-                        <div class="col mx-auto">
-                            <img src="./assets/img/numpy.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="col mx-auto">
-                            <img src="./assets/img/pandas.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="col mx-auto">
-                            <img src="./assets/img/matplotlib.webp" alt="" class="img-fluid">
-                        </div>
-                        <div class="col mx-auto">
-                            <img src="./assets/img/powerBI.jpeg" alt="" class="img-fluid">
-                        </div>
-                        <div class="col mx-auto">
-                            <img src="./assets/img/mysql.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="col mx-auto">
-                            <img src="./assets/img/aws.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="col mx-auto">
-                            <img src="./assets/img/docker.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="col mx-auto">
-                            <img src="./assets/img/testing.png" alt="" class="img-fluid">
-                        </div> -->
                     </div>
                 </div>
             </div>
         </div>
     </section>
     <!-- programmingTools section end -->
+
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Key Features of MERN Stack Developer Training at CNC WEB WORLD</h4>
+            <ul type="none">
+                <li>🔹 Industry-Relevant Curriculum</li>
+                <li>🔹 Hands-on Coding Practice</li>
+                <li>🔹 Real-World Project Building</li>
+                <li>🔹 Doubt Clearing Sessions</li>
+                <li>🔹 Interview Preparation Workshops</li>
+                <li>🔹 Access to Placement Drives</li>
+                <li>🔹 Best MERN Stack Certification in Mumbai</li>
+            </ul>
+            <h5 class="fw-bold blue">Duration and Mode of Learning</h5>
+            <ul>
+                <li> <b>Course Duration:</b> 2 to 3 Months (Flexible Weekend & Weekday Batches)</li>
+                <li><b>Mode:</b> Classroom Training in Mumbai | Online Training also available</li>
+                <li><b>Eligibility:</b> No prior coding knowledge required</li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- roadMapStep start -->
     <?php include 'common/roadMapStep.php' ?>
     <!-- roadMapStep end -->
@@ -706,6 +878,106 @@
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
+    <!-- faqs-footer section start -->
+    <section id="faqs-footer">
+        <div class="container-lg py-5 px-4 px-lg-0">
+            <h2 class="fw-bold text-center py-3">
+                Frequently Asked Questions
+            </h2>
+            <div class="accordion" id="accordionExample2">
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                            <span class="fw-semibold"> What is the MERN Stack?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>The MERN stack is a full-stack JavaScript framework comprising MongoDB, Express.js, React.js, and Node.js, used to build high-performance web apps.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                            <span class="fw-semibold"> Will this course help me get a job?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Yes! Our <b>MERN Stack Course with Placement in Mumbai</b> includes complete placement support. We assist you in securing jobs with partner companies and startups.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                            <span class="fw-semibold"> Am I eligible for a certificate after finishing the course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Absolutely. You will receive the <b>MERN Stack Developer Certification in Mumbai</b>, recognized across the tech industry.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header ">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                            <span class="fw-semibold">Can I learn this course if I’m from a non-technical background?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Yes, the course is beginner-friendly. Our trainers guide you from basic concepts to advanced development skills.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                            <span class="fw-semibold"> What kind of job roles can I get after this course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>You can apply for roles such as:</p>
+                            <ul>
+                                <li>Full Stack Developer</li>
+                                <li>MERN Stack Developer</li>
+                                <li>Backend Developer</li>
+                                <li>Frontend React Developer</li>
+                                <li>Web Application Developer</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- faqs-footer section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 py-5 px-lg-0 ">
+            <h4 class="fw-bold blue">Take the First Step Towards Your Web Development Career</h4>
+            <h5 class="fw-bsemiold">Enroll Today and Start Your Journey as a MERN Stack Developer </h5>
+            <p>
+                <b>CNC WEB WORLD’s MERN Stack Developer Course in Mumbai</b> is your gateway to a high-growth tech career. Join us to gain hands-on coding experience, master full stack development, and land your dream job in IT.
+            </p>
+            <ul type="none">
+                <li><b>📞 Call Now:</b> <a href="tel:7400193799">[7400193799]</a></li>
+                <li><b>📍 Visit Us:</b> Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above Union
+                    Bank, Nerul West, Navi Mumbai, Maharashtra 400706 </li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->

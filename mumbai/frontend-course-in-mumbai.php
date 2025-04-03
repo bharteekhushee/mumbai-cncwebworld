@@ -521,6 +521,9 @@
                             <img src="./assets/img/tailwind-css-b.svg" alt="" class="img-fluid">
                         </div>
                         <div class="col">
+                            <img src="./assets/img/React-b.svg" alt="" class="img-fluid">
+                        </div>
+                        <div class="col">
                             <img src="./assets/img/github.png" alt="" class="img-fluid">
                         </div>
                         <div class="col">

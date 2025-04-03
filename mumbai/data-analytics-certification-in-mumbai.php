@@ -4,9 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Enroll in CNC Web World’s MERN Stack Developer Course in Mumbai. Gain practical skills in web development and start your journey as a full-stack developer! "/>
-    <meta name="keywords" content="mern stack certification in mumbai fees, best mern stack certification in Mumbai, mern stack training in Mumbai, mern stack developer course in mumbai price, mern stack developer course in mumbai fees, mern stack developer course in mumbai"/>
-    <title>Get Expert MERN Stack Training in Mumbai at CNC Web World</title>
+    <meta name="description"
+        content="Learn data analytics at CNC Web World in Mumbai with placement support. Expert training and job placement services to boost your career!">
+    <meta name="keywords"
+        content="data analytics courses in Mumbai, data analytics courses in mumbai with placement, courses on data analytics in Mumbai, data analytics course fees in Mumbai, best data analytics courses in Mumbai, data analytics courses fees in mumbai">
+    <title>Data Analytics Courses in Mumbai: Start Learning Today!</title>
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
@@ -26,8 +28,8 @@
         <div class="container-lg">
             <div class="row py-5">
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
-                    <img src="./assets/img/mern.svg" width="60px" alt="">
-                    <h1 class="pe-5">Mern Stack Intensive Training Program</h1>
+                    <img src="./assets/img/data-analytics.webp" width="60px" alt="">
+                    <h1>Data Analytics with Python Intensive Training Program</h1>
                     <h3 class="fw-semibold"><i>100% Job Oriented Course</i></h3>
                     <div class="row">
                         <div class="col-4 ">
@@ -74,7 +76,7 @@
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
-                <h2 class="fw-bold mb-4 text-center">What is <span class="blue">Mern Stack?</span></h2>
+                <h2 class="fw-bold mb-4 text-center">Data Analytics Courses in Mumbai - <span class="blue">CNC WEB  WORLD</span></h2>
             </div>
             <div class="row ">
                 <div class="col-lg-6 ">
@@ -83,21 +85,18 @@
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center ">
                     <p>
-                        <b>CNC WEB WORLD </b> offers a <b>Python Course in Mumbai</b> to teach students how to use
-                        Python, a widely used programming language, for many different purposes. Python has the
-                        flexibility to work in web development, data analysis, machine learning scientific computing,
-                        and other areas.
+                        In today's data-driven world, businesses rely on skilled data analysts to interpret and make
+                        strategic decisions based on data insights. If you're looking for the <b>Best Data Analytics
+                            Courses in Mumbai, CNC WEB WORLD</b> provides a comprehensive learning experience that equips you
+                        with the right tools and techniques to build a successful career in data analytics. Our courses
+                        cover fundamental to advanced data analytics concepts, ensuring that students are
+                        industry-ready.
                     </p>
+                    <h5 class="fw-bold blue">What is Data Analytics?</h5>
                     <p>
-                        A standard <b>Python course</b> covers Python syntax, data types, functions, control structures,
-                        object-oriented programming, file input/output, libraries and frameworks, web development, data
-                        analysis and visualization, and machine learning. The python classes in mumbai aims to give
-                        hands-on experience, with practical exercises and projects to strengthen understanding.
-                    </p>
-                    <p> The <b>Python Classes in Mumbai</b> includes tools and frameworks like NumPy, Pandas,
-                        Matplotlib, Flask, Django, TensorFlow, and PyTorch. These tools help to manage data, create
-                        visual representations, build web applications, and put machine learning algorithms into
-                        practice.
+                        Data analytics involves examining raw data to extract meaningful insights and trends that aid in
+                        business decision-making. It is widely used across industries such as finance, healthcare,
+                        e-commerce, and marketing to improve efficiency and optimize performance.
                     </p>
                 </div>
             </div>
@@ -111,19 +110,103 @@
     <!-- roadmap-image start -->
     <div class="container  mt-5 mb-3">
         <div class="row mx-3 mx-md-0 mt-5 mb-3 pt-4 rounded" style="box-shadow: rgba(0, 0, 0, 0.5) 0px 4px 24px;">
-            <img src="./assets/img/roadmap-mern-fullstack.png" alt="" class="img-fluid">
+            <img src="./assets/img/roadmap-data-analytics.png" alt="" class="img-fluid">
         </div>
     </div>
     <!-- roadmap-image end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Why Choose CNC WEB WORLD for Data Analytics Courses in Mumbai?</h4>
+            <p><b>CNC WEB WORLD</b> stands out as a top training institute offering hands-on, practical-oriented courses
+                on
+                <b>data analytics in Mumbai</b>. Here’s why you should choose us:
+            </p>
+            <ul>
+                <li><b>Industry Experts as Mentors:</b> Learn from seasoned professionals with real-world experience.
+                </li>
+                <li> <b>Comprehensive Curriculum:</b> Covering Python, SQL, Tableau, Power BI, Excel, Machine Learning,
+                    and more.</li>
+                <li><b> Practical Training:</b> Hands-on exercises and projects to enhance problem-solving skills.</li>
+                <li><b>Placement Assistance</b>: 100% job placement support, resume building, and interview preparation.
+                </li>
+                <li> <b>Industry-Recognized Certification:</b> Validate your expertise with CNC WEB WORLD’s
+                    certification.</li>
+
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- whoCanJoin start -->
     <?php include 'common/whoCanJoin.php' ?>
     <!-- WhoCanJoin end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Best Data Analytics Courses in Mumbai – Course Overview</h4>
+            <p>
+                At <b>CNC WEB WORLD</b>, our <b>data analytics courses in Mumbai</b> are designed to provide students
+                with a thorough
+                understanding of various data analytics tools and techniques. Our structured approach ensures that
+                students gain both theoretical knowledge and practical experience.
+            </p>
+            <div class="row">
+                <div class="col-md-6">
+                    <h6 class="fw-bold fst-italic blue">1. Python for Data Analytics</h6>
+                    <ul>
+                        <li>Introduction to Python and its applications in data analytics.</li>
+                        <li>Data manipulation using NumPy and Pandas.</li>
+                        <li>Data visualization using Matplotlib and Seaborn.</li>
+                        <li>Exploratory Data Analysis (EDA) techniques.</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <h6 class="fw-bold fst-italic blue">2. SQL for Data Analytics</h6>
+                    <ul>
+                        <li>Mastering the fundamentals of databases and relational database management systems (RDBMS).
+                        </li>
+                        <li>Writing SQL commands to retrieve, filter, and analyze data.</li>
+                        <li>Data filtering, aggregation, and joins.</li>
+                        <li>Advanced SQL concepts like stored procedures and indexing.</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <h6 class="fw-bold fst-italic blue">3. Data Representation and Insights with Tableau & Power BI</h6>
+                    <ul>
+                        <li> Understanding data visualization principles.</li>
+                        <li> Creating interactive dashboards and reports.</li>
+                        <li> Using Tableau and Power BI for data storytelling.</li>
+                        <li> Real-time case studies and hands-on projects.</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <h6 class="fw-bold fst-italic blue">4. Advanced Excel for Data Analytics</h6>
+                    <ul>
+                        <li>Working with data visualization and automation using pivot tables, charts, and macros</li>
+                        <li> Data cleaning and transformation techniques.</li>
+                        <li> Mastering advanced Excel tools to interpret and analyze data.</li>
+                        <li> Automation techniques for large datasets.</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <h6 class="fw-bold fst-italic blue">5. Machine Learning for Data Analytics</h6>
+                    <ul>
+                        <li> Basics of machine learning algorithms.</li>
+                        <li> Supervised and unsupervised learning.</li>
+                        <li> Building predictive models using Python.</li>
+                        <li> Model evaluation and optimization techniques.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- courseDetails section start -->
     <section id="courseDetail">
         <div class="container-lg">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h2 class="fw-bold mb-4 text-white">Mern Stack Developer Curriculum</h2>
+                    <h2 class="fw-bold mb-4 text-white">Data Analytics Development Curriculum</h2>
                 </div>
             </div>
         </div>
@@ -173,40 +256,81 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#webDesign" aria-expanded="true" aria-controls="webDesign">
-                                    Web Design
+                                    data-bs-target="#python" aria-expanded="true" aria-controls="python">
+                                    Data Analysis with Python
                                     <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
-                                        style="font-size: 12px;">#Frontend</span>
+                                        style="font-size: 12px;">#Backend</span>
                                     <span class="ms-auto">
                                         <img src="./assets/img/clock.svg" alt="">
                                         4 Weeks
                                     </span>
                                 </button>
                             </h2>
-                            <div id="webDesign" class="accordion-collapse collapse show"
+                            <div id="python" class="accordion-collapse collapse show"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="row">
                                         <div class="col-sm-6">
-                                            <ul>
-                                                <li>Weaving the World Wide Web</li>
-                                                <li>Text Formatting tags</li>
-                                                <li>HTML structures</li>
-                                                <li>Transformers of the Web (CSS)</li>
-                                                <li>Unlocking creative toolbox (CSS Properties)</li>
-                                                <li>Responsive Utilities</li>
-                                                <li>Bootstrap</li>
-                                            </ul>
+                                            <ol>
+                                                <li>Introduction to Data Analysis
+                                                    <ul type="disc">
+                                                        <li>Importance of Data Analysis</li>
+                                                        <li>Overview of Python & Power BI for Data Analysis</li>
+                                                        <li>Data Analysis Process</li>
+                                                        <li>Data Analysis with Python</li>
+                                                    </ul>
+                                                </li>
+                                                <li>Python for Data Analysis
+                                                    <ul type="disc">
+                                                        <li>Setting Up Python Environment (Anaconda, Jupyter Notebook)
+                                                        </li>
+                                                        <li>Basics of Python (Variables, Data Types, Control Flow)</li>
+                                                    </ul>
+                                                </li>
+                                                <li>Data Manipulation with Pandas
+                                                    <ul type="disc">
+                                                        <li>Working with DataFrames & Series</li>
+                                                        <li>Handling Missing & Duplicate Data</li>
+                                                        <li>Data Aggregation & Grouping</li>
+                                                    </ul>
+                                                </li>
+                                                <li>Data Visualization with Matplotlib &Seaborn
+                                                    <ul type="disc">
+                                                        <li>Creating Line,Bar, Scatter, and Pie Charts</li>
+                                                        <li>Heatmaps & Correlation Plots</li>
+                                                    </ul>
+                                                </li>
+                                            </ol>
                                         </div>
                                         <div class="col-sm-6">
-                                            <ul>
-                                                <li>Introduction to Javascript</li>
-                                                <li>Conditional and Control Statements</li>
-                                                <li>Javascript Function</li>
-                                                <li>Javascript Objects</li>
-                                                <li>Document Object Model</li>
-                                                <li> Modern Javascript</li>
-                                            </ul>
+                                            <ol start="5">
+                                                <li>Exploratory Data Analysis (EDA)
+                                                    <ul type="disc">
+                                                        <li>Descriptive Statistics (Mean, Median, Mode)</li>
+                                                        <li>Identifying Outliers & Trends</li>
+                                                        <li>Feature Engineering</li>
+                                                    </ul>
+                                                </li>
+                                                <li>Statistical & Predictive Analysis
+                                                    <ul type="disc">
+                                                        <li>Correlation & Regression Analysis</li>
+                                                        <li>Hypothesis Testing</li>
+                                                        <li>Time Series Analysis (ARIMA, Prophet)</li>
+                                                    </ul>
+                                                </li>
+                                                <li>Data Analysis with SQL & Python
+                                                    <ul type="disc">
+                                                        <li>Querying Data with SQLAlchemy</li>
+                                                        <li>Integrating SQL with Pandas for Analysis</li>
+                                                    </ul>
+                                                </li>
+                                                <li>Introduction to Machine Learning for Data Analysis
+                                                    <ul type="disc">
+                                                        <li>Basics of Supervised & Unsupervised Learning</li>
+                                                        <li>Implementing Regression & Clustering in Python</li>
+                                                    </ul>
+                                                </li>
+                                            </ol>
                                         </div>
                                     </div>
                                 </div>
@@ -215,37 +339,40 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#react" aria-expanded="false" aria-controls="react">
-                                    React
+                                    data-bs-target="#sql" aria-expanded="false" aria-controls="sql">
+                                    SQL
                                     <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
-                                        style="font-size: 12px;">#Frontend</span>
+                                        style="font-size: 12px;">#Database</span>
                                     <span class="ms-auto">
                                         <img src="./assets/img/clock.svg" alt="">
                                         4 Weeks
                                     </span>
                                 </button>
                             </h2>
-                            <div id="react" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div id="sql" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
-                                                <li>Introduction to ReactJS</li>
-                                                <li>Component, Props and State</li>
-                                                <li>Displaying Components</li>
-                                                <li>Handling Side-Effects</li>
-                                                <li>React Router (v6)</li>
-                                                <li> Handling Forms in React</li>
+                                                <li>Introduction to Computer Essentials</li>
+                                                <li>Computational Thinking</li>
+                                                <li>Coding Construct</li>
+                                                <li>SQL Launchpad</li>
+                                                <li>Crafting SQL Databases (DDL)</li>
+                                                <li>ER Diagram and Normalization</li>
+                                                <li>Querying into Data (DQL)</li>
+                                                <li>Mastering Data Control (DML)</li>
                                             </ul>
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                                <li>Github Card List App</li>
-                                                <li>JSX</li>
-                                                <li>React Context & Reducers</li>
-                                                <li>Handline Errors in React</li>
-                                                <li>Testing in React</li>
-                                                <li>React Building & Deployment - Vercel/Netlify</li>
+                                                <li>Unlock the Built in Functions</li>
+                                                <li>Subquery</li>
+                                                <li>Connecting Data for Insights (Joins)</li>
+                                                <li>Views</li>
+                                                <li>Customising SQL (Stored Procedure & Functions)</li>
+                                                <li>Cursor</li>
+                                                <li>Automating SQL (Triggers)</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -255,110 +382,73 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#node" aria-expanded="false" aria-controls="node">
-                                    Node Js
+                                    data-bs-target="#power" aria-expanded="false" aria-controls="power">
+                                    Power BI
                                     <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
                                         style="font-size: 12px;">#Backend</span>
                                     <span class="ms-auto">
                                         <img src="./assets/img/clock.svg" alt="">
-                                        2 Weeks
+                                        6 Weeks
                                     </span>
                                 </button>
                             </h2>
-                            <div id="node" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div id="power" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="row">
                                         <div class="col-sm-6">
-                                            <ul>
-                                                <li>Introduction to Node.js & Its Architecture</li>
-                                                <li>Setting Up Node.js Environment</li>
-                                                <li> Asynchronous Programming & Event Loop</li>
-                                                <li>Node.js Modules & NPM Packages</li>
-                                            </ul>
+                                            <ol>
+                                                <li>Introduction to Power BI
+                                                    <ul type="disc">
+                                                        <li>Power BI Interface & Components</li>
+                                                        <li>Connecting to Data Sources (Excel, SQL, APIs)</li>
+                                                    </ul>
+                                                </li>
+                                                <li>Data Cleaning & Transformation in Power BI
+                                                    <ul type="disc">
+                                                        <li>Using Power Query for Data Preparation</li>
+                                                        <li>Creating Relationships Between Tables</li>
+                                                    </ul>
+                                                </li>
+                                                <li>Data Visualization in Power BI
+                                                    <ul type="disc">
+                                                        <li>Creating Reports & Dashboards</li>
+                                                        <li>Using Charts, Graphs & Maps</li>
+                                                        <li>Conditional Formatting & Custom Visuals</li>
+                                                    </ul>
+                                                </li>
+                                                <li>DAX (Data Analysis Expressions)
+                                                    <ul type="disc">
+                                                        <li>Introduction to DAX</li>
+                                                        <li>Calculated Columns & Measures</li>
+                                                        <li>Time Intelligence Functions</li>
+                                                    </ul>
+                                                </li>
+
+                                            </ol>
                                         </div>
                                         <div class="col-sm-6">
-                                            <ul>
-                                                <li>File System & Streams in Node.js</li>
-                                                <li>Working with HTTP & HTTPS Modules</li>
-                                                <li>Building CLI Applications with Node.js</li>
-                                                <li>Introduction to Web Frameworks (Express.js)</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#express" aria-expanded="false" aria-controls="express">
-                                    Express Js
-                                    <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
-                                        style="font-size: 12px;">#Backend</span>
-                                    <span class="ms-auto">
-                                        <img src="./assets/img/clock.svg" alt="">
-                                        3 Weeks
-                                    </span>
-                                </button>
-                            </h2>
-                            <div id="express" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <div class="row">
-                                        <div class="col-sm-6">
-                                            <ul>
-                                                <li>Introduction to Express.js & Its Features</li>
-                                                <li>Setting Up Express.js Project</li>
-                                                <li>Routing & Middleware in Express.js</li>
-                                                <li>Handling Requests & Responses</li>
-                                                <li>Template Engines (EJS, Handlebars, Pug)</li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-sm-6">
-                                            <ul>
-                                                <li>Authentication & Authorization (JWT, OAuth)</li>
-                                                <li>RESTful API Development with Express.js</li>
-                                                <li>Error Handling & Logging in Express.js</li>
-                                                <li>WebSockets & Real-time Communication (Socket.io)</li>
-                                                <li> Deploying Express.js Applications</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#mangodb" aria-expanded="false" aria-controls="mangodb">
-                                    MangoDB
-                                    <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
-                                        style="font-size: 12px;">#Database</span>
-                                    <span class="ms-auto">
-                                        <img src="./assets/img/clock.svg" alt="">
-                                        1 Week
-                                    </span>
-                                </button>
-                            </h2>
-                            <div id="mangodb" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <div class="row">
-                                        <div class="col-sm-6">
-                                            <ul>
-                                                <li>Introduction to NoSQL & MongoDB</li>
-                                                <li>Installing & Setting Up MongoDB</li>
-                                                <li>CRUD Operations in MongoDB</li>
-                                                <li>Indexing & Aggregation Framework</li>
-                                                <li>MongoDB Data Models (Documents, Collections)</li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-sm-6">
-                                            <ul>
-                                                <li>MongoDB Schema Design & Relationships</li>
-                                                <li>Mongoose ODM (Object Data Modeling)</li>
-                                                <li>Authentication & Security in MongoDB</li>
-                                                <li>Replication & Sharding in MongoDB</li>
-                                                <li>MongoDB with Node.js & Express.js</li>
-                                            </ul>
+                                            <ol start="5">
+                                                <li>Advanced Power BI Features
+                                                    <ul type="disc">
+                                                        <li>Row-Level Security (RLS)</li>
+                                                        <li>Power BI Service & Cloud Sharing</li>
+                                                        <li>Automating Reports & Scheduling</li>
+                                                    </ul>
+                                                </li>
+                                                <li>Integrating Python with Power BI
+                                                    <ul type="disc">
+                                                        <li>Running Python Scripts in Power BI</li>
+                                                        <li>Creating Advanced Visuals with Python</li>
+                                                    </ul>
+                                                </li>
+                                                <li>Case Studies & Projects
+                                                    <ul type="disc">
+                                                        <li>Business & Sales Data Analysis</li>
+                                                        <li>Financial Reporting & Forecasting</li>
+                                                        <li>Customer Segmentation & Market Analysis</li>
+                                                    </ul>
+                                                </li>
+                                            </ol>
                                         </div>
                                     </div>
                                 </div>
@@ -498,6 +588,24 @@
         </div>
     </section>
     <!-- courseDetails section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Industry-Focused Data Analytics Courses in Mumbai with Placement Support</h4>
+            <p>One of the key highlights of <b>CNC WEB WORLD’s data analytics courses in Mumbai</b> is our robust
+                placement
+                support. We provide 100% job assistance to ensure that our students land rewarding jobs in reputed
+                organizations. Our placement program includes:</p>
+
+            <ul>
+                <li><b>Resume Building:</b> Craft a professional and impactful resume.</li>
+                <li><b>Mock Interviews:</b> Prepare with real-world interview scenarios.</li>
+                <li><b>Job Portal Access:</b> Exclusive access to job openings and career opportunities.</li>
+                <li><b>Internship Experience:</b> Work on real-world projects to develop practical skills.</li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- industryProject  section start -->
     <section id="industryProject">
         <div class="container-fluid py-5 px-2 px-md-5">
@@ -604,63 +712,71 @@
     <!-- keyHighlights section start -->
     <?php include 'common/keyHighlights.php' ?>
     <!-- keyHighlights section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Who Is Eligible to Join Our Data Analytics Courses in Mumbai?</h4>
+            <p>We offer courses suitable for individuals at various learning levels, such as:</p>
 
-    <!-- benefits  section start -->
-    <?php include 'common/benefits.php' ?>
-    <!-- benefits  section end -->
+            <ul>
+                <li> Fresh graduates looking for a career in <b>Data Analytics</b>.</li>
+                <li>IT professionals wanting to switch to the <b>Data Analytics</b> field.</li>
+                <li>Business professionals aiming to enhance their analytical skills.</li>
+                <li>Entrepreneurs and business owners who want to leverage data for growth.</li>
+
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- brochure section start -->
     <?php include 'common/download.php' ?>
     <!-- brochure section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Who Is Eligible to Join Our Data Analytics Courses in Mumbai?</h4>
+            <p>We offer courses suitable for individuals at various learning levels, such as:</p>
+
+            <ul>
+                <li> Fresh graduates looking for a career in <b>Data Analytics</b>.</li>
+                <li>IT professionals wanting to switch to the <b>Data Analytics</b> field.</li>
+                <li>Business professionals aiming to enhance their analytical skills.</li>
+                <li>Entrepreneurs and business owners who want to leverage data for growth.</li>
+
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- programmingTools section start -->
     <section id="programmingTools">
         <div class="container py-5 px-4 px-md-0">
             <div class="row">
                 <div class="col-12 text-center my-3">
-                    <h2 class="fw-bolder">Programming Languages & Tools Covered in Mern Stack Developer Course
+                    <h2 class="fw-bolder">Programming Languages & Tools Covered in Python Developer Course
                     </h2>
                 </div>
-                <!-- <div class="col-12 mx-auto text-center">
-                    <img src="./assets/img/html.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/css.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/js.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/boostrap.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/react.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/mongodb.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/angular.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/python.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/django.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/mysql.webp"class="img-fluid" alt="">
-                </div> -->
             </div>
             <div class="row">
                 <div class="col-12 rounded-4 border py-3 px-4 bg-white shadow">
-                    <div class="row text-center row-cols-lg-6 row-cols-md-4 row-cols-sm-3 row-cols-2  mx-auto">
+                    <div class="row text-center row-cols-lg-6 row-cols-md-3 row-cols-sm-3 row-cols-2  mx-auto px-auto">
+
                         <div class="col">
-                            <img src="./assets/img/HTML-b.svg" alt="" class="img-fluid">
+                            <img src="./assets/img/python.svg" alt="" class="img-fluid">
                         </div>
                         <div class="col">
-                            <img src="./assets/img/CSS3.svg" alt="" class="img-fluid">
+                            <img src="./assets/img/numpy.png" alt="" class="img-fluid">
                         </div>
                         <div class="col">
-                            <img src="./assets/img/javascript-b.svg" alt="" class="img-fluid">
+                            <img src="./assets/img/pandas.png" alt="" class="img-fluid">
+                        </div>
+                        <div class="col ">
+                            <img src="./assets/img/matplotlib.webp" alt="" class="img-fluid">
                         </div>
                         <div class="col">
-                            <img src="./assets/img/bootstrap.png" alt="" class="img-fluid">
+                            <img src="./assets/img/powerBI.jpeg" alt="" class="img-fluid">
                         </div>
                         <div class="col">
-                            <img src="./assets/img/tailwind-css-b.svg" alt="" class="img-fluid">
-                        </div>
-                        <div class="col">
-                            <img src="./assets/img/React-b.svg" alt="" class="img-fluid">
-                        </div>
-                        <div class="col">
-                            <img src="./assets/img/nodejs.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="col">
-                            <img src="./assets/img/express-js.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="col">
-                            <img src="./assets/img/mongodb-b.svg" alt="" class="img-fluid">
+                            <img src="./assets/img/mysql.png" alt="" class="img-fluid">
                         </div>
                         <div class="col">
                             <img src="./assets/img/aws.png" alt="" class="img-fluid">
@@ -671,12 +787,61 @@
                         <div class="col">
                             <img src="./assets/img/testing.png" alt="" class="img-fluid">
                         </div>
+                        <!--<div class="col mx-auto">
+                            <img src="./assets/img/python.svg" alt="" class="img-fluid">
+                        </div>
+                        <div class="col mx-auto">
+                            <img src="./assets/img/numpy.png" alt="" class="img-fluid">
+                        </div>
+                        <div class="col mx-auto">
+                            <img src="./assets/img/pandas.png" alt="" class="img-fluid">
+                        </div>
+                        <div class="col mx-auto">
+                            <img src="./assets/img/matplotlib.webp" alt="" class="img-fluid">
+                        </div>
+                        <div class="col mx-auto">
+                            <img src="./assets/img/powerBI.jpeg" alt="" class="img-fluid">
+                        </div>
+                        <div class="col mx-auto">
+                            <img src="./assets/img/mysql.png" alt="" class="img-fluid">
+                        </div>
+                        <div class="col mx-auto">
+                            <img src="./assets/img/aws.png" alt="" class="img-fluid">
+                        </div>
+                        <div class="col mx-auto">
+                            <img src="./assets/img/docker.png" alt="" class="img-fluid">
+                        </div>
+                        <div class="col mx-auto">
+                            <img src="./assets/img/testing.png" alt="" class="img-fluid">
+                        </div> -->
                     </div>
                 </div>
             </div>
         </div>
     </section>
     <!-- programmingTools section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Career Opportunities After Completing Data Analytics Courses</h4>
+            <p>After successfully completing our <b>Data Analytics Training</b>, you can apply for various job roles,
+                including:</p>
+
+            <ul>
+                <li> Data Analyst</li>
+                <li> Business Analyst</li>
+                <li> Data Scientist</li>
+                <li> Machine Learning Engineer</li>
+                <li> Data Engineer</li>
+                <li> BI Analyst</li>
+                <li> Market Research Analyst</li>
+            </ul>
+            <p>The demand for skilled data analysts is skyrocketing, making it a lucrative career choice. With our
+                <b>Data Analytics Courses in Mumbai with placement</b>, you can confidently step into the industry with
+                the right skills and knowledge.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- roadMapStep start -->
     <?php include 'common/roadMapStep.php' ?>
     <!-- roadMapStep end -->
@@ -692,6 +857,113 @@
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
+    <!-- faqs-footer section start -->
+    <section id="faqs-footer">
+        <div class="container-lg py-5 px-4 px-lg-0">
+            <h2 class="fw-bold text-center py-3 ">
+                Frequently Asked Questions
+            </h2>
+            <div class="accordion" id="accordionExample2">
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                            <span class="fw-semibold">What are the prerequisites for enrolling in a data analytics
+                                course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>There are no strict prerequisites. Basic knowledge of mathematics and logical thinking
+                                can be helpful, but our beginner-friendly approach ensures that even non-programmers can
+                                grasp the concepts effectively.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                            <span class="fw-semibold"> How long does the data analytics course take to complete?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Our data analytics courses typically range from 3 to 6 months, depending on the level of
+                                the program and the chosen specialization.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                            <span class="fw-semibold">Which tools and technologies are covered in this course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>You will learn Python, SQL, Tableau, Power BI, Excel, and basic machine learning
+                                concepts, among other essential analytics tools.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header ">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                            <span class="fw-semibold">Do you offer online data analytics courses?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Yes, CNC WEB WORLD offers both classroom-based and online data analytics courses in
+                                Mumbai to provide flexibility for students and working professionals.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                            <span class="fw-semibold">How does your placement assistance work?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Our placement assistance includes resume building, interview preparation, job referrals,
+                                and access to an exclusive job portal. We offer internships to help you apply your
+                                skills in real-world scenarios.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- faqs-footer section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 py-5 px-lg-0 ">
+            <h4 class="fw-bold blue">Enroll in the Best Data Analytics Courses in Mumbai Today!</h4>
+            <p>
+                If you’re looking to build a strong foundation in data analytics and secure a promising career, <b>CNC
+                    WEB WORLD</b> is the perfect place to start. Join our <b>Best Data Analytics Courses in Mumbai</b>
+                and take the first step toward a successful career in Data Analytics
+            </p>
+            <ul type="none">
+                <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
+                    Session .</li>
+                <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
+                    Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
+                <li>
+                    <b>🌐 Website: </b> [<a
+                        href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->

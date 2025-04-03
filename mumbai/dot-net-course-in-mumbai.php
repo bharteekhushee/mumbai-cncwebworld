@@ -4,8 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Discover Mumbai's leading DOT NET institute! Gain practical skills, expert knowledge, and advance your tech career with our top-notch training."/>
-    <meta name="keywords" content="dot net course in Mumbai, dot net institute in Mumbai, dot net course fees in Mumbai, dot net training institute in Mumbai, dotnet institute in mumbai"/>
+    <meta name="description"
+        content="Discover Mumbai's leading DOT NET institute! Gain practical skills, expert knowledge, and advance your tech career with our top-notch training." />
+    <meta name="keywords"
+        content="dot net course in Mumbai, dot net institute in Mumbai, dot net course fees in Mumbai, dot net training institute in Mumbai, dotnet institute in mumbai" />
     <title>Top DOT NET Course in Mumbai: Learn and Succeed!</title>
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
@@ -74,7 +76,8 @@
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
-                <h2 class="fw-bold mb-4 text-center">Why <span class="blue">C# Dot Net?</span></h2>
+                <h2 class="fw-bold mb-4 text-center">The Best .NET Course in Mumbai - <span class="blue"> CNC WEB
+                        WORLD</span></h2>
             </div>
             <div class="row ">
                 <div class="col-lg-6 ">
@@ -83,22 +86,20 @@
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center ">
                     <p>
-                        <b>CNC WEB WORLD </b> offers a <b>Python Course in Mumbai</b> to teach students how to use
-                        Python, a widely used programming language, for many different purposes. Python has the
-                        flexibility to work in web development, data analysis, machine learning scientific computing,
-                        and other areas.
+                        Are you looking for the <b>Best .NET course in Mumbai</b> to build a successful career in
+                        software development? <b>CNC WEB WORLD</b> is a leading <b>.NET training institute in
+                            Mumbai</b>, offering hands-on training, industry-relevant projects, and expert guidance to
+                        help you master .NET development.
                     </p>
+                    <h5 class="fw-bold">Why Choose .NET?</h5>
                     <p>
-                        A standard <b>Python course</b> covers Python syntax, data types, functions, control structures,
-                        object-oriented programming, file input/output, libraries and frameworks, web development, data
-                        analysis and visualization, and machine learning. The python classes in mumbai aims to give
-                        hands-on experience, with practical exercises and projects to strengthen understanding.
+                        .NET is a powerful framework developed by Microsoft, widely used for building dynamic web
+                        applications, enterprise software, and mobile applications. It supports multiple languages like
+                        C#, VB.NET, and F#, making it one of the most versatile platforms in software development. With
+                        its strong integration with cloud technologies and extensive libraries, .NET remains a top
+                        choice for developers and organizations worldwide.
                     </p>
-                    <p> The <b>Python Classes in Mumbai</b> includes tools and frameworks like NumPy, Pandas,
-                        Matplotlib, Flask, Django, TensorFlow, and PyTorch. These tools help to manage data, create
-                        visual representations, build web applications, and put machine learning algorithms into
-                        practice.
-                    </p>
+
                 </div>
             </div>
             <div class="text-center mt-2">
@@ -115,9 +116,54 @@
         </div>
     </div>
     <!-- roadmap-image end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">.NET Course in Mumbai - Overview</h4>
+            <p>At <b>CNC WEB WORLD,</b> we offer a structured and industry-relevant <b>.NET course in Mumbai</b> that
+                covers everything from the basics to advanced concepts. Our training is designed to provide you with
+                practical exposure, enabling you to build real-world applications confidently.
+            </p>
+            <h4 class="fw-bold blue">Who Should Enroll in the .NET Course?</h4>
+            <p>Our <b>.NET institute in Mumbai</b> caters to a wide range of learners, including:
+            </p>
+            <ul>
+                <li> Freshers looking to start a career in software development.</li>
+                <li>Professionals aiming to upskill in .NET technologies.</li>
+                <li>Web developers who want to transition into full-stack development.</li>
+                <li>IT students seeking hands-on experience with .NET projects.</li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- whoCanJoin start -->
     <?php include 'common/whoCanJoin.php' ?>
     <!-- WhoCanJoin end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">What You Will Learn in Our .NET Course?</h4>
+            <p>Our comprehensive <b>.NET training institute in Mumbai</b> ensures that you master essential skills,
+                including:</p>
+            <ul>
+                <li> <b>Fundamentals of .NET Framework –</b> Introduction to .NET, CLR, CTS, and Memory Management.</li>
+                <li><b>C# Programming –</b> Data types, variables, loops, methods, and exception handling.</li>
+                <li><b>Object-Oriented Programming (OOPs) in .NET –</b> Classes, objects, inheritance, polymorphism,
+                    encapsulation, and abstraction.</li>
+                <li><b>Windows Forms and Desktop Applications –</b> Developing user-friendly GUI applications.</li>
+                <li><b>ASP.NET MVC and Web Development –</b> Creating dynamic websites using ASP.NET MVC.</li>
+                <li><b>Entity Framework and Database Management –</b> Working with SQL Server, LINQ, and ADO.NET.</li>
+                <li><b>Web API and RESTful Services –</b> Developing API-based applications for modern web solutions.
+                </li>
+                <li><b>.NET Core and Cloud Integration –</b> Deploying applications on Azure and working with
+                    cloud-based solutions.</li>
+                <li><b>Hands-on Projects –</b> Live project experience to apply theoretical knowledge in real-world
+                    scenarios.</li>
+
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- courseDetails section start -->
     <section id="courseDetail">
         <div class="container-lg">
@@ -183,16 +229,18 @@
                                     </span>
                                 </button>
                             </h2>
-                            <div id="cdotnet" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                            <div id="cdotnet" class="accordion-collapse collapse show"
+                                data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
-                                               <li>Introduction to C# and .NET Framework</li>
-                                               <li>Data Types, Variables & Operators</li>
-                                               <li>Control Flow (Loops, Conditions)</li>
-                                               <li>Exception Handling & Debugging</li>
-                                               <li>Object-Oriented Programming (Classes, Objects, Inheritance, Polymorphism)</li>
+                                                <li>Introduction to C# and .NET Framework</li>
+                                                <li>Data Types, Variables & Operators</li>
+                                                <li>Control Flow (Loops, Conditions)</li>
+                                                <li>Exception Handling & Debugging</li>
+                                                <li>Object-Oriented Programming (Classes, Objects, Inheritance,
+                                                    Polymorphism)</li>
                                             </ul>
                                         </div>
                                         <div class="col-sm-6">
@@ -212,7 +260,7 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#aspdotnet" aria-expanded="false" aria-controls="aspdotnet">
-                                   ASP .Net
+                                    ASP .Net
                                     <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
                                         style="font-size: 12px;">#Backemd</span>
                                     <span class="ms-auto">
@@ -226,20 +274,20 @@
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
-                                               <li>Introduction to ASP.NET Core & .NET 6/7/8</li>
-                                               <li>MVC Architecture (Model-View-Controller)</li>
-                                               <li>Razor Pages & Views</li>
-                                               <li>Dependency Injection in ASP.NET Core</li>
-                                               <li>Middleware & Routing</li>
+                                                <li>Introduction to ASP.NET Core & .NET 6/7/8</li>
+                                                <li>MVC Architecture (Model-View-Controller)</li>
+                                                <li>Razor Pages & Views</li>
+                                                <li>Dependency Injection in ASP.NET Core</li>
+                                                <li>Middleware & Routing</li>
                                             </ul>
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                               <li>Authentication & Authorization (JWT, OAuth)</li>
-                                               <li>Entity Framework Core with ASP.NET Core</li>
-                                               <li>API Development with ASP.NET Core</li>
-                                               <li>ASP.NET Core Identity & Security</li>
-                                               <li>Deployment & Hosting (IIS, Azure, Docker)</li>
+                                                <li>Authentication & Authorization (JWT, OAuth)</li>
+                                                <li>Entity Framework Core with ASP.NET Core</li>
+                                                <li>API Development with ASP.NET Core</li>
+                                                <li>ASP.NET Core Identity & Security</li>
+                                                <li>Deployment & Hosting (IIS, Azure, Docker)</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -264,12 +312,12 @@
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
-                                            <li>Introduction to Web API & RESTful Services</li>
-                                            <li>Creating APIs with ASP.NET Core</li>
-                                            <li>HTTP Methods (GET, POST, PUT, DELETE)</li>
-                                            <li>Request & Response Handling (Model Binding, Validation)</li>
-                                            <li>Authentication & Authorization in Web APIs</li>
-                                        </ul>
+                                                <li>Introduction to Web API & RESTful Services</li>
+                                                <li>Creating APIs with ASP.NET Core</li>
+                                                <li>HTTP Methods (GET, POST, PUT, DELETE)</li>
+                                                <li>Request & Response Handling (Model Binding, Validation)</li>
+                                                <li>Authentication & Authorization in Web APIs</li>
+                                            </ul>
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
@@ -461,6 +509,22 @@
         </div>
     </section>
     <!-- courseDetails section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Key Features of Our .NET Training Institute in Mumbai</h4>
+            <ul>
+                <li> <b>Expert Trainers –</b> Learn from experienced industry professionals.</li>
+                <li><b>Practical Training –</b> Hands-on coding and project-based learning.</li>
+                <li><b>Flexible Batch Timings –</b> Weekend and weekday classes available.</li>
+                <li><b>Live Projects –</b> Work on real-time applications to gain industry exposure.</li>
+                <li><b>100% Job Assistance –</b> Resume building, interview preparation, and placement support.</li>
+                <li><b>Industry-Recognized Certification –</b> Enhance your career prospects with our professional
+                    certification.</li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- industryProject  section start -->
     <section id="industryProject">
         <div class="container-fluid py-5 px-2 px-md-5">
@@ -564,16 +628,62 @@
         </div>
     </section>
     <!-- industryProject  section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">.NET Training in Mumbai with Placement Assistance</h4>
+            <p><b>CNC WEB WORLD</b> is not just a <b>.NET training institute in Mumbai</b> we also provide job-oriented .NET training
+                with placement support. Our career assistance services include:</p>
+            <ul>
+                <li>Resume building and LinkedIn profile optimization.</li>
+                <li>Mock interviews and soft skills training.</li>
+                <li>Job referrals and placement opportunities with top IT firms.</li>
+                <li>Internship programs for practical industry exposure.</li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- keyHighlights section start -->
     <?php include 'common/keyHighlights.php' ?>
     <!-- keyHighlights section end -->
-
-    <!-- benefits  section start -->
-    <!-- <?php include 'common/benefits.php' ?> -->
-    <!-- benefits  section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Career Opportunities After Completing Our .NET Course</h4>
+            <p>After completing the <b>.NET course in Mumbai</b>, you can explore various career opportunities,
+                including:</p>
+            <ul>
+                <li> .NET Developer</li>
+                <li> Software Engineer</li>
+                <li> Full-Stack Developer</li>
+                <li> Web Application Developer</li>
+                <li> Cloud Application Developer</li>
+                <li> Backend Developer</li>
+                <li> Database Administrator</li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- brochure section start -->
     <?php include 'common/download.php' ?>
     <!-- brochure section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Why CNC WEB WORLD is the Best .NET Institute in Mumbai?</h4>
+            <p>Choosing the right <b>.NET training institute in Mumbai</b> is crucial for a successful career in
+                software
+                development. Here’s why CNC WEB WORLD stands out:</p>
+            <ul>
+                <li><b>Industry-Updated Curriculum –</b> Learn the latest trends and technologies in .NET.</li>
+                <li><b>Hands-on Training Approach –</b> Get extensive coding experience through live projects.</li>
+                <li><b>Affordable Course Fees –</b> Quality training at an affordable price.</li>
+                <li><b>Dedicated Placement Cell –</b> 100% job assistance with career guidance.</li>
+                <li><b>Interactive Learning Environment –</b> Small batch sizes for personalized attention.</li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- programmingTools section start -->
     <section id="programmingTools">
         <div class="container py-5 px-4 px-md-0">
@@ -582,25 +692,14 @@
                     <h2 class="fw-bolder">Programming Languages & Tools Covered in C# Dot Net Developer Course
                     </h2>
                 </div>
-                <!-- <div class="col-12 mx-auto text-center">
-                    <img src="./assets/img/html.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/css.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/js.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/boostrap.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/react.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/mongodb.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/angular.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/python.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/django.webp"class="img-fluid" alt="">
-                    <img src="./assets/img/mysql.webp"class="img-fluid" alt="">
-                </div> -->
+
             </div>
             <div class="row">
                 <div class="col-12 rounded-4 border py-3 px-4 bg-white shadow">
                     <div class="row text-center row-cols-lg-6 row-cols-md-3 row-cols-sm-3 row-cols-2  mx-auto">
-                                             
-                        
-                    <div class="col">
+
+
+                        <div class="col">
                             <img src="./assets/img/dotnet.png" alt="" class="img-fluid">
                         </div>
                         <div class="col">
@@ -645,6 +744,127 @@
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
+
+    <!-- faqs-footer section start -->
+    <section id="faqs-footer">
+        <div class="container-lg py-5 px-4 px-lg-0">
+            <h2 class="fw-bold text-center py-3 ">
+                Frequently Asked Questions
+            </h2>
+            <div class="accordion" id="accordionExample2">
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                            <span class="fw-semibold">What is .NET and why should I learn it? </span>
+                        </button>
+                    </h2>
+                    <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>.NET is a software framework by Microsoft used for developing web, desktop, and mobile
+                                applications. Learning .NET enhances your coding skills and opens doors to numerous job
+                                opportunities in the IT industry.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                            <span class="fw-semibold">What are the prerequisites for enrolling in the .NET course?
+                            </span>
+                        </button>
+                    </h2>
+                    <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Basic programming knowledge is beneficial, but beginners can also enroll as we start from
+                                fundamentals.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                            <span class="fw-semibold">What is the duration of the .NET course in Mumbai? </span>
+                        </button>
+                    </h2>
+                    <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Our .NET course runs for 2-3 months, covering all essential concepts along with hands-on
+                                projects.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header ">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                            <span class="fw-semibold">Do I get a certification upon course completion?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Yes! Upon successful completion, you will receive an industry-recognized certification
+                                from CNC WEB WORLD. </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                            <span class="fw-semibold">Do you offer placement support?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p> Yes, CNC WEB WORLD provides 100% job assistance through resume building, interview
+                                preparation, and direct placement opportunities with top IT firms.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
+                            <span class="fw-semibold">What real-world projects will be included in the training?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse6" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>You will work on real-world projects, including web applications, e-commerce platforms,
+                                and database-driven systems to enhance your practical skills.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- faqs-footer section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 py-5 px-lg-0 ">
+            <h4 class="fw-bold blue">Enroll in the Best .NET Training Institute in Mumbai Today!</h4>
+            <p>
+                If you’re looking to build a strong foundation in .NET and secure a promising career, <b>CNC WEB WORLD</b> is
+                the perfect place to start. Join our <b>.NET training institute in Mumbai</b> and take the first step toward a
+                successful career in software development.
+            </p>
+            <ul type="none">
+                <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
+                    Session .</li>
+                <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
+                    Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
+                <li>
+                    <b>🌐 Website: </b> [<a
+                        href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]
+                </li>
+            </ul>
+            <span>Kickstart your journey with the <b>Best .NET course in Mumbai</b> today!</span>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->

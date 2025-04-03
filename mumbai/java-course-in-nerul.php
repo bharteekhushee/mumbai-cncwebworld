@@ -121,51 +121,77 @@
         </div>
     </div>
     <!-- roadmap-image end -->
-      <!-- course-content start -->
+    <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">Learn Java Programming language In Nerul Mumbai</h4>
-           <p>
-           <b>Java Course in Nerul</b> is a high-level, object-oriented programming language that is intended to be portable and platform independent. Java is well-known for its simplicity, readability, and ease of use. It uses a syntax similar to C and C++, making it simple for programmers who are familiar with those languages to learn.
-           </p>
-           <p>
-           One of the primary benefits of <b>Java training in Nerul</b> is the "write once, run anywhere" philosophy. This means that Java code can be compiled into bytecode that can be executed on any platform that supports the Java Virtual Machine (JVM). This makes Java an excellent choice for creating cross-platform applications that can run on a variety of operating systems, including Windows, Linux, and macOS.
-           </p>
-           <p>
-           Java is also commonly used to create web applications, mobile apps, and enterprise applications. It has a large ecosystem of libraries and frameworks, making it simple to create complex applications. Spring, Hibernate, and Struts are three popular Java frameworks.
-           </p>
-           <p>
-           Overall, the Java programming language is a versatile and widely used language with applications in a variety of industries and fields. It is an excellent language to learn for anyone interested in software development.
-           </p>
-           <p>
-           The Java programming language also has a large ecosystem of libraries, frameworks, and tools that help you build complex applications. Spring, Hibernate, and Struts are some of the most popular Java frameworks, and Eclipse, NetBeans, and IntelliJ IDEA are popular integrated development environments.
-           </p>
-           <p>
-           Java is commonly used in a variety of industries, including finance, healthcare, e-commerce, and gaming. Many large-scale enterprise applications rely on it as their primary programming language. Its versatility and broad range of applications make it a popular choice among developers all over the world.
-           </p>
+            <h4 class="fw-bold blue">Learn Java Programming language In Nerul Mumbai</h4>
+            <p>
+                <b>Java Course in Nerul</b> is a high-level, object-oriented programming language that is intended to be
+                portable and platform independent. Java is well-known for its simplicity, readability, and ease of use.
+                It uses a syntax similar to C and C++, making it simple for programmers who are familiar with those
+                languages to learn.
+            </p>
+            <p>
+                One of the primary benefits of <b>Java training in Nerul</b> is the "write once, run anywhere"
+                philosophy. This means that Java code can be compiled into bytecode that can be executed on any platform
+                that supports the Java Virtual Machine (JVM). This makes Java an excellent choice for creating
+                cross-platform applications that can run on a variety of operating systems, including Windows, Linux,
+                and macOS.
+            </p>
+            <p>
+                Java is also commonly used to create web applications, mobile apps, and enterprise applications. It has
+                a large ecosystem of libraries and frameworks, making it simple to create complex applications. Spring,
+                Hibernate, and Struts are three popular Java frameworks.
+            </p>
+            <p>
+                Overall, the Java programming language is a versatile and widely used language with applications in a
+                variety of industries and fields. It is an excellent language to learn for anyone interested in software
+                development.
+            </p>
+            <p>
+                The Java programming language also has a large ecosystem of libraries, frameworks, and tools that help
+                you build complex applications. Spring, Hibernate, and Struts are some of the most popular Java
+                frameworks, and Eclipse, NetBeans, and IntelliJ IDEA are popular integrated development environments.
+            </p>
+            <p>
+                Java is commonly used in a variety of industries, including finance, healthcare, e-commerce, and gaming.
+                Many large-scale enterprise applications rely on it as their primary programming language. Its
+                versatility and broad range of applications make it a popular choice among developers all over the
+                world.
+            </p>
         </div>
     </div>
     <!-- course-content end -->
     <!-- whoCanJoin start -->
     <?php include 'common/whoCanJoin.php' ?>
     <!-- WhoCanJoin end -->
-     <!-- course-content start -->
+    <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">Java certification course in Nerul</h4>
-           <p>
-           Getting <b>Java certification training in Nerul</b> is a way to validate your Java programming skills and expertise, and <b>CNC Web World </b> will provide you with the necessary skills. There are several Java certifications available, each focusing on a different aspect of Java programming, including Java SE, Java EE, and Java ME.
-           </p>
-           <p>
-           To obtain java certification training in nerul, you must pass an exam that assesses your knowledge and skills in the relevant area of Java programming. The exams are intended to be challenging and cover a wide range of topics, such as Java syntax, object-oriented programming, database programming, web development, and others.
-To prepare for the Java certification exam, take an online or offline course at <b>CNC WEB WORLD</b> and practice coding exercises.
-           </p>
-           <p>
-           Once you have learned and prepared for the exam, you can take it through <b>CNC WEB WORLD</b> The exam is usually taken in a testing center, and you must pass it with a certain score to obtain it.
-           </p>
-           <p>
-           Obtaining a <b>Java certification in Nerul</b> from <b>CNC WEB WORLD</b> can help advance your career by demonstrating to potential employers that you have the knowledge and skills required to work with Java. It can also result in higher salaries and more job opportunities.
-           </p>
+            <h4 class="fw-bold blue">Java certification course in Nerul</h4>
+            <p>
+                Getting <b>Java certification training in Nerul</b> is a way to validate your Java programming skills
+                and expertise, and <b>CNC Web World </b> will provide you with the necessary skills. There are several
+                Java certifications available, each focusing on a different aspect of Java programming, including Java
+                SE, Java EE, and Java ME.
+            </p>
+            <p>
+                To obtain java certification training in nerul, you must pass an exam that assesses your knowledge and
+                skills in the relevant area of Java programming. The exams are intended to be challenging and cover a
+                wide range of topics, such as Java syntax, object-oriented programming, database programming, web
+                development, and others.
+                To prepare for the Java certification exam, take an online or offline course at <b>CNC WEB WORLD</b> and
+                practice coding exercises.
+            </p>
+            <p>
+                Once you have learned and prepared for the exam, you can take it through <b>CNC WEB WORLD</b> The exam
+                is usually taken in a testing center, and you must pass it with a certain score to obtain it.
+            </p>
+            <p>
+                Obtaining a <b>Java certification in Nerul</b> from <b>CNC WEB WORLD</b> can help advance your career by
+                demonstrating to potential employers that you have the knowledge and skills required to work with Java.
+                It can also result in higher salaries and more job opportunities.
+            </p>
         </div>
     </div>
     <!-- course-content end -->
@@ -579,16 +605,24 @@ To prepare for the Java certification exam, take an online or offline course at 
         </div>
     </section>
     <!-- courseDetails section end -->
-        <!-- course-content start -->
+    <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">Java training and placement in Nerul</h4>
+            <h4 class="fw-bold blue">Java training and placement in Nerul</h4>
             <p>
-            Java is a popular programming language, so there are numerous job opportunities for Java developers.b <b>CNC WEB WORLD</b> offers a Java course in Nerul with a placement option. Completing a Java course can help you develop the skills and knowledge required to work with Java, increasing your chances of getting hired in the field.
+                Java is a popular programming language, so there are numerous job opportunities for Java developers.b
+                <b>CNC WEB WORLD</b> offers a Java course in Nerul with a placement option. Completing a Java course can
+                help you develop the skills and knowledge required to work with Java, increasing your chances of getting
+                hired in the field.
             </p>
-            <p>Many Java courses provide job placement assistance or career services to help students find employment after completing the course. <b>CNC WEB WORLD</b> stands out as the top choice to offer training and job placements. Placement assistance includes resume reviews, interview preparation, and job search assistance. Additionally.</p>
+            <p>Many Java courses provide job placement assistance or career services to help students find employment
+                after completing the course. <b>CNC WEB WORLD</b> stands out as the top choice to offer training and job
+                placements. Placement assistance includes resume reviews, interview preparation, and job search
+                assistance. Additionally.</p>
             <p>
-            In terms of job opportunities, the <b>CNC WEB WORLD Learn Java course in Nerul</b> can provide jobs in a variety of industries, including software development, web development, mobile app development, and more. Some common job titles for Java developers include:
+                In terms of job opportunities, the <b>CNC WEB WORLD Learn Java course in Nerul</b> can provide jobs in a
+                variety of industries, including software development, web development, mobile app development, and
+                more. Some common job titles for Java developers include:
             </p>
             <ol>
                 <li>Java Developer</li>
@@ -704,21 +738,22 @@ To prepare for the Java certification exam, take an online or offline course at 
         </div>
     </section>
     <!-- industryProject  section end -->
-      <!-- course-content start -->
+    <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">The main highlights of the Java course in Nerul</h4>
-        <p>The following are the key features of our courses and training modules that allow us to stay ahead of the competition and provide high-quality training to all of our students.</p>
-        <ul>
-            <li>Highly qualified instructors</li>
-            <li>Batch sizes are limited.</li>
-            <li>Project Assignments on LIVE Projects</li>
-            <li>No-cost study materials</li>
-            <li>Training for interviews</li>
-            <li>Software for free</li>
-            <li>Offline Assessments and Certifications</li>
-            <li>A complete job guarantee</li>
-        </ul>        
+            <h4 class="fw-bold blue">The main highlights of the Java course in Nerul</h4>
+            <p>The following are the key features of our courses and training modules that allow us to stay ahead of the
+                competition and provide high-quality training to all of our students.</p>
+            <ul>
+                <li>Highly qualified instructors</li>
+                <li>Batch sizes are limited.</li>
+                <li>Project Assignments on LIVE Projects</li>
+                <li>No-cost study materials</li>
+                <li>Training for interviews</li>
+                <li>Software for free</li>
+                <li>Offline Assessments and Certifications</li>
+                <li>A complete job guarantee</li>
+            </ul>
         </div>
     </div>
     <!-- course-content end -->
@@ -784,8 +819,8 @@ To prepare for the Java certification exam, take an online or offline course at 
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
-    <!-- faq section start -->
-    <section id="faqs">
+    <!-- faqs-footer section start -->
+    <section id="faqs-footer">
         <div class="container-lg py-5 px-4 px-lg-0">
             <h2 class="fw-bold text-center py-3">
                 Frequently Asked Questions
@@ -919,7 +954,7 @@ To prepare for the Java certification exam, take an online or offline course at 
             </div>
         </div>
     </section>
-    <!-- faq section end -->
+    <!-- faqs-footer section end -->
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->

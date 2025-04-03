@@ -113,7 +113,7 @@
       <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">Learn Java Programming language In Panvel</h4>
+            <h4 class="fw-bold blue">Learn Java Programming language In Panvel</h4>
             <p><b>Java course in panvel</b> is a high-level, object-oriented programming language that is intended to be portable and platform independent. Java is well-known for its simplicity, readability, and ease of use. It uses a syntax similar to C and C++, making it simple for programmers who are familiar with those languages to learn.</p>
 
             <p>One of the primary benefits of <b>Java training in panvel</b> is the "write once, run anywhere" philosophy. This means that Java code can be compiled into bytecode that can be executed on any platform that supports the Java Virtual Machine (JVM). This makes Java an excellent choice for creating cross-platform applications that can run on a variety of operating systems, including Windows, Linux, and macOS.</p>
@@ -132,7 +132,7 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">Java certification course in panvel</h4>
+            <h4 class="fw-bold blue">Java certification course in panvel</h4>
             <p>Getting <b>Java certification training in panvel</b> is a way to validate your Java programming skills and expertise, and <b>CNC Web World</b> will provide you with the necessary skills. There are several Java certifications available, each focusing on a different aspect of Java programming, including Java SE, Java EE, and Java ME.</p>
             <p>To obtain <b>Java certification training in panvel</b>, you must pass an exam that assesses your knowledge and skills in the relevant area of Java programming. The exams are intended to be challenging and cover a wide range of topics, such as Java syntax, object-oriented programming, database programming, web development, and others.</p>
 
@@ -555,7 +555,7 @@
       <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">Java Training and Placement in Panvel</h4>
+            <h4 class="fw-bold blue">Java Training and Placement in Panvel</h4>
             <p>Java is a popular programming language, so there are numerous job opportunities for Java developers. <b>CNC WEB WORLD</b> offers a <b>Java course in panvel</b> with a placement option. Completing a Java course can help you develop the skills and knowledge required to work with Java, increasing your chances of getting hired in the field.</p>
 
             <p>Many Java courses provide job placement assistance or career services to help students find employment after completing the course. <b>CNC WEB WORLD</b> stands out as the top choice to offer training and job placements. Placement assistance includes resume reviews, interview preparation, and job search assistance. Additionally.</p>
@@ -677,7 +677,7 @@
       <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">The main highlights of the Java course in Panvel</h4>
+            <h4 class="fw-bold blue">The main highlights of the Java course in Panvel</h4>
         <p>The following are the key features of our courses and training modules that allow us to stay ahead of the competition and provide high-quality training to all of our students.</p>
         <ul>
             <li>Highly qualified instructors</li>
@@ -754,8 +754,8 @@
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
-      <!-- faq section start -->
-    <section id="faqs">
+      <!-- faqs-footer section start -->
+    <section id="faqs-footer">
         <div class="container-lg py-5 px-4 px-lg-0">
             <h2 class="fw-bold text-center py-3">
                 Frequently Asked Questions
@@ -889,7 +889,7 @@
             </div>
         </div>
     </section>
-    <!-- faq section end -->
+    <!-- faqs-footer section end -->
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->

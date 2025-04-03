@@ -114,7 +114,7 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">Why Choose CNC Web World's Python Full Stack Course?</h4>
+            <h4 class="fw-bold blue">Why Choose CNC Web World's Python Full Stack Course?</h4>
             <p>Python is one of the most versatile, in-demand programming languages in the world. With its
                 user-friendly syntax and powerful ecosystem of libraries and frameworks, Python is the backbone of
                 several tech domains — from web development to data science and automation. Our <b> Python full
@@ -138,10 +138,12 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">Course Structure – Learn from Basics to Advanced</h4>
+            <h4 class="fw-bold blue">Course Structure – Learn from Basics to Advanced</h4>
             <p>Our <b>Python full stack course</b> is structured to provide a step-by-step learning experience, starting
                 from Python fundamentals to advanced web and application development. The curriculum includes:</p>
-            <h6 class="fw-bold">Core Python Programming</h6>
+          <div class="row">
+            <div class="col-md-6">
+            <h6 class="fw-bold blue">Core Python Programming</h6>
             <ul>
                 <li>Introduction to Python and its architecture</li>
                 <li>Variables, Data Types, Operators</li>
@@ -150,27 +152,29 @@
                 <li>Error Handling and Exception Management</li>
                 <li>File Handling</li>
             </ul>
-            <h6 class="fw-bold">Data Structures and Algorithms</h6>
+            <h6 class="fw-bold blue">Data Structures and Algorithms</h6>
             <ul>
                 <li>Lists, Tuples, Dictionaries, Sets</li>
                 <li>Searching and Sorting Algorithms</li>
                 <li>Recursive Programming</li>
                 <li>Problem-solving techniques for coding interviews</li>
             </ul>
-            <h6 class="fw-bold">Object-Oriented Programming</h6>
+            <h6 class="fw-bold blue">Object-Oriented Programming</h6>
             <ul>
                 <li>Classes and Objects</li>
                 <li>Inheritance, Encapsulation, Polymorphism</li>
                 <li>Advanced OOP design patterns</li>
-            </ul>
-            <h6 class="fw-bold">Front-end Development</h6>
+            </ul> 
+                <h6 class="fw-bold blue">Front-end Development</h6>
             <ul>
                 <li>HTML, CSS, JavaScript</li>
                 <li>Responsive Design with Bootstrap</li>
                 <li>DOM Manipulation</li>
                 <li>Front-end Frameworks (Basics of React/Angular introduction if required)</li>
             </ul>
-            <h6 class="fw-bold">Python Web Development (Back-end)</h6>
+            </div>
+            <div class="col-md-6">
+            <h6 class="fw-bold blue">Python Web Development (Back-end)</h6>
             <ul>
                 <li>Flask and Django Frameworks</li>
                 <li>RESTful API Development</li>
@@ -179,24 +183,26 @@
                 <li>Database Integration (MySQL, SQLite)</li>
             </ul>
 
-            <h6 class="fw-bold">Data Analysis and Visualization</h6>
+            <h6 class="fw-bold blue">Data Analysis and Visualization</h6>
             <ul>
                 <li>Working with NumPy and Pandas</li>
                 <li>Data cleaning and manipulation</li>
                 <li>Visualization using Matplotlib and Seaborn</li>
             </ul>
-            <h6 class="fw-bold">Introduction to Machine Learning</h6>
+            <h6 class="fw-bold blue">Introduction to Machine Learning</h6>
             <ul>
                 <li>Basics of ML using Python</li>
                 <li>Working with TensorFlow and PyTorch</li>
                 <li>Building and deploying ML models</li>
             </ul>
-            <h6 class="fw-bold">Deployment and DevOps Basics</h6>
+            <h6 class="fw-bold blue">Deployment and DevOps Basics</h6>
             <ul>
                 <li>Version Control with Git and GitHub</li>
                 <li>Web Application Deployment (Heroku, AWS basics)</li>
                 <li>Docker & Virtual Environments</li>
             </ul>
+            </div>
+          </div>
         </div>
     </div>
     <!-- course-content end -->
@@ -625,7 +631,7 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">Tools & Technologies You’ll Learn</h4>
+            <h4 class="fw-bold blue">Tools & Technologies You’ll Learn</h4>
             <ul>
                 <li>Python, HTML, CSS, JavaScript</li>
                 <li>Django, Flask, REST APIs</li>
@@ -745,7 +751,7 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">Who Should Enroll in This Full Stack Python Developer Course?</h4>
+            <h4 class="fw-bold blue">Who Should Enroll in This Full Stack Python Developer Course?</h4>
             <p>Our <b>full stack Python course in Mumbai</b> is ideal for:</p>
             <ul>
                 <li>Fresh graduates seeking IT jobs</li>
@@ -769,11 +775,11 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">Python Full Stack Development Program with 100 % Job Placement Support</h4>
+            <h4 class="fw-bold blue">Python Full Stack Development Program with 100 % Job Placement Support</h4>
             <p>At <b>CNC Web World</b>, we don’t just stop at training. We’re equally focused on helping you secure a
                 career after completing the course. Our <b>Python full stack developer course with placement support</b>
                 ensures that you’re fully prepared to enter the workforce.</p>
-            <h6 class="fw-bold">Placement services include:</h6>
+            <h6 class="fw-bold ">Placement services include:</h6>
             <ul>
                 <li>Resume Building Workshops</li>
                 <li>Interview Preparation Sessions</li>
@@ -843,7 +849,7 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold">Why Python for Full Stack Development?</h4>
+            <h4 class="fw-bold blue">Why Python for Full Stack Development?</h4>
             <p>Python is not just another programming language — it's a complete ecosystem that supports rapid
                 development, scalability, and ease of use. Here’s why our <b>full stack python developer</b> course is
                 the right choice:</p>
@@ -854,11 +860,11 @@
                 <li>Versatility across domains: Web, ML, Automation, Data Science</li>
                 <li>Future-proof skill for developers</li>
             </ul>
-            <h6 class="fw-bold">Duration & Learning Mode</h6>
+            <h6 class="fw-bold ">Duration & Learning Mode</h6>
             <p>Our <b>Python full stack course in Mumbai</b> runs for 2-3 months, with options for both weekday and
                 weekend batches. Flexible timing, offline and online learning modes, and personalized mentoring ensure a
                 smooth learning journey for every student.</p>
-            <h4 class="fw-bold">Key Highlights of Our Full Stack Python Course</h4>
+            <h4 class="fw-bold blue">Key Highlights of Our Full Stack Python Course</h4>
             <Key>
                 <li>✅ Industry-experienced faculty</li>
                 <li>✅ Live project work</li>
@@ -888,8 +894,8 @@
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
 
-    <!-- faq section start -->
-    <section id="faqs">
+    <!-- faqs-footer section start -->
+    <section id="faqs-footer">
         <div class="container-lg py-5 px-4 px-lg-0">
             <h2 class="fw-bold text-center py-3">
                 Frequently Asked Questions
@@ -979,7 +985,7 @@
             </div>
         </div>
     </section>
-    <!-- faq section end -->
+    <!-- faqs-footer section end -->
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->

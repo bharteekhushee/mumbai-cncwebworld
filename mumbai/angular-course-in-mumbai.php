@@ -1,14 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Enroll in CNC Web World's Angular Course in Mumbai. Gain practical skills and advance your front-end development career!"/>
-    <meta name="keywords" content="angular classes in navi Mumbai, angular course in Mumbai, angular training in Mumbai,angular classes in mumbai"/>
+    <meta name="description"
+        content="Enroll in CNC Web World's Angular Course in Mumbai. Gain practical skills and advance your front-end development career!" />
+    <meta name="keywords"
+        content="angular classes in navi Mumbai, angular course in Mumbai, angular training in Mumbai,angular classes in mumbai" />
     <title>Angular Training in Mumbai by CNC Web World - Enroll Today</title>
     <?php include 'common/headerlink.php' ?>
-     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
+    <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
+
 <body class="body">
     <!-- top header start -->
     <?php include 'common/topheader.php' ?>
@@ -72,7 +76,8 @@
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
-                <h2 class="fw-bold mb-4 text-center">Why <span class="blue">Angular Js Development?</span></h2>
+                <h2 class="fw-bold mb-4 text-center">Master Angular with CNC WEB WORLD – <span class="blue">Best Angular
+                        Classes in Navi Mumbai & Mumbai</span></h2>
             </div>
             <div class="row ">
                 <div class="col-lg-6 ">
@@ -81,27 +86,28 @@
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center ">
                     <p>
-                        <b>CNC WEB WORLD </b> offers a <b>Python Course in Mumbai</b> to teach students how to use
-                        Python, a widely used programming language, for many different purposes. Python has the
-                        flexibility to work in web development, data analysis, machine learning scientific computing,
-                        and other areas.
+                        Looking to elevate your web development skills and build high-performance web applications?
+                        <b>CNC WEB WORLD</b> offers one of the most comprehensive and industry-focused <b>Angular
+                            courses in Mumbai</b> and <b>Angular classes in Navi Mumbai</b>. Whether you’re a fresher
+                        stepping into the IT industry or a professional looking to upskill, our <b>Angular training in
+                            Mumbai</b> is designed to help you master every core aspect of Angular with real-time
+                        projects and placement support.
                     </p>
-                    <p>
-                        A standard <b>Python course</b> covers Python syntax, data types, functions, control structures,
-                        object-oriented programming, file input/output, libraries and frameworks, web development, data
-                        analysis and visualization, and machine learning. The python classes in mumbai aims to give
-                        hands-on experience, with practical exercises and projects to strengthen understanding.
-                    </p>
-                    <p> The <b>Python Classes in Mumbai</b> includes tools and frameworks like NumPy, Pandas,
-                        Matplotlib, Flask, Django, TensorFlow, and PyTorch. These tools help to manage data, create
-                        visual representations, build web applications, and put machine learning algorithms into
-                        practice.
+                    <h6 class="fw-bold">Why Angular?</h6>
+                    <p> Angular is a robust, client-side web application framework developed by Google. It is widely
+                        used to build dynamic, scalable, and efficient single-page applications (SPA). Its modular
+                        architecture, two-way data binding, dependency injection, and powerful CLI (Command Line
+                        Interface) make it one of the most preferred frameworks among developers worldwide.
                     </p>
                 </div>
             </div>
-            <div class="text-center mt-2">
-                <button class="btn btn-dark btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">Enquire
-                    Now</button>
+            <div>
+                <p>With the rising demand for modern web applications, learning Angular opens the door to high-paying
+                    job opportunities and career growth in web development.</p>
+                <div class="text-center mt-2">
+                    <button class="btn btn-dark btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">Enquire
+                        Now</button>
+                </div>
             </div>
         </div>
     </section>
@@ -113,9 +119,61 @@
         </div>
     </div>
     <!-- roadmap-image end -->
-     <!-- whoCanJoin start -->
-     <?php include 'common/whoCanJoin.php' ?>
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold">Angular Classes in Navi Mumbai – <span class="blue"> A Gateway to Your Dream Tech
+                    Career</span></h4>
+            <p>At <b>CNC WEB WORLD</b>, our <b>Angular classes in Navi Mumbai</b> are crafted to equip students with
+                hands-on experience and the confidence to work on real-world web development projects. From basic
+                components and modules to advanced services and routing, we cover the complete Angular development
+                lifecycle.</p>
+
+            <h6> <b>Course Curriculum:</b> Learn Angular from Scratch to Advanced</h6>
+            <ul>
+                <li>Introduction to Angular and SPA architecture</li>
+                <li>TypeScript Essentials</li>
+                <li>Components, Templates, and Directives</li>
+                <li>Data Binding and Event Handling</li>
+                <li>Pipes and Forms (Template-Driven and Reactive Forms)</li>
+                <li>Routing and Navigation</li>
+                <li>Dependency Injection & Services</li>
+                <li>Angular Modules and Lazy Loading</li>
+                <li>Angular CLI & Project Structure</li>
+                <li>Working with APIs & HTTP Client</li>
+                <li>Authentication and Authorization</li>
+                <li>State Management using NgRx</li>
+                <li>Angular Testing and Debugging</li>
+                <li>Deployment & Production Best Practices</li>
+            </ul>
+            <p>Every concept is reinforced with live practicals, assignments, and project-based learning to ensure deep
+                understanding and hands-on expertise.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
+    <!-- whoCanJoin start -->
+    <?php include 'common/whoCanJoin.php' ?>
     <!-- WhoCanJoin end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Angular Course in Mumbai with Placement Assistance</h4>
+            <p><b>CNC WEB WORLD</b> offers not just training, but a complete career roadmap. Our <b>Angular training in
+                    Mumbai</b> is integrated with 100% placement assistance, making it one of the most trusted choices
+                for students and professionals alike.</p>
+            <p>Here’s how we support you in your job journey:</p>
+            <ul>
+                <li> Resume Preparation & Personal Branding</li>
+                <li> Mock Interviews and Soft Skills Training</li>
+                <li> Technical Interview Practice</li>
+                <li> Dedicated Job Portal Access</li>
+                <li> Internship Opportunities with Partner Companies</li>
+                <li> Real-time Project Work for Portfolio Building</li>
+            </ul>
+            <p>Our goal is to make you job-ready, not just course-complete.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- courseDetails section start -->
     <section id="courseDetail">
         <div class="container-lg">
@@ -265,7 +323,7 @@
                             </h2>
                             <div id="aws" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                <div class="row">
+                                    <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Introduction to CI/CD and DevOps</li>
@@ -275,13 +333,14 @@
                                                 <li>AWS CodeDeploy: Automated Deployments</li>
                                                 <li>AWS Elastic Beanstalk for CI/CD</li>
                                                 <li>AWS CodePipeline: CI/CD Workflow Automation</li>
-                                                
+
                                             </ul>
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Docker and AWS CI/CD Integration</li>
-                                                <li>Infrastructure as Code (IaC) with AWS CloudFormation & Terraform</li>
+                                                <li>Infrastructure as Code (IaC) with AWS CloudFormation & Terraform
+                                                </li>
                                                 <li>AWS Lambda and Serverless CI/CD</li>
                                                 <li>Monitoring & Logging in AWS CI/CD (CloudWatch, CloudTrail)</li>
                                                 <li>Security Best Practices in AWS CI/CD</li>
@@ -308,7 +367,7 @@
                             </h2>
                             <div id="docker" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                <div class="row">
+                                    <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Introduction to Docker</li>
@@ -322,13 +381,13 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                               <li>Docker Volumes and Persistent Storage</li>
-                                               <li>Docker Swarm: Container Orchestration </li>
-                                               <li>Docker Security Best Practices</li>
-                                               <li>Monitoring and Logging in Docker</li>
-                                               <li>CI/CD Integration with Docker</li>
-                                               <li>Deploying Applications with Docker</li>
-                                               <li>Docker in Cloud Environments (AWS, Azure)</li>
+                                                <li>Docker Volumes and Persistent Storage</li>
+                                                <li>Docker Swarm: Container Orchestration </li>
+                                                <li>Docker Security Best Practices</li>
+                                                <li>Monitoring and Logging in Docker</li>
+                                                <li>CI/CD Integration with Docker</li>
+                                                <li>Deploying Applications with Docker</li>
+                                                <li>Docker in Cloud Environments (AWS, Azure)</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -350,11 +409,12 @@
                             </h2>
                             <div id="testing" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                <div class="row">
+                                    <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Introduction to Software Testing</li>
-                                                <li>Software Development Life Cycle (SDLC) & Testing Life Cycle (STLC)</li>
+                                                <li>Software Development Life Cycle (SDLC) & Testing Life Cycle (STLC)
+                                                </li>
                                                 <li>Types of Software Testing</li>
                                                 <li>Functional Testing & Non-Functional Testing</li>
                                                 <li>Black Box vs. White Box Testing</li>
@@ -363,14 +423,14 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                            <li>Usability & Accessibility Testing</li>
-                                               <li>Defect Life Cycle & Bug Reporting</li>
-                                                <li>Test Management Tools (JIRA.)</li> 
+                                                <li>Usability & Accessibility Testing</li>
+                                                <li>Defect Life Cycle & Bug Reporting</li>
+                                                <li>Test Management Tools (JIRA.)</li>
                                                 <li>Agile Testing & Scrum Methodology</li>
-                                                <li>User Acceptance Testing (UAT)</li> 
-                                                <li>API Testing</li>                                         
-                                                <li>Performance & Security Testing Concepts</li>      
-                                             </ul>
+                                                <li>User Acceptance Testing (UAT)</li>
+                                                <li>API Testing</li>
+                                                <li>Performance & Security Testing Concepts</li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -382,6 +442,23 @@
         </div>
     </section>
     <!-- courseDetails section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue"> Who Should Enroll in Our Angular Classes in Mumbai?</h4>
+            <p>Our <b>Angular classes in Mumbai</b> are perfect for:</p>
+            <ul>
+                <li> Fresh graduates wanting to enter the IT industry</li>
+                <li> Web developers looking to upgrade from jQuery or JavaScript</li>
+                <li> Backend developers aiming to master front-end development</li>
+                <li> Professionals seeking full-stack development roles</li>
+                <li> Freelancers and entrepreneurs building scalable web apps</li>
+            </ul>
+            <p>Whether you’re just beginning or already working in the tech domain, this course helps you take a giant
+                leap forward in your career.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- industryProject  section start -->
     <section id="industryProject">
         <div class="container-fluid py-5 px-2 px-md-5">
@@ -485,16 +562,53 @@
         </div>
     </section>
     <!-- industryProject  section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Angular Training in Mumbai – Key Highlights</h4>
+            <p>What sets CNC WEB WORLD apart from other Angular institutes?</p>
+            <ul type="none">
+                <li>✅ Experienced Trainers with real-world development background</li>
+                <li>✅ Small Batch Sizes for personalized learning</li>
+                <li>✅ Hands-on Projects with real-world business use cases</li>
+                <li>✅ Free Study Materials & Angular tools</li>
+                <li> ✅ Offline Tests & Certification</li>
+                <li> ✅ Interview Preparation & Grooming</li>
+                <li> ✅ Job Guarantee Assistance</li>
+                <li>✅ Flexible Timing Options – Weekdays/Weekends</li>
+            </ul>
+        </div>
+
+    </div>
+    <!-- course-content end -->
     <!-- keyHighlights section start -->
     <?php include 'common/keyHighlights.php' ?>
     <!-- keyHighlights section end -->
-
     <!-- benefits  section start -->
     <?php include 'common/benefits.php' ?>
     <!-- benefits  section end -->
     <!-- brochure section start -->
     <?php include 'common/download.php' ?>
     <!-- brochure section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Angular Course Duration & Structure</h4>
+            <p>Our <b>Angular classes in Navi Mumbai</b> and Mumbai typically run for 2-3 months, depending on the
+                student’s learning pace and batch schedule. The course is available in both offline classroom sessions
+                and online training formats for your convenience</p>
+            <p>During the course, students work on mini projects, participate in weekly assessments, and complete a
+                final capstone project that can be showcased to future employers.</p>
+            <h5 class="fw-bold blue">Why Choose CNC WEB WORLD for Angular Classes in Mumbai?</h5>
+            <p><b>CNC WEB WORLD</b> has built a reputation for delivering quality education with result-driven training.
+                Our <b>Angular course in Mumbai</b> is designed by industry experts and focuses on practical application
+                rather than just theoretical knowledge.</p>
+            <p>Our alumni are placed in top companies, and many have gone on to lead projects and teams in reputed
+                organizations. The real difference lies in our teaching methodology, hands-on practice, and consistent
+                mentorship, which helps students grow from beginners to professionals</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- programmingTools section start -->
     <section id="programmingTools">
         <div class="container py-5 px-4 px-md-0">
@@ -505,7 +619,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-12 rounded-4 py-3 px-4 bg-white shadow" >
+                <div class="col-12 rounded-4 py-3 px-4 bg-white shadow">
                     <div class="row text-center row-cols-lg-6 row-cols-md-4 row-cols-sm-3 row-cols-2  mx-auto">
                         <div class="col">
                             <img src="./assets/img/HTML-b.svg" alt="" class="img-fluid">
@@ -543,6 +657,26 @@
         </div>
     </section>
     <!-- programmingTools section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Career Opportunities After Completing Angular Course</h4>
+            <p>Angular developers are in high demand across startups, MNCs, and product-based companies. After
+                completing our <b>Angular training in Mumbai</b>, you can apply for roles such as:</p>
+            <ul>
+                <li> Angular Developer</li>
+                <li>Front-End Developer</li>
+                <li>Web Application Developer</li>
+                <li> UI/UX Developer</li>
+                <li>Full Stack Developer (MEAN Stack)</li>
+                <li>Software Engineer (Frontend Focused)</li>
+                <li>JavaScript Developer</li>
+            </ul>
+            <p>You’ll be equipped to confidently crack interviews and work on modern tech stacks used across industries
+                like e-commerce, healthcare, fintech, and more.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- roadMapStep start -->
     <?php include 'common/roadMapStep.php' ?>
     <!-- roadMapStep end -->
@@ -558,6 +692,97 @@
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
+          <!-- faqs-footer section start -->
+    <section id="faqs-footer">
+        <div class="container-lg py-5 px-4 px-lg-0">
+            <h2 class="fw-bold text-center py-3">
+                Frequently Asked Questions
+            </h2>
+            <div class="accordion" id="accordionExample2">
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                            <span class="fw-semibold">Do I need prior coding experience to join this Angular course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>No, our course is beginner-friendly. However, basic knowledge of HTML, CSS, and JavaScript will be an advantage.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                            <span class="fw-semibold"> What tools and technologies will I learn apart from Angular?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>You will also work with TypeScript, REST APIs, Angular CLI, RxJS, and basic concepts of backend integration.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                            <span class="fw-semibold"> Will I get a certificate after completing the Angular course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Yes, you’ll receive a course completion certificate from <b>CNC WEB WORLD</b> which is recognized by employers.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header ">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                            <span class="fw-semibold">Can I attend classes online if I’m not located in Mumbai?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Absolutely. We offer <b>Online Angular classes</b> with live instructor-led sessions for students outside <b>Mumbai or Navi Mumbai</b>.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                            <span class="fw-semibold">Do you provide placement support after training?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Yes, we offer placement support, including mock interviews, resume building, and direct job referrals.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- faqs-footer section end -->   
+      <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 py-5 px-lg-0 ">
+            <h4 class="fw-bold blue">Start Your Angular Journey Today!</h4>
+            <p>
+                If you're searching for <b>Angular classes in Navi Mumbai</b>, <b>Angular course in Mumbai</b>, or <b>Angular training in Mumbai</b>,<b> CNC WEB WORLD</b> is your one-stop destination. Join our career-focused program and build a future-ready skill set that employers value.
+            </p>
+            <ul type="none">
+                <li>✨ Enroll Today and Transform Your Career with Angular! </li>
+                <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> for a Free Demo Session or Career Counseling. </li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->
@@ -600,4 +825,5 @@
         });
     </script>
 </body>
+
 </html>

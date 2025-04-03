@@ -4,7 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best C &amp; C++ Course in Mumbai - Learn at CNC Web World</title>
+    <meta name="description"
+        content=":- Join the Best C Programming Course in Mumbai at CNC Web World. Learn C from scratch with practical exercises and expert support!">
+    <meta name="keywords"
+        content="Best c programming course in Mumbai, c programming course in mumbai with certificate, c programming course in mumbai fees, c programming course in mumbai">
+    <title>Join CNC Web World’s C Programming Course in Mumbai</title>
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
@@ -25,7 +29,7 @@
             <div class="row py-5">
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
                     <img src="./assets/img/c++.png" width="60px" alt="">
-                    <h1 class="pe-lg-5">C &amp; C++ Intensive Training Program</h1>
+                    <h1 class="pe-lg-5">C Intensive Training Program</h1>
                     <h3 class="fw-semibold"><i>100% Job Oriented Course</i></h3>
                     <div class="row">
                         <div class="col-4 ">
@@ -72,8 +76,8 @@
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
-                <h2 class="fw-bold mb-4 text-center">Why <span class="blue">C </span> &amp; <span class="blue">C++
-                        Programming?</span></h2>
+                <h2 class="fw-bold mb-4 text-center">C Programming Course in Mumbai – <span class="blue"> CNC Web
+                        World</span></h2>
             </div>
             <div class="row ">
                 <div class="col-lg-6 ">
@@ -82,21 +86,17 @@
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center ">
                     <p>
-                        <b>CNC WEB WORLD </b> offers a <b>Python Course in Mumbai</b> to teach students how to use
-                        Python, a widely used programming language, for many different purposes. Python has the
-                        flexibility to work in web development, data analysis, machine learning scientific computing,
-                        and other areas.
+                        Looking to build a strong foundation in programming? <b>CNC Web World </b>brings you the <b>Best
+                            C Programming Course in Mumbai</b>, designed to help aspiring programmers and working
+                        professionals master the fundamental language that forms the backbone of modern software
+                        development — C Programming.
                     </p>
                     <p>
-                        A standard <b>Python course</b> covers Python syntax, data types, functions, control structures,
-                        object-oriented programming, file input/output, libraries and frameworks, web development, data
-                        analysis and visualization, and machine learning. The python classes in mumbai aims to give
-                        hands-on experience, with practical exercises and projects to strengthen understanding.
-                    </p>
-                    <p> The <b>Python Classes in Mumbai</b> includes tools and frameworks like NumPy, Pandas,
-                        Matplotlib, Flask, Django, TensorFlow, and PyTorch. These tools help to manage data, create
-                        visual representations, build web applications, and put machine learning algorithms into
-                        practice.
+                        Whether you're stepping into the world of coding or aiming to polish your technical skill set,
+                        our <b> C Programming Course in Mumbai with Certificate</b> offers a structured learning path to
+                        elevate your programming journey. With expert mentorship, industry-relevant curriculum, and
+                        hands-on project experience, <b>CNC Web World</b> is the right place to start your journey
+                        toward a successful tech career.
                     </p>
                 </div>
             </div>
@@ -107,22 +107,45 @@
         </div>
     </section>
     <!-- why-python end -->
-    <!-- roadmap-image start -->
-    <!-- <div class="container  mt-5 mb-3">
-        <div class="row mx-3 mx-md-0 mt-5 mb-3 pt-4 rounded" style="box-shadow: rgba(0, 0, 0, 0.5) 0px 4px 24px;">
-            <img src="./assets/img/roadmap-c-and-c-plus-plus.png" alt="" class="img-fluid">
-        </div>
-    </div> -->
-    <!-- roadmap-image end -->
     <!-- whoCanJoin start -->
     <?php include 'common/whoCanJoin.php' ?>
     <!-- WhoCanJoin end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Why Learn C Programming?</h4>
+            <p>C programming is one of the most powerful and flexible languages ever developed. It is a general-purpose,
+                procedural programming language that provides low-level access to memory, making it ideal for
+                system-level programming, embedded systems, and performance-critical applications.</p>
+            <span>Some of the major applications of C programming include:</span>
+            <ul>
+                <li> Operating System Development</li>
+                <li> Embedded Systems</li>
+                <li> Game Development</li>
+                <li> Database Management Software</li>
+                <li> Compiler Design</li>
+                <li> Microcontroller Programming</li>
+                <li> Firmware Development</li>
+            </ul>
+            <p>If you want to become a successful software developer or systems engineer, learning C programming is
+                non-negotiable. That’s why <b>CNC Web World’s C Programming Course in Mumbai</b> has been designed to
+                cover all the fundamental and advanced concepts of C from scratch.</p>
+            <h4 class="fw-bold blue">C Programming Course in Mumbai with Certificate</h4>
+            <p>Certification is a testament to your skills and proficiency. After completing the course, students will
+                be awarded a <b>C Programming Course Certificate</b>, which serves as a valuable addition to your
+                resume. This certification validates your ability to write robust and efficient C code, making you
+                job-ready in the competitive software industry.</p>
+            <p>Our <b>C Programming Course in Mumbai with Certificate</b> adds credibility to your technical profile and
+                can significantly boost your employment prospects in IT and engineering fields.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- courseDetails section start -->
     <section id="courseDetail">
         <div class="container-lg">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h2 class="fw-bold mb-4 text-white">C &amp; C++ Programming Curriculum</h2>
+                    <h2 class="fw-bold mb-4 text-white">C Programming Curriculum</h2>
                 </div>
             </div>
         </div>
@@ -249,7 +272,7 @@
                                                         <li>#define, #include, #ifdef, #ifndef</li>
                                                     </ul>
                                                 </li>
-                                                
+
                                             </ol>
                                         </div>
                                     </div>
@@ -343,6 +366,81 @@
         </div>
     </section>
     <!-- courseDetails section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">C++ Course Syllabus – From Basics to Advanced Concepts</h4>
+            <p>
+                Our advanced <b>C++ course training in Mumbai</b> has a carefully crafted curriculum that ensures
+                holistic development in programming skills. Below are the topics covered:
+            </p>
+            <div class="row">
+                <div class="col-md-6">
+                    <h6 class="fw-bold fst-italic blue">📘 Basics of C Programming</h6>
+                    <ul>
+                        <li> Introduction to C</li>
+                        <li>Data Types and Variables</li>
+                        <li>Constants and Literals</li>
+                        <li>Operators and Expressions</li>
+                        <li>Input/Output Operations</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <h6 class="fw-bold fst-italic blue">📘 Control Flow</h6>
+                    <ul>
+                        <li> Conditional Statements (if, if-else, switch)</li>
+                        <li>Loops (for, while, do-while)</li>
+                        <li>Nested Control Structures</li>
+
+
+                    </ul>
+                </div>
+                <div class="col-md-6">
+
+                    <h6 class="fw-bold fst-italic blue">📘 Functions and Modular Programming</h6>
+                    <ul>
+                        <li> Defining Functions</li>
+                        <li>Function Prototypes</li>
+                        <li>Recursion</li>
+                        <li>Scope and Storage Classes</li>
+
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <h6 class="fw-bold fst-italic blue">📘 Arrays, Strings, and Pointers Library (STL)</h6>
+                    <ul>
+                        <li> Single and Multi-dimensional Arrays</li>
+                        <li>Character Arrays and String Manipulation</li>
+                        <li>Introduction to Pointers</li>
+                        <li>Pointer Arithmetic</li>
+                        <li>Pointers and Functions</li>
+
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <h6 class="fw-bold fst-italic blue">📘 Advanced Concepts</h6>
+                    <ul>
+                        <li>Structures and Unions</li>
+                        <li>File Handling in C</li>
+                        <li>Dynamic Memory Allocation</li>
+                        <li>Command Line Arguments</li>
+                        <li>Bitwise Operators</li>
+
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <h6 class="fw-bold fst-italic blue">📘 Project Development</h6>
+                    <ul>
+                        <li> Live Project Assignments</li>
+                        <li>Debugging and Optimization Techniques</li>
+                        <li>Real-World Application Development</li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- industryProject  section start -->
     <section id="industryProject">
         <div class="container-fluid py-5 px-2 px-md-5">
@@ -446,22 +544,78 @@
         </div>
     </section>
     <!-- industryProject  section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Highlights of Our C Programming Course in Mumbai</h4>
+            <p>At CNC Web World, we believe in teaching through practice, not just theory. Our course combines
+                foundational knowledge with practical coding experience.</p>
+            <span>Here’s what makes our <b>Best C Programming Course in Mumbai</b> stand out:</span>
+            <ul type="none" class="ps-1">
+                <li> ✅ Experienced Industry Faculty</li>
+                <li>✅ Small Batch Size for Personal Attention</li>
+                <li>✅ Project-Based Learning Approach</li>
+                <li>✅ Free Study Material and Softwares</li>
+                <li>✅ Offline Tests and Course Completion Certification</li>
+                <li>✅ 100% Job Assistance & Interview Training</li>
+                <li>✅ Learn at Your Convenience – Weekday and Weekend Batches Offered</li>
+            </ul>
+
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- keyHighlights section start -->
     <?php include 'common/keyHighlights.php' ?>
     <!-- keyHighlights section end -->
-
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Who Can Join Our C Programming Course?</h4>
+            <span>Our course is ideal for:</span>
+            <ul>
+                <li> Students pursuing IT, Computer Science, or Electronics</li>
+                <li> Engineering graduates preparing for core technical roles</li>
+                <li> Job seekers wanting to strengthen their programming foundation</li>
+                <li> Professionals switching to software development</li>
+                <li> Beginners with no prior programming knowledge</li>
+            </ul>
+            <p>No matter your background, our <b>C Programming Course in Mumbai</b> is beginner-friendly and starts from
+                the very basics.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- benefits  section start -->
     <!-- <?php include 'common/benefits.php' ?> -->
     <!-- benefits  section end -->
     <!-- brochure section start -->
     <?php include 'common/download.php' ?>
     <!-- brochure section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">C Programming Classes in Mumbai with Placement Support</h4>
+            <p>We not only teach you programming—we help you build a career. Our placement cell offers full support
+                including:</p>
+            <ul class="list-unstyled ps-2">
+                <li>✔ Resume Building</li>
+                <li>✔ Mock Interviews</li>
+                <li>✔ Technical Test Preparation</li>
+                <li>✔ Placement Drives & Referrals</li>
+                <li>✔ Access to CNC Web World Job Portal</li>
+            </ul>
+            <p>
+                With our industry network and job-ready curriculum, you gain the competitive edge needed to land a
+                rewarding job in software development or embedded systems.
+            </p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- programmingTools section start -->
     <section id="programmingTools">
         <div class="container py-5 px-4 px-md-0">
             <div class="row">
                 <div class="col-12 text-center my-3">
-                    <h2 class="fw-bolder">Programming Languages & Tools Covered in C &amp; C++ Programming Course
+                    <h2 class="fw-bolder">Programming Languages & Tools Covered in C Programming Course
                     </h2>
                 </div>
             </div>
@@ -481,9 +635,52 @@
         </div>
     </section>
     <!-- programmingTools section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Why Choose CNC Web World for C Programming Course in Mumbai?</h4>
+
+            <ul class="list-unstyled ps-2">
+                <li> ✔ Trusted by Thousands of Students</li>
+                <li> ✔ Recognized Certification</li>
+                <li> ✔ Updated Curriculum as per Industry Standards</li>
+                <li> ✔ Hands-On Practice with Real Code</li>
+                <li> ✔ Live Doubt-Solving Sessions</li>
+                <li> ✔ Positive Student Feedback and Testimonials</li>
+
+            </ul>
+            <p>
+                Whether you're aiming to crack campus placements, prepare for competitive coding rounds, or simply build
+                a strong base in C programming, we ensure you get the best learning experience possible.
+            </p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- roadMapStep start -->
     <?php include 'common/roadMapStep.php' ?>
     <!-- roadMapStep end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Career Opportunities after C Programming Course</h4>
+            <p>After completing our <b>C Programming Course in Mumbai with Certificate</b>, students can pursue the
+                following roles:</p>
+            <ul class="list-unstyled ps-2">
+                <li> Junior Software Developer</li>
+                <li> Embedded Systems Programmer</li>
+                <li>Application Support Engineer</li>
+                <li> Systems Programmer</li>
+                <li> Firmware Developer</li>
+                <li> C Programmer in Gaming or Automation Domains</li>
+
+
+            </ul>
+            <p>
+                You can also move forward to learn advanced programming languages like C++, Java, and Python with ease.
+            </p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- placedStudent start -->
     <?php include 'common/placedstudent.php' ?>
     <!-- PlacedStudent end -->
@@ -496,6 +693,97 @@
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
+       <!-- faqs-footer section start -->
+    <section id="faqs-footer">
+        <div class="container-lg py-5 px-4 px-lg-0">
+            <h2 class="fw-bold text-center py-3 ">
+                Frequently Asked Questions
+            </h2>
+            <div class="accordion" id="accordionExample2">
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                            <span class="fw-semibold">Do I need any prior programming knowledge to join this course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>No. This is a beginner-friendly course, and we start from scratch. Basic computer operation knowledge is sufficient.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                            <span class="fw-semibold"> Will I get a certificate after the course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Yes. You will receive an industry-recognized <b>C Programming Course Certificate</b> from CNC Web World.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                            <span class="fw-semibold">Is there job assistance after completing the course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Absolutely. Our course includes placement support, interview preparation, and access to job opportunities in various IT companies.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header ">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                            <span class="fw-semibold">How long is the course duration?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Typically, the course lasts 2-3 months, depending on batch schedules and individual progress.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                            <span class="fw-semibold">Can I attend demo classes?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Yes. We offer free demo sessions. Contact our counselors to book your spot.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- faqs-footer section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 py-5 px-lg-0 ">
+            <h4 class="fw-bold blue">Enroll Today in the Best C Programming Course in Mumbai</h4>
+            <p>
+                Whether you are a student or working professional, <b>CNC Web World</b> is your ideal destination for mastering C programming. Join the most practical and affordable <b>C Programming Course in Mumbai with Certificate</b> and take the first step towards a successful tech career.
+            </p>
+            <ul type="none">
+                <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo Session</li>
+                <li><b>📍 Join the Best C Programming Training Institute in Mumbai</b></li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->
