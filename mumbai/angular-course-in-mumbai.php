@@ -14,6 +14,21 @@
 </head>
 
 <body class="body">
+    <!--PopUp form-->
+    <div class="popup-screen">
+        <div class="popup">
+            <div class="d-flex justify-content-between">
+                <h5>Connect to Our Career Expert</h5>
+                <button id="close" class="ms-auto">&times;</button>
+            </div>
+            <iframe src="https://app.topfunnel.in/widget/form/67a742e535476"
+                style="width:100%;height:430px;border:none;border-radius:3px;" id="inline-67a742e535476"
+                data-form-name="website Popup" data-layout-iframe-id="inline-67a742e535476" data-form-id="67a742e535476"
+                data-height="400" title="website Popup">
+            </iframe>
+        </div>
+    </div>
+    <!--PopUp form-->
     <!-- top header start -->
     <?php include 'common/topheader.php' ?>
     <!-- top header end -->
@@ -46,27 +61,12 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 mx-auto p-4 col-11 bg-white  rounded">
-                    <form method="get" class="">
-                        <h4 class="text-center text-dark">Enquiry Form</h4>
-                        <input class="form-control form-control-lg" id="Name" type="text" placeholder="Name" required
-                            name="Full Name" pattern="[a-zA-Z ~ ]+$" />
-
-                        <input class="form-control form-control-lg mt-3" id="Email" type="email"
-                            placeholder="Email address" name=".1954131211" name="Email ID" required />
-
-                        <input class="form-control form-control-lg mt-3" id="Phone" type="text"
-                            placeholder="Phone Number" name=".316633167" name="Calling Number" pattern="[0-9]{10}"
-                            required />
-                        <input class="form-control form-control-lg mt-3" id="Phone" type="text"
-                            placeholder="Phone Number" name=".316633167" name="Calling Number" pattern="[0-9]{10}"
-                            required />
-
-                        <div class="mt-3">
-                            <button type="submit" name="submit" class="btn btn-dark btn-lg">
-                                Submit
-                            </button>
-                        </div>
-                    </form>
+                    <h4 class="text-center text-dark">Enquiry Form</h4>
+                    <iframe src="https://app.topfunnel.in/widget/form/6717d841a44a9"
+                        style="width:100%;height:370px;border:none;border-radius:3px" id="inline-6717d841a44a9"
+                        data-form-name="Nerul - FD | Web Development Leads" data-layout-iframe-id="inline-6717d841a44a9"
+                        data-form-id="6717d841a44a9" data-height="370" title="Nerul - FD | Web Development Leads">
+                    </iframe>
                 </div>
             </div>
         </div>
@@ -584,9 +584,6 @@
     <!-- keyHighlights section start -->
     <?php include 'common/keyHighlights.php' ?>
     <!-- keyHighlights section end -->
-    <!-- benefits  section start -->
-    <?php include 'common/benefits.php' ?>
-    <!-- benefits  section end -->
     <!-- brochure section start -->
     <?php include 'common/download.php' ?>
     <!-- brochure section end -->
@@ -692,7 +689,7 @@
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
-          <!-- faqs-footer section start -->
+    <!-- faqs-footer section start -->
     <section id="faqs-footer">
         <div class="container-lg py-5 px-4 px-lg-0">
             <h2 class="fw-bold text-center py-3">
@@ -703,12 +700,14 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                            <span class="fw-semibold">Do I need prior coding experience to join this Angular course?</span>
+                            <span class="fw-semibold">Do I need prior coding experience to join this Angular
+                                course?</span>
                         </button>
                     </h2>
                     <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>No, our course is beginner-friendly. However, basic knowledge of HTML, CSS, and JavaScript will be an advantage.</p>
+                            <p>No, our course is beginner-friendly. However, basic knowledge of HTML, CSS, and
+                                JavaScript will be an advantage.</p>
                         </div>
                     </div>
                 </div>
@@ -716,12 +715,14 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                            <span class="fw-semibold"> What tools and technologies will I learn apart from Angular?</span>
+                            <span class="fw-semibold"> What tools and technologies will I learn apart from
+                                Angular?</span>
                         </button>
                     </h2>
                     <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>You will also work with TypeScript, REST APIs, Angular CLI, RxJS, and basic concepts of backend integration.</p>
+                            <p>You will also work with TypeScript, REST APIs, Angular CLI, RxJS, and basic concepts of
+                                backend integration.</p>
                         </div>
                     </div>
                 </div>
@@ -729,12 +730,14 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                            <span class="fw-semibold"> Will I get a certificate after completing the Angular course?</span>
+                            <span class="fw-semibold"> Will I get a certificate after completing the Angular
+                                course?</span>
                         </button>
                     </h2>
                     <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Yes, you’ll receive a course completion certificate from <b>CNC WEB WORLD</b> which is recognized by employers.</p>
+                            <p>Yes, you’ll receive a course completion certificate from <b>CNC WEB WORLD</b> which is
+                                recognized by employers.</p>
                         </div>
                     </div>
                 </div>
@@ -747,7 +750,8 @@
                     </h2>
                     <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Absolutely. We offer <b>Online Angular classes</b> with live instructor-led sessions for students outside <b>Mumbai or Navi Mumbai</b>.
+                            <p>Absolutely. We offer <b>Online Angular classes</b> with live instructor-led sessions for
+                                students outside <b>Mumbai or Navi Mumbai</b>.
                             </p>
                         </div>
                     </div>
@@ -761,24 +765,28 @@
                     </h2>
                     <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Yes, we offer placement support, including mock interviews, resume building, and direct job referrals.</p>
+                            <p>Yes, we offer placement support, including mock interviews, resume building, and direct
+                                job referrals.</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- faqs-footer section end -->   
-      <!-- course-content start -->
+    <!-- faqs-footer section end -->
+    <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 py-5 px-lg-0 ">
             <h4 class="fw-bold blue">Start Your Angular Journey Today!</h4>
             <p>
-                If you're searching for <b>Angular classes in Navi Mumbai</b>, <b>Angular course in Mumbai</b>, or <b>Angular training in Mumbai</b>,<b> CNC WEB WORLD</b> is your one-stop destination. Join our career-focused program and build a future-ready skill set that employers value.
+                If you're searching for <b>Angular classes in Navi Mumbai</b>, <b>Angular course in Mumbai</b>, or
+                <b>Angular training in Mumbai</b>,<b> CNC WEB WORLD</b> is your one-stop destination. Join our
+                career-focused program and build a future-ready skill set that employers value.
             </p>
             <ul type="none">
                 <li>✨ Enroll Today and Transform Your Career with Angular! </li>
-                <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> for a Free Demo Session or Career Counseling. </li>
+                <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> for a Free Demo Session or
+                    Career Counseling. </li>
             </ul>
         </div>
     </div>
@@ -791,6 +799,26 @@
     <!-- fixed section end -->
     <?php include './common/footerlink.php' ?>
     <script>
+        //   Popup form
+        const popupScreen = document.querySelector(".popup-screen")
+        const popBox = document.querySelector(".popup")
+        const close = document.querySelector("#close")
+
+        window.addEventListener("load", () => {
+            setTimeout(() => {
+                popupScreen.classList.add("active");
+            }, 2000
+            );
+            setInterval(() => {
+                popupScreen.classList.add("active");
+            }, 20000
+            )
+        });
+        close.addEventListener("click", function () {
+            popupScreen.classList.remove("active")
+            // popBox.style.display = "none";
+        });
+        //   Popup form
         new Swiper(".mySwiperIndustryProjectBox", {
             // slidesPerView: 3,
             loop: true,

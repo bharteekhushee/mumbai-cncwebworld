@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Top DOT NET Course in Mumbai: Learn and Succeed!</title>
     <?php include 'common/headerlink.php' ?>
-     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
+    <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
+
 <body class="body">
     <!-- top header start -->
     <?php include 'common/topheader.php' ?>
@@ -40,8 +42,8 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 mx-auto p-4 col-11 bg-white  rounded">
-                    <form method="get" class="">
-                        <h4 class="text-center text-dark">Enquiry Form</h4>
+                <h4 class="text-center text-dark">Enquiry Form</h4>
+                    <!-- <form method="get" class="">
                         <input class="form-control form-control-lg" id="Name" type="text" placeholder="Name" required
                             name="Full Name" pattern="[a-zA-Z ~ ]+$" />
 
@@ -60,7 +62,17 @@
                                 Submit
                             </button>
                         </div>
-                    </form>
+                    </form> -->
+                    <iframe
+                          src="https://app.topfunnel.in/widget/form/671780997c0fe"
+                          style="width:100%;height:370px;border:none;border-radius:3px"
+                          id="inline-671780997c0fe"
+                          data-form-name="Nerul - Dot Net FS Leads"
+                          data-layout-iframe-id="inline-671780997c0fe"
+                          data-form-id="671780997c0fe"
+                          data-height="370"
+                          title="Nerul - Dot Net FS Leads">
+                        </iframe>
                 </div>
             </div>
         </div>
@@ -70,7 +82,8 @@
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
-                <h2 class="fw-bold mb-4 text-center">Why <span class="blue">C# Dot Net Full Stack?</span></h2>
+                <h2 class="fw-bold mb-4 text-center">Full Stack .NET Course in Navi Mumbai - <span class="blue">CNC WEB
+                        WORLD</span></h2>
             </div>
             <div class="row ">
                 <div class="col-lg-6 ">
@@ -78,28 +91,30 @@
                         alt="Saurabh Ganguli">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center ">
+                    <h5 class="fw-bold blue">Master Full Stack .NET Development with CNC WEB WORLD</h5>
                     <p>
-                        <b>CNC WEB WORLD </b> offers a <b>Python Course in Mumbai</b> to teach students how to use
-                        Python, a widely used programming language, for many different purposes. Python has the
-                        flexibility to work in web development, data analysis, machine learning scientific computing,
-                        and other areas.
+                        Are you looking to build a successful career in software development? <b>CNC WEB WORLD</b> offers the
+                        <b>best Full Stack .NET course in Navi Mumbai</b>, designed to equip students with the skills required
+                        to develop end-to-end web applications using Microsoft technologies. Whether you are a beginner
+                        or an experienced professional looking to upgrade your skills, this course provides hands-on
+                        training to help you become a proficient <b>Full Stack .NET Developer</b>.
                     </p>
+                    <h5 class="fw-bold blue">What is Full Stack .NET Development?</h5>
                     <p>
-                        A standard <b>Python course</b> covers Python syntax, data types, functions, control structures,
-                        object-oriented programming, file input/output, libraries and frameworks, web development, data
-                        analysis and visualization, and machine learning. The python classes in mumbai aims to give
-                        hands-on experience, with practical exercises and projects to strengthen understanding.
-                    </p>
-                    <p> The <b>Python Classes in Mumbai</b> includes tools and frameworks like NumPy, Pandas,
-                        Matplotlib, Flask, Django, TensorFlow, and PyTorch. These tools help to manage data, create
-                        visual representations, build web applications, and put machine learning algorithms into
-                        practice.
+                        <b>Full Stack .NET development</b> involves working on both the frontend and backend of web
+                        applications using Microsoft technologies. A <b>Full Stack .NET Developer</b> is proficient in
+                        developing user interfaces, handling server-side logic, and managing databases.
                     </p>
                 </div>
             </div>
-            <div class="text-center mt-2">
-                <button class="btn btn-dark btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">Enquire
-                    Now</button>
+            <div>
+                <p>Our <b>Full Stack .NET training in Navi Mumbai</b> covers everything from the fundamentals of .NET
+                    programming to advanced concepts such as API development, cloud deployment, and database management.
+                </p>
+                <div class="text-center mt-2">
+                    <button class="btn btn-dark btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">Enquire
+                        Now</button>
+                </div>
             </div>
         </div>
     </section>
@@ -111,9 +126,81 @@
         </div>
     </div>
     <!-- roadmap-image end -->
-     <!-- whoCanJoin start -->
-     <?php include 'common/whoCanJoin.php' ?>
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Why Choose CNC WEB WORLD for Full Stack .NET Training in Navi Mumbai?</h4>
+            <ul>
+                <li> <b>Industry Expert Trainers:</b> Learn from professionals with real-world experience in Full Stack
+                    .NET development.</li>
+                <li> <b>Hands-on Learning:</b> Gain practical knowledge through real-time projects and case studies.
+                </li>
+                <li> <b>Placement Assistance:</b> We provide career support, including resume building, interview
+                    preparation, and job placements.</li>
+                <li> <b>Flexible Batches:</b> Choose from weekday, weekend, or online classes as per your convenience.
+                </li>
+                <li> <b>Affordable Full Stack .NET Course Fees in Navi Mumbai:</b> Get quality training at a
+                    cost-effective price.</li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
+    <!-- whoCanJoin start -->
+    <?php include 'common/whoCanJoin.php' ?>
     <!-- WhoCanJoin end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Course Modules: Full Stack .NET Certification Course in Navi Mumbai</h4>
+            <p>
+                Our course is designed to cover all aspects of Full Stack .NET development, including frontend
+                technologies, backend programming, database management, and cloud integration.
+            </p>
+            <div class="row">
+                <div class="col-md-6">
+                    <h6 class="fw-bold fst-italic blue">1. Frontend Development:</h6>
+                    <ul>
+                        <li> HTML, CSS, JavaScript, and Bootstrap</li>
+                        <li> Angular/React.js for dynamic user interfaces</li>
+                        <li> Responsive web design principles </li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <h6 class="fw-bold fst-italic blue">2. Backend Development:</h6>
+                    <ul>
+                        <li>C# programming language</li>
+                        <li> ASP.NET Core and MVC architecture</li>
+                        <li> RESTful API development</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <h6 class="fw-bold fst-italic blue">3. Database Management:</h6>
+                    <ul>
+                        <li> SQL Server and Entity Framework</li>
+                        <li> Database design and optimization</li>
+                        <li> Handling complex queries </li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <h6 class="fw-bold fst-italic blue">4. Cloud and DevOps:</h6>
+                    <ul>
+                        <li> Deployment on Azure</li>
+                        <li> Version control using Git and GitHub</li>
+                        <li> CI/CD pipeline setup for automated deployment </li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <h6 class="fw-bold fst-italic blue">5. Project Work & Certification:</h6>
+                    <ul>
+                        <li> Live industry projects</li>
+                        <li> Full Stack .NET Certification Training in Navi Mumbai</li>
+                        <li> Interview preparation and resume building </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- courseDetails section start -->
     <section id="courseDetail">
         <div class="container-lg">
@@ -266,11 +353,12 @@
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
-                                               <li>Introduction to C# and .NET Framework</li>
-                                               <li>Data Types, Variables & Operators</li>
-                                               <li>Control Flow (Loops, Conditions)</li>
-                                               <li>Exception Handling & Debugging</li>
-                                               <li>Object-Oriented Programming (Classes, Objects, Inheritance, Polymorphism)</li>
+                                                <li>Introduction to C# and .NET Framework</li>
+                                                <li>Data Types, Variables & Operators</li>
+                                                <li>Control Flow (Loops, Conditions)</li>
+                                                <li>Exception Handling & Debugging</li>
+                                                <li>Object-Oriented Programming (Classes, Objects, Inheritance,
+                                                    Polymorphism)</li>
                                             </ul>
                                         </div>
                                         <div class="col-sm-6">
@@ -290,7 +378,7 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#aspdotnet" aria-expanded="false" aria-controls="aspdotnet">
-                                   ASP .Net
+                                    ASP .Net
                                     <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
                                         style="font-size: 12px;">#Backemd</span>
                                     <span class="ms-auto">
@@ -304,20 +392,20 @@
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
-                                               <li>Introduction to ASP.NET Core & .NET 6/7/8</li>
-                                               <li>MVC Architecture (Model-View-Controller)</li>
-                                               <li>Razor Pages & Views</li>
-                                               <li>Dependency Injection in ASP.NET Core</li>
-                                               <li>Middleware & Routing</li>
+                                                <li>Introduction to ASP.NET Core & .NET 6/7/8</li>
+                                                <li>MVC Architecture (Model-View-Controller)</li>
+                                                <li>Razor Pages & Views</li>
+                                                <li>Dependency Injection in ASP.NET Core</li>
+                                                <li>Middleware & Routing</li>
                                             </ul>
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                               <li>Authentication & Authorization (JWT, OAuth)</li>
-                                               <li>Entity Framework Core with ASP.NET Core</li>
-                                               <li>API Development with ASP.NET Core</li>
-                                               <li>ASP.NET Core Identity & Security</li>
-                                               <li>Deployment & Hosting (IIS, Azure, Docker)</li>
+                                                <li>Authentication & Authorization (JWT, OAuth)</li>
+                                                <li>Entity Framework Core with ASP.NET Core</li>
+                                                <li>API Development with ASP.NET Core</li>
+                                                <li>ASP.NET Core Identity & Security</li>
+                                                <li>Deployment & Hosting (IIS, Azure, Docker)</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -342,12 +430,12 @@
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
-                                            <li>Introduction to Web API & RESTful Services</li>
-                                            <li>Creating APIs with ASP.NET Core</li>
-                                            <li>HTTP Methods (GET, POST, PUT, DELETE)</li>
-                                            <li>Request & Response Handling (Model Binding, Validation)</li>
-                                            <li>Authentication & Authorization in Web APIs</li>
-                                        </ul>
+                                                <li>Introduction to Web API & RESTful Services</li>
+                                                <li>Creating APIs with ASP.NET Core</li>
+                                                <li>HTTP Methods (GET, POST, PUT, DELETE)</li>
+                                                <li>Request & Response Handling (Model Binding, Validation)</li>
+                                                <li>Authentication & Authorization in Web APIs</li>
+                                            </ul>
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
@@ -458,7 +546,7 @@
                             </h2>
                             <div id="aws" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                <div class="row">
+                                    <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Introduction to CI/CD and DevOps</li>
@@ -468,13 +556,14 @@
                                                 <li>AWS CodeDeploy: Automated Deployments</li>
                                                 <li>AWS Elastic Beanstalk for CI/CD</li>
                                                 <li>AWS CodePipeline: CI/CD Workflow Automation</li>
-                                                
+
                                             </ul>
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Docker and AWS CI/CD Integration</li>
-                                                <li>Infrastructure as Code (IaC) with AWS CloudFormation & Terraform</li>
+                                                <li>Infrastructure as Code (IaC) with AWS CloudFormation & Terraform
+                                                </li>
                                                 <li>AWS Lambda and Serverless CI/CD</li>
                                                 <li>Monitoring & Logging in AWS CI/CD (CloudWatch, CloudTrail)</li>
                                                 <li>Security Best Practices in AWS CI/CD</li>
@@ -501,7 +590,7 @@
                             </h2>
                             <div id="docker" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                <div class="row">
+                                    <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Introduction to Docker</li>
@@ -515,13 +604,13 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                               <li>Docker Volumes and Persistent Storage</li>
-                                               <li>Docker Swarm: Container Orchestration </li>
-                                               <li>Docker Security Best Practices</li>
-                                               <li>Monitoring and Logging in Docker</li>
-                                               <li>CI/CD Integration with Docker</li>
-                                               <li>Deploying Applications with Docker</li>
-                                               <li>Docker in Cloud Environments (AWS, Azure)</li>
+                                                <li>Docker Volumes and Persistent Storage</li>
+                                                <li>Docker Swarm: Container Orchestration </li>
+                                                <li>Docker Security Best Practices</li>
+                                                <li>Monitoring and Logging in Docker</li>
+                                                <li>CI/CD Integration with Docker</li>
+                                                <li>Deploying Applications with Docker</li>
+                                                <li>Docker in Cloud Environments (AWS, Azure)</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -543,11 +632,12 @@
                             </h2>
                             <div id="testing" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                <div class="row">
+                                    <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Introduction to Software Testing</li>
-                                                <li>Software Development Life Cycle (SDLC) & Testing Life Cycle (STLC)</li>
+                                                <li>Software Development Life Cycle (SDLC) & Testing Life Cycle (STLC)
+                                                </li>
                                                 <li>Types of Software Testing</li>
                                                 <li>Functional Testing & Non-Functional Testing</li>
                                                 <li>Black Box vs. White Box Testing</li>
@@ -556,14 +646,14 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                            <li>Usability & Accessibility Testing</li>
-                                               <li>Defect Life Cycle & Bug Reporting</li>
-                                                <li>Test Management Tools (JIRA.)</li> 
+                                                <li>Usability & Accessibility Testing</li>
+                                                <li>Defect Life Cycle & Bug Reporting</li>
+                                                <li>Test Management Tools (JIRA.)</li>
                                                 <li>Agile Testing & Scrum Methodology</li>
-                                                <li>User Acceptance Testing (UAT)</li> 
-                                                <li>API Testing</li>                                         
-                                                <li>Performance & Security Testing Concepts</li>      
-                                             </ul>
+                                                <li>User Acceptance Testing (UAT)</li>
+                                                <li>API Testing</li>
+                                                <li>Performance & Security Testing Concepts</li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -575,6 +665,22 @@
         </div>
     </section>
     <!-- courseDetails section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Who Can Enroll in Full Stack .NET Classes in Navi Mumbai?</h4>
+            <ul>
+                <li> Freshers who want to start a career in web development</li>
+                <li> Working professionals looking to upskill in .NET technologies</li>
+                <li> Entrepreneurs seeking to create high-performance web solutions</li>
+                <li>Students interested in learning full-stack development</li>
+            </ul>
+            <h4 class="fw-bold blue">Full Stack .NET Course Fees in Navi Mumbai</h4>
+            <p>At <b>CNC WEB WORLD</b>, we provide affordable training programs with flexible payment options. Contact us today
+                for a detailed breakdown of our Full Stack .NET course fees in Navi Mumbai and available discounts.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- industryProject  section start -->
     <section id="industryProject">
         <div class="container-fluid py-5 px-2 px-md-5">
@@ -678,22 +784,56 @@
         </div>
     </section>
     <!-- industryProject  section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Job Opportunities After Completing the Course</h4>
+            <p> The Full Stack .NET certification course in Navi Mumbai opens doors to several career opportunities,
+                including:
+            </p>
+            <ul>
+                <li> .NET Developer</li>
+                <li> Full Stack Developer</li>
+                <li> Backend Developer</li>
+                <li> Software Engineer</li>
+                <li> Web Developer</li>
+                <li> Cloud Application Developer</li>
+            </ul>
+            <span>With the growing demand for .NET professionals, you can secure jobs in IT firms, MNCs, and
+                startups.</span>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- keyHighlights section start -->
     <?php include 'common/keyHighlights.php' ?>
     <!-- keyHighlights section end -->
-
     <!-- benefits  section start -->
     <?php include 'common/benefits.php' ?>
     <!-- benefits  section end -->
     <!-- brochure section start -->
     <?php include 'common/download.php' ?>
     <!-- brochure section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Why Full Stack .NET?</h4>
+            <ul>
+                <li><b>High Demand:</b> Many companies require .NET developers for enterprise-level applications.</li>
+                <li><b>Scalability:</b> .NET applications can scale effectively with cloud integration.</li>
+                <li><b>Microsoft Support:</b> Backed by Microsoft, .NET technologies are reliable and frequently
+                    updated.</li>
+                <li><b>Job Security:</b> With .NET expertise, you can secure well-paying jobs in reputed companies.</li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- programmingTools section start -->
     <section id="programmingTools">
         <div class="container py-5 px-4 px-md-0">
             <div class="row">
                 <div class="col-12 text-center my-3">
-                    <h2 class="fw-bolder">Programming Languages & Tools Covered in C# Dot Net Full Stack Developer Course
+                    <h2 class="fw-bolder">Programming Languages & Tools Covered in C# Dot Net Full Stack Developer
+                        Course
                     </h2>
                 </div>
             </div>
@@ -748,6 +888,24 @@
         </div>
     </section>
     <!-- programmingTools section end -->
+
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Learn Full Stack .NET in Navi Mumbai with Placement Assistance</h4>
+            <span>Our Full Stack .NET institutes in Navi Mumbai provide end-to-end career support. We assist students in
+                resume building, conducting mock interviews, and connecting them with top recruiters in the
+                industry.</span>
+            <h5 class="fw-bold">Placement Support Includes:</h5>
+            <ul>
+                <li> Resume writing and LinkedIn profile optimization</li>
+                <li> Mock interview sessions</li>
+                <li> Access to job portals and placement drives</li>
+                <li> Internship opportunities with live projects</li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- roadMapStep start -->
     <?php include 'common/roadMapStep.php' ?>
     <!-- roadMapStep end -->
@@ -763,6 +921,108 @@
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
+    <!-- faqs-footer section start -->
+    <section id="faqs-footer">
+        <div class="container-lg py-5 px-4 px-lg-0">
+            <h2 class="fw-bold text-center py-3 ">
+                Frequently Asked Questions
+            </h2>
+            <div class="accordion" id="accordionExample2">
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                            <span class="fw-semibold">What are the prerequisites for enrolling in this course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>No prior programming experience is required. Familiarity with programming basics may
+                                enhance your learning experience.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                            <span class="fw-semibold"> How long is the Full Stack .NET course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>The course duration is approximately 3-4 months, depending on the learning pace and batch
+                                schedule.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                            <span class="fw-semibold">What certification will I receive after completing the
+                                course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>You will receive a  <b>Full Stack .NET Certification from CNC WEB WORLD</b>, recognized by top IT
+                                companies.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header ">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                            <span class="fw-semibold">Can I get a job after completing this course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Yes! We offer job placement assistance to help you secure a job in the IT industry.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                            <span class="fw-semibold">Is there an online training option available?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Yes, we offer both classroom and online training options for Full Stack .NET courses.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- faqs-footer section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 py-5 px-lg-0 ">
+            <h4 class="fw-bold blue">Enroll in the Best Dot Net Fullstack Courses in Mumbai Today!</h4>
+            <p>
+                Take the first step toward a rewarding career in <b>Full Stack .NET development</b> with <b>CNC WEB WORLD</b>. Contact
+                us today to know more about the <b>Full Stack .NET course in Navi Mumbai</b> and start your journey towards
+                becoming a professional Full Stack Developer.
+            </p>
+            <ul type="none">
+                <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
+                    Session .</li>
+                <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
+                    Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
+                <li>
+                    <b>🌐 Website: </b> [<a
+                        href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->
@@ -805,4 +1065,5 @@
         });
     </script>
 </body>
+
 </html>

@@ -25,7 +25,7 @@
             <div class="row py-5">
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
                     <img src="./assets/img/ui-ux-icon.png" width="60px" alt="">
-                    <h1 class="pe-5">UI / UX Intensive Training Program</h1>
+                    <h1 class="pe-5">UI / UX Intensive <br> Training Program</h1>
                     <h3 class="fw-semibold"><i>100% Job Oriented Course</i></h3>
                     <div class="row">
                         <div class="col-4 ">
@@ -42,8 +42,8 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 mx-auto p-4 col-11 bg-white  rounded">
-                    <form method="get" class="">
                         <h4 class="text-center text-dark">Enquiry Form</h4>
+                    <!-- <form method="get" class="">
                         <input class="form-control form-control-lg" id="Name" type="text" placeholder="Name" required
                             name="Full Name" pattern="[a-zA-Z ~ ]+$" />
 
@@ -62,7 +62,17 @@
                                 Submit
                             </button>
                         </div>
-                    </form>
+                    </form> -->
+                    <iframe
+                          src="https://app.topfunnel.in/widget/form/6717d748b4c0f"
+                          style="width:100%;height:370px;border:none;border-radius:3px"
+                          id="inline-6717d748b4c0f"
+                          data-form-name="Nerul - UI & UX Leads"
+                          data-layout-iframe-id="inline-6717d748b4c0f"
+                          data-form-id="6717d748b4c0f"
+                          data-height="370"
+                          title="Nerul - UI & UX Leads">
+                        </iframe>
                 </div>
             </div>
         </div>
@@ -72,7 +82,8 @@
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
-                <h2 class="fw-bold mb-4 text-center">What is <span class="blue">UI / UX?</span></h2>
+                <h2 class="fw-bold mb-4 text-center">UI/UX Design Course in Mumbai – <span class="blue">CNC WEB WORLD
+                    </span></h2>
             </div>
             <div class="row ">
                 <div class="col-lg-6 ">
@@ -81,22 +92,30 @@
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center ">
                     <p>
-                        <b>CNC WEB WORLD </b> offers a <b>Python Course in Mumbai</b> to teach students how to use
-                        Python, a widely used programming language, for many different purposes. Python has the
-                        flexibility to work in web development, data analysis, machine learning scientific computing,
-                        and other areas.
+                        Are you looking for the <b>best UI UX design course offline in Mumbai</b>? <b>CNC WEB WORLD</b>
+                        offers a top-rated <b>UX design course Mumbai</b> that equips students with essential skills for
+                        creating visually appealing and user-friendly digital experiences. Our UI design course in
+                        Mumbai is designed for beginners and professionals who want to master the art of UI/UX design
+                        and advance their careers in this dynamic field.
                     </p>
-                    <p>
-                        A standard <b>Python course</b> covers Python syntax, data types, functions, control structures,
-                        object-oriented programming, file input/output, libraries and frameworks, web development, data
-                        analysis and visualization, and machine learning. The python classes in mumbai aims to give
-                        hands-on experience, with practical exercises and projects to strengthen understanding.
-                    </p>
-                    <p> The <b>Python Classes in Mumbai</b> includes tools and frameworks like NumPy, Pandas,
-                        Matplotlib, Flask, Django, TensorFlow, and PyTorch. These tools help to manage data, create
-                        visual representations, build web applications, and put machine learning algorithms into
-                        practice.
-                    </p>
+                    <h5 class="fw-bold blue">Career Opportunities After Completing Our UI UX Course in Mumbai</h5>
+                    <p>Upon completing our UI UX design course in Mumbai, you can explore various job roles such as:</p>
+                    <div class="row">
+                        <div class="col-6">
+                            <ul>
+                                <li> UI Designer</li>
+                                <li>UX Designer</li>
+                                <li> Interaction Designer</li>
+                            </ul>
+                        </div>
+                        <div class="col-6">
+                            <ul>
+                                <li> Product Designer</li>
+                                <li> UX Researcher</li>
+                                <li> Visual Designer</li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </div>
             <div class="text-center mt-2">
@@ -113,9 +132,49 @@
         </div>
     </div>
     <!-- roadmap-image end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Why Choose CNC WEB WORLD’s UI UX Design Course in Mumbai?</h4>
+            <p> <b>CNC WEB WORLD</b> is a premier <b>UI UX design institute in Mumbai</b>, offering industry-relevant
+                training. We focus on practical learning with hands-on projects, ensuring our students are job-ready.
+                Here’s why we stand out:
+            </p>
+            <ul>
+                <li> <b>Experienced Trainers –</b> Learn from industry experts with real-world experience.</li>
+                <li> <b>Hands-on Training –</b> Practical assignments and live projects.</li>
+                <li> <b>End-to-End Career Support –</b> CV refinement, interview prep, and job placement help.</li>
+                <li> <b>Industry-Relevant Curriculum –</b> Covering the latest trends and tools in UI/UX design.</li>
+                <li> <b>Small Batch Size –</b> Ensuring personalized attention for every student.</li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- whoCanJoin start -->
     <?php include 'common/whoCanJoin.php' ?>
     <!-- WhoCanJoin end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">UI UX Classes in Mumbai – Course Overview</h4>
+            <p>Our <b>UI UX designer course in Mumbai</b> covers everything from the fundamentals of UI/UX design to
+                advanced design principles. The course includes:</p>
+            <ul>
+                <li> <b>Introduction to UI/UX Design –</b> Understanding the basics of user experience and user
+                    interface design.</li>
+                <li> <b>Design Thinking & User Research –</b> Learn to conduct research, analyze user behavior, and
+                    create user personas.</li>
+                <li> <b>Wireframing & Prototyping –</b> Hands-on training on wireframing and prototyping using Figma,
+                    Adobe XD, and Sketch.</li>
+                <li> <b>Visual Design Principles –</b> Color theory, typography, iconography, and branding.</li>
+                <li> <b>User Testing & Feedback –</b> How to test designs and improve based on real user feedback.</li>
+                <li> <b>UI Development with HTML & CSS –</b> Basics of front-end development to bring UI designs to
+                    life.</li>
+                <li> <b>Portfolio Building –</b> Work on live projects and build a professional portfolio.</li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- courseDetails section start -->
     <section id="courseDetail">
         <div class="container-lg">
@@ -229,12 +288,12 @@
                                         <div class="col-sm-6">
                                             <ol>
                                                 <li>Introduction to UI/UX Design
-                                                <ul>
-                                                    <li>Basics of User Interface (UI) & User Experience (UX)</li>
-                                                    <li>Differences Between UI & UX</li>
-                                                    <li>Importance of UI/UX in Modern Applications</li>
-                                                </ul>
-                                            </li>
+                                                    <ul>
+                                                        <li>Basics of User Interface (UI) & User Experience (UX)</li>
+                                                        <li>Differences Between UI & UX</li>
+                                                        <li>Importance of UI/UX in Modern Applications</li>
+                                                    </ul>
+                                                </li>
                                                 <li>UX Research & Analysis
                                                     <ul>
                                                         <li>Understanding User Needs & Behavior</li>
@@ -253,7 +312,8 @@
                                                         <li>Writing Clear & Effective UX Copy</li>
                                                         <li>Creating Meaningful Microinteractions</li>
                                                     </ul>
-                                                </li> <li>Usability Testing & User Feedback
+                                                </li>
+                                                <li>Usability Testing & User Feedback
                                                     <ul>
                                                         <li>Conducting Usability Tests</li>
                                                         <li>Analyzing User Behavior & Heatmaps</li>
@@ -269,7 +329,7 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <ol start="7">
-                                               
+
                                                 <li>UI/UX Design Process
                                                     <ul>
                                                         <li>Design Thinking Methodology</li>
@@ -308,7 +368,7 @@
                                                         <li>Analyzing Successful UI/UX Designs</li>
                                                     </ul>
                                                 </li>
-                                          
+
                                             </ol>
                                         </div>
                                     </div>
@@ -555,13 +615,42 @@
     <!-- keyHighlights section start -->
     <?php include 'common/keyHighlights.php' ?>
     <!-- keyHighlights section end -->
-
-    <!-- benefits  section start -->
-    <!-- <?php include 'common/benefits.php' ?> -->
-    <!-- benefits  section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Who Can Join the UI UX Design Course in Mumbai?</h4>
+            <p> Our <b>UI UX classes in Mumbai</b> are ideal for: </p>
+            <ul>
+                <li>Freshers looking to start a career in UI/UX design.</li>
+                <li>Graphic designers eager to explore opportunities in UI/UX design..</li>
+                <li>Web developers interested in UI/UX.</li>
+                <li>Entrepreneurs and business owners who want to enhance their digital presence.</li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- brochure section start -->
     <?php include 'common/download.php' ?>
     <!-- brochure section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Working professionals seeking to enhance their skills and career growth.UI UX
+                Design Course Offline in Mumbai – Tools & Technologies</h4>
+            <p>During the <b>UX design course in Mumbai</b>, students will get hands-on experience with industry-leading
+                tools, including: </p>
+            <ul>
+                <li> Figma</li>
+                <li> Adobe XD</li>
+                <li> Sketch</li>
+                <li> InVision</li>
+                <li> Photoshop</li>
+                <li> Illustrator</li>
+                <li> HTML & CSS Basics</li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- programmingTools section start -->
     <section id="programmingTools">
         <div class="container py-5 px-4 px-md-0">
@@ -601,7 +690,7 @@
                         <div class="col">
                             <img src="./assets/img/xd.png" alt="" class="img-fluid">
                         </div>
-                        
+
                         <div class="col">
                             <img src="./assets/img/aws.png" alt="" class="img-fluid">
                         </div>
@@ -617,6 +706,20 @@
         </div>
     </section>
     <!-- programmingTools section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Benefits of Enrolling in Our UI UX Design Course in Mumbai</h4>
+            <ol>
+                <li><b>Comprehensive Curriculum –</b> Covering every aspect of UI/UX design.</li>
+               <li> <b>Industry-Led Training –</b> Gain insights from seasoned professionals</li>
+               <li> <b>Live Projects & Case Studies –</b> Gain practical experience.</li>
+               <li> <b>Job Placement Assistance –</b> 100% support in job search and interview preparation.</li>
+               <li> <b>Offline Classroom Training –</b> Get hands-on learning experience in Mumbai.</li>
+            </ol>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- roadMapStep start -->
     <?php include 'common/roadMapStep.php' ?>
     <!-- roadMapStep end -->
@@ -632,6 +735,115 @@
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
+           <!-- faqs-footer section start -->
+    <section id="faqs-footer">
+        <div class="container-lg py-5 px-4 px-lg-0">
+            <h2 class="fw-bold text-center py-3 ">
+                Frequently Asked Questions
+            </h2>
+            <div class="accordion" id="accordionExample2">
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                            <span class="fw-semibold">What is UI/UX Design?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>UI/UX design involves designing user-friendly and aesthetically pleasing digital interfaces. UI (User Interface) focuses on the visual design of applications, while UX (User Experience) ensures that users have a smooth and intuitive experience.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                            <span class="fw-semibold">Do I Need Any Prior Experience to Join the Course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>No, our <b>UI UX designer course in Mumbai</b> is suitable for beginners as well as experienced professionals.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                            <span class="fw-semibold">What Are the Job Opportunities After This Course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>You can work as a <b>UI/UX designer in IT companies</b>, startups, digital agencies, and e-commerce firms. The demand for UI/UX designers is growing across multiple sectors.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header ">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                            <span class="fw-semibold">Do You Provide Placement Assistance?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Yes, <b>CNC WEB WORLD</b> offers job placement assistance, resume building, and interview preparation to help students secure jobs in reputed companies.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                            <span class="fw-semibold">What Are the Course Fees and Duration?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>The course duration is 3-6 months, depending on the level of training. For detailed fee structure, contact <b>CNC WEB WORLD</b>.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
+                            <span class="fw-semibold">What Tools Will I Learn in This Course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse6" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>You will work with industry-standard tools like Figma, Adobe XD, Sketch, Photoshop, Illustrator, and HTML/CSS.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- faqs-footer section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 py-5 px-lg-0 ">
+            <h4 class="fw-bold blue">Enroll in the Best UI UX Design Course in Mumbai Today!</h4>
+            <p>
+                If you’re looking for a <b>UI UX design institute in Mumbai</b> that offers practical training, career support, and job placement assistance, <b>CNC WEB WORLD</b> is the right choice. Take the first step towards a successful UI/UX design career today! </p>
+            <ul type="none">
+                <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
+                    Session .</li>
+                <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
+                    Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
+                <li>
+                    <b>🌐 Website: </b> [<a
+                        href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->

@@ -42,27 +42,17 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 mx-auto p-4 col-11 bg-white  rounded">
-                    <form method="get" class="">
                         <h4 class="text-center text-dark">Enquiry Form</h4>
-                        <input class="form-control form-control-lg" id="Name" type="text" placeholder="Name" required
-                            name="Full Name" pattern="[a-zA-Z ~ ]+$" />
-
-                        <input class="form-control form-control-lg mt-3" id="Email" type="email"
-                            placeholder="Email address" name=".1954131211" name="Email ID" required />
-
-                        <input class="form-control form-control-lg mt-3" id="Phone" type="text"
-                            placeholder="Phone Number" name=".316633167" name="Calling Number" pattern="[0-9]{10}"
-                            required />
-                        <input class="form-control form-control-lg mt-3" id="Phone" type="text"
-                            placeholder="Phone Number" name=".316633167" name="Calling Number" pattern="[0-9]{10}"
-                            required />
-
-                        <div class="mt-3">
-                            <button type="submit" name="submit" class="btn btn-dark btn-lg">
-                                Submit
-                            </button>
-                        </div>
-                    </form>
+                        <iframe
+                          src="https://app.topfunnel.in/widget/form/67177d836c4a3"
+                          style="width:100%;height:370px;border:none;border-radius:3px"
+                          id="inline-67177d836c4a3"
+                          data-form-name="Nerul- Java FS Development"
+                          data-layout-iframe-id="inline-67177d836c4a3"
+                          data-form-id="67177d836c4a3"
+                          data-height="370"
+                          title="Nerul- Java FS Development">
+                        </iframe>
                 </div>
             </div>
         </div>

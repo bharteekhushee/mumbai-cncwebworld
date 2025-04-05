@@ -16,10 +16,10 @@
                             </a>
                         </li>
                         <li>
-                            <a href="mailto:help@cncwebworld.in">
+                            <a href="mailto:nerul@cncwebworld.com">
                                 <i class="fa-solid fa-envelope"></i>
                                 <span>
-                                    help@cncwebworld.in
+                                nerul@cncwebworld.com
                                 </span>
                             </a>
                         </li>

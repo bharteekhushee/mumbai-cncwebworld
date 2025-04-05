@@ -29,7 +29,7 @@
             <div class="row py-5">
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
                     <img src="./assets/img/c++.png" width="60px" alt="">
-                    <h1 class="pe-lg-5">C Intensive Training Program</h1>
+                    <h1 class="pe-lg-5">C Intensive <br> Training Program</h1>
                     <h3 class="fw-semibold"><i>100% Job Oriented Course</i></h3>
                     <div class="row">
                         <div class="col-4 ">
@@ -46,8 +46,8 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 mx-auto p-4 col-11 bg-white  rounded">
-                    <form method="get" class="">
                         <h4 class="text-center text-dark">Enquiry Form</h4>
+                    <!-- <form method="get" class="">
                         <input class="form-control form-control-lg" id="Name" type="text" placeholder="Name" required
                             name="Full Name" pattern="[a-zA-Z ~ ]+$" />
 
@@ -66,7 +66,17 @@
                                 Submit
                             </button>
                         </div>
-                    </form>
+                    </form> -->
+                    <iframe
+                          src="https://app.topfunnel.in/widget/form/6717d7c504d94"
+                          style="width:100%;height:370px;border:none;border-radius:3px;"
+                          id="inline-6717d7c504d94"
+                          data-form-name="Nerul - C & C++ Leads"
+                          data-layout-iframe-id="inline-6717d7c504d94"
+                          data-form-id="6717d7c504d94"
+                          data-height="370"
+                          title="Nerul - C & C++ Leads">
+                        </iframe>
                 </div>
             </div>
         </div>

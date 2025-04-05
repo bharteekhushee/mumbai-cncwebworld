@@ -46,8 +46,8 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 mx-auto p-4 col-11 bg-white  rounded">
-                    <form method="get" class="">
                         <h4 class="text-center text-dark">Enquiry Form</h4>
+                    <!-- <form method="get" class="">
                         <input class="form-control form-control-lg" id="Name" type="text" placeholder="Name" required
                             name="Full Name" pattern="[a-zA-Z ~ ]+$" />
 
@@ -66,7 +66,18 @@
                                 Submit
                             </button>
                         </div>
-                    </form>
+                    </form> -->
+                    
+                    <iframe
+                          src="https://app.topfunnel.in/widget/form/671782380f9b3"
+                          style="width:100%;height:370px;border:none;border-radius:3px"
+                          id="inline-671782380f9b3"
+                          data-form-name="Nerul - Data Analytics Leads"
+                          data-layout-iframe-id="inline-671782380f9b3"
+                          data-form-id="671782380f9b3"
+                          data-height="370"
+                          title="Nerul - Data Analytics Leads">
+                        </iframe>
                 </div>
             </div>
         </div>
