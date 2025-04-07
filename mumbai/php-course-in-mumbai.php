@@ -14,6 +14,21 @@
 </head>
 
 <body class="body">
+    <!--PopUp form-->
+    <div class="popup-screen">
+        <div class="popup">
+            <div class="d-flex justify-content-between">
+                <h5 class="h4">Php Course Enquiry</h5>
+                <button id="close" class="ms-auto">&times;</button>
+            </div>
+            <iframe src="https://app.topfunnel.in/widget/form/67177e38d227d"
+                style="width:100%;height:4200px;border:none;border-radius:3px" id="inline-67177e38d227d"
+                data-form-name="Nerul - PHP FS Leads" data-layout-iframe-id="inline-67177e38d227d"
+                data-form-id="67177e38d227d" data-height="420" title="Nerul - PHP FS Leads">
+            </iframe>
+        </div>
+    </div>
+    <!--PopUp form-->
     <!-- top header start -->
     <?php include 'common/topheader.php' ?>
     <!-- top header end -->
@@ -30,7 +45,7 @@
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
                     <img src="./assets/img/php.png" width="60px" alt="">
                     <h1 class="pe-lg-5">Php Intensive Training Program</h1>
-                    <h3 class="fw-semibold"><i>100% Job Oriented Course</i></h3>
+                    <h3 class="fw-semibold text-center lh-lg"><i>Training + Development + Placement</i></h3>
                     <div class="row">
                         <div class="col-4 ">
                             <h2 class="fw-bold">2300+</h2>
@@ -46,19 +61,14 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 mx-auto p-4 col-11 bg-white  rounded">
-                        <h4 class="text-center text-dark">Enquiry Form</h4>
-                        
-                        <iframe
-                          src="https://app.topfunnel.in/widget/form/67177e38d227d"
-                          style="width:100%;height:370px;border:none;border-radius:3px"
-                          id="inline-67177e38d227d"
-                          data-form-name="Nerul - PHP FS Leads"
-                          data-layout-iframe-id="inline-67177e38d227d"
-                          data-form-id="67177e38d227d"
-                          data-height="370"
-                          title="Nerul - PHP FS Leads">
-                        </iframe>
-                            
+                    <h4 class="text-center text-dark">Enquiry Form</h4>
+
+                    <iframe src="https://app.topfunnel.in/widget/form/67177e38d227d"
+                        style="width:100%;height:370px;border:none;border-radius:3px" id="inline-67177e38d227d"
+                        data-form-name="Nerul - PHP FS Leads" data-layout-iframe-id="inline-67177e38d227d"
+                        data-form-id="67177e38d227d" data-height="370" title="Nerul - PHP FS Leads">
+                    </iframe>
+
                 </div>
             </div>
         </div>
@@ -93,7 +103,7 @@
                 </div>
             </div>
             <div class="text-center mt-2">
-                <button class="btn btn-dark btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">Enquire
+                <button class="btn btn-dark btn-lg" onclick="enquiry()">Enquire
                     Now</button>
             </div>
         </div>
@@ -642,32 +652,37 @@
                 <li>PHP Developer</li>
                 <li>Web Developer</li>
                 <li>Backend Developer</li>
-               <li> Full Stack Developer (PHP + Frontend)</li>
+                <li> Full Stack Developer (PHP + Frontend)</li>
                 <li>CMS Developer (WordPress/Joomla)</li>
                 <li>Software Developer</li>
                 <li>Freelancer in Web Development</li>
             </ul>
-            <p>As the demand for web development professionals continues to grow, completing PHP training from a reputed <b>PHP training institute in Mumbai</b> like <b>CNC WEB WORLD</b> can give you a strong edge in your career.</p>
+            <p>As the demand for web development professionals continues to grow, completing PHP training from a reputed
+                <b>PHP training institute in Mumbai</b> like <b>CNC WEB WORLD</b> can give you a strong edge in your
+                career.</p>
         </div>
     </div>
     <!-- course-content end -->
     <!-- brochure section start -->
     <?php include 'common/download.php' ?>
     <!-- brochure section end -->
-     <!-- course-content start -->
+    <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
             <h4 class="fw-bold blue">PHP Training with Placement Assistance</h4>
-            <p><b>CNC WEB WORLD</b> not only offers high-quality <b>PHP training in Mumbai</b>, but also provides robust placement support to help our students land their first job. Our placement cell actively connects students with job openings in the web development field.</p>
+            <p><b>CNC WEB WORLD</b> not only offers high-quality <b>PHP training in Mumbai</b>, but also provides robust
+                placement support to help our students land their first job. Our placement cell actively connects
+                students with job openings in the web development field.</p>
             <span>We provide:</span>
             <ul>
-               <li> Resume-building workshops</li>
+                <li> Resume-building workshops</li>
                 <li>Mock interviews</li>
-               <li> Job referrals through partner companies</li>
-               <li> Internship opportunities</li>
-               <li> Guidance for freelancing and self-employment</li>
+                <li> Job referrals through partner companies</li>
+                <li> Internship opportunities</li>
+                <li> Guidance for freelancing and self-employment</li>
             </ul>
-            <p>Our <b>PHP classes in Navi Mumbai and Mumbai with placement</b> support aim to bridge the gap between training and employment.</p>
+            <p>Our <b>PHP classes in Navi Mumbai and Mumbai with placement</b> support aim to bridge the gap between
+                training and employment.</p>
         </div>
     </div>
     <!-- course-content end -->
@@ -740,15 +755,15 @@
         </div>
     </section>
     <!-- programmingTools section end -->
-      <!-- course-content start -->
+    <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
             <h4 class="fw-bold blue">Duration & Course Mode</h4>
             <ul>
                 <li> <b>Course Duration:</b> 2-3 Months (Regular & Weekend batches available)</li>
-               <li><b> Mode:</b> Classroom training / Online training (Flexible learning options)</li>
+                <li><b> Mode:</b> Classroom training / Online training (Flexible learning options)</li>
                 <li><b>Batch Size: </b>Small groups for personalized mentoring</li>
-                <li><b>Projects:</b> Real-life projects and use-case-based assignments                </li>
+                <li><b>Projects:</b> Real-life projects and use-case-based assignments </li>
             </ul>
         </div>
     </div>
@@ -756,20 +771,22 @@
     <!-- roadMapStep start -->
     <?php include 'common/roadMapStep.php' ?>
     <!-- roadMapStep end -->
-         <!-- course-content start -->
+    <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
             <h4 class="fw-bold blue">Why CNC WEB WORLD is the Best PHP Training Institute in Mumbai</h4>
-            <p>We focus not only on delivering technical knowledge but also on building problem-solving and analytical skills. Our students get complete support throughout the course duration and even after completion for career growth.</p>
+            <p>We focus not only on delivering technical knowledge but also on building problem-solving and analytical
+                skills. Our students get complete support throughout the course duration and even after completion for
+                career growth.</p>
             <span>Here’s why hundreds of students trust us as their learning partner:</span>
-            <ul type="none"class="ps-2">
-               <li> ✔ Experienced Instructors</li>
+            <ul type="none" class="ps-2">
+                <li> ✔ Experienced Instructors</li>
                 <li>✔ Practical Approach</li>
                 <li>✔ Live Projects Exposure</li>
                 <li>✔ Career Counseling</li>
-               <li> ✔ Affordable Fee Structure</li>
+                <li> ✔ Affordable Fee Structure</li>
                 <li>✔ Flexible Timings</li>
-               <li> ✔ 100% Job-Oriented Training  </li>
+                <li> ✔ 100% Job-Oriented Training </li>
             </ul>
         </div>
     </div>
@@ -876,7 +893,8 @@
         <div class="container-lg px-4 py-5 px-lg-0 ">
             <h4 class="fw-bold blue">Enroll in the Best PHP Courses in Mumbai Today!</h4>
             <p>
-                Start your journey with the most trusted <b>PHP training institute in Mumbai</b> and shape your future in the booming web development industry.
+                Start your journey with the most trusted <b>PHP training institute in Mumbai</b> and shape your future
+                in the booming web development industry.
             </p>
             <ul type="none">
                 <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo

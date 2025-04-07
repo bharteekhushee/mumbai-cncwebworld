@@ -14,6 +14,21 @@
 </head>
 
 <body class="body">
+    <!--PopUp form-->
+    <div class="popup-screen">
+        <div class="popup">
+            <div class="d-flex justify-content-between">
+                <h5 class="h4">WebDesigning Course Enquiry</h5>
+                <button id="close" class="ms-auto">&times;</button>
+            </div>
+            <iframe src="https://app.topfunnel.in/widget/form/6717d841a44a9"
+                style="width:100%;height:420px;border:none;border-radius:3px" id="inline-6717d841a44a9"
+                data-form-name="Nerul - FD | Web Development Leads" data-layout-iframe-id="inline-6717d841a44a9"
+                data-form-id="6717d841a44a9" data-height="420" title="Nerul - FD | Web Development Leads">
+            </iframe>
+        </div>
+    </div>
+    <!--PopUp form-->
     <!-- top header start -->
     <?php include 'common/topheader.php' ?>
     <!-- top header end -->
@@ -29,8 +44,8 @@
             <div class="row py-5">
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
                     <img src="./assets/img/frontend.png" width="60px" alt="">
-                    <h1 >Web Development  <br> Intensive Training Program</h1>
-                    <h3 class="fw-semibold"><i>100% Job Oriented Course</i></h3>
+                    <h1>Web Development <br> Intensive Training Program</h1>
+                    <h3 class="fw-semibold text-center lh-lg"><i>Training + Development + Placement</i></h3>
                     <div class="row">
                         <div class="col-4 ">
                             <h2 class="fw-bold">2300+</h2>
@@ -46,7 +61,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 mx-auto p-4 col-11 bg-white  rounded">
-                <h4 class="text-center text-dark">Enquiry Form</h4>
+                    <h4 class="text-center text-dark">Enquiry Form</h4>
                     <!-- <form method="get" class="">
                         <input class="form-control form-control-lg" id="Name" type="text" placeholder="Name" required
                             name="Full Name" pattern="[a-zA-Z ~ ]+$" />
@@ -67,17 +82,12 @@
                             </button>
                         </div>
                     </form> -->
-                    
-                    <iframe
-                          src="https://app.topfunnel.in/widget/form/6717d841a44a9"
-                          style="width:100%;height:370px;border:none;border-radius:3px"
-                          id="inline-6717d841a44a9"
-                          data-form-name="Nerul - FD | Web Development Leads"
-                          data-layout-iframe-id="inline-6717d841a44a9"
-                          data-form-id="6717d841a44a9"
-                          data-height="370"
-                          title="Nerul - FD | Web Development Leads">
-                        </iframe>
+
+                    <iframe src="https://app.topfunnel.in/widget/form/6717d841a44a9"
+                        style="width:100%;height:370px;border:none;border-radius:3px" id="inline-6717d841a44a9"
+                        data-form-name="Nerul - FD | Web Development Leads" data-layout-iframe-id="inline-6717d841a44a9"
+                        data-form-id="6717d841a44a9" data-height="370" title="Nerul - FD | Web Development Leads">
+                    </iframe>
                 </div>
             </div>
         </div>
@@ -111,7 +121,7 @@
                 </div>
             </div>
             <div class="text-center mt-2">
-                <button class="btn btn-dark btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">Enquire
+                <button class="btn btn-dark btn-lg" onclick="enquiry()">Enquire
                     Now</button>
             </div>
         </div>
@@ -742,11 +752,11 @@
                         <div class="accordion-body">
                             <span>After completing our web development training in Mumbai, you can work as:</span>
                             <ul>
-                               <li> Front-End Developer</li>
+                                <li> Front-End Developer</li>
                                 <li>Back-End Developer</li>
-                               <li> Full-Stack Developer</li>
+                                <li> Full-Stack Developer</li>
                                 <li>Web Designer</li>
-                               <li> UI/UX Designer</li>
+                                <li> UI/UX Designer</li>
                             </ul>
                         </div>
                     </div>
@@ -760,7 +770,8 @@
                     </h2>
                     <div id="collapse6" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Yes, we provide online web development courses in Mumbai for students who prefer remote learning.</p>
+                            <p>Yes, we provide online web development courses in Mumbai for students who prefer remote
+                                learning.</p>
                         </div>
                     </div>
                 </div>

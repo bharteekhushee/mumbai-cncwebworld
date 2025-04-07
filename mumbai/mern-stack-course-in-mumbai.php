@@ -14,6 +14,21 @@
 </head>
 
 <body class="body">
+    <!--PopUp form-->
+    <div class="popup-screen">
+        <div class="popup">
+            <div class="d-flex justify-content-between">
+                <h5 class="h4">Mern Stack Enquiry</h5>
+                <button id="close" class="ms-auto">&times;</button>
+            </div>
+            <iframe src="https://app.topfunnel.in/widget/form/6717841bb0026"
+                style="width:100%;height:420px;border:none;border-radius:3px" id="inline-6717841bb0026"
+                data-form-name="Nerul Mern Stack Leads" data-layout-iframe-id="inline-6717841bb0026"
+                data-form-id="6717841bb0026" data-height="420" title="Nerul Mern Stack Leads">
+            </iframe>
+        </div>
+    </div>
+    <!--PopUp form-->
     <!-- top header start -->
     <?php include 'common/topheader.php' ?>
     <!-- top header end -->
@@ -30,7 +45,7 @@
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
                     <img src="./assets/img/mern.svg" width="60px" alt="">
                     <h1 class="pe-5">Mern Stack Intensive Training Program</h1>
-                    <h3 class="fw-semibold"><i>100% Job Oriented Course</i></h3>
+                    <h3 class="fw-semibold text-center lh-lg"><i>Training + Development + Placement</i></h3>
                     <div class="row">
                         <div class="col-4 ">
                             <h2 class="fw-bold">2300+</h2>
@@ -46,19 +61,12 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 mx-auto p-4 col-11 bg-white  rounded">
-                        <h4 class="text-center text-dark">Enquiry Form</h4>
-                       
-                        <iframe
-                          src="https://app.topfunnel.in/widget/form/6717841bb0026"
-                          style="width:100%;height:370px;border:none;border-radius:3px"
-                          id="inline-6717841bb0026"
-                          data-form-name="Nerul Mern Stack Leads"
-                          data-layout-iframe-id="inline-6717841bb0026"
-                          data-form-id="6717841bb0026"
-                          data-height="370"
-                          title="Nerul Mern Stack Leads">
-                        </iframe>
-                            
+                    <h4 class="text-center text-dark">Enquiry Form</h4>
+                    <iframe src="https://app.topfunnel.in/widget/form/6717841bb0026"
+                        style="width:100%;height:370px;border:none;border-radius:3px" id="inline-6717841bb0026"
+                        data-form-name="Nerul Mern Stack Leads" data-layout-iframe-id="inline-6717841bb0026"
+                        data-form-id="6717841bb0026" data-height="370" title="Nerul Mern Stack Leads">
+                    </iframe>
                 </div>
             </div>
         </div>
@@ -95,7 +103,7 @@
                 </div>
             </div>
             <div class="text-center mt-2">
-                <button class="btn btn-dark btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">Enquire
+                <button class="btn btn-dark btn-lg" onclick="enquiry()">Enquire
                     Now</button>
             </div>
         </div>
@@ -551,7 +559,8 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Course Highlights: <span class="blue"> MERN Stack Developer Course in Mumbai</span></h4>
+            <h4 class="fw-bold blue">Course Highlights: <span class="blue"> MERN Stack Developer Course in Mumbai</span>
+            </h4>
             <p>Our MERN Stack syllabus is designed to take you from fundamentals to advanced-level development in just a
                 few months. Here's what you will learn:</p>
             <div class="row">
@@ -886,7 +895,8 @@
                     </h2>
                     <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>The MERN stack is a full-stack JavaScript framework comprising MongoDB, Express.js, React.js, and Node.js, used to build high-performance web apps.</p>
+                            <p>The MERN stack is a full-stack JavaScript framework comprising MongoDB, Express.js,
+                                React.js, and Node.js, used to build high-performance web apps.</p>
                         </div>
                     </div>
                 </div>
@@ -899,7 +909,8 @@
                     </h2>
                     <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Yes! Our <b>MERN Stack Course with Placement in Mumbai</b> includes complete placement support. We assist you in securing jobs with partner companies and startups.</p>
+                            <p>Yes! Our <b>MERN Stack Course with Placement in Mumbai</b> includes complete placement
+                                support. We assist you in securing jobs with partner companies and startups.</p>
                         </div>
                     </div>
                 </div>
@@ -907,12 +918,14 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                            <span class="fw-semibold"> Am I eligible for a certificate after finishing the course?</span>
+                            <span class="fw-semibold"> Am I eligible for a certificate after finishing the
+                                course?</span>
                         </button>
                     </h2>
                     <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Absolutely. You will receive the <b>MERN Stack Developer Certification in Mumbai</b>, recognized across the tech industry.</p>
+                            <p>Absolutely. You will receive the <b>MERN Stack Developer Certification in Mumbai</b>,
+                                recognized across the tech industry.</p>
                         </div>
                     </div>
                 </div>
@@ -920,12 +933,14 @@
                     <h2 class="accordion-header ">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                            <span class="fw-semibold">Can I learn this course if I’m from a non-technical background?</span>
+                            <span class="fw-semibold">Can I learn this course if I’m from a non-technical
+                                background?</span>
                         </button>
                     </h2>
                     <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Yes, the course is beginner-friendly. Our trainers guide you from basic concepts to advanced development skills.
+                            <p>Yes, the course is beginner-friendly. Our trainers guide you from basic concepts to
+                                advanced development skills.
                             </p>
                         </div>
                     </div>
@@ -960,7 +975,9 @@
             <h4 class="fw-bold blue">Take the First Step Towards Your Web Development Career</h4>
             <h5 class="fw-bsemiold">Enroll Today and Start Your Journey as a MERN Stack Developer </h5>
             <p>
-                <b>CNC WEB WORLD’s MERN Stack Developer Course in Mumbai</b> is your gateway to a high-growth tech career. Join us to gain hands-on coding experience, master full stack development, and land your dream job in IT.
+                <b>CNC WEB WORLD’s MERN Stack Developer Course in Mumbai</b> is your gateway to a high-growth tech
+                career. Join us to gain hands-on coding experience, master full stack development, and land your dream
+                job in IT.
             </p>
             <ul type="none">
                 <li><b>📞 Call Now:</b> <a href="tel:7400193799">[7400193799]</a></li>
@@ -973,6 +990,24 @@
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 py-5 px-lg-0 ">
+            <h4 class="fw-bold blue">Enroll Today and Start Your Journey as a Mern Stack Developer!</h4>
+
+            <ul type="none">
+                <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
+                    Session .</li>
+                <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
+                    Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
+                <li>
+                    <b>🌐 Website: </b> [<a
+                        href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- fixed section start -->
     <?php include './common/fixedicon.php' ?>
     <!-- fixed section end -->

@@ -14,6 +14,21 @@
 </head>
 
 <body class="body">
+    <!--PopUp form-->
+    <div class="popup-screen">
+        <div class="popup">
+            <div class="d-flex justify-content-between">
+                <h5 class="h4">Dotnet Course Enquiry</h5>
+                <button id="close" class="ms-auto">&times;</button>
+            </div>
+            <iframe src="https://app.topfunnel.in/widget/form/671780997c0fe"
+                style="width:100%;height:420px;border:none;border-radius:3px" id="inline-671780997c0fe"
+                data-form-name="Nerul - Dot Net FS Leads" data-layout-iframe-id="inline-671780997c0fe"
+                data-form-id="671780997c0fe" data-height="420" title="Nerul - Dot Net FS Leads">
+            </iframe>
+        </div>
+    </div>
+    <!--PopUp form-->
     <!-- top header start -->
     <?php include 'common/topheader.php' ?>
     <!-- top header end -->
@@ -30,7 +45,7 @@
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
                     <img src="./assets/img/dotnet.png" width="60px" alt="">
                     <h1 class=" pt-3">C# Dot Net <br> Training Program</h1>
-                    <h3 class="fw-semibold"><i>100% Job Oriented Course</i></h3>
+                    <h3 class="fw-semibold text-center lh-lg"><i>Training + Development + Placement</i></h3>
                     <div class="row">
                         <div class="col-4 ">
                             <h2 class="fw-bold">2300+</h2>
@@ -46,7 +61,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 mx-auto p-4 col-11 bg-white  rounded">
-                        <h4 class="text-center text-dark">Enquiry Form</h4>
+                    <h4 class="text-center text-dark">Enquiry Form</h4>
                     <!-- <form method="get" class="">
                         <input class="form-control form-control-lg" id="Name" type="text" placeholder="Name" required
                             name="Full Name" pattern="[a-zA-Z ~ ]+$" />
@@ -67,16 +82,11 @@
                             </button>
                         </div>
                     </form> -->
-                    <iframe
-                          src="https://app.topfunnel.in/widget/form/671780997c0fe"
-                          style="width:100%;height:370px;border:none;border-radius:3px"
-                          id="inline-671780997c0fe"
-                          data-form-name="Nerul - Dot Net FS Leads"
-                          data-layout-iframe-id="inline-671780997c0fe"
-                          data-form-id="671780997c0fe"
-                          data-height="370"
-                          title="Nerul - Dot Net FS Leads">
-                        </iframe>
+                    <iframe src="https://app.topfunnel.in/widget/form/671780997c0fe"
+                        style="width:100%;height:370px;border:none;border-radius:3px" id="inline-671780997c0fe"
+                        data-form-name="Nerul - Dot Net FS Leads" data-layout-iframe-id="inline-671780997c0fe"
+                        data-form-id="671780997c0fe" data-height="370" title="Nerul - Dot Net FS Leads">
+                    </iframe>
                 </div>
             </div>
         </div>
@@ -113,7 +123,7 @@
                 </div>
             </div>
             <div class="text-center mt-2">
-                <button class="btn btn-dark btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">Enquire
+                <button class="btn btn-dark btn-lg" onclick="enquiry()">Enquire
                     Now</button>
             </div>
         </div>
@@ -642,7 +652,8 @@
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
             <h4 class="fw-bold blue">.NET Training in Mumbai with Placement Assistance</h4>
-            <p><b>CNC WEB WORLD</b> is not just a <b>.NET training institute in Mumbai</b> we also provide job-oriented .NET training
+            <p><b>CNC WEB WORLD</b> is not just a <b>.NET training institute in Mumbai</b> we also provide job-oriented
+                .NET training
                 with placement support. Our career assistance services include:</p>
             <ul>
                 <li>Resume building and LinkedIn profile optimization.</li>
@@ -857,8 +868,10 @@
         <div class="container-lg px-4 py-5 px-lg-0 ">
             <h4 class="fw-bold blue">Enroll in the Best .NET Training Institute in Mumbai Today!</h4>
             <p>
-                If you’re looking to build a strong foundation in .NET and secure a promising career, <b>CNC WEB WORLD</b> is
-                the perfect place to start. Join our <b>.NET training institute in Mumbai</b> and take the first step toward a
+                If you’re looking to build a strong foundation in .NET and secure a promising career, <b>CNC WEB
+                    WORLD</b> is
+                the perfect place to start. Join our <b>.NET training institute in Mumbai</b> and take the first step
+                toward a
                 successful career in software development.
             </p>
             <ul type="none">

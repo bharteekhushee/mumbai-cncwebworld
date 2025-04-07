@@ -28,7 +28,7 @@
                     <span> <i class="fa-solid fa-user-graduate"></i> </span>
                     Non-IT Students
                 </h2>
-                <button class="btn" id="register">Register Now</button>
+                <button class="btn register" onclick="enquiry()">Register Now</button>
             </div>
             <di class="col-lg-7 col-md-6 col-sm-6  mb-0 pb-0 p-0">
                 <img src="./assets/img/Who-can-join-img.png" class="img-fluid " alt="">

@@ -10,6 +10,21 @@
 </head>
 
 <body class="body">
+    <!--PopUp form-->
+    <div class="popup-screen">
+        <div class="popup">
+            <div class="d-flex justify-content-between">
+                <h5 class="h4">Java Course Enquiry</h5>
+                <button id="close" class="ms-auto">&times;</button>
+            </div>
+            <iframe src="https://app.topfunnel.in/widget/form/67177d836c4a3"
+                style="width:100%;height:420px;border:none;border-radius:3px" id="inline-67177d836c4a3"
+                data-form-name="Nerul- Java FS Development" data-layout-iframe-id="inline-67177d836c4a3"
+                data-form-id="67177d836c4a3" data-height="420" title="Nerul- Java FS Development">
+            </iframe>
+        </div>
+    </div>
+    <!--PopUp form-->
     <!-- top header start -->
     <?php include 'common/topheader.php' ?>
     <!-- top header end -->
@@ -26,7 +41,7 @@
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
                     <img src="./assets/img/java-icon.png" width="60px" alt="">
                     <h1 class="pe-lg-5">Java Intensive Training Program</h1>
-                    <h3 class="fw-semibold"><i>100% Job Oriented Course</i></h3>
+                    <h3 class="fw-semibold text-center lh-lg"><i>Training + Development + Placement</i></h3>
                     <div class="row">
                         <div class="col-4 ">
                             <h2 class="fw-bold">2300+</h2>
@@ -42,17 +57,12 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 mx-auto p-4 col-11 bg-white  rounded">
-                        <h4 class="text-center text-dark">Enquiry Form</h4>
-                        <iframe
-                          src="https://app.topfunnel.in/widget/form/67177d836c4a3"
-                          style="width:100%;height:370px;border:none;border-radius:3px"
-                          id="inline-67177d836c4a3"
-                          data-form-name="Nerul- Java FS Development"
-                          data-layout-iframe-id="inline-67177d836c4a3"
-                          data-form-id="67177d836c4a3"
-                          data-height="370"
-                          title="Nerul- Java FS Development">
-                        </iframe>
+                    <h4 class="text-center text-dark">Enquiry Form</h4>
+                    <iframe src="https://app.topfunnel.in/widget/form/67177d836c4a3"
+                        style="width:100%;height:370px;border:none;border-radius:3px" id="inline-67177d836c4a3"
+                        data-form-name="Nerul- Java FS Development" data-layout-iframe-id="inline-67177d836c4a3"
+                        data-form-id="67177d836c4a3" data-height="370" title="Nerul- Java FS Development">
+                    </iframe>
                 </div>
             </div>
         </div>
@@ -93,7 +103,7 @@
                     practical Java applications.
                 </p>
                 <div class="text-center">
-                    <button class="btn btn-dark btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">Enquire
+                    <button class="btn btn-dark btn-lg" onclick="enquiry()">Enquire
                         Now</button>
                 </div>
 
@@ -722,7 +732,8 @@
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
             <h4 class="fw-bold blue">The main highlights of the Java course in belapur</h4>
-            <p>The following are the key features of our courses and training modules that allow us to stay ahead of the competition and provide high-quality training to all of our students.</p>
+            <p>The following are the key features of our courses and training modules that allow us to stay ahead of the
+                competition and provide high-quality training to all of our students.</p>
             <ul>
                 <li>Highly qualified instructors</li>
                 <li>Batch sizes are limited.</li>
@@ -754,7 +765,7 @@
                     <h2 class="fw-bolder">Programming Languages & Tools Covered in Java Developer Course
                     </h2>
                 </div>
-               
+
             </div>
             <div class="row">
                 <div class="col-12 rounded-4 border py-3 px-4 bg-white shadow">
@@ -799,7 +810,7 @@
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
-     <!-- faqs-footer start -->
+    <!-- faqs-footer start -->
     <section id="faqs-footer">
         <div class="container-lg py-5 px-4 px-lg-0">
             <h2 class="fw-bold text-center py-3">
@@ -935,6 +946,24 @@
         </div>
     </section>
     <!-- faqs-footer end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 py-5 px-lg-0 ">
+            <h4 class="fw-bold blue">Enroll Today and Start Your Journey as a Java Developer!</h4>
+    
+            <ul type="none">
+                <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
+                    Session .</li>
+                <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
+                    Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
+                <li>
+                    <b>🌐 Website: </b> [<a
+                        href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->

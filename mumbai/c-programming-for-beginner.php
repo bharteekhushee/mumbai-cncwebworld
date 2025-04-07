@@ -14,6 +14,21 @@
 </head>
 
 <body class="body">
+    <!--PopUp form-->
+    <div class="popup-screen">
+        <div class="popup">
+            <div class="d-flex justify-content-between">
+                <h5 class="h4">C Programming Course Enquiry</h5>
+                <button id="close" class="ms-auto">&times;</button>
+            </div>
+            <iframe src="https://app.topfunnel.in/widget/form/6717d7c504d94"
+                style="width:100%;height:420px;border:none;border-radius:3px;" id="inline-6717d7c504d94"
+                data-form-name="Nerul - C & C++ Leads" data-layout-iframe-id="inline-6717d7c504d94"
+                data-form-id="6717d7c504d94" data-height="420" title="Nerul - C & C++ Leads">
+            </iframe>
+        </div>
+    </div>
+    <!--PopUp form-->
     <!-- top header start -->
     <?php include 'common/topheader.php' ?>
     <!-- top header end -->
@@ -30,7 +45,7 @@
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
                     <img src="./assets/img/c++.png" width="60px" alt="">
                     <h1 class="pe-lg-5">C Intensive <br> Training Program</h1>
-                    <h3 class="fw-semibold"><i>100% Job Oriented Course</i></h3>
+                    <h3 class="fw-semibold text-center lh-lg"><i>Training + Development + Placement</i></h3>
                     <div class="row">
                         <div class="col-4 ">
                             <h2 class="fw-bold">2300+</h2>
@@ -46,7 +61,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 mx-auto p-4 col-11 bg-white  rounded">
-                        <h4 class="text-center text-dark">Enquiry Form</h4>
+                    <h4 class="text-center text-dark">Enquiry Form</h4>
                     <!-- <form method="get" class="">
                         <input class="form-control form-control-lg" id="Name" type="text" placeholder="Name" required
                             name="Full Name" pattern="[a-zA-Z ~ ]+$" />
@@ -67,16 +82,11 @@
                             </button>
                         </div>
                     </form> -->
-                    <iframe
-                          src="https://app.topfunnel.in/widget/form/6717d7c504d94"
-                          style="width:100%;height:370px;border:none;border-radius:3px;"
-                          id="inline-6717d7c504d94"
-                          data-form-name="Nerul - C & C++ Leads"
-                          data-layout-iframe-id="inline-6717d7c504d94"
-                          data-form-id="6717d7c504d94"
-                          data-height="370"
-                          title="Nerul - C & C++ Leads">
-                        </iframe>
+                    <iframe src="https://app.topfunnel.in/widget/form/6717d7c504d94"
+                        style="width:100%;height:370px;border:none;border-radius:3px;" id="inline-6717d7c504d94"
+                        data-form-name="Nerul - C & C++ Leads" data-layout-iframe-id="inline-6717d7c504d94"
+                        data-form-id="6717d7c504d94" data-height="370" title="Nerul - C & C++ Leads">
+                    </iframe>
                 </div>
             </div>
         </div>
@@ -111,7 +121,7 @@
                 </div>
             </div>
             <div class="text-center mt-2">
-                <button class="btn btn-dark btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">Enquire
+                <button class="btn btn-dark btn-lg" onclick="enquiry()">Enquire
                     Now</button>
             </div>
         </div>
@@ -703,7 +713,7 @@
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
-       <!-- faqs-footer section start -->
+    <!-- faqs-footer section start -->
     <section id="faqs-footer">
         <div class="container-lg py-5 px-4 px-lg-0">
             <h2 class="fw-bold text-center py-3 ">
@@ -714,12 +724,14 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                            <span class="fw-semibold">Do I need any prior programming knowledge to join this course?</span>
+                            <span class="fw-semibold">Do I need any prior programming knowledge to join this
+                                course?</span>
                         </button>
                     </h2>
                     <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>No. This is a beginner-friendly course, and we start from scratch. Basic computer operation knowledge is sufficient.</p>
+                            <p>No. This is a beginner-friendly course, and we start from scratch. Basic computer
+                                operation knowledge is sufficient.</p>
                         </div>
                     </div>
                 </div>
@@ -732,7 +744,8 @@
                     </h2>
                     <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Yes. You will receive an industry-recognized <b>C Programming Course Certificate</b> from CNC Web World.</p>
+                            <p>Yes. You will receive an industry-recognized <b>C Programming Course Certificate</b> from
+                                CNC Web World.</p>
                         </div>
                     </div>
                 </div>
@@ -745,7 +758,8 @@
                     </h2>
                     <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Absolutely. Our course includes placement support, interview preparation, and access to job opportunities in various IT companies.</p>
+                            <p>Absolutely. Our course includes placement support, interview preparation, and access to
+                                job opportunities in various IT companies.</p>
                         </div>
                     </div>
                 </div>
@@ -758,7 +772,8 @@
                     </h2>
                     <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Typically, the course lasts 2-3 months, depending on batch schedules and individual progress.
+                            <p>Typically, the course lasts 2-3 months, depending on batch schedules and individual
+                                progress.
                             </p>
                         </div>
                     </div>
@@ -785,11 +800,19 @@
         <div class="container-lg px-4 py-5 px-lg-0 ">
             <h4 class="fw-bold blue">Enroll Today in the Best C Programming Course in Mumbai</h4>
             <p>
-                Whether you are a student or working professional, <b>CNC Web World</b> is your ideal destination for mastering C programming. Join the most practical and affordable <b>C Programming Course in Mumbai with Certificate</b> and take the first step towards a successful tech career.
+                Whether you are a student or working professional, <b>CNC Web World</b> is your ideal destination for
+                mastering C programming. Join the most practical and affordable <b>C Programming Course in Mumbai with
+                    Certificate</b> and take the first step towards a successful tech career.
             </p>
             <ul type="none">
-                <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo Session</li>
-                <li><b>📍 Join the Best C Programming Training Institute in Mumbai</b></li>
+                <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
+                    Session .</li>
+                <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
+                    Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
+                <li>
+                    <b>🌐 Website: </b> [<a
+                        href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]
+                </li>   
             </ul>
         </div>
     </div>

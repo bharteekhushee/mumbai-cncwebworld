@@ -35,8 +35,8 @@ a {
     background-color: #4989B0;
     font-size: 17px;
     font-weight: 500;
-    height: 50px;
-    line-height: 50px;
+    height: 40px;
+    line-height: 40px;
 }
 
 /*--------------------------------------------------------------
@@ -100,6 +100,9 @@ header .navbar-nav .nav-item #hamburger_menu {
     width: 250px;
     box-shadow: 0px 0px 10px gray;
     background-color: #fff;
+}
+header .navbar-nav .hamburger .dropdown-toggle::after {
+    display:none;
 }
 
 header .navbar-nav .nav-item #hamburger_menu .dropdown-item{
@@ -180,7 +183,7 @@ header .offcanvas-body ul li:hover a {
     font-size: 38px;
 }
 
-#whoCanJoin #register {
+#whoCanJoin .register {
     background-color: #eea107;
     color: white;
     padding: 7px 70px;
@@ -286,11 +289,11 @@ header .offcanvas-body ul li:hover a {
 
 #roadMapStep #roadMapStepSection .end {
     color: #fff;
-    font-size: 18px;
     position: absolute;
-    bottom: -53px;
-    right: 35px;
+    bottom: -85px;
+    right: 115px;
     float: right;
+    /* font-size: 18px; */
 }
 
 #roadMapStep #roadMapStepSection .roadMapStepSectionBox.m-top {
@@ -406,7 +409,7 @@ header .offcanvas-body ul li:hover a {
     display: flex;
     width: calc(250px*10);
     margin: 10px 0px 10px;
-    animation: scroll 20s linear infinite;
+    animation: scroll 7s linear infinite;
 }
 
 /* #PlacedCompany .slider .slide-track:hover{
@@ -418,14 +421,14 @@ header .offcanvas-body ul li:hover a {
     }
 
     100% {
-        transform: translateX(calc(-250px*5));
+        transform: translateX(calc(-250px*2));
     }
 }
 
 #PlacedCompany .slider .slide-track .slide {
     background-color: white;
     width: 170px;
-    height: 100px;
+    height: 90px;
     display: flex;
     align-items: center;
     padding: 10px 20px;

@@ -34,21 +34,44 @@
                 <div class="carousel-item active">
                     <img src="./assets/img/slider-1.PNG" class="d-block w-100" alt="...">
                     <div class="carousel-caption">
-                        <h2 class="fw-bolder display-4">Get Certified. Get Ahead.</h2>
-                        <div>
-                            <a href="#" class="btn px-3 py-3 fs-6 fw-semibold" id="bannerBtn">Call for Free counseling and
+                        <h2 class="fw-bolder display-4 mb-3"> Get Day 1 <br> Offer Letter</h2>
+                        <div class='mb-3'>
+                            <a href="#" class="btn px-3 py-3 fs-6 fw-semibold" id="bannerBtn">Call for Free counseling
+                                and
                                 career guidance </a>
                         </div>
                         <div class="wrapper">
-                            <div class="static-txt">Skyrocket Your <span class="dynamic-txts"></span></div>
+                            <div class="static-txt">Skyrocket Your <span class="dynamic-txt1"></span></div>
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <img src="./assets/img/slider-2.PNG" class="d-block w-100" alt="...">
+                    <div class="carousel-caption">
+                        <h2 class="fw-bolder display-4 mb-3"> Get Day 1 <br> Offer Letter</h2>
+                        <div class='mb-3'>
+                            <a href="#" class="btn px-3 py-3 fs-6 fw-semibold" id="bannerBtn">Call for Free counseling
+                                and
+                                career guidance </a>
+                        </div>
+                        <div class="wrapper">
+                            <div class="static-txt">Skyrocket Your <span class="dynamic-txt2"></span></div>
+                        </div>
+                    </div>
                 </div>
                 <div class="carousel-item">
                     <img src="./assets/img/slider-3.PNG" class="d-block w-100" alt="...">
+                    <div class="carousel-caption">
+                        <h2 class="fw-bolder display-4 mb-3"> Get Day 1 <br> Offer Letter</h2>
+                        <div class='mb-3'>
+                            <a href="#" class="btn px-3 py-3 fs-6 fw-semibold" id="bannerBtn">Call for Free counseling
+                                and
+                                career guidance </a>
+                        </div>
+                        <div class="wrapper">
+                            <div class="static-txt">Skyrocket Your <span class="dynamic-txt3"></span></div>
+                        </div>
+                    </div>
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselAutoplaying"
@@ -82,9 +105,10 @@
                             <h5 class="card-title fw-semibold"> Mastery in Frontend Development </h5>
                             <p class="card-text text-muted "><small>Training | Hands-on Projects | Job Placement</small>
                             </p>
-                            <h6 class="mt-5">Register for the Upcoming Batch </h6>
+                            <h6 class="mt-5 text-center">Register for the Upcoming Batch </h6>
                             <div class="d-flex  mt-3 justify-content-start">
-                                <a href="#" class="btn" id="brochurebtn">Register Today<span>&#x1F4C4;</span></a>
+                                <a href="frontend-course-in-mumbai.php" class="btn" id="brochurebtn">Register
+                                    Today<span>&#x1F4C4;</span></a>
                             </div>
                         </div>
                     </div>
@@ -96,9 +120,10 @@
                             <h5 class="card-title fw-semibold"> Mastery in Java Full Stack</h5>
                             <p class="card-text text-muted "><small>Training | Hands-on Projects | Job Placement</small>
                             </p>
-                            <h6 class="mt-5">Register for the Upcoming Batch</h6>
+                            <h6 class="mt-5 text-center">Register for the Upcoming Batch</h6>
                             <div class="d-flex  mt-3 justify-content-start">
-                                <a href="#" class="btn" id="brochurebtn">Register Today<span>&#x1F4C4;</span></a>
+                                <a href="java-fullstack-course-in-mumbai.php" class="btn" id="brochurebtn">Register
+                                    Today<span>&#x1F4C4;</span></a>
                             </div>
                         </div>
                     </div>
@@ -110,9 +135,10 @@
                             <h5 class="card-title fw-semibold"> Mastery in Python Full Stack</h5>
                             <p class="card-text text-muted "><small>Training | Hands-on Projects | Job Placement</small>
                             </p>
-                            <h6 class="mt-5">Register for the Upcoming Batch</h6>
+                            <h6 class="mt-5 text-center">Register for the Upcoming Batch</h6>
                             <div class="d-flex  mt-3 justify-content-start">
-                                <a href="#" class="btn" id="brochurebtn">Register Today<span>&#x1F4C4;</span></a>
+                                <a href="python-fullstack-course-in-mumbai.php" class="btn" id="brochurebtn">Register
+                                    Today<span>&#x1F4C4;</span></a>
                             </div>
                         </div>
                     </div>
@@ -124,9 +150,10 @@
                             <h5 class="card-title fw-semibold"> Mastery in Dot Net Full Stack</h5>
                             <p class="card-text text-muted "><small>Training | Hands-on Projects | Job Placement</small>
                             </p>
-                            <h6 class="mt-5">Register for the Upcoming Batch</h6>
+                            <h6 class="mt-5 text-center">Register for the Upcoming Batch</h6>
                             <div class="d-flex  mt-3 justify-content-start">
-                                <a href="#" class="btn" id="brochurebtn">Register Today<span>&#x1F4C4;</span></a>
+                                <a href="dot-net-fullstack-course-in-mumbai.php" class="btn" id="brochurebtn">Register
+                                    Today<span>&#x1F4C4;</span></a>
                             </div>
                         </div>
                     </div>
@@ -138,9 +165,10 @@
                             <h5 class="card-title fw-semibold"> Mastery in Php Full Stack</h5>
                             <p class="card-text text-muted "><small>Training | Hands-on Projects | Job Placement</small>
                             </p>
-                            <h6 class="mt-5">Register for the Upcoming Batch</h6>
+                            <h6 class="mt-5 text-center">Register for the Upcoming Batch</h6>
                             <div class="d-flex  mt-3 justify-content-start">
-                                <a href="#" class="btn" id="brochurebtn">Register Today<span>&#x1F4C4;</span></a>
+                                <a href="php-fullstack-course-in-mumbai.php" class="btn" id="brochurebtn">Register
+                                    Today<span>&#x1F4C4;</span></a>
                             </div>
                         </div>
                     </div>
@@ -152,9 +180,10 @@
                             <h5 class="card-title fw-semibold"> Mastery in Data Analytics</h5>
                             <p class="card-text text-muted "><small>Training | Hands-on Projects | Job Placement</small>
                             </p>
-                            <h6 class="mt-5">Register for the Upcoming Batch</h6>
+                            <h6 class="mt-5 text-center">Register for the Upcoming Batch</h6>
                             <div class="d-flex  mt-3 justify-content-start">
-                                <a href="#" class="btn" id="brochurebtn">Register Today<span>&#x1F4C4;</span></a>
+                                <a href="data-analytics-certification-in-mumbai.php" class="btn"
+                                    id="brochurebtn">Register Today<span>&#x1F4C4;</span></a>
                             </div>
                         </div>
                     </div>
@@ -166,9 +195,10 @@
                             <h5 class="card-title fw-semibold"> Mastery in UI/UX Development</h5>
                             <p class="card-text text-muted "><small>Training | Hands-on Projects | Job Placement</small>
                             </p>
-                            <h6 class="mt-5">Register for the Upcoming Batch</h6>
+                            <h6 class="mt-5 text-center">Register for the Upcoming Batch</h6>
                             <div class="d-flex  mt-3 justify-content-start">
-                                <a href="#" class="btn" id="brochurebtn">Register Today<span>&#x1F4C4;</span></a>
+                                <a href="ui-ux-course-in-mumbai.php" class="btn" id="brochurebtn">Register
+                                    Today<span>&#x1F4C4;</span></a>
                             </div>
                         </div>
                     </div>
@@ -180,9 +210,10 @@
                             <h5 class="card-title fw-semibold"> Mastery in React Js Full Stack</h5>
                             <p class="card-text text-muted "><small>Training | Hands-on Projects | Job Placement</small>
                             </p>
-                            <h6 class="mt-5">Register for the Upcoming Batch</h6>
+                            <h6 class="mt-5 text-center">Register for the Upcoming Batch</h6>
                             <div class="d-flex  mt-3 justify-content-start">
-                                <a href="#" class="btn" id="brochurebtn">Register Today<span>&#x1F4C4;</span></a>
+                                <a href="react-js-course-with-placement.php" class="btn" id="brochurebtn">Register
+                                    Today<span>&#x1F4C4;</span></a>
                             </div>
                         </div>
                     </div>
@@ -194,9 +225,10 @@
                             <h5 class="card-title fw-semibold"> Mastery in Software Training</h5>
                             <p class="card-text text-muted "><small>Training | Hands-on Projects | Job Placement</small>
                             </p>
-                            <h6 class="mt-5">Register for the Upcoming Batch</h6>
+                            <h6 class="mt-5 text-center">Register for the Upcoming Batch</h6>
                             <div class="d-flex  mt-3 justify-content-start">
-                                <a href="#" class="btn" id="brochurebtn">Register Today<span>&#x1F4C4;</span></a>
+                                <a href="software-testing-course-in-mumbai.php" class="btn" id="brochurebtn">Register
+                                    Today<span>&#x1F4C4;</span></a>
                             </div>
                         </div>
                     </div>
@@ -205,12 +237,13 @@
                     <div class="card">
                         <img src="./assets/img/iot F .png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title fw-semibold"> Mastery in IOT Training</h5>
+                            <h5 class="card-title fw-semibold"> Mastery in Angular Training</h5>
                             <p class="card-text text-muted "><small>Training | Hands-on Projects | Job Placement</small>
                             </p>
-                            <h6 class="mt-5">Register for the Upcoming Batch</h6>
+                            <h6 class="mt-5 text-center">Register for the Upcoming Batch</h6>
                             <div class="d-flex  mt-3 justify-content-start">
-                                <a href="#" class="btn" id="brochurebtn">Register Today<span>&#x1F4C4;</span></a>
+                                <a href="angular-course-in-mumbai.php" class="btn" id="brochurebtn">Register
+                                    Today<span>&#x1F4C4;</span></a>
                             </div>
                         </div>
                     </div>
@@ -222,9 +255,10 @@
                             <h5 class="card-title fw-semibold"> Mastery in C Programming</h5>
                             <p class="card-text text-muted "><small>Training | Hands-on Projects | Job Placement</small>
                             </p>
-                            <h6 class="mt-5">Register for the Upcoming Batch</h6>
+                            <h6 class="mt-5 text-center">Register for the Upcoming Batch</h6>
                             <div class="d-flex  mt-3 justify-content-start">
-                                <a href="#" class="btn" id="brochurebtn">Register Today<span>&#x1F4C4;</span></a>
+                                <a href="c-programming-for-beginner.php" class="btn" id="brochurebtn">Register
+                                    Today<span>&#x1F4C4;</span></a>
                             </div>
                         </div>
                     </div>
@@ -236,9 +270,10 @@
                             <h5 class="card-title fw-semibold"> Mastery in C++ Programming</h5>
                             <p class="card-text text-muted "><small>Training | Hands-on Projects | Job Placement</small>
                             </p>
-                            <h6 class="mt-5">Register for the Upcoming Batch</h6>
+                            <h6 class="mt-5 text-center">Register for the Upcoming Batch</h6>
                             <div class="d-flex  mt-3 justify-content-start">
-                                <a href="#" class="btn" id="brochurebtn">Register Today<span>&#x1F4C4;</span></a>
+                                <a href="c++-course-with-certificate.php" class="btn" id="brochurebtn">Register
+                                    Today<span>&#x1F4C4;</span></a>
                             </div>
                         </div>
                     </div>
@@ -409,16 +444,28 @@
     <!-- fixed section end -->
 
     <?php include './common/footerlink.php' ?>
-<script>
-    // banner start
-new Typed('.dynamic-txts', {
-  strings: ['Web Developer', 'Graphic Designer', "Web Designer", 'Video Editor',],
-  typeSpeed: 50,
-  backSpeed: 50,
-  loop: true
-});
-// banner end
-</script>
+    <script>
+        // banner start
+        new Typed('.dynamic-txt1', {
+            strings: ['AI Frontend', 'AI Java', "AI Java Full Stack", 'AI Mern Stack', 'Software Testing', ' AI  Python Full Stack', 'AI UI & UX'],
+            typeSpeed: 50,
+            backSpeed: 50,
+            loop: true
+        });
+        new Typed('.dynamic-txt2', {
+            strings: ['AI Frontend', 'AI Java', "AI Java Full Stack", 'AI Mern Stack', 'Software Testing', ' AI  Python Full Stack', 'AI UI & UX'],
+            typeSpeed: 50,
+            backSpeed: 50,
+            loop: true
+        });
+        new Typed('.dynamic-txt3', {
+            strings: ['AI Frontend', 'AI Java', "AI Java Full Stack", 'AI Mern Stack', 'Software Testing', ' AI  Python Full Stack', 'AI UI & UX'],
+            typeSpeed: 50,
+            backSpeed: 50,
+            loop: true
+        });
+        // banner end
+    </script>
 </body>
 
 </html>

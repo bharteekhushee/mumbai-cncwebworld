@@ -1,3 +1,3 @@
 <section id="topheader" class="text-white text-center">
-        Admissions Open for Job Oriented Courses.
+        Admission Open for Job Gurantee course
 </section>

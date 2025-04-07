@@ -15,6 +15,21 @@
 </head>
 
 <body class="body">
+    <!--PopUp form-->
+    <div class="popup-screen">
+        <div class="popup">
+            <div class="d-flex justify-content-between">
+                <h5 class="h4">Python Course Enquiry</h5>
+                <button id="close" class="ms-auto">&times;</button>
+            </div>
+            <iframe src="https://app.topfunnel.in/widget/form/671781de89886"
+                style="width:100%;height:420px;border:none;border-radius:3px" id="inline-671781de89886"
+                data-form-name="Nerul Python FS Leads" data-layout-iframe-id="inline-671781de89886"
+                data-form-id="671781de89886" data-height="420" title="Nerul Python FS Leads">
+            </iframe>
+        </div>
+    </div>
+    <!--PopUp form-->
     <!-- top header start -->
     <?php include 'common/topheader.php' ?>
     <!-- top header end -->
@@ -31,7 +46,7 @@
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
                     <img src="./assets/img/python.svg" width="60px" alt="">
                     <h1>Python Intensive Training Program</h1>
-                    <h3 class="fw-semibold"><i>100% Job Oriented Course</i></h3>
+                    <h3 class="fw-semibold text-center lh-lg"><i>Training + Development + Placement</i></h3>
                     <div class="row">
                         <div class="col-4 ">
                             <h2 class="fw-bold">2300+</h2>
@@ -47,17 +62,12 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 mx-auto p-4 col-11 bg-white  rounded">
-                        <h4 class="text-center text-dark">Enquiry Form</h4>
-                        <iframe
-                          src="https://app.topfunnel.in/widget/form/671781de89886"
-                          style="width:100%;height:370px;border:none;border-radius:3px"
-                          id="inline-671781de89886"
-                          data-form-name="Nerul Python FS Leads"
-                          data-layout-iframe-id="inline-671781de89886"
-                          data-form-id="671781de89886"
-                          data-height="370"
-                          title="Nerul Python FS Leads">
-                        </iframe>  
+                    <h4 class="text-center text-dark">Enquiry Form</h4>
+                    <iframe src="https://app.topfunnel.in/widget/form/671781de89886"
+                        style="width:100%;height:370px;border:none;border-radius:3px" id="inline-671781de89886"
+                        data-form-name="Nerul Python FS Leads" data-layout-iframe-id="inline-671781de89886"
+                        data-form-id="671781de89886" data-height="370" title="Nerul Python FS Leads">
+                    </iframe>
                 </div>
             </div>
         </div>
@@ -76,7 +86,8 @@
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center ">
                     <p>
-                       <b> CNC WEB WORLD</b> offers a <b>Python course in Mumbai</b> to teach students how to use Python, a widely
+                        <b> CNC WEB WORLD</b> offers a <b>Python course in Mumbai</b> to teach students how to use
+                        Python, a widely
                         used programming language, for many different purposes. Python has the flexibility to work in
                         web development, data analysis, machine learning scientific computing, and other areas.
                     </p>
@@ -86,14 +97,16 @@
                         analysis and visualization, and machine learning. The python classes in mumbai aims to give
                         hands-on experience, with practical exercises and projects to strengthen understanding
                     </p>
-                    <p> The <b>Python classes in mumbai</b> includes tools and frameworks like NumPy, Pandas, Matplotlib,
+                    <p> The <b>Python classes in mumbai</b> includes tools and frameworks like NumPy, Pandas,
+                        Matplotlib,
                         Flask, Django, TensorFlow, and PyTorch. These tools help to manage data, create visual
                         representations, build web applications, and put machine learning algorithms into practice.
                     </p>
                 </div>
             </div>
-            <div >
-                <p><b>Python course in Mumbai</b> work well for newcomers to coding and seasoned programmers who aim to pick up
+            <div>
+                <p><b>Python course in Mumbai</b> work well for newcomers to coding and seasoned programmers who aim to
+                    pick up
                     a new language or boost their abilities. Python has an easy-to-grasp structure, which makes it a
                     great starting point for many students.</p>
                 <p>In general, Python training offers a complete introduction to Python and its applications in
@@ -104,7 +117,7 @@
                     development, or machine learning).
                 </p>
                 <div class="text-center">
-                    <button class="btn btn-dark btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">Enquire
+                    <button class="btn btn-dark btn-lg" onclick="enquiry()">Enquire
                         Now</button>
                 </div>
             </div>
@@ -124,11 +137,11 @@
             <h4 class="fw-bold blue">A Python code syllabus often covers these common topics: </h4>
             <p><b>Python fundamentals:</b> Data types, variables, operators, expressions, and control structures.</p>
             <p><b>Functions:</b> How to call and define functions, handle return values and arguments
-              
-              </p>
-              <p>
-                  <b>Data structures: </b>: Lists, tuples, dictionaries, and sets. 
-              </p>
+
+            </p>
+            <p>
+                <b>Data structures: </b>: Lists, tuples, dictionaries, and sets.
+            </p>
             <p><b>Object-oriented programming:</b> Objects, methods, inheritance, Classes and how things can take many
                 forms.
             </p>
@@ -172,7 +185,8 @@
                 looking over resumes, getting ready for interviews, and helping with job searches. </p>
             <p><b>Python classes in navi Mumbai with placement</b> teach students the basics of Python programming. This
                 covers Python's structure types of data ways to control the program, and functions. Students also learn
-                to use libraries and frameworks like <b>NumPy, Pandas, Matplotlib, Flask, and Django</b>. The course shows how
+                to use libraries and frameworks like <b>NumPy, Pandas, Matplotlib, Flask, and Django</b>. The course
+                shows how
                 to use Python for analyzing data making websites, and machine learning</p>
             <p><b>CNC WEB WORLD</b> offers placement services, which give you access to job boards networking events,
                 and career advice. We also set up internships or projects with industry partners abilities <b> CNC WEB
@@ -620,7 +634,8 @@
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
             <h4 class="fw-bold blue">More About python course in mumbai</h4>
-            <p>You can take a <b>Python classes in mumbai</b> that runs for 2-3 months. This program teaches you the basics of
+            <p>You can take a <b>Python classes in mumbai</b> that runs for 2-3 months. This program teaches you the
+                basics of
                 Python programming and some ways to use the language. The course aims to give students a strong base in
                 Python programming, including syntax, data types, control structures, functions, and object-oriented
                 programming.
@@ -850,7 +865,8 @@
                     <h2 class="accordion-header ">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                            <span class="fw-semibold"> Why is Python so popular as the first programming language?</span>
+                            <span class="fw-semibold"> Why is Python so popular as the first programming
+                                language?</span>
                         </button>
                     </h2>
                     <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
@@ -912,6 +928,24 @@
         </div>
     </section>
     <!-- faqs-footer section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 py-5 px-lg-0 ">
+            <h4 class="fw-bold blue">Enroll Today and Start Your Journey as a Python Developer!</h4>
+
+            <ul type="none">
+                <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
+                    Session .</li>
+                <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
+                    Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
+                <li>
+                    <b>🌐 Website: </b> [<a
+                        href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->

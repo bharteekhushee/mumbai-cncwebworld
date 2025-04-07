@@ -14,6 +14,21 @@
 </head>
 
 <body class="body">
+    <!--PopUp form-->
+    <div class="popup-screen">
+        <div class="popup">
+            <div class="d-flex justify-content-between">
+                <h5 class="h4">React Js Course Enquiry</h5>
+                <button id="close" class="ms-auto">&times;</button>
+            </div>
+            <iframe src="https://app.topfunnel.in/widget/form/6717814c6d472"
+                style="width:100%;height:420px;border:none;border-radius:3px" id="inline-6717814c6d472"
+                data-form-name="Nerul -React Js Traning Leads" data-layout-iframe-id="inline-6717814c6d472"
+                data-form-id="6717814c6d472" data-height="420" title="Nerul -React Js Traning Leads">
+            </iframe>
+        </div>
+    </div>
+    <!--PopUp form-->
     <!-- top header start -->
     <?php include 'common/topheader.php' ?>
     <!-- top header end -->
@@ -30,7 +45,7 @@
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
                     <img src="./assets/img/React-b.svg" width="60px" alt="">
                     <h1>React Js Intensive <br> Training Program</h1>
-                    <h3 class="fw-semibold"><i>100% Job Oriented Course</i></h3>
+                    <h3 class="fw-semibold text-center lh-lg"><i>Training + Development + Placement</i></h3>
                     <div class="row">
                         <div class="col-4 ">
                             <h2 class="fw-bold">2300+</h2>
@@ -46,17 +61,12 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 mx-auto p-4 col-11 bg-white  rounded">
-                        <h4 class="text-center text-dark">Enquiry Form</h4>
-                        <iframe
-                          src="https://app.topfunnel.in/widget/form/6717814c6d472"
-                          style="width:100%;height:370px;border:none;border-radius:3px"
-                          id="inline-6717814c6d472"
-                          data-form-name="Nerul -React Js Traning Leads"
-                          data-layout-iframe-id="inline-6717814c6d472"
-                          data-form-id="6717814c6d472"
-                          data-height="370"
-                          title="Nerul -React Js Traning Leads">
-                        </iframe>
+                    <h4 class="text-center text-dark">Enquiry Form</h4>
+                    <iframe src="https://app.topfunnel.in/widget/form/6717814c6d472"
+                        style="width:100%;height:370px;border:none;border-radius:3px" id="inline-6717814c6d472"
+                        data-form-name="Nerul -React Js Traning Leads" data-layout-iframe-id="inline-6717814c6d472"
+                        data-form-id="6717814c6d472" data-height="370" title="Nerul -React Js Traning Leads">
+                    </iframe>
                 </div>
             </div>
         </div>
@@ -92,7 +102,7 @@
                 </div>
             </div>
             <div class="text-center mt-2">
-                <button class="btn btn-dark btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">Enquire
+                <button class="btn btn-dark btn-lg" onclick="enquiry()">Enquire
                     Now</button>
             </div>
         </div>
@@ -693,7 +703,9 @@
                 <li>✔ Gateway to Full Stack Development (React + Node.js)</li>
             </ul>
             <h4 class="fw-bold blue">Duration & Batches</h4>
-            <p>Our <strong>React JS course in Mumbai</strong> typically spans 2-3 months, with flexible weekday and weekend batches available. Whether you’re a college student or a working professional, we’ve got a batch that fits your schedule.</p>
+            <p>Our <strong>React JS course in Mumbai</strong> typically spans 2-3 months, with flexible weekday and
+                weekend batches available. Whether you’re a college student or a working professional, we’ve got a batch
+                that fits your schedule.</p>
         </div>
     </div>
     <!-- course-content end -->
@@ -712,7 +724,7 @@
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
-            <!-- faqs-footer section start -->
+    <!-- faqs-footer section start -->
     <section id="faqs-footer">
         <div class="container-lg py-5 px-4 px-lg-0">
             <h2 class="fw-bold text-center py-3 ">
@@ -728,7 +740,8 @@
                     </h2>
                     <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Not at all. ReactJS has a component-based architecture that makes it simple and modular. If you know basic HTML, CSS, and JavaScript, ReactJS will be easy to pick up.</p>
+                            <p>Not at all. ReactJS has a component-based architecture that makes it simple and modular.
+                                If you know basic HTML, CSS, and JavaScript, ReactJS will be easy to pick up.</p>
                         </div>
                     </div>
                 </div>
@@ -741,7 +754,9 @@
                     </h2>
                     <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Yes. We offer ReactJS training and placement in Mumbai, which includes career guidance, resume building, and interview preparation to help you secure a job in the tech industry.</p>
+                            <p>Yes. We offer ReactJS training and placement in Mumbai, which includes career guidance,
+                                resume building, and interview preparation to help you secure a job in the tech
+                                industry.</p>
                         </div>
                     </div>
                 </div>
@@ -749,12 +764,14 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                            <span class="fw-semibold">Do I need to know JavaScript before joining the React course?</span>
+                            <span class="fw-semibold">Do I need to know JavaScript before joining the React
+                                course?</span>
                         </button>
                     </h2>
                     <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Basic JavaScript knowledge is helpful, but not mandatory. We cover essential JavaScript concepts in the initial modules for those new to it.</p>
+                            <p>Basic JavaScript knowledge is helpful, but not mandatory. We cover essential JavaScript
+                                concepts in the initial modules for those new to it.</p>
                         </div>
                     </div>
                 </div>
@@ -767,7 +784,8 @@
                     </h2>
                     <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Yes. Upon successful completion, you will receive a ReactJS Certificate, recognized by employers and helpful in job applications.
+                            <p>Yes. Upon successful completion, you will receive a ReactJS Certificate, recognized by
+                                employers and helpful in job applications.
                             </p>
                         </div>
                     </div>
@@ -781,7 +799,8 @@
                     </h2>
                     <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>You can apply for roles like Front-End Developer, UI Developer, JavaScript Developer, React Developer, or even Full Stack Developer with additional backend skills.</p>
+                            <p>You can apply for roles like Front-End Developer, UI Developer, JavaScript Developer,
+                                React Developer, or even Full Stack Developer with additional backend skills.</p>
                         </div>
                     </div>
                 </div>
@@ -794,7 +813,9 @@
         <div class="container-lg px-4 py-5 px-lg-0 ">
             <h4 class="fw-bold blue">Enroll Today and Start Your Journey as a Front-End Developer!</h4>
             <p>
-                <strong>CNC WEB WORLD</strong>’s <strong>ReactJS Courses in Mumbai</strong> is your gateway to a high-growth tech career. Join us to gain hands-on coding experience, master ReactJS, and land your dream job in IT.
+                <strong>CNC WEB WORLD</strong>’s <strong>ReactJS Courses in Mumbai</strong> is your gateway to a
+                high-growth tech career. Join us to gain hands-on coding experience, master ReactJS, and land your dream
+                job in IT.
             </p>
             <ul type="none">
                 <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo

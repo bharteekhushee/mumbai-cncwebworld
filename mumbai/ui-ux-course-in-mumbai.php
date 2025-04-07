@@ -10,6 +10,21 @@
 </head>
 
 <body class="body">
+    <!--PopUp form-->
+    <div class="popup-screen">
+        <div class="popup">
+            <div class="d-flex justify-content-between">
+                <h5 class="h4">Angular Course Enquiry</h5>
+                <button id="close" class="ms-auto">&times;</button>
+            </div>
+            <iframe src="https://app.topfunnel.in/widget/form/6717d748b4c0f"
+                style="width:100%;height:420px;border:none;border-radius:3px" id="inline-6717d748b4c0f"
+                data-form-name="Nerul - UI & UX Leads" data-layout-iframe-id="inline-6717d748b4c0f"
+                data-form-id="6717d748b4c0f" data-height="420" title="Nerul - UI & UX Leads">
+            </iframe>
+        </div>
+    </div>
+    <!--PopUp form-->
     <!-- top header start -->
     <?php include 'common/topheader.php' ?>
     <!-- top header end -->
@@ -26,7 +41,7 @@
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
                     <img src="./assets/img/ui-ux-icon.png" width="60px" alt="">
                     <h1 class="pe-5">UI / UX Intensive <br> Training Program</h1>
-                    <h3 class="fw-semibold"><i>100% Job Oriented Course</i></h3>
+                    <h3 class="fw-semibold text-center lh-lg"><i>Training + Development + Placement</i></h3>
                     <div class="row">
                         <div class="col-4 ">
                             <h2 class="fw-bold">2300+</h2>
@@ -42,7 +57,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 mx-auto p-4 col-11 bg-white  rounded">
-                        <h4 class="text-center text-dark">Enquiry Form</h4>
+                    <h4 class="text-center text-dark">Enquiry Form</h4>
                     <!-- <form method="get" class="">
                         <input class="form-control form-control-lg" id="Name" type="text" placeholder="Name" required
                             name="Full Name" pattern="[a-zA-Z ~ ]+$" />
@@ -63,16 +78,11 @@
                             </button>
                         </div>
                     </form> -->
-                    <iframe
-                          src="https://app.topfunnel.in/widget/form/6717d748b4c0f"
-                          style="width:100%;height:370px;border:none;border-radius:3px"
-                          id="inline-6717d748b4c0f"
-                          data-form-name="Nerul - UI & UX Leads"
-                          data-layout-iframe-id="inline-6717d748b4c0f"
-                          data-form-id="6717d748b4c0f"
-                          data-height="370"
-                          title="Nerul - UI & UX Leads">
-                        </iframe>
+                    <iframe src="https://app.topfunnel.in/widget/form/6717d748b4c0f"
+                        style="width:100%;height:370px;border:none;border-radius:3px" id="inline-6717d748b4c0f"
+                        data-form-name="Nerul - UI & UX Leads" data-layout-iframe-id="inline-6717d748b4c0f"
+                        data-form-id="6717d748b4c0f" data-height="370" title="Nerul - UI & UX Leads">
+                    </iframe>
                 </div>
             </div>
         </div>
@@ -119,7 +129,7 @@
                 </div>
             </div>
             <div class="text-center mt-2">
-                <button class="btn btn-dark btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">Enquire
+                <button class="btn btn-dark btn-lg" onclick="enquiry()">Enquire
                     Now</button>
             </div>
         </div>
@@ -712,10 +722,10 @@
             <h4 class="fw-bold blue">Benefits of Enrolling in Our UI UX Design Course in Mumbai</h4>
             <ol>
                 <li><b>Comprehensive Curriculum –</b> Covering every aspect of UI/UX design.</li>
-               <li> <b>Industry-Led Training –</b> Gain insights from seasoned professionals</li>
-               <li> <b>Live Projects & Case Studies –</b> Gain practical experience.</li>
-               <li> <b>Job Placement Assistance –</b> 100% support in job search and interview preparation.</li>
-               <li> <b>Offline Classroom Training –</b> Get hands-on learning experience in Mumbai.</li>
+                <li> <b>Industry-Led Training –</b> Gain insights from seasoned professionals</li>
+                <li> <b>Live Projects & Case Studies –</b> Gain practical experience.</li>
+                <li> <b>Job Placement Assistance –</b> 100% support in job search and interview preparation.</li>
+                <li> <b>Offline Classroom Training –</b> Get hands-on learning experience in Mumbai.</li>
             </ol>
         </div>
     </div>
@@ -735,7 +745,7 @@
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
-           <!-- faqs-footer section start -->
+    <!-- faqs-footer section start -->
     <section id="faqs-footer">
         <div class="container-lg py-5 px-4 px-lg-0">
             <h2 class="fw-bold text-center py-3 ">
@@ -751,7 +761,9 @@
                     </h2>
                     <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>UI/UX design involves designing user-friendly and aesthetically pleasing digital interfaces. UI (User Interface) focuses on the visual design of applications, while UX (User Experience) ensures that users have a smooth and intuitive experience.</p>
+                            <p>UI/UX design involves designing user-friendly and aesthetically pleasing digital
+                                interfaces. UI (User Interface) focuses on the visual design of applications, while UX
+                                (User Experience) ensures that users have a smooth and intuitive experience.</p>
                         </div>
                     </div>
                 </div>
@@ -764,7 +776,8 @@
                     </h2>
                     <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>No, our <b>UI UX designer course in Mumbai</b> is suitable for beginners as well as experienced professionals.</p>
+                            <p>No, our <b>UI UX designer course in Mumbai</b> is suitable for beginners as well as
+                                experienced professionals.</p>
                         </div>
                     </div>
                 </div>
@@ -777,7 +790,8 @@
                     </h2>
                     <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>You can work as a <b>UI/UX designer in IT companies</b>, startups, digital agencies, and e-commerce firms. The demand for UI/UX designers is growing across multiple sectors.</p>
+                            <p>You can work as a <b>UI/UX designer in IT companies</b>, startups, digital agencies, and
+                                e-commerce firms. The demand for UI/UX designers is growing across multiple sectors.</p>
                         </div>
                     </div>
                 </div>
@@ -790,7 +804,8 @@
                     </h2>
                     <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Yes, <b>CNC WEB WORLD</b> offers job placement assistance, resume building, and interview preparation to help students secure jobs in reputed companies.
+                            <p>Yes, <b>CNC WEB WORLD</b> offers job placement assistance, resume building, and interview
+                                preparation to help students secure jobs in reputed companies.
                             </p>
                         </div>
                     </div>
@@ -804,7 +819,8 @@
                     </h2>
                     <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>The course duration is 3-6 months, depending on the level of training. For detailed fee structure, contact <b>CNC WEB WORLD</b>.</p>
+                            <p>The course duration is 3-6 months, depending on the level of training. For detailed fee
+                                structure, contact <b>CNC WEB WORLD</b>.</p>
                         </div>
                     </div>
                 </div>
@@ -817,7 +833,8 @@
                     </h2>
                     <div id="collapse6" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>You will work with industry-standard tools like Figma, Adobe XD, Sketch, Photoshop, Illustrator, and HTML/CSS.</p>
+                            <p>You will work with industry-standard tools like Figma, Adobe XD, Sketch, Photoshop,
+                                Illustrator, and HTML/CSS.</p>
                         </div>
                     </div>
                 </div>
@@ -830,7 +847,9 @@
         <div class="container-lg px-4 py-5 px-lg-0 ">
             <h4 class="fw-bold blue">Enroll in the Best UI UX Design Course in Mumbai Today!</h4>
             <p>
-                If you’re looking for a <b>UI UX design institute in Mumbai</b> that offers practical training, career support, and job placement assistance, <b>CNC WEB WORLD</b> is the right choice. Take the first step towards a successful UI/UX design career today! </p>
+                If you’re looking for a <b>UI UX design institute in Mumbai</b> that offers practical training, career
+                support, and job placement assistance, <b>CNC WEB WORLD</b> is the right choice. Take the first step
+                towards a successful UI/UX design career today! </p>
             <ul type="none">
                 <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
                     Session .</li>

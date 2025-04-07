@@ -14,6 +14,21 @@
 </head>
 
 <body class="body">
+    <!--PopUp form-->
+    <div class="popup-screen">
+        <div class="popup">
+            <div class="d-flex justify-content-between">
+                <h5 class="h4">Data Analytics Course Enquiry</h5>
+                <button id="close" class="ms-auto">&times;</button>
+            </div>
+            <iframe src="https://app.topfunnel.in/widget/form/671782380f9b3"
+                style="width:100%;height:420px;border:none;border-radius:3px" id="inline-671782380f9b3"
+                data-form-name="Nerul - Data Analytics Leads" data-layout-iframe-id="inline-671782380f9b3"
+                data-form-id="671782380f9b3" data-height="420" title="Nerul - Data Analytics Leads">
+            </iframe>
+        </div>
+    </div>
+    <!--PopUp form-->
     <!-- top header start -->
     <?php include 'common/topheader.php' ?>
     <!-- top header end -->
@@ -30,7 +45,7 @@
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
                     <img src="./assets/img/data-analytics.webp" width="60px" alt="">
                     <h1>Data Analytics with Python Intensive Training Program</h1>
-                    <h3 class="fw-semibold"><i>100% Job Oriented Course</i></h3>
+                    <h3 class="fw-semibold text-center lh-lg"><i>Training + Development + Placement</i></h3>
                     <div class="row">
                         <div class="col-4 ">
                             <h2 class="fw-bold">2300+</h2>
@@ -46,7 +61,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 mx-auto p-4 col-11 bg-white  rounded">
-                        <h4 class="text-center text-dark">Enquiry Form</h4>
+                    <h4 class="text-center text-dark">Enquiry Form</h4>
                     <!-- <form method="get" class="">
                         <input class="form-control form-control-lg" id="Name" type="text" placeholder="Name" required
                             name="Full Name" pattern="[a-zA-Z ~ ]+$" />
@@ -67,17 +82,12 @@
                             </button>
                         </div>
                     </form> -->
-                    
-                    <iframe
-                          src="https://app.topfunnel.in/widget/form/671782380f9b3"
-                          style="width:100%;height:370px;border:none;border-radius:3px"
-                          id="inline-671782380f9b3"
-                          data-form-name="Nerul - Data Analytics Leads"
-                          data-layout-iframe-id="inline-671782380f9b3"
-                          data-form-id="671782380f9b3"
-                          data-height="370"
-                          title="Nerul - Data Analytics Leads">
-                        </iframe>
+
+                    <iframe src="https://app.topfunnel.in/widget/form/671782380f9b3"
+                        style="width:100%;height:370px;border:none;border-radius:3px" id="inline-671782380f9b3"
+                        data-form-name="Nerul - Data Analytics Leads" data-layout-iframe-id="inline-671782380f9b3"
+                        data-form-id="671782380f9b3" data-height="370" title="Nerul - Data Analytics Leads">
+                    </iframe>
                 </div>
             </div>
         </div>
@@ -87,7 +97,8 @@
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
-                <h2 class="fw-bold mb-4 text-center">Data Analytics Courses in Mumbai - <span class="blue">CNC WEB  WORLD</span></h2>
+                <h2 class="fw-bold mb-4 text-center">Data Analytics Courses in Mumbai - <span class="blue">CNC WEB
+                        WORLD</span></h2>
             </div>
             <div class="row ">
                 <div class="col-lg-6 ">
@@ -98,7 +109,8 @@
                     <p>
                         In today's data-driven world, businesses rely on skilled data analysts to interpret and make
                         strategic decisions based on data insights. If you're looking for the <b>Best Data Analytics
-                            Courses in Mumbai, CNC WEB WORLD</b> provides a comprehensive learning experience that equips you
+                            Courses in Mumbai, CNC WEB WORLD</b> provides a comprehensive learning experience that
+                        equips you
                         with the right tools and techniques to build a successful career in data analytics. Our courses
                         cover fundamental to advanced data analytics concepts, ensuring that students are
                         industry-ready.
@@ -112,7 +124,7 @@
                 </div>
             </div>
             <div class="text-center mt-2">
-                <button class="btn btn-dark btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">Enquire
+                <button class="btn btn-dark btn-lg" onclick="enquiry()">Enquire
                     Now</button>
             </div>
         </div>
@@ -849,7 +861,8 @@
             </ul>
             <p>The demand for skilled data analysts is skyrocketing, making it a lucrative career choice. With our
                 <b>Data Analytics Courses in Mumbai with placement</b>, you can confidently step into the industry with
-                the right skills and knowledge.</p>
+                the right skills and knowledge.
+            </p>
         </div>
     </div>
     <!-- course-content end -->

@@ -167,7 +167,7 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#">Contact Us</a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item hamburger">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                             aria-expanded="false">
                             <i class="fa-solid fa-bars"></i>

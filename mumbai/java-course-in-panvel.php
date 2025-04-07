@@ -10,6 +10,21 @@
 </head>
 
 <body class="body">
+    <!--PopUp form-->
+    <div class="popup-screen">
+        <div class="popup">
+            <div class="d-flex justify-content-between">
+                <h5 class="h4">Java Course Enquiry</h5>
+                <button id="close" class="ms-auto">&times;</button>
+            </div>
+            <iframe src="https://app.topfunnel.in/widget/form/67177d836c4a3"
+                style="width:100%;height:420px;border:none;border-radius:3px" id="inline-67177d836c4a3"
+                data-form-name="Nerul- Java FS Development" data-layout-iframe-id="inline-67177d836c4a3"
+                data-form-id="67177d836c4a3" data-height="420" title="Nerul- Java FS Development">
+            </iframe>
+        </div>
+    </div>
+    <!--PopUp form-->
     <!-- top header start -->
     <?php include 'common/topheader.php' ?>
     <!-- top header end -->
@@ -26,7 +41,7 @@
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
                     <img src="./assets/img/java-icon.png" width="60px" alt="">
                     <h1 class="pe-lg-5">Java Intensive Training Program</h1>
-                    <h3 class="fw-semibold"><i>100% Job Oriented Course</i></h3>
+                    <h3 class="fw-semibold text-center lh-lg"><i>Training + Development + Placement</i></h3>
                     <div class="row">
                         <div class="col-4 ">
                             <h2 class="fw-bold">2300+</h2>
@@ -42,17 +57,12 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 mx-auto p-4 col-11 bg-white  rounded">
-                        <h4 class="text-center text-dark">Enquiry Form</h4>
-                        <iframe
-                          src="https://app.topfunnel.in/widget/form/67177d836c4a3"
-                          style="width:100%;height:370px;border:none;border-radius:3px"
-                          id="inline-67177d836c4a3"
-                          data-form-name="Nerul- Java FS Development"
-                          data-layout-iframe-id="inline-67177d836c4a3"
-                          data-form-id="67177d836c4a3"
-                          data-height="370"
-                          title="Nerul- Java FS Development">
-                        </iframe>
+                    <h4 class="text-center text-dark">Enquiry Form</h4>
+                    <iframe src="https://app.topfunnel.in/widget/form/67177d836c4a3"
+                        style="width:100%;height:370px;border:none;border-radius:3px" id="inline-67177d836c4a3"
+                        data-form-name="Nerul- Java FS Development" data-layout-iframe-id="inline-67177d836c4a3"
+                        data-form-id="67177d836c4a3" data-height="370" title="Nerul- Java FS Development">
+                    </iframe>
                 </div>
             </div>
         </div>
@@ -71,24 +81,34 @@
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center ">
                     <p>
-                    Everything you need to know to master the Java programming language is covered in our <b>Java course in panvel</b> at <b>CNC WEB WORLD</b>. The fundamentals of Java, such as variables, data types, and control structures, are usually covered first in the course. The Java course then moves on to more complex subjects like input/output operations, exception handling, and object-oriented programming.
+                        Everything you need to know to master the Java programming language is covered in our <b>Java
+                            course in panvel</b> at <b>CNC WEB WORLD</b>. The fundamentals of Java, such as variables,
+                        data types, and control structures, are usually covered first in the course. The Java course
+                        then moves on to more complex subjects like input/output operations, exception handling, and
+                        object-oriented programming.
                     </p>
                     <p>
-                    Database programming, networking, and multithreading are additional subjects that are covered in a Java course. Java frameworks and tools like Spring, Hibernate, and Maven—all crucial for creating Java applications—will also be covered in the course.
+                        Database programming, networking, and multithreading are additional subjects that are covered in
+                        a Java course. Java frameworks and tools like Spring, Hibernate, and Maven—all crucial for
+                        creating Java applications—will also be covered in the course.
                     </p>
-                    <p> Through coding exercises, projects, and tests, students will have the chance to hone their Java programming abilities throughout the course. Additionally, they will learn how to write and debug Java code using integrated development environments (IDEs) like Eclipse and NetBeans.
+                    <p> Through coding exercises, projects, and tests, students will have the chance to hone their Java
+                        programming abilities throughout the course. Additionally, they will learn how to write and
+                        debug Java code using integrated development environments (IDEs) like Eclipse and NetBeans.
                     </p>
-    
+
                 </div>
             </div>
             <div>
                 <p>
-                <b>CNC WEB WORLD</b> offers both online and offline <b>Java classes in panvel</b>. Students will graduate from the course with a strong foundation in Java programming and be prepared to begin creating practical Java applications.
+                    <b>CNC WEB WORLD</b> offers both online and offline <b>Java classes in panvel</b>. Students will
+                    graduate from the course with a strong foundation in Java programming and be prepared to begin
+                    creating practical Java applications.
                 </p>
                 <div class="text-center mt-2">
-                <button class="btn btn-dark btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">Enquire
-                    Now</button>
-            </div>
+                    <button class="btn btn-dark btn-lg" onclick="enquiry()">Enquire
+                        Now</button>
+                </div>
             </div>
         </div>
     </section>
@@ -100,19 +120,35 @@
         </div>
     </div>
     <!-- roadmap-image end -->
-      <!-- course-content start -->
+    <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
             <h4 class="fw-bold blue">Learn Java Programming language In Panvel</h4>
-            <p><b>Java course in panvel</b> is a high-level, object-oriented programming language that is intended to be portable and platform independent. Java is well-known for its simplicity, readability, and ease of use. It uses a syntax similar to C and C++, making it simple for programmers who are familiar with those languages to learn.</p>
+            <p><b>Java course in panvel</b> is a high-level, object-oriented programming language that is intended to be
+                portable and platform independent. Java is well-known for its simplicity, readability, and ease of use.
+                It uses a syntax similar to C and C++, making it simple for programmers who are familiar with those
+                languages to learn.</p>
 
-            <p>One of the primary benefits of <b>Java training in panvel</b> is the "write once, run anywhere" philosophy. This means that Java code can be compiled into bytecode that can be executed on any platform that supports the Java Virtual Machine (JVM). This makes Java an excellent choice for creating cross-platform applications that can run on a variety of operating systems, including Windows, Linux, and macOS.</p>
-            <p>Java is also commonly used to create web applications, mobile apps, and enterprise applications. It has a large ecosystem of libraries and frameworks, making it simple to create complex applications. Spring, Hibernate, and Struts are three popular Java frameworks.</p>
-            <p>Overall, the Java programming language is a versatile and widely used language with applications in a variety of industries and fields. It is an excellent language to learn for anyone interested in software development.</p>
+            <p>One of the primary benefits of <b>Java training in panvel</b> is the "write once, run anywhere"
+                philosophy. This means that Java code can be compiled into bytecode that can be executed on any platform
+                that supports the Java Virtual Machine (JVM). This makes Java an excellent choice for creating
+                cross-platform applications that can run on a variety of operating systems, including Windows, Linux,
+                and macOS.</p>
+            <p>Java is also commonly used to create web applications, mobile apps, and enterprise applications. It has a
+                large ecosystem of libraries and frameworks, making it simple to create complex applications. Spring,
+                Hibernate, and Struts are three popular Java frameworks.</p>
+            <p>Overall, the Java programming language is a versatile and widely used language with applications in a
+                variety of industries and fields. It is an excellent language to learn for anyone interested in software
+                development.</p>
 
-            <p>The Java programming language also has a large ecosystem of libraries, frameworks, and tools that help you build complex applications. Spring, Hibernate, and Struts are some of the most popular Java frameworks, and Eclipse, NetBeans, and IntelliJ IDEA are popular integrated development environments.
+            <p>The Java programming language also has a large ecosystem of libraries, frameworks, and tools that help
+                you build complex applications. Spring, Hibernate, and Struts are some of the most popular Java
+                frameworks, and Eclipse, NetBeans, and IntelliJ IDEA are popular integrated development environments.
             </p>
-            <p>Java is commonly used in a variety of industries, including finance, healthcare, e-commerce, and gaming. Many large-scale enterprise applications rely on it as their primary programming language. Its versatility and broad range of applications make it a popular choice among developers all over the world.</p>
+            <p>Java is commonly used in a variety of industries, including finance, healthcare, e-commerce, and gaming.
+                Many large-scale enterprise applications rely on it as their primary programming language. Its
+                versatility and broad range of applications make it a popular choice among developers all over the
+                world.</p>
         </div>
     </div>
     <!-- course-content end -->
@@ -123,12 +159,22 @@
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
             <h4 class="fw-bold blue">Java certification course in panvel</h4>
-            <p>Getting <b>Java certification training in panvel</b> is a way to validate your Java programming skills and expertise, and <b>CNC Web World</b> will provide you with the necessary skills. There are several Java certifications available, each focusing on a different aspect of Java programming, including Java SE, Java EE, and Java ME.</p>
-            <p>To obtain <b>Java certification training in panvel</b>, you must pass an exam that assesses your knowledge and skills in the relevant area of Java programming. The exams are intended to be challenging and cover a wide range of topics, such as Java syntax, object-oriented programming, database programming, web development, and others.</p>
+            <p>Getting <b>Java certification training in panvel</b> is a way to validate your Java programming skills
+                and expertise, and <b>CNC Web World</b> will provide you with the necessary skills. There are several
+                Java certifications available, each focusing on a different aspect of Java programming, including Java
+                SE, Java EE, and Java ME.</p>
+            <p>To obtain <b>Java certification training in panvel</b>, you must pass an exam that assesses your
+                knowledge and skills in the relevant area of Java programming. The exams are intended to be challenging
+                and cover a wide range of topics, such as Java syntax, object-oriented programming, database
+                programming, web development, and others.</p>
 
-            <p>To prepare for the Java certification exam, take an online or offline course at <b>CNC WEB WORLD</b> and practice coding exercises.</p>
-            <p>Once you have learned and prepared for the exam, you can take it through <b>CNC WEB WORLD</b> The exam is usually taken in a testing center, and you must pass it with a certain score to obtain it.</p>
-            <p>Obtaining a <b>Java certification in panvel</b> from <b>CNC WEB WORLD </b>can help advance your career by demonstrating to potential employers that you have the knowledge and skills required to work with Java. It can also result in higher salaries and more job opportunities.</p>
+            <p>To prepare for the Java certification exam, take an online or offline course at <b>CNC WEB WORLD</b> and
+                practice coding exercises.</p>
+            <p>Once you have learned and prepared for the exam, you can take it through <b>CNC WEB WORLD</b> The exam is
+                usually taken in a testing center, and you must pass it with a certain score to obtain it.</p>
+            <p>Obtaining a <b>Java certification in panvel</b> from <b>CNC WEB WORLD </b>can help advance your career by
+                demonstrating to potential employers that you have the knowledge and skills required to work with Java.
+                It can also result in higher salaries and more job opportunities.</p>
         </div>
     </div>
     <!-- course-content end -->
@@ -264,7 +310,7 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                               
+
                                                 <li>Java Database Connectivity (JDBC):
                                                     <ul>
                                                         <li>JDBC Architecture</li>
@@ -274,7 +320,7 @@
                                                         <li>Enterprise JavaBeans (EJB)</li>
                                                     </ul>
                                                 </li>
-                                                
+
                                                 <li>JavaServer Pages (JSP):
                                                     <ul>
                                                         <li>JSP Lifecycle</li>
@@ -542,14 +588,22 @@
         </div>
     </section>
     <!-- courseDetails section end -->
-      <!-- course-content start -->
+    <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
             <h4 class="fw-bold blue">Java Training and Placement in Panvel</h4>
-            <p>Java is a popular programming language, so there are numerous job opportunities for Java developers. <b>CNC WEB WORLD</b> offers a <b>Java course in panvel</b> with a placement option. Completing a Java course can help you develop the skills and knowledge required to work with Java, increasing your chances of getting hired in the field.</p>
+            <p>Java is a popular programming language, so there are numerous job opportunities for Java developers.
+                <b>CNC WEB WORLD</b> offers a <b>Java course in panvel</b> with a placement option. Completing a Java
+                course can help you develop the skills and knowledge required to work with Java, increasing your chances
+                of getting hired in the field.</p>
 
-            <p>Many Java courses provide job placement assistance or career services to help students find employment after completing the course. <b>CNC WEB WORLD</b> stands out as the top choice to offer training and job placements. Placement assistance includes resume reviews, interview preparation, and job search assistance. Additionally.</p>
-            <p>In terms of job opportunities, the <b>CNC WEB WORLD Learn Java course in panvel</b> can provide jobs in a variety of industries, including software development, web development, mobile app development, and more. Some common job titles for Java developers include:</p>
+            <p>Many Java courses provide job placement assistance or career services to help students find employment
+                after completing the course. <b>CNC WEB WORLD</b> stands out as the top choice to offer training and job
+                placements. Placement assistance includes resume reviews, interview preparation, and job search
+                assistance. Additionally.</p>
+            <p>In terms of job opportunities, the <b>CNC WEB WORLD Learn Java course in panvel</b> can provide jobs in a
+                variety of industries, including software development, web development, mobile app development, and
+                more. Some common job titles for Java developers include:</p>
             <ol>
                 <li>Java Developer</li>
                 <li>Software Engineer</li>
@@ -664,21 +718,22 @@
         </div>
     </section>
     <!-- industryProject  section end -->
-      <!-- course-content start -->
+    <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
             <h4 class="fw-bold blue">The main highlights of the Java course in Panvel</h4>
-        <p>The following are the key features of our courses and training modules that allow us to stay ahead of the competition and provide high-quality training to all of our students.</p>
-        <ul>
-            <li>Highly qualified instructors</li>
-            <li>Batch sizes are limited.</li>
-            <li>Project Assignments on LIVE Projects</li>
-            <li>No-cost study materials</li>
-            <li>Training for interviews</li>
-            <li>Software for free</li>
-            <li>Offline Assessments and Certifications</li>
-            <li>A complete job guarantee</li>
-        </ul>        
+            <p>The following are the key features of our courses and training modules that allow us to stay ahead of the
+                competition and provide high-quality training to all of our students.</p>
+            <ul>
+                <li>Highly qualified instructors</li>
+                <li>Batch sizes are limited.</li>
+                <li>Project Assignments on LIVE Projects</li>
+                <li>No-cost study materials</li>
+                <li>Training for interviews</li>
+                <li>Software for free</li>
+                <li>Offline Assessments and Certifications</li>
+                <li>A complete job guarantee</li>
+            </ul>
         </div>
     </div>
     <!-- course-content end -->
@@ -704,7 +759,7 @@
             <div class="row">
                 <div class="col-12 rounded-4 border py-3 px-4 bg-white shadow">
                     <div class="row text-center row-cols-lg-6 row-cols-md-3 row-cols-sm-3 row-cols-2  mx-auto">
-                                             
+
                         <div class="col">
                             <img src="./assets/img/java-icon.png" alt="" class="img-fluid">
                         </div>
@@ -744,7 +799,7 @@
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
-      <!-- faqs-footer section start -->
+    <!-- faqs-footer section start -->
     <section id="faqs-footer">
         <div class="container-lg py-5 px-4 px-lg-0">
             <h2 class="fw-bold text-center py-3">
@@ -880,6 +935,24 @@
         </div>
     </section>
     <!-- faqs-footer section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 py-5 px-lg-0 ">
+            <h4 class="fw-bold blue">Enroll Today and Start Your Journey as a Java Developer!</h4>
+
+            <ul type="none">
+                <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
+                    Session .</li>
+                <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
+                    Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
+                <li>
+                    <b>🌐 Website: </b> [<a
+                        href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->

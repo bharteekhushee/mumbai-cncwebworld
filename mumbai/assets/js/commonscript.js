@@ -1,4 +1,4 @@
-new Swiper(".placedStudentSwiper", {
+ new Swiper(".placedStudentSwiper", {
     loop: true,
     effect: "coverflow",
     grabCursor: true,
@@ -67,4 +67,29 @@ new Swiper(".placedStudentSwiper", {
       }
     });
     // Student Review start end
+
+     //   Popup form
+ const popupScreen = document.querySelector(".popup-screen")
+ const popBox = document.querySelector(".popup")
+ const close = document.querySelector("#close")
+
+ window.addEventListener("load", () => {
+     setTimeout(() => {
+         popupScreen.classList.add("active");
+     }, 5000
+     );
+     setInterval(() => {
+         popupScreen.classList.add("active");
+     }, 35000
+     )
+ });
+ function enquiry() {
+     popupScreen.classList.add("active")
+     // popBox.style.display = "none";
+ };
+ close.addEventListener("click", function () {
+     popupScreen.classList.remove("active")
+     // popBox.style.display = "none";
+ });
+ //   Popup form
   

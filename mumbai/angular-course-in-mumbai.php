@@ -18,13 +18,13 @@
     <div class="popup-screen">
         <div class="popup">
             <div class="d-flex justify-content-between">
-                <h5>Connect to Our Career Expert</h5>
+                <h5 class="h4">Angular Js Course Enquiry</h5>
                 <button id="close" class="ms-auto">&times;</button>
             </div>
-            <iframe src="https://app.topfunnel.in/widget/form/67a742e535476"
-                style="width:100%;height:430px;border:none;border-radius:3px;" id="inline-67a742e535476"
-                data-form-name="website Popup" data-layout-iframe-id="inline-67a742e535476" data-form-id="67a742e535476"
-                data-height="400" title="website Popup">
+            <iframe src="https://app.topfunnel.in/widget/form/6717d841a44a9"
+                style="width:100%;height:420px;border:none;border-radius:3px" id="inline-6717d841a44a9"
+                data-form-name="Nerul - FD | Web Development Leads" data-layout-iframe-id="inline-6717d841a44a9"
+                data-form-id="6717d841a44a9" data-height="420" title="Nerul - FD | Web Development Leads">
             </iframe>
         </div>
     </div>
@@ -45,7 +45,7 @@
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
                     <img src="./assets/img/angular big.png" width="60px" alt="">
                     <h1>Angular Js Intensive Training Program</h1>
-                    <h3 class="fw-semibold"><i>100% Job Oriented Course</i></h3>
+                    <h3 class="fw-semibold text-center lh-lg"><i>Training + Development + Placement</i></h3>
                     <div class="row">
                         <div class="col-4 ">
                             <h2 class="fw-bold">2300+</h2>
@@ -105,7 +105,7 @@
                 <p>With the rising demand for modern web applications, learning Angular opens the door to high-paying
                     job opportunities and career growth in web development.</p>
                 <div class="text-center mt-2">
-                    <button class="btn btn-dark btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">Enquire
+                    <button class="btn btn-dark btn-lg" onclick="enquiry()">Enquire
                         Now</button>
                 </div>
             </div>
@@ -784,9 +784,14 @@
                 career-focused program and build a future-ready skill set that employers value.
             </p>
             <ul type="none">
-                <li>✨ Enroll Today and Transform Your Career with Angular! </li>
-                <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> for a Free Demo Session or
-                    Career Counseling. </li>
+                <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
+                    Session .</li>
+                <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
+                    Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
+                <li>
+                    <b>🌐 Website: </b> [<a
+                        href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]
+                </li>
             </ul>
         </div>
     </div>
@@ -799,26 +804,6 @@
     <!-- fixed section end -->
     <?php include './common/footerlink.php' ?>
     <script>
-        //   Popup form
-        const popupScreen = document.querySelector(".popup-screen")
-        const popBox = document.querySelector(".popup")
-        const close = document.querySelector("#close")
-
-        window.addEventListener("load", () => {
-            setTimeout(() => {
-                popupScreen.classList.add("active");
-            }, 2000
-            );
-            setInterval(() => {
-                popupScreen.classList.add("active");
-            }, 20000
-            )
-        });
-        close.addEventListener("click", function () {
-            popupScreen.classList.remove("active")
-            // popBox.style.display = "none";
-        });
-        //   Popup form
         new Swiper(".mySwiperIndustryProjectBox", {
             // slidesPerView: 3,
             loop: true,

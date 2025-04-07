@@ -253,7 +253,7 @@
 
                             </p>
                         </div>
-                        <div class="end">Happy Ending </div>
+                        <div class="end h2">😊</div>
                     </div>
                 </div>
             </div>

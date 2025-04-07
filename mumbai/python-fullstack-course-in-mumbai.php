@@ -10,6 +10,21 @@
 </head>
 
 <body class="body">
+    <!--PopUp form-->
+    <div class="popup-screen">
+        <div class="popup">
+            <div class="d-flex justify-content-between">
+                <h5 class="h4">Python Fullstack Enquiry</h5>
+                <button id="close" class="ms-auto">&times;</button>
+            </div>
+            <iframe src="https://app.topfunnel.in/widget/form/671781de89886"
+                style="width:100%;height:420px;border:none;border-radius:3px" id="inline-671781de89886"
+                data-form-name="Nerul Python FS Leads" data-layout-iframe-id="inline-671781de89886"
+                data-form-id="671781de89886" data-height="420" title="Nerul Python FS Leads">
+            </iframe>
+        </div>
+    </div>
+    <!--PopUp form-->
     <!-- top header start -->
     <?php include 'common/topheader.php' ?>
     <!-- top header end -->
@@ -26,7 +41,7 @@
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
                     <img src="./assets/img/python.svg" width="60px" alt="">
                     <h1>Python Full Stack <br> Intensive Training Program</h1>
-                    <h3 class="fw-semibold"><i>100% Job Oriented Course</i></h3>
+                    <h3 class="fw-semibold text-center lh-lg"><i>Training + Development + Placement</i></h3>
                     <div class="row">
                         <div class="col-4 ">
                             <h2 class="fw-bold">2300+</h2>
@@ -42,17 +57,12 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 mx-auto p-4 col-11 bg-white  rounded">
-                        <h4 class="text-center text-dark">Enquiry Form</h4>
-                        <iframe
-                          src="https://app.topfunnel.in/widget/form/671781de89886"
-                          style="width:100%;height:370px;border:none;border-radius:3px"
-                          id="inline-671781de89886"
-                          data-form-name="Nerul Python FS Leads"
-                          data-layout-iframe-id="inline-671781de89886"
-                          data-form-id="671781de89886"
-                          data-height="370"
-                          title="Nerul Python FS Leads">
-                        </iframe>  
+                    <h4 class="text-center text-dark">Enquiry Form</h4>
+                    <iframe src="https://app.topfunnel.in/widget/form/671781de89886"
+                        style="width:100%;height:370px;border:none;border-radius:3px" id="inline-671781de89886"
+                        data-form-name="Nerul Python FS Leads" data-layout-iframe-id="inline-671781de89886"
+                        data-form-id="671781de89886" data-height="370" title="Nerul Python FS Leads">
+                    </iframe>
                 </div>
             </div>
         </div>
@@ -88,7 +98,7 @@
                 </div>
             </div>
             <div class="text-center mt-3">
-                <button class="btn btn-dark btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">Enquire
+                <button class="btn btn-dark btn-lg" onclick="enquiry()">Enquire
                     Now</button>
             </div>
         </div>
@@ -131,68 +141,68 @@
             <h4 class="fw-bold blue">Course Structure – Learn from Basics to Advanced</h4>
             <p>Our <b>Python full stack course</b> is structured to provide a step-by-step learning experience, starting
                 from Python fundamentals to advanced web and application development. The curriculum includes:</p>
-          <div class="row">
-            <div class="col-md-6">
-            <h6 class="fw-bold blue">Core Python Programming</h6>
-            <ul>
-                <li>Introduction to Python and its architecture</li>
-                <li>Variables, Data Types, Operators</li>
-                <li>Control Flow: If-Else, Loops</li>
-                <li>Functions and Modules</li>
-                <li>Error Handling and Exception Management</li>
-                <li>File Handling</li>
-            </ul>
-            <h6 class="fw-bold blue">Data Structures and Algorithms</h6>
-            <ul>
-                <li>Lists, Tuples, Dictionaries, Sets</li>
-                <li>Searching and Sorting Algorithms</li>
-                <li>Recursive Programming</li>
-                <li>Problem-solving techniques for coding interviews</li>
-            </ul>
-            <h6 class="fw-bold blue">Object-Oriented Programming</h6>
-            <ul>
-                <li>Classes and Objects</li>
-                <li>Inheritance, Encapsulation, Polymorphism</li>
-                <li>Advanced OOP design patterns</li>
-            </ul> 
-                <h6 class="fw-bold blue">Front-end Development</h6>
-            <ul>
-                <li>HTML, CSS, JavaScript</li>
-                <li>Responsive Design with Bootstrap</li>
-                <li>DOM Manipulation</li>
-                <li>Front-end Frameworks (Basics of React/Angular introduction if required)</li>
-            </ul>
-            </div>
-            <div class="col-md-6">
-            <h6 class="fw-bold blue">Python Web Development (Back-end)</h6>
-            <ul>
-                <li>Flask and Django Frameworks</li>
-                <li>RESTful API Development</li>
-                <li>CRUD Operations</li>
-                <li>Authentication and Authorization</li>
-                <li>Database Integration (MySQL, SQLite)</li>
-            </ul>
+            <div class="row">
+                <div class="col-md-6">
+                    <h6 class="fw-bold blue">Core Python Programming</h6>
+                    <ul>
+                        <li>Introduction to Python and its architecture</li>
+                        <li>Variables, Data Types, Operators</li>
+                        <li>Control Flow: If-Else, Loops</li>
+                        <li>Functions and Modules</li>
+                        <li>Error Handling and Exception Management</li>
+                        <li>File Handling</li>
+                    </ul>
+                    <h6 class="fw-bold blue">Data Structures and Algorithms</h6>
+                    <ul>
+                        <li>Lists, Tuples, Dictionaries, Sets</li>
+                        <li>Searching and Sorting Algorithms</li>
+                        <li>Recursive Programming</li>
+                        <li>Problem-solving techniques for coding interviews</li>
+                    </ul>
+                    <h6 class="fw-bold blue">Object-Oriented Programming</h6>
+                    <ul>
+                        <li>Classes and Objects</li>
+                        <li>Inheritance, Encapsulation, Polymorphism</li>
+                        <li>Advanced OOP design patterns</li>
+                    </ul>
+                    <h6 class="fw-bold blue">Front-end Development</h6>
+                    <ul>
+                        <li>HTML, CSS, JavaScript</li>
+                        <li>Responsive Design with Bootstrap</li>
+                        <li>DOM Manipulation</li>
+                        <li>Front-end Frameworks (Basics of React/Angular introduction if required)</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <h6 class="fw-bold blue">Python Web Development (Back-end)</h6>
+                    <ul>
+                        <li>Flask and Django Frameworks</li>
+                        <li>RESTful API Development</li>
+                        <li>CRUD Operations</li>
+                        <li>Authentication and Authorization</li>
+                        <li>Database Integration (MySQL, SQLite)</li>
+                    </ul>
 
-            <h6 class="fw-bold blue">Data Analysis and Visualization</h6>
-            <ul>
-                <li>Working with NumPy and Pandas</li>
-                <li>Data cleaning and manipulation</li>
-                <li>Visualization using Matplotlib and Seaborn</li>
-            </ul>
-            <h6 class="fw-bold blue">Introduction to Machine Learning</h6>
-            <ul>
-                <li>Basics of ML using Python</li>
-                <li>Working with TensorFlow and PyTorch</li>
-                <li>Building and deploying ML models</li>
-            </ul>
-            <h6 class="fw-bold blue">Deployment and DevOps Basics</h6>
-            <ul>
-                <li>Version Control with Git and GitHub</li>
-                <li>Web Application Deployment (Heroku, AWS basics)</li>
-                <li>Docker & Virtual Environments</li>
-            </ul>
+                    <h6 class="fw-bold blue">Data Analysis and Visualization</h6>
+                    <ul>
+                        <li>Working with NumPy and Pandas</li>
+                        <li>Data cleaning and manipulation</li>
+                        <li>Visualization using Matplotlib and Seaborn</li>
+                    </ul>
+                    <h6 class="fw-bold blue">Introduction to Machine Learning</h6>
+                    <ul>
+                        <li>Basics of ML using Python</li>
+                        <li>Working with TensorFlow and PyTorch</li>
+                        <li>Building and deploying ML models</li>
+                    </ul>
+                    <h6 class="fw-bold blue">Deployment and DevOps Basics</h6>
+                    <ul>
+                        <li>Version Control with Git and GitHub</li>
+                        <li>Web Application Deployment (Heroku, AWS basics)</li>
+                        <li>Docker & Virtual Environments</li>
+                    </ul>
+                </div>
             </div>
-          </div>
         </div>
     </div>
     <!-- course-content end -->
@@ -976,6 +986,24 @@
         </div>
     </section>
     <!-- faqs-footer section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 py-5 px-lg-0 ">
+            <h4 class="fw-bold blue">Enroll Today and Start Your Journey as a Python Developer!</h4>
+
+            <ul type="none">
+                <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
+                    Session .</li>
+                <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
+                    Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
+                <li>
+                    <b>🌐 Website: </b> [<a
+                        href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->

@@ -10,6 +10,21 @@
 </head>
 
 <body class="body">
+    <!--PopUp form-->
+    <div class="popup-screen">
+        <div class="popup">
+            <div class="d-flex justify-content-between">
+                <h5 class="h4">Dotnet Fullstack Enquiry</h5>
+                <button id="close" class="ms-auto">&times;</button>
+            </div>
+            <iframe src="https://app.topfunnel.in/widget/form/671780997c0fe"
+                style="width:100%;height:420px;border:none;border-radius:3px" id="inline-671780997c0fe"
+                data-form-name="Nerul - Dot Net FS Leads" data-layout-iframe-id="inline-671780997c0fe"
+                data-form-id="671780997c0fe" data-height="420" title="Nerul - Dot Net FS Leads">
+            </iframe>
+        </div>
+    </div>
+    <!--PopUp form-->
     <!-- top header start -->
     <?php include 'common/topheader.php' ?>
     <!-- top header end -->
@@ -26,7 +41,7 @@
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
                     <img src="./assets/img/dotnet.png" width="60px" alt="">
                     <h1>C# Dot Net Full Stack <br> Intensive Training Program</h1>
-                    <h3 class="fw-semibold"><i>100% Job Oriented Course</i></h3>
+                    <h3 class="fw-semibold text-center lh-lg"><i>Training + Development + Placement</i></h3>
                     <div class="row">
                         <div class="col-4 ">
                             <h2 class="fw-bold">2300+</h2>
@@ -42,7 +57,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 mx-auto p-4 col-11 bg-white  rounded">
-                <h4 class="text-center text-dark">Enquiry Form</h4>
+                    <h4 class="text-center text-dark">Enquiry Form</h4>
                     <!-- <form method="get" class="">
                         <input class="form-control form-control-lg" id="Name" type="text" placeholder="Name" required
                             name="Full Name" pattern="[a-zA-Z ~ ]+$" />
@@ -63,16 +78,11 @@
                             </button>
                         </div>
                     </form> -->
-                    <iframe
-                          src="https://app.topfunnel.in/widget/form/671780997c0fe"
-                          style="width:100%;height:370px;border:none;border-radius:3px"
-                          id="inline-671780997c0fe"
-                          data-form-name="Nerul - Dot Net FS Leads"
-                          data-layout-iframe-id="inline-671780997c0fe"
-                          data-form-id="671780997c0fe"
-                          data-height="370"
-                          title="Nerul - Dot Net FS Leads">
-                        </iframe>
+                    <iframe src="https://app.topfunnel.in/widget/form/671780997c0fe"
+                        style="width:100%;height:370px;border:none;border-radius:3px" id="inline-671780997c0fe"
+                        data-form-name="Nerul - Dot Net FS Leads" data-layout-iframe-id="inline-671780997c0fe"
+                        data-form-id="671780997c0fe" data-height="370" title="Nerul - Dot Net FS Leads">
+                    </iframe>
                 </div>
             </div>
         </div>
@@ -93,8 +103,10 @@
                 <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center ">
                     <h5 class="fw-bold blue">Master Full Stack .NET Development with CNC WEB WORLD</h5>
                     <p>
-                        Are you looking to build a successful career in software development? <b>CNC WEB WORLD</b> offers the
-                        <b>best Full Stack .NET course in Navi Mumbai</b>, designed to equip students with the skills required
+                        Are you looking to build a successful career in software development? <b>CNC WEB WORLD</b>
+                        offers the
+                        <b>best Full Stack .NET course in Navi Mumbai</b>, designed to equip students with the skills
+                        required
                         to develop end-to-end web applications using Microsoft technologies. Whether you are a beginner
                         or an experienced professional looking to upgrade your skills, this course provides hands-on
                         training to help you become a proficient <b>Full Stack .NET Developer</b>.
@@ -112,7 +124,7 @@
                     programming to advanced concepts such as API development, cloud deployment, and database management.
                 </p>
                 <div class="text-center mt-2">
-                    <button class="btn btn-dark btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">Enquire
+                    <button class="btn btn-dark btn-lg" onclick="enquiry()">Enquire
                         Now</button>
                 </div>
             </div>
@@ -676,7 +688,8 @@
                 <li>Students interested in learning full-stack development</li>
             </ul>
             <h4 class="fw-bold blue">Full Stack .NET Course Fees in Navi Mumbai</h4>
-            <p>At <b>CNC WEB WORLD</b>, we provide affordable training programs with flexible payment options. Contact us today
+            <p>At <b>CNC WEB WORLD</b>, we provide affordable training programs with flexible payment options. Contact
+                us today
                 for a detailed breakdown of our Full Stack .NET course fees in Navi Mumbai and available discounts.</p>
         </div>
     </div>
@@ -966,7 +979,8 @@
                     </h2>
                     <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>You will receive a  <b>Full Stack .NET Certification from CNC WEB WORLD</b>, recognized by top IT
+                            <p>You will receive a <b>Full Stack .NET Certification from CNC WEB WORLD</b>, recognized by
+                                top IT
                                 companies.</p>
                         </div>
                     </div>
@@ -1006,8 +1020,10 @@
         <div class="container-lg px-4 py-5 px-lg-0 ">
             <h4 class="fw-bold blue">Enroll in the Best Dot Net Fullstack Courses in Mumbai Today!</h4>
             <p>
-                Take the first step toward a rewarding career in <b>Full Stack .NET development</b> with <b>CNC WEB WORLD</b>. Contact
-                us today to know more about the <b>Full Stack .NET course in Navi Mumbai</b> and start your journey towards
+                Take the first step toward a rewarding career in <b>Full Stack .NET development</b> with <b>CNC WEB
+                    WORLD</b>. Contact
+                us today to know more about the <b>Full Stack .NET course in Navi Mumbai</b> and start your journey
+                towards
                 becoming a professional Full Stack Developer.
             </p>
             <ul type="none">

@@ -1,13 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Frontend Course in Mumbai - Learn with CNC Web World</title>
     <?php include 'common/headerlink.php' ?>
-     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
+    <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
+
 <body class="body">
+    <!--PopUp form-->
+    <div class="popup-screen">
+        <div class="popup">
+            <div class="d-flex justify-content-between">
+                <h5 class="h4">Frontend Course Enquiry</h5>
+                <button id="close" class="ms-auto">&times;</button>
+            </div>
+            <iframe src="https://app.topfunnel.in/widget/form/6717d841a44a9"
+                style="width:100%;height:420px;border:none;border-radius:3px" id="inline-6717d841a44a9"
+                data-form-name="Nerul - FD | Web Development Leads" data-layout-iframe-id="inline-6717d841a44a9"
+                data-form-id="6717d841a44a9" data-height="420" title="Nerul - FD | Web Development Leads">
+            </iframe>
+        </div>
+    </div>
+    <!--PopUp form-->
     <!-- top header start -->
     <?php include 'common/topheader.php' ?>
     <!-- top header end -->
@@ -23,8 +40,8 @@
             <div class="row py-5">
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
                     <img src="./assets/img/frontend.png" width="60px" alt="">
-                    <h1>Frontend Development  Intensive Training Program</h1>
-                    <h3 class="fw-semibold"><i>100% Job Oriented Course</i></h3>
+                    <h1>Frontend Development Intensive Training Program</h1>
+                    <h3 class="fw-semibold text-center lh-lg"><i>Training + Development + Placement</i></h3>
                     <div class="row">
                         <div class="col-4 ">
                             <h2 class="fw-bold">2300+</h2>
@@ -40,7 +57,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-5 mx-auto p-4 col-11 bg-white  rounded">
-                        <h4 class="text-center text-dark">Enquiry Form</h4>
+                    <h4 class="text-center text-dark">Enquiry Form</h4>
                     <!-- <form method="get" class="">
                         <input class="form-control form-control-lg" id="Name" type="text" placeholder="Name" required
                             name="Full Name" pattern="[a-zA-Z ~ ]+$" />
@@ -61,16 +78,11 @@
                             </button>
                         </div>
                     </form> -->
-                    <iframe
-                          src="https://app.topfunnel.in/widget/form/6717d841a44a9"
-                          style="width:100%;height:370px;border:none;border-radius:3px"
-                          id="inline-6717d841a44a9"
-                          data-form-name="Nerul - FD | Web Development Leads"
-                          data-layout-iframe-id="inline-6717d841a44a9"
-                          data-form-id="6717d841a44a9"
-                          data-height="370"
-                          title="Nerul - FD | Web Development Leads">
-                        </iframe>
+                    <iframe src="https://app.topfunnel.in/widget/form/6717d841a44a9"
+                        style="width:100%;height:370px;border:none;border-radius:3px" id="inline-6717d841a44a9"
+                        data-form-name="Nerul - FD | Web Development Leads" data-layout-iframe-id="inline-6717d841a44a9"
+                        data-form-id="6717d841a44a9" data-height="370" title="Nerul - FD | Web Development Leads">
+                    </iframe>
                 </div>
             </div>
         </div>
@@ -108,7 +120,7 @@
                 </div>
             </div>
             <div class="text-center mt-2">
-                <button class="btn btn-dark btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">Enquire
+                <button class="btn btn-dark btn-lg" onclick="enquiry()">Enquire
                     Now</button>
             </div>
         </div>
@@ -121,8 +133,8 @@
         </div>
     </div>
     <!-- roadmap-image end -->
-     <!-- whoCanJoin start -->
-     <?php include 'common/whoCanJoin.php' ?>
+    <!-- whoCanJoin start -->
+    <?php include 'common/whoCanJoin.php' ?>
     <!-- WhoCanJoin end -->
     <!-- courseDetails section start -->
     <section id="courseDetail">
@@ -273,7 +285,7 @@
                             </h2>
                             <div id="aws" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                <div class="row">
+                                    <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Introduction to CI/CD and DevOps</li>
@@ -283,13 +295,14 @@
                                                 <li>AWS CodeDeploy: Automated Deployments</li>
                                                 <li>AWS Elastic Beanstalk for CI/CD</li>
                                                 <li>AWS CodePipeline: CI/CD Workflow Automation</li>
-                                                
+
                                             </ul>
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Docker and AWS CI/CD Integration</li>
-                                                <li>Infrastructure as Code (IaC) with AWS CloudFormation & Terraform</li>
+                                                <li>Infrastructure as Code (IaC) with AWS CloudFormation & Terraform
+                                                </li>
                                                 <li>AWS Lambda and Serverless CI/CD</li>
                                                 <li>Monitoring & Logging in AWS CI/CD (CloudWatch, CloudTrail)</li>
                                                 <li>Security Best Practices in AWS CI/CD</li>
@@ -316,7 +329,7 @@
                             </h2>
                             <div id="docker" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                <div class="row">
+                                    <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Introduction to Docker</li>
@@ -330,13 +343,13 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                               <li>Docker Volumes and Persistent Storage</li>
-                                               <li>Docker Swarm: Container Orchestration </li>
-                                               <li>Docker Security Best Practices</li>
-                                               <li>Monitoring and Logging in Docker</li>
-                                               <li>CI/CD Integration with Docker</li>
-                                               <li>Deploying Applications with Docker</li>
-                                               <li>Docker in Cloud Environments (AWS, Azure)</li>
+                                                <li>Docker Volumes and Persistent Storage</li>
+                                                <li>Docker Swarm: Container Orchestration </li>
+                                                <li>Docker Security Best Practices</li>
+                                                <li>Monitoring and Logging in Docker</li>
+                                                <li>CI/CD Integration with Docker</li>
+                                                <li>Deploying Applications with Docker</li>
+                                                <li>Docker in Cloud Environments (AWS, Azure)</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -358,11 +371,12 @@
                             </h2>
                             <div id="testing" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                <div class="row">
+                                    <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Introduction to Software Testing</li>
-                                                <li>Software Development Life Cycle (SDLC) & Testing Life Cycle (STLC)</li>
+                                                <li>Software Development Life Cycle (SDLC) & Testing Life Cycle (STLC)
+                                                </li>
                                                 <li>Types of Software Testing</li>
                                                 <li>Functional Testing & Non-Functional Testing</li>
                                                 <li>Black Box vs. White Box Testing</li>
@@ -371,14 +385,14 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                            <li>Usability & Accessibility Testing</li>
-                                               <li>Defect Life Cycle & Bug Reporting</li>
-                                                <li>Test Management Tools (JIRA.)</li> 
+                                                <li>Usability & Accessibility Testing</li>
+                                                <li>Defect Life Cycle & Bug Reporting</li>
+                                                <li>Test Management Tools (JIRA.)</li>
                                                 <li>Agile Testing & Scrum Methodology</li>
-                                                <li>User Acceptance Testing (UAT)</li> 
-                                                <li>API Testing</li>                                         
-                                                <li>Performance & Security Testing Concepts</li>      
-                                             </ul>
+                                                <li>User Acceptance Testing (UAT)</li>
+                                                <li>API Testing</li>
+                                                <li>Performance & Security Testing Concepts</li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -513,7 +527,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-12 rounded-4 py-3 px-4 bg-white shadow" >
+                <div class="col-12 rounded-4 py-3 px-4 bg-white shadow">
                     <div class="row text-center row-cols-lg-6 row-cols-md-4 row-cols-sm-3 row-cols-2  mx-auto">
                         <div class="col">
                             <img src="./assets/img/HTML-b.svg" alt="" class="img-fluid">
@@ -566,6 +580,112 @@
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
+      <!-- faqs-footer section start -->
+    <section id="faqs-footer">
+        <div class="container-lg py-5 px-4 px-lg-0">
+            <h2 class="fw-bold text-center py-3 ">
+                Frequently Asked Questions
+            </h2>
+            <div class="accordion" id="accordionExample2">
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                            <span class="fw-semibold">Is ReactJS difficult to learn for beginners?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Not at all. ReactJS has a component-based architecture that makes it simple and modular.
+                                If you know basic HTML, CSS, and JavaScript, ReactJS will be easy to pick up.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                            <span class="fw-semibold">Will I get a job after completing the ReactJS Course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Yes. We offer ReactJS training and placement in Mumbai, which includes career guidance,
+                                resume building, and interview preparation to help you secure a job in the tech
+                                industry.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                            <span class="fw-semibold">Do I need to know JavaScript before joining the React
+                                course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Basic JavaScript knowledge is helpful, but not mandatory. We cover essential JavaScript
+                                concepts in the initial modules for those new to it.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header ">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                            <span class="fw-semibold">Is there a certificate after completing the course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>Yes. Upon successful completion, you will receive a ReactJS Certificate, recognized by
+                                employers and helpful in job applications.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                            <span class="fw-semibold">What kind of jobs can I get after this ReactJS course?</span>
+                        </button>
+                    </h2>
+                    <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                        <div class="accordion-body">
+                            <p>You can apply for roles like Front-End Developer, UI Developer, JavaScript Developer,
+                                React Developer, or even Full Stack Developer with additional backend skills.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- faqs-footer section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 py-5 px-lg-0 ">
+            <h4 class="fw-bold blue">Enroll Today and Start Your Journey as a Front-End Developer!</h4>
+            <p>
+                <strong>CNC WEB WORLD</strong>’s <strong>ReactJS Courses in Mumbai</strong> is your gateway to a
+                high-growth tech career. Join us to gain hands-on coding experience, master ReactJS, and land your dream
+                job in IT.
+            </p>
+            <ul type="none">
+                <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
+                    Session .</li>
+                <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
+                    Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
+                <li>
+                    <b>🌐 Website: </b> [<a
+                        href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->
@@ -608,4 +728,5 @@
         });
     </script>
 </body>
+
 </html>
