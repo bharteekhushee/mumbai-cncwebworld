@@ -142,7 +142,7 @@
                                         
                                         <li>
                                             <a class="dropdown-item" href="webdesign-course-in-mumbai.php">
-                                                <img src="./assets/img/full.png" width="30px" alt=""> &nbsp; Web Development
+                                                <img src="./assets/img/full.png" width="30px" alt=""> &nbsp; Web Designing
                                             </a>
                                         </li>
                                     </td>
@@ -355,7 +355,7 @@
                     
                 <a href="webdesign-course-in-mumbai.php">
                         <img src="./assets/img/full.png" width="30px" alt=""> &nbsp;
-                        Web Development
+                        Web Designing
                     </a>
                 </li>
                 <a href="tel:+917400332999" class="btn" id="telbtn">+91-7400332999</a>

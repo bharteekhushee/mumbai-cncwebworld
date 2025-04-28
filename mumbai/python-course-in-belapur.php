@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Python Course in Belapur - Learn with CNC Web World</title>
+    <title>Python Course in Belapur, Mumbai | Top Python Training Institute</title>
+    <meta name="description" content="Learn Python from scratch at CNC Web World in Belapur. Get hands-on training, real-time projects, and placement assistance from expert instructors. Start your career in Python today!">
+    <meta name="keywords" content="python course in belapur, python training in belapur, python course fees in belapur, python certification course in belapur, python certification training in belapur, python classes in belapur , python institutes in belapur, learn python in belapur, learn python course in belapur, python training course in belapur,  python training institutes in belapur, top python training institutes in belapur, best python training institute in belapur, best institute for python course in belapur, best classes for python course in belapur, python course with fees in belapur, python course near me in belapur, python placement training course in belapur, python training and placement in belapur">
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>

@@ -4,9 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Java Course in Vashi, Mumbai | Best Java Training Institute</title>
-    <meta name="description" content="Join the best Java course in Vashi at CNC Web World. Learn from expert trainers with 100% practical training, real-world projects, and placement support. Enroll today!">
-    <meta name="keywords" content="java course in vashi, java training in vashi, java course fees in vashi, java certification course in vashi, java certification training in vashi, java classes in vashi, java institutes in vashi,  learn java in vashi, learn java course in vashi, java training course in vashi, java training institutes in vashi, top java training institutes in vashi, best java training institute in vashi, best institute for java course in vashi, best classes for java course in vashi, java course with fees in vashi, java course near me in vashi, java placement training course in vashi, java training and placement in vashi, Java Coaching Classes in Vashi, Java Training Institute in Vashi, java course in vashi mumbai, java course fees in vashi mumbai, java classes in vashi mumbai, java training in vashi mumbai, java training institutes in vashi mumbai, java institutes in vashi mumbai, java classroom training in vashi mumbai, java certification course in vashi mumbai, classes for java in vashi mumbai, java coaching center in vashi mumbai, java coaching classes in vashi mumbai, learn java in vashi mumbai, java training center in vashi mumbai">
+    <title>Join CNC Web World's Web Development Course in Thane</title>
+    <meta name="description"
+        content="Join CNC Web World’s Full Stack Web Developer Course in Mumbai Get hands-on training and become a skilled web developer ready for the job market!">
+    <meta name="keywords"
+        content="web development courses in mumbai with placement, web development courses fees in Mumbai, web development courses in Mumbai, web development classes in Mumbai, web development training in Mumbai, web design course in Mumbai, website design course in Mumbai, web developer course in mumbai">
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
@@ -16,13 +18,13 @@
     <div class="popup-screen">
         <div class="popup">
             <div class="d-flex justify-content-between">
-                <h5 class="h4">Java Course Enquiry</h5>
+                <h5 class="h4">Web Designing Course Enquiry</h5>
                 <button id="close" class="ms-auto">&times;</button>
             </div>
-            <iframe src="https://app.topfunnel.in/widget/form/67177d836c4a3"
-                style="width:100%;height:420px;border:none;border-radius:3px" id="inline-67177d836c4a3"
-                data-form-name="Nerul- Java FS Development" data-layout-iframe-id="inline-67177d836c4a3"
-                data-form-id="67177d836c4a3" data-height="420" title="Nerul- Java FS Development">
+            <iframe src="https://app.topfunnel.in/widget/form/6717d841a44a9"
+                style="width:100%;height:420px;border:none;border-radius:3px" id="inline-6717d841a44a9"
+                data-form-name="Nerul - FD | Web Development Leads" data-layout-iframe-id="inline-6717d841a44a9"
+                data-form-id="6717d841a44a9" data-height="420" title="Nerul - FD | Web Development Leads">
             </iframe>
         </div>
     </div>
@@ -41,8 +43,8 @@
         <div class="container-lg">
             <div class="row py-5">
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
-                    <img src="./assets/img/java-icon.png" width="60px" alt="">
-                    <h1 class="pe-lg-5">Java Intensive Training Program</h1>
+                    <img src="./assets/img/frontend.png" width="60px" alt="">
+                    <h1>Web Development <br> Intensive Training Program</h1>
                     <h3 class="fw-semibold text-center lh-lg"><i>Training + Development + Placement</i></h3>
                     <div class="row">
                         <div class="col-4 ">
@@ -60,10 +62,11 @@
                 </div>
                 <div class="col-lg-4 col-md-5 mx-auto p-4 col-11 bg-white  rounded">
                     <h4 class="text-center text-dark">Enquiry Form</h4>
-                    <iframe src="https://app.topfunnel.in/widget/form/67177d836c4a3"
-                        style="width:100%;height:370px;border:none;border-radius:3px" id="inline-67177d836c4a3"
-                        data-form-name="Nerul- Java FS Development" data-layout-iframe-id="inline-67177d836c4a3"
-                        data-form-id="67177d836c4a3" data-height="370" title="Nerul- Java FS Development">
+
+                    <iframe src="https://app.topfunnel.in/widget/form/6717d841a44a9"
+                        style="width:100%;height:370px;border:none;border-radius:3px" id="inline-6717d841a44a9"
+                        data-form-name="Nerul - FD | Web Development Leads" data-layout-iframe-id="inline-6717d841a44a9"
+                        data-form-id="6717d841a44a9" data-height="370" title="Nerul - FD | Web Development Leads">
                     </iframe>
                 </div>
             </div>
@@ -74,7 +77,8 @@
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
-                <h2 class="fw-bold mb-4 text-center">Why <span class="blue">Java?</span></h2>
+                <h3 class="fw-bold mb-4 text-center">Web Development Courses in Thane - <span class="blue"> Build Your
+                        Skills with CNC WEB WORLD</span></h3>
             </div>
             <div class="row ">
                 <div class="col-lg-6 ">
@@ -83,73 +87,89 @@
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center ">
                     <p>
-                        Everything you need to know to master the Java programming language is covered in our <b>Java
-                            course in vashi at CNC WEB WORLD</b>. The fundamentals of Java, such as variables, data
-                        types, and control structures, are usually covered first in the course. The Java course then
-                        moves on to more complex subjects like input/output operations, exception handling, and
-                        object-oriented programming.
-                    </p>
-                    <p>
-                        Database programming, networking, and multithreading are additional subjects that are covered in
-                        a Java course. Java frameworks and tools like Spring, Hibernate, and Maven—all crucial for
-                        creating Java applications—will also be covered in the course.
-                    </p>
-                    <p> Through coding exercises, projects, and tests, students will have the chance to hone their Java
-                        programming abilities throughout the course. Additionally, they will learn how to write and
-                        debug Java code using integrated development environments (IDEs) like Eclipse and NetBeans.
-                    </p>
+                        Are you looking to build a creative and high-demand career in the digital world? <strong>CNC WEB
+                            WORLD</strong> offers a well-rounded <strong>Web Designing Course in Thane</strong>, crafted
+                        to align with current industry trends. Whether you're a beginner or someone looking to sharpen
+                        your skills, our <strong>Web Designing Classes in Thane</strong> are structured to guide you
+                        step by step through the fundamentals and advanced techniques of creating modern, user-friendly
+                        websites.</p>
+                    <h5 class="fw-bold blue">Why Web Designing Is a Must-Have Skill Today</h5>
+                    <p>In today’s digital era, having an online presence is crucial for businesses, startups,
+                        influencers, and even individuals. A well-designed website can significantly improve brand
+                        credibility, user experience, and customer engagement. As a result, there is a high demand for
+                        skilled web designers who can blend creativity with functionality.</p>
                 </div>
             </div>
             <div>
-                <p>
-                    <b> CNC WEB WORLD</b> offers both online and offline Java classes in vashi. Students will graduate
-                    from the course with a strong foundation in Java programming and be prepared to begin creating
-                    practical Java applications.
-                </p>
+                <p>At <strong>CNC WEB WORLD</strong>, our <strong>web designing institutes in Thane</strong> empower
+                    students with the technical and artistic skills needed to thrive in the industry. We combine theory
+                    with hands-on practical sessions to ensure that you not only learn but apply your knowledge
+                    effectively.</p>
                 <div class="text-center mt-2">
                     <button class="btn btn-dark btn-lg" onclick="enquiry()">Enquire
                         Now</button>
                 </div>
             </div>
+
         </div>
     </section>
     <!-- why-python end -->
     <!-- roadmap-image start -->
     <div class="container  mt-5 mb-3">
         <div class="row mx-3 mx-md-0 mt-5 mb-3 pt-4 rounded" style="box-shadow: rgba(0, 0, 0, 0.5) 0px 4px 24px;">
-            <img src="./assets/img/roadmap-java.png" alt="" class="img-fluid">
+            <img src="./assets/img/roadmap-webdesign.png" alt="" class="img-fluid">
         </div>
     </div>
     <!-- roadmap-image end -->
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Learn Java Programming language In Vashi Mumbai</h4>
-            <p><b>Java course in vashi</b> is a high-level, object-oriented programming language that is intended to be
-                portable and platform independent. Java is well-known for its simplicity, readability, and ease of use.
-                It uses a syntax similar to C and C++, making it simple for programmers who are familiar with those
-                languages to learn.</p>
-
-            <p>One of the primary benefits of <b>Java training in vashi</b> is the "write once, run anywhere"
-                philosophy. This means that Java code can be compiled into bytecode that can be executed on any platform
-                that supports the Java Virtual Machine (JVM). This makes Java an excellent choice for creating
-                cross-platform applications that can run on a variety of operating systems, including Windows, Linux,
-                and macOS.</p>
-            <p>Java is also commonly used to create web applications, mobile apps, and enterprise applications. It has a
-                large ecosystem of libraries and frameworks, making it simple to create complex applications. Spring,
-                Hibernate, and Struts are three popular Java frameworks.</p>
-            <p>Overall, the Java programming language is a versatile and widely used language with applications in a
-                variety of industries and fields. It is an excellent language to learn for anyone interested in software
-                development.</p>
-
-            <p>The Java programming language also has a large ecosystem of libraries, frameworks, and tools that help
-                you build complex applications. Spring, Hibernate, and Struts are some of the most popular Java
-                frameworks, and Eclipse, NetBeans, and IntelliJ IDEA are popular integrated development environments.
-            </p>
-            <p>Java is commonly used in a variety of industries, including finance, healthcare, e-commerce, and gaming.
-                Many large-scale enterprise applications rely on it as their primary programming language. Its
-                versatility and broad range of applications make it a popular choice among developers all over the
-                world.</p>
+            <h4 class="fw-bold blue">What You’ll Learn in Our Web Designing and Development Courses</h4>
+            <p>Our Web Development Course in Thane includes a wide range of topics to build a strong foundation and
+                advanced skills:</p>
+            <ol>
+                <li class="mb-2"> <b>HTML & CSS (Structure and Styling) : </b>
+                    Understand how to build the structure of websites using HTML5 and style them with CSS3. Learn best
+                    practices for responsive design, grid systems, flexbox, and media queries to make your websites
+                    mobile-friendly.
+                </li>
+                <li class="mb-2">
+                    <b>JavaScript (Client-Side Scripting) : </b>
+                    Dive into JavaScript fundamentals – from DOM manipulation and event handling to ES6 features.
+                    JavaScript is essential for any web designing course in Panvel, and we ensure you get plenty of
+                    practice.
+                </li>
+                <li class="mb-2">
+                    <b>Bootstrap and jQuery : </b>
+                    Speed up development using Bootstrap’s responsive design features and jQuery’s rich set of
+                    functions. These tools help you build interactive and responsive layouts efficiently.
+                </li>
+                <li class="mb-2">
+                    <b>React.js and Angular (Front-End Frameworks) : </b>
+                    Go beyond basic web design by learning modern front-end JavaScript libraries and frameworks. We
+                    focus on real-time application development using React and Angular.
+                </li>
+                <li class="mb-2">
+                    <b>Backend Technologies (Node.js, PHP, MySQL) : </b>
+                    Our web development certification course in Panvel covers full-stack training. Learn how to create
+                    server-side logic with Node.js or PHP, and manage databases with MySQL.
+                </li>
+                <li class="mb-2">
+                    <b>Version Control with Git and GitHub : </b>
+                    Track your projects and collaborate effectively using version control systems – a must-have skill in
+                    the tech world.
+                </li>
+                <li class="mb-2">
+                    <b>API Integration and AJAX : </b>
+                    Understand how to fetch and display data dynamically using AJAX and REST APIs – a key component in
+                    building modern, user-friendly applications.
+                </li>
+                <li class="mb-2">
+                    <b>CMS Platforms (WordPress) : </b>
+                    Learn to create and manage websites using popular content management systems like WordPress – ideal
+                    for freelancers and entrepreneurs.
+                </li>
+            </ol>
         </div>
     </div>
     <!-- course-content end -->
@@ -159,22 +179,16 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Java certification course in vashi</h4>
-            <p>Getting <b>Java certification training in vashi</b> is a way to validate your Java programming skills and
-                expertise, and <b>CNC Web World</b> will provide you with the necessary skills. There are several Java
-                certifications available, each focusing on a different aspect of Java programming, including Java SE,
-                Java EE, and Java ME.</p>
-            <p>To obtain <b>Java certification training in vashi</b>, you must pass an exam that assesses your knowledge
-                and skills in the relevant area of Java programming. The exams are intended to be challenging and cover
-                a wide range of topics, such as Java syntax, object-oriented programming, database programming, web
-                development, and others.</p>
-            <p>To prepare for the Java certification exam, take an online or offline course at <b>CNC WEB WORLD</b> and
-                practice coding exercises.</p>
-            <p>Once you have learned and prepared for the exam, you can take it through <b>CNC WEB WORLD</b> The exam is
-                usually taken in a testing center, and you must pass it with a certain score to obtain it.</p>
-            <p>Obtaining a <b>Java certification in vashi</b> from <b>CNC WEB WORLD </b>can help advance your career by
-                demonstrating to potential employers that you have the knowledge and skills required to work with Java.
-                It can also result in higher salaries and more job opportunities.</p>
+            <h4 class="fw-bold blue">Top Reasons to Enroll in CNC WEB WORLD’s Web Designing Course in Thane</h4>
+            <p>Our web designing institutes in Thane stand out because we prioritize student success. Here’s what makes us the best:</p>
+            <ul class="list-unstyled">
+               <li> <b>🧑‍🏫 Experienced Mentors –</b> Our instructors have real-world web design and development experience.</li>
+               <li> <b>📚 Structured Curriculum –</b> Updated to match current industry standards and trends.</li>
+               <li> <b>💼 Placement Assistance –</b> Get access to job opportunities with our dedicated career support team.</li>
+                <li><b>📈 Progress Tracking –</b> Regular assessments, assignments, and feedback to help you grow.</li>
+                <li><b>💻 Hybrid Learning –</b> Attend offline or online based on your convenience.                </li>
+            </ul>
+            <span>We’re not just offering another course—we’re offering a career pathway through our web development course in Thane.</span>
         </div>
     </div>
     <!-- course-content end -->
@@ -183,7 +197,7 @@
         <div class="container-lg">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h2 class="fw-bold mb-4 text-white">Java Development Curriculum</h2>
+                    <h2 class="fw-bold mb-4 text-white">Web Developer Curriculum</h2>
                 </div>
             </div>
         </div>
@@ -233,38 +247,39 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#cjava" aria-expanded="true" aria-controls="cjava">
-                                    Core Java
+                                    data-bs-target="#webDesign" aria-expanded="true" aria-controls="webDesign">
+                                    Web Design
                                     <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
-                                        style="font-size: 12px;">#Backend</span>
+                                        style="font-size: 12px;">#Frontend</span>
                                     <span class="ms-auto">
                                         <img src="./assets/img/clock.svg" alt="">
-                                        3 Weeks
+                                        4 Weeks
                                     </span>
                                 </button>
                             </h2>
-                            <div id="cjava" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                            <div id="webDesign" class="accordion-collapse collapse show"
+                                data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
-                                                <li>Introduction to Java & OOP Concepts</li>
-                                                <li>Data Types, Variables & Operators</li>
-                                                <li>Control Statements (Loops & Conditions)</li>
-                                                <li>Arrays & Strings</li>
-                                                <li>Classes, Objects & Methods</li>
-                                                <li>Inheritance & Polymorphism</li>
-                                                <li>Abstract Classes & Interfaces</li>
+                                                <li>Weaving the World Wide Web</li>
+                                                <li>Text Formatting tags</li>
+                                                <li>HTML structures</li>
+                                                <li>Transformers of the Web (CSS)</li>
+                                                <li>Unlocking creative toolbox (CSS Properties)</li>
+                                                <li>Responsive Utilities</li>
+                                                <li>Bootstrap</li>
                                             </ul>
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                                <li> Exception Handling </li>
-                                                <li> Multithreading & Concurrency</li>
-                                                <li> File Handling (IO Streams) </li>
-                                                <li> Collections Framework</li>
-                                                <li>JDBC (Java Database Connectivity)</li>
-                                                <li>Introduction to Frameworks (Spring, Hibernate)</li>
+                                                <li>Introduction to Javascript</li>
+                                                <li>Conditional and Control Statements</li>
+                                                <li>Javascript Function</li>
+                                                <li>Javascript Objects</li>
+                                                <li>Document Object Model</li>
+                                                <li> Modern Javascript</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -274,180 +289,37 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#ajava" aria-expanded="false" aria-controls="ajava">
-                                    Adv Java
+                                    data-bs-target="#react" aria-expanded="false" aria-controls="react">
+                                    React
                                     <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
-                                        style="font-size: 12px;">#Backemd</span>
+                                        style="font-size: 12px;">#Frontend</span>
                                     <span class="ms-auto">
                                         <img src="./assets/img/clock.svg" alt="">
                                         4 Weeks
                                     </span>
                                 </button>
                             </h2>
-                            <div id="ajava" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div id="react" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
-                                                <li>Introduction to J2EE</li>
-                                                <li>Overview of Java EE Architecture</li>
-                                                <li>Servlets:
-                                                    <ul>
-                                                        <li>Servlet Lifecycle</li>
-                                                        <li>Request & Response Handling</li>
-                                                        <li>Servlet Filters & Listeners</li>
-                                                        <li>Session Management (Cookies, URL Rewriting, HttpSession)
-                                                        </li>
-                                                    </ul>
-                                                </li>
-                                                <li>SOAP-Based Web Services:
-                                                    <ul>
-                                                        <li>RESTful Web Services with JAX-RS</li>
-                                                        <li>Java Persistence API (JPA)</li>
-                                                    </ul>
-                                                </li>
+                                                <li>Introduction to ReactJS</li>
+                                                <li>Component, Props and State</li>
+                                                <li>Displaying Components</li>
+                                                <li>Handling Side-Effects</li>
+                                                <li>React Router (v6)</li>
+                                                <li> Handling Forms in React</li>
                                             </ul>
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-
-                                                <li>Java Database Connectivity (JDBC):
-                                                    <ul>
-                                                        <li>JDBC Architecture</li>
-                                                        <li>Connecting Java with MySQL/Oracle</li>
-                                                        <li>CRUD Operations Using JDBC</li>
-                                                        <li>Connection Pooling</li>
-                                                        <li>Enterprise JavaBeans (EJB)</li>
-                                                    </ul>
-                                                </li>
-
-                                                <li>JavaServer Pages (JSP):
-                                                    <ul>
-                                                        <li>JSP Lifecycle</li>
-                                                        <li>JSP Directives & Scripting Elements</li>
-                                                        <li>Expression Language (EL)</li>
-                                                        <li>JSP Custom Tags</li>
-                                                    </ul>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#sql" aria-expanded="false" aria-controls="sql">
-                                    SQL
-                                    <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
-                                        style="font-size: 12px;">#Database</span>
-                                    <span class="ms-auto">
-                                        <img src="./assets/img/clock.svg" alt="">
-                                        4 Weeks
-                                    </span>
-                                </button>
-                            </h2>
-                            <div id="sql" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <div class="row">
-                                        <div class="col-sm-6">
-                                            <ul>
-                                                <li>Introduction to Computer Essentials</li>
-                                                <li>Computational Thinking</li>
-                                                <li>Coding Construct</li>
-                                                <li>SQL Launchpad</li>
-                                                <li>Crafting SQL Databases (DDL)</li>
-                                                <li>ER Diagram and Normalization</li>
-                                                <li>Querying into Data (DQL)</li>
-                                                <li>Mastering Data Control (DML)</li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-sm-6">
-                                            <ul>
-                                                <li>Unlock the Built in Functions</li>
-                                                <li>Subquery</li>
-                                                <li>Connecting Data for Insights (Joins)</li>
-                                                <li>Views</li>
-                                                <li>Customising SQL (Stored Procedure & Functions)</li>
-                                                <li>Cursor</li>
-                                                <li>Automating SQL (Triggers)</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#hibernate" aria-expanded="false" aria-controls="hibernate">
-                                    Hibernate
-                                    <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
-                                        style="font-size: 12px;">#Backend</span>
-                                    <span class="ms-auto">
-                                        <img src="./assets/img/clock.svg" alt="">
-                                        4 Weeks
-                                    </span>
-                                </button>
-                            </h2>
-                            <div id="hibernate" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <div class="row">
-                                        <div class="col-sm-6">
-                                            <ul>
-                                                <li>Introduction to Hibernate & ORM</li>
-                                                <li> Hibernate Architecture & Configuration</li>
-                                                <li> Hibernate Annotations & XML Mapping</li>
-                                                <li> CRUD Operations with Hibernate</li>
-                                                <li>Relationships (One-to-One, One-to-Many, Many-to-Many)</li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-sm-6">
-                                            <ul>
-                                                <li> Hibernate Query Language (HQL)</li>
-                                                <li>Hibernate Caching Mechanism</li>
-                                                <li>Transaction Management in Hibernate</li>
-                                                <li>Integrating Hibernate with Spring Boot</li>
-                                                <li> Performance Optimization in Hibernate</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#spring" aria-expanded="false" aria-controls="spring">
-                                    Spring Boot
-                                    <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
-                                        style="font-size: 12px;">#Backend</span>
-                                    <span class="ms-auto">
-                                        <img src="./assets/img/clock.svg" alt="">
-                                        4 Weeks
-                                    </span>
-                                </button>
-                            </h2>
-                            <div id="spring" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <div class="row">
-                                        <div class="col-sm-6">
-                                            <ul>
-                                                <li>Introduction to Spring Boot</li>
-                                                <li>Spring Boot Architecture & Features</li>
-                                                <li>Spring Boot Annotations & Configuration</li>
-                                                <li>Dependency Injection & Spring Beans</li>
-                                                <li>Spring Boot Security & Authentication (JWT, OAuth)</li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-sm-6">
-                                            <ul>
-                                                <li>Spring Boot with JPA & Hibernate</li>
-                                                <li>Spring Boot REST API Development</li>
-                                                <li>Spring Boot Microservices Architecture</li>
-                                                <li>Spring Boot Testing (JUnit, Mockito)</li>
-                                                <li>Deployment of Spring Boot Applications</li>
+                                                <li>Github Card List App</li>
+                                                <li>JSX</li>
+                                                <li>React Context & Reducers</li>
+                                                <li>Handline Errors in React</li>
+                                                <li>Testing in React</li>
+                                                <li>React Building & Deployment - Vercel/Netlify</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -588,31 +460,26 @@
         </div>
     </section>
     <!-- courseDetails section end -->
+
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Java Training and Placement in Vashi</h4>
-            <p>Java is a popular programming language, so there are numerous job opportunities for Java developers.
-                <b>CNC WEB WORLD</b> offers a <b>Java course in vashi</b> with a placement option. Completing a Java
-                course can help you develop the skills and knowledge required to work with Java, increasing your chances
-                of getting hired in the field.
+            <h4 class="fw-bold blue">Practical Experience with Real Projects</h4>
+            <p>
+                We believe that knowledge without implementation is incomplete. That’s why CNC WEB WORLD includes
+                real-time assignments and live projects in our web development classes in Thane. Students will get a
+                chance to:
             </p>
-
-            <p>Many Java courses provide job placement assistance or career services to help students find employment
-                after completing the course. <b>CNC WEB WORLD</b> stands out as the top choice to offer training and job
-                placements. Placement assistance includes resume reviews, interview preparation, and job search
-                assistance. Additionally.</p>
-            <p>In terms of job opportunities, the <b>CNC WEB WORLD Learn Java course in vashi</b> can provide jobs in a
-                variety of industries, including software development, web development, mobile app development, and
-                more. Some common job titles for Java developers include:</p>
-            <ol>
-                <li>Java Developer</li>
-                <li>Software Engineer</li>
-                <li>Web Developer</li>
-                <li>Mobile App Developer</li>
-                <li>Full-Stack Developer</li>
-                <li>Java Architect</li>
-            </ol>
+            <ul>
+                <li>Design complete website layouts</li>
+                <li>Work with real clients and businesses</li>
+                <li>Participate in UI/UX design challenges</li>
+                <li>Develop portfolio-ready projects</li>
+            </ul>
+            <span>
+                By the end of your training, you’ll have a strong portfolio that demonstrates your capabilities to
+                future employers or freelance clients.
+            </span>
         </div>
     </div>
     <!-- course-content end -->
@@ -722,53 +589,98 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">The main highlights of the Java course in Vashi</h4>
-            <p>The following are the key features of our courses and training modules that allow us to stay ahead of the
-                competition and provide high-quality training to all of our students.</p>
+            <h4 class="fw-bold blue">Transform Your Career Path with Expert Web Development Training in Thane</h4>
+            <p>Already mastered the basics of design? It’s time to upgrade your skillset with our web development course
+                in Thane. CNC WEB WORLD's full stack web development stream encompasses the front-end (client-side) and
+                the back-end (server-side) technologies.</p>
+            <span>Topics Covered:</span>
             <ul>
-                <li>Highly qualified instructors</li>
-                <li>Batch sizes are limited.</li>
-                <li>Project Assignments on LIVE Projects</li>
-                <li>No-cost study materials</li>
-                <li>Training for interviews</li>
-                <li>Software for free</li>
-                <li>Offline Assessments and Certifications</li>
-                <li>A complete job guarantee</li>
+                <li><b>Frontend Toolkit – </b>HTML5, CSS3, JavaScript and ReactJS</li>
+                <li><b>Backend Development – </b>PHP, Node.js, Python (Django or Flask)</li>
+                <li><b>Database Management – </b>MySQL, MongoDB</li>
+                <li><b>Version Control Tools – </b>Collaborate on Projects Using Git and GitHub</li>
+                <li><b>API Integration – </b>REST APIs, third-party tools</li>
+
             </ul>
+            <p>Whether you're aiming to be a web developer in Thane or launch your own website, our advanced curriculum
+                ensures you're industry-ready.</p>
         </div>
     </div>
     <!-- course-content end -->
     <!-- keyHighlights section start -->
     <?php include 'common/keyHighlights.php' ?>
     <!-- keyHighlights section end -->
-
-    <!-- benefits  section start -->
-    <!-- <?php include 'common/benefits.php' ?> -->
-    <!-- benefits  section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">100% Job Placement Assistance</h4>
+            <p>We are dedicated to not only educating but also launching careers. CNC WEB WORLD offers web designing
+                classes in Thane with placement support. Our placement assistance includes:</p>
+            <ul>
+                <li> Resume Building Workshops</li>
+                <li> Interview Preparation Sessions</li>
+                <li>Mock Interviews with Industry Experts</li>
+                <li> Portfolio Development Guidance</li>
+                <li>Job Referrals to Partner Companies</li>
+                <li> Internship Opportunities</li>
+            </ul>
+            <p>Our past students are now working with top MNCs and startups as front-end developers, UI/UX designers,
+                WordPress developers, and freelance designers.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- brochure section start -->
     <?php include 'common/download.php' ?>
     <!-- brochure section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Who Should Enroll in This Course?</h4>
+            <p>Our web developer training in Thane is ideal for:</p>
+            <ul>
+                <li> Students from any academic background looking for a creative IT career</li>
+                <li> Graphic designers who want to enter digital design</li>
+                <li> Working professionals who wish to switch to tech</li>
+                <li> Small businesses interested in having their own site.</li>
+                <li> Freelancers seeking more opportunities in digital services</li>
+            </ul>
+            <p>No prior coding knowledge? No problem! Our beginner-friendly course starts with the fundamentals and
+                builds up to advanced topics at your pace.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- programmingTools section start -->
     <section id="programmingTools">
         <div class="container py-5 px-4 px-md-0">
             <div class="row">
                 <div class="col-12 text-center my-3">
-                    <h2 class="fw-bolder">Programming Languages & Tools Covered in Java Cours Course
+                    <h2 class="fw-bolder">Programming Languages & Tools Covered in Web Developer Course
                     </h2>
                 </div>
             </div>
             <div class="row">
-                <div class="col-12 rounded-4 border py-3 px-4 bg-white shadow">
-                    <div class="row text-center row-cols-lg-6 row-cols-md-3 row-cols-sm-3 row-cols-2  mx-auto">
-
+                <div class="col-12 rounded-4 py-3 px-4 bg-white shadow">
+                    <div class="row text-center row-cols-lg-6 row-cols-md-4 row-cols-sm-3 row-cols-2  mx-auto">
                         <div class="col">
-                            <img src="./assets/img/java-icon.png" alt="" class="img-fluid">
+                            <img src="./assets/img/HTML-b.svg" alt="" class="img-fluid">
                         </div>
                         <div class="col">
-                            <img src="./assets/img/mysql.png" alt="" class="img-fluid">
+                            <img src="./assets/img/CSS3.svg" alt="" class="img-fluid">
                         </div>
                         <div class="col">
-                            <img src="./assets/img/spring-boot.png" alt="" class="img-fluid">
+                            <img src="./assets/img/javascript-b.svg" alt="" class="img-fluid">
+                        </div>
+                        <div class="col">
+                            <img src="./assets/img/bootstrap.png" alt="" class="img-fluid">
+                        </div>
+                        <div class="col">
+                            <img src="./assets/img/tailwind-css-b.svg" alt="" class="img-fluid">
+                        </div>
+                        <div class="col">
+                            <img src="./assets/img/React-b.svg" alt="" class="img-fluid">
+                        </div>
+                        <div class="col">
+                            <img src="./assets/img/github.png" alt="" class="img-fluid">
                         </div>
                         <div class="col">
                             <img src="./assets/img/aws.png" alt="" class="img-fluid">
@@ -785,6 +697,22 @@
         </div>
     </section>
     <!-- programmingTools section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Course Duration and Modes</h4>
+            <p>Our web designing course in Thane is available in multiple formats to suit your schedule:</p>
+            <ul class="list-unstyled">
+                <li>🔸 Fast-Track Batch – 2 months, ideal for quick learners</li>
+                <li>🔸 Regular Batch – 3 to 4 months, perfect for beginners</li>
+                <li>🔸 Weekend Batch – For working professionals</li>
+                <li>🔸 Online Classes – Learn from home with live mentor support</li>
+            </ul>
+            <span>All classes are interactive and come with access to recorded sessions, notes, and lifetime
+                support.</span>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- roadMapStep start -->
     <?php include 'common/roadMapStep.php' ?>
     <!-- roadMapStep end -->
@@ -803,7 +731,7 @@
     <!-- faqs-footer section start -->
     <section id="faqs-footer">
         <div class="container-lg py-5 px-4 px-lg-0">
-            <h2 class="fw-bold text-center py-3">
+            <h2 class="fw-bold text-center py-3 ">
                 Frequently Asked Questions
             </h2>
             <div class="accordion" id="accordionExample2">
@@ -811,17 +739,12 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                            <span class="fw-semibold"> What exactly does Java stand for?</span>
+                            <span class="fw-semibold">Do I need prior knowledge to join this course?</span>
                         </button>
                     </h2>
                     <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            Java does not stand for anything as it is not an acronym. It is a high-level,
-                            object-oriented programming language developed by Sun Microsystems (now owned by Oracle) in
-                            1995. The name "Java" was inspired by Java coffee, reflecting the language's design
-                            philosophy of being simple, robust, and efficient. Java is widely used for developing
-                            applications ranging from web and mobile applications to enterprise software and cloud-based
-                            solutions.
+                            <p>No. Our web designing classes in Thane are designed for beginners.</p>
                         </div>
                     </div>
                 </div>
@@ -829,78 +752,26 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                            <span class="fw-semibold"> What does Java actually do?</span>
+                            <span class="fw-semibold">Will I get a certificate after the course?</span>
                         </button>
                     </h2>
                     <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Java is a versatile programming language used to build a wide range of applications, from
-                                web and mobile apps to enterprise software and cloud-based systems. It enables
-                                developers to write code once and run it anywhere (WORA), thanks to the Java Virtual
-                                Machine (JVM). Java powers web servers, desktop applications, Android apps, financial
-                                systems, and even embedded devices, making it one of the most widely used and reliable
-                                programming languages in the world.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                            <span class="fw-semibold">What jobs can I land with Java?</span>
-                        </button>
-                    </h2>
-                    <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
-                        <div class="accordion-body">
-                            <p>Java is one of the most in-demand programming languages, opening doors to various career
-                                opportunities. Java skills open doors to jobs such as: </p>
-                            <ul>
-                                <li>
-                                    <b>Java Developer: </b> Build web, desktop, and enterprise applications.
-                                </li>
-                                <li><b>Android Developer: </b> Create mobile apps using Java for Android.</li>
-                                <li><b>Software Engineer: </b>Develop and maintain software solutions.</li>
-                                <li>
-                                    <b>Full-Stack Developer: </b>
-                                    Take on both front-end and back-end development.
-                                </li>
-                                <li>
-                                    <b>Backend Developer: </b>
-                                    Automate and manage software deployment processes.
-                                </li>
-                                <li>
-                                    <b>DevOps Engineer:</b>Automate and manage software deployment processes.
-                                </li>
-                                <li>
-                                    <b>Big Data Engineer: </b>Handle data processing tools like Hadoop and Spark.
-                                </li>
-                                <li>
-                                    <b>Cloud Engineer: </b>Develop and deploy applications on cloud platforms.
-                                </li>
-                            </ul>
-                            <p>Java is widely used across industries, including finance, healthcare, e-commerce, and
-                                gaming, offering a strong and stable career path.</p>
+                            <p>Yes. We provide an industry-recognized certificate upon successful completion of the
+                                course.</p>
                         </div>
                     </div>
                 </div>
                 <div class="accordion-item">
                     <h2 class="accordion-header ">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                            <span class="fw-semibold"> Are Java and JavaScript the same?</span>
+                            data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                            <span class="fw-semibold">Can I pursue this course part-time?</span>
                         </button>
                     </h2>
-                    <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                    <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>No, Java and JavaScript are completely different programming languages, despite having
-                                similar names. Java is a general-purpose, object-oriented language used for building web
-                                applications, enterprise software, and mobile apps. It operates on the Java Virtual
-                                Machine (JVM) and sticks to the "write once, run anywhere" (WORA) idea.
-                                JavaScript, on the other hand, is a scripting language primarily used for web
-                                development to create interactive and dynamic web pages. It runs directly in web
-                                browsers and is essential for front-end development.
-                                Both languages see widespread use in software development, but they serve different
-                                purposes and share no connection beyond their names.
+                            <p>Yes. We offer flexible batch timings, including evening and weekend classes.
                             </p>
                         </div>
                     </div>
@@ -908,27 +779,15 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
-                            <span class="fw-semibold"> What do I need to know before I start learning Java?</span>
+                            data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                            <span class="fw-semibold">What salary range can you anticipate after completing the
+                                program?</span>
                         </button>
                     </h2>
-                    <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                    <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Before learning Java, having a basic understanding of programming concepts can be
-                                helpful, but it's not mandatory. Here are some key areas that can make your Java
-                                learning journey smoother:</p>
-                            <ul>
-                                <li><b>Basic Computer Knowledge: </b>Familiarity with operating systems, file
-                                    management, and software installation.</li>
-                                <li><b>Logic and Problem-Solving Skills:</b>Understanding how to break problems into
-                                    steps will help in coding.</li>
-                                <li><b>Fundamentals of Programming: </b>Basic concepts like variables, loops, and
-                                    conditions (optional but beneficial).</li>
-                                <li><b>OOP Concepts (Optional): </b>Since Java is an object-oriented language, knowing
-                                    about objects, classes, and inheritance can be useful.</li>
-                            </ul>
-                            <p>Even if you're a complete beginner, Java is beginner-friendly, and you can start learning
-                                step by step.</p>
+                            <p>Entry-level designers earn around ₹3-5 LPA, and it grows with experience and
+                                specialization.</p>
                         </div>
                     </div>
                 </div>
@@ -939,11 +798,17 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 py-5 px-lg-0 ">
-            <h4 class="fw-bold blue">Enroll Today and Start Your Journey as a Java Developer!</h4>
-
+            <h4 class="fw-bold blue">Get Started Today?</h4>
+            <p>
+                Join the <strong>Best Web Designing Institutes in Thane</strong> and build a rewarding career in the
+                creative and ever-evolving world of web technology. Whether you dream of working with top tech firms or
+                freelancing from anywhere in the world, CNC WEB WORLD will equip you with the right skills and guidance.
+            </p>
+            <span>🚀 Enroll now in the best web designing and web development course in Thane and take the first step
+                towards a bright digital career!</span>
             <ul type="none">
                 <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
-                    Session .</li>
+                    Session</li>
                 <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
                     Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
                 <li>

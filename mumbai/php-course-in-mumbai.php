@@ -22,7 +22,7 @@
                 <button id="close" class="ms-auto">&times;</button>
             </div>
             <iframe src="https://app.topfunnel.in/widget/form/67177e38d227d"
-                style="width:100%;height:4200px;border:none;border-radius:3px" id="inline-67177e38d227d"
+                style="width:100%;height:420px;border:none;border-radius:3px" id="inline-67177e38d227d"
                 data-form-name="Nerul - PHP FS Leads" data-layout-iframe-id="inline-67177e38d227d"
                 data-form-id="67177e38d227d" data-height="420" title="Nerul - PHP FS Leads">
             </iframe>

@@ -92,7 +92,8 @@
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
-                <h2 class="fw-bold mb-4 text-center">Why <span class="blue">Frontend Development?</span></h2>
+                <h2 class="fw-bold mb-4 text-center">Best Front End Developer Course in Mumbai – <span class="blue">CNC
+                        Web World</span></h2>
             </div>
             <div class="row ">
                 <div class="col-lg-6 ">
@@ -101,22 +102,21 @@
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center ">
                     <p>
-                        <b>CNC WEB WORLD </b> offers a <b>Python Course in Mumbai</b> to teach students how to use
-                        Python, a widely used programming language, for many different purposes. Python has the
-                        flexibility to work in web development, data analysis, machine learning scientific computing,
-                        and other areas.
+                        Are you looking to build a strong foundation in web development? Do you dream of becoming a
+                        successful <strong>Front End Web Developer in Mumbai</strong>? <strong>CNC Web World</strong> is
+                        your perfect destination! We offer the <strong>Best Front End Developer Course in
+                            Mumbai</strong>, designed to equip you with all the skills and tools needed to become a
+                        professional front end developer. Whether you're a complete beginner or a fresher seeking to
+                        start your IT journey, our comprehensive course is the stepping stone to a rewarding career in
+                        web development.
                     </p>
-                    <p>
-                        A standard <b>Python course</b> covers Python syntax, data types, functions, control structures,
-                        object-oriented programming, file input/output, libraries and frameworks, web development, data
-                        analysis and visualization, and machine learning. The python classes in mumbai aims to give
-                        hands-on experience, with practical exercises and projects to strengthen understanding.
-                    </p>
-                    <p> The <b>Python Classes in Mumbai</b> includes tools and frameworks like NumPy, Pandas,
-                        Matplotlib, Flask, Django, TensorFlow, and PyTorch. These tools help to manage data, create
-                        visual representations, build web applications, and put machine learning algorithms into
-                        practice.
-                    </p>
+                    <h5 class="fw-bold blue">What is a Front End Developer?</h5>
+                    <p>A front end developer is responsible for building the user interface (UI) of a website or web
+                        application. <strong>Front-end developers use HTML, CSS, and JavaScript</strong> to design and
+                        implement everything users interact with on a website, including menus, visuals, buttons, and
+                        animations. The <strong>front end developer course at CNC Web World</strong> covers all the
+                        tools, technologies, and frameworks needed to create responsive, user-friendly websites that
+                        work seamlessly across all devices and browsers.</p>
                 </div>
             </div>
             <div class="text-center mt-2">
@@ -133,9 +133,47 @@
         </div>
     </div>
     <!-- roadmap-image end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Why Choose CNC Web World for Front End Developer Classes?</h4>
+            <p>At <strong>CNC Web World</strong>, we focus on providing high-quality education through experiential
+                learning. Our <strong>front-end development courses</strong> are structured to offer real-world exposure
+                with live projects and practical training sessions.With industry-expert trainers, updated course
+                content, and placement support, we stand out as the <strong>best front end developer course in
+                    Mumbai</strong> for freshers and professionals alike.</p>
+            <h5 class="fw-bold blue">Top Features of Our Front-End Developer Course in Mumbai</h5>
+            <ul class="list-unstyled">
+                <li> ✅ Fully Practical Learning Experience with Live Project Work</li>
+                <li> ✅ Experienced Mentors from the Industry</li>
+                <li>✅ Customized Course for Beginners and Freshers</li>
+                <li> ✅ Job Assistance with Personalized Resume Guidance and Mock Interviews</li>
+                <li> ✅ Flexible Batches: Weekdays, Weekends & Online Options</li>
+                <li> ✅ Affordable Fees & Easy Installment Plans</li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- whoCanJoin start -->
     <?php include 'common/whoCanJoin.php' ?>
     <!-- WhoCanJoin end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Who Can Join Our Front End Developer Course?</h4>
+            <span>Our course is perfect for:</span>
+            <ul class="list-unstyled">
+                <li> 🎓 Beginners planning to pursue a profession in web development.</li>
+                <li>👨‍Students pursuing computer science or IT degrees</li>
+                <li>💼 Professionals who want to switch to front-end development</li>
+                <li>👩‍ Freelancers & entrepreneurs building their own websites</li>
+                <li>🧑‍ Non-IT background individuals interested in technology</li>
+            </ul>
+            <p>If you're searching for a <strong>front end developer course in Mumbai for freshers, CNC Web
+                    World</strong> is the ideal platform to launch your career.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- courseDetails section start -->
     <section id="courseDetail">
         <div class="container-lg">
@@ -404,6 +442,60 @@
         </div>
     </section>
     <!-- courseDetails section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Front End Developer Course Syllabus</h4>
+            <p>We’ve carefully crafted our <strong>front end web developer course</strong> to meet industry standards.
+                Here’s what the course will guide you through:</p>
+            <div class="row">
+                <div class="col-md-6">
+                    <h6 class="fw-bold blue">📌 HTML & HTML5</h6>
+                    <ul>
+                        <li>Structuring content for the web</li>
+                        <li>Semantic tags and accessibility</li>
+                        <li>Forms and input elements</li>
+                    </ul>
+                    <h6 class="fw-bold blue">📌 CSS & CSS3</h6>
+                    <ul>
+                        <li>Styling with selectors, colors, backgrounds</li>
+                        <li>Flexbox, Grid, and Responsive Design</li>
+                        <li>CSS animations and transitions </li>
+                    </ul>
+                    <h6 class="fw-bold blue">📌 JavaScript</h6>
+                    <ul>
+                        <li> Fundamentals of JS: Variables, Operators, Loops, Functions</li>
+                        <li> DOM Manipulation & Events</li>
+                        <li> Fetch API and working with JSON</li>
+                    </ul>
+                    <h6 class="fw-bold blue">📌 Bootstrap</h6>
+                    <ul>
+                        <li> Responsive layouts with Bootstrap 5</li>
+                        <li> Grid system, components, and utilities </li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <h6 class="fw-bold blue">📌 React.js (Optional Advanced Module)</h6>
+                    <ul>
+                        <li>Introduction to React basics such as JSX, component structure, props, and state.</li>
+                        <li> Event handling and forms in React</li>
+                        <li>Working with hooks and APIs </li>
+                    </ul>
+                    <h6 class="fw-bold blue">📌 Git & GitHub</h6>
+                    <ul>
+                        <li> Version control with Git</li>
+                        <li> Hosting projects on GitHub </li>
+                    </ul>
+                    <h6 class="fw-bold blue">📌 Live Project Work </h6>
+                    <ul>
+                        <li>Design and develop a full-scale website starting with a blank slate.</li>
+                        <li>Collaborate using real-world workflow </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- industryProject  section start -->
     <section id="industryProject">
         <div class="container-fluid py-5 px-2 px-md-5">
@@ -507,16 +599,71 @@
         </div>
     </section>
     <!-- industryProject  section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Front End Developer Course in Mumbai with Placement</h4>
+            <p>
+                <strong>CNC Web World</strong> is known for providing <strong>front end developer classes in Mumbai with
+                    placement assistance</strong>. Our committed placement team supports students with:
+            </p>
+            <ul class="list-unstyled">
+                <li>✅ Resume Building & Personal Branding</li>
+                <li>✅ Mock Interviews with Real-time Feedback</li>
+                <li>✅ Career Guidance & Soft Skill Development</li>
+                <li>✅ Access to Exclusive Job Portals & Company Tie-ups</li>
+            </ul>
+            <p>Our goal is to ensure that every student who completes our <strong>front end developer course in
+                    Mumbai</strong> is not only technically strong but also job-ready.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- keyHighlights section start -->
     <?php include 'common/keyHighlights.php' ?>
     <!-- keyHighlights section end -->
-
-    <!-- benefits  section start -->
-    <!-- <?php include 'common/benefits.php' ?> -->
-    <!-- benefits  section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">What Makes Our Front End Developer Course the Best?</h4>
+            <p>
+                If you're still wondering why <strong>CNC Web World</strong> is the right place to enroll for a
+                <strong>front end web developer course</strong>, here's what sets us apart:
+            </p>
+            <p><span class="fw-bold blue"> 🔹 Real-World Projects :-</span> You’ll work on real client projects or
+                simulations that reflect actual job scenarios. </p>
+            <p>
+                <span class="fw-bold blue">🔹 Limited Batch Size :- </span> We maintain small batches to ensure personal
+                attention for every student.
+            </p>
+            <p>
+                <span class="fw-bold blue">🔹 Expert Faculty :- </span>
+                Gain knowledge from certified instructors with extensive web development experience.
+            </p>
+            <p>
+                <span class="fw-bold blue">🔹 Modern Curriculum :- </span>
+                Stay ahead with a curriculum designed according to the latest tech trends.
+            </p>
+            <p>
+                <span class="fw-bold blue">🔹 Certification :- </span>
+                Get a professional certification after successful course completion.
+            </p>
+            <span>When we say we provide the <strong>Best Front End Developer Course in Mumbai</strong>, we back it with
+                commitment, quality, and results.</span>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- brochure section start -->
     <?php include 'common/download.php' ?>
     <!-- brochure section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Duration & Fees</h4>
+            <p>Our <strong>front end developer course in Mumbai</strong> runs for 3 to 4 months, depending on the learning track (basic or advanced). We offer flexible timing, including weekday and weekend classes. The course is available online and offline across multiple centers in Mumbai.</p>
+            <p><b>Affordable Fees:</b> We believe in making quality education accessible, and our fees are competitive. EMI options are also available.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- programmingTools section start -->
     <section id="programmingTools">
         <div class="container py-5 px-4 px-md-0">
@@ -565,6 +712,30 @@
         </div>
     </section>
     <!-- programmingTools section end -->
+      <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Benefits of Becoming a Front End Developer</h4>
+            <SPan> Pursuing a career in front-end development unlocks numerous opportunities. Here are a few key
+                advantages:</SPan>
+            <ul class="list-unstyled">
+                <LI> 💰 High-Paying Jobs in IT, startups, and freelance markets</LI>
+                <LI> 🧑‍💻 Creative & Logical Role that combines design with coding</LI>
+                <LI> 🌍 Remote Work Opportunities across global tech firms</LI>
+                <LI> 📈 High Demand in the ever-growing digital world</LI>
+                <LI> 🔄 Continuous Learning with evolving technologies </LI>
+            </ul>
+            <p>With our course, you’ll have the skills needed to apply for roles like:</p>
+            <UL>
+                <li>Front End Developer</li>
+                <li>UI Developer</li>
+                <li>Web Designer</li>
+                <li>React Developer</li>
+               <li> Front End Engineer</li>
+            </UL>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- roadMapStep start -->
     <?php include 'common/roadMapStep.php' ?>
     <!-- roadMapStep end -->
@@ -580,7 +751,7 @@
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
-      <!-- faqs-footer section start -->
+    <!-- faqs-footer section start -->
     <section id="faqs-footer">
         <div class="container-lg py-5 px-4 px-lg-0">
             <h2 class="fw-bold text-center py-3 ">
@@ -591,13 +762,15 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                            <span class="fw-semibold">Is ReactJS difficult to learn for beginners?</span>
+                            <span class="fw-semibold">Is front-end development still a valuable career path in
+                                2025?</span>
                         </button>
                     </h2>
                     <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Not at all. ReactJS has a component-based architecture that makes it simple and modular.
-                                If you know basic HTML, CSS, and JavaScript, ReactJS will be easy to pick up.</p>
+                            <p>Absolutely! With the rapid growth of websites and web apps, the demand for front end
+                                developers is higher than ever. It's a high-paying, creative, and future-proof career.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -605,14 +778,13 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                            <span class="fw-semibold">Will I get a job after completing the ReactJS Course?</span>
+                            <span class="fw-semibold">Do I need to know programming before joining this course?</span>
                         </button>
                     </h2>
                     <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Yes. We offer ReactJS training and placement in Mumbai, which includes career guidance,
-                                resume building, and interview preparation to help you secure a job in the tech
-                                industry.</p>
+                            <p>No prior experience is needed. Our <strong>front end developer course for freshers in
+                                    Mumbai</strong> is designed for beginners.</p>
                         </div>
                     </div>
                 </div>
@@ -620,14 +792,13 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                            <span class="fw-semibold">Do I need to know JavaScript before joining the React
-                                course?</span>
+                            <span class="fw-semibold">Will I receive a certificate?</span>
                         </button>
                     </h2>
                     <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Basic JavaScript knowledge is helpful, but not mandatory. We cover essential JavaScript
-                                concepts in the initial modules for those new to it.</p>
+                            <p>Yes, upon successful course completion, you’ll be awarded a certificate that can be added
+                                to your resume or LinkedIn profile.</p>
                         </div>
                     </div>
                 </div>
@@ -635,13 +806,13 @@
                     <h2 class="accordion-header ">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                            <span class="fw-semibold">Is there a certificate after completing the course?</span>
+                            <span class="fw-semibold">Which practical projects are included in the course?</span>
                         </button>
                     </h2>
                     <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Yes. Upon successful completion, you will receive a ReactJS Certificate, recognized by
-                                employers and helpful in job applications.
+                            <p>You will work on projects like portfolio websites, e-commerce layouts, and
+                                mobile-friendly landing pages—perfect for showcasing your abilities to future employers.
                             </p>
                         </div>
                     </div>
@@ -650,13 +821,13 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
-                            <span class="fw-semibold">What kind of jobs can I get after this ReactJS course?</span>
+                            <span class="fw-semibold">Can I learn online if I’m not in Mumbai?</span>
                         </button>
                     </h2>
                     <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>You can apply for roles like Front-End Developer, UI Developer, JavaScript Developer,
-                                React Developer, or even Full Stack Developer with additional backend skills.</p>
+                            <p>Yes! We offer <strong>online front end developer classes</strong> that are interactive,
+                                live, and recorded for later review.</p>
                         </div>
                     </div>
                 </div>
@@ -667,11 +838,12 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 py-5 px-lg-0 ">
-            <h4 class="fw-bold blue">Enroll Today and Start Your Journey as a Front-End Developer!</h4>
+            <h4 class="fw-bold blue">Join the Best Front End Developer Course in Mumbai Today!</h4>
             <p>
-                <strong>CNC WEB WORLD</strong>’s <strong>ReactJS Courses in Mumbai</strong> is your gateway to a
-                high-growth tech career. Join us to gain hands-on coding experience, master ReactJS, and land your dream
-                job in IT.
+                If you're serious about a career in <strong>front end development</strong>, <strong>CNC Web
+                    World</strong> is the place to begin. With the <strong>best front end developer course in
+                    Mumbai</strong>, job assistance, and expert mentorship, we ensure your learning journey is smooth,
+                fun, and career-oriented.
             </p>
             <ul type="none">
                 <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo

@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Python Course in Nerul - Learn with CNC Web World</title>
+    <title>Python Course in Nerul, Mumbai | Best Python Training Institute</title>
+    <meta name="description" content="Learn Python programming at CNC Web World in Nerul. Get hands-on training, real-time projects, expert mentorship, and full placement assistance. Enroll now!">
+    <meta name="keywords" content="python course in Nerul, python classes in Nerul, python training in Nerul, python course fees in nerul, python certification course in nerul, python certification training in nerul, python classes in nerul, python institutes in nerul, learn python in nerul, learn python course in nerul, python training course in nerul, python training institutes in nerul, top python training institutes in nerul, best python training institute in nerul, best institute for python course in nerul, best classes for python course in nerul, python course with fees in nerul, python course near me in nerul, python placement training course in nerul, python training and placement in nerul">
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>

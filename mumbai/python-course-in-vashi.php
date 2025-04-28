@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Python Course in Vashi - Learn with CNC Web World</title>
+    <title>Python Course in Vashi, Mumbai | Best Python Training Institute</title>
+    <meta name="description" content="Join the top Python course in Vashi at CNC Web World. Learn with hands-on projects, expert mentors, and 100% placement support. Start your Python journey today!">
+    <meta name="keywords" content="python course in Vashi, python classes in Vashi, python training in Vashi  , python course fees in vashi, python certification course in vashi, python certification training in vashi, python institutes in vashi, learn python in vashi, learn python course in vashi, python training course in vashi, python training institutes in vashi, top python training institutes in vashi, best python training institute in vashi, best institute for python course in vashi, best classes for python course in vashi,  python course with fees in vashi, python course near me in vashi, python placement training course in vashi, python training and placement in vashi, best python course in vashi, python course fees in vashi, python course in vashi with job guarnatee, python course in vashi and placement, python institutes in vashi, best institute for python in vashi">
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>

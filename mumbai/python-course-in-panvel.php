@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Python Course in Panvel - Learn with CNC Web World</title>
+    <title>Python Course in Panvel, Mumbai | Top Python Training with Placement</title>
+    <meta name="description" content=" Join CNC Web World's Python course in Panvel for practical, job-oriented training. Learn from expert instructors with real-time projects and 100% placement support.">
+    <meta name="keywords" content="python course in panvel, python training in panvel, python course fees in panvel, python certification course in panvel, python certification training in panvel, python classes in panvel, python institutes in panvel, learn python in panvel, learn python course in panvel, python training course in panvel, python training institutes in panvel, top python training institutes in panvel, best python training institute in panvel, best institute for python course in panvel, best classes for python course in panvel, python course with fees in panvel, python course near me in panvel, python placement training course in panvel, python training and placement in panvel">
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>

@@ -4,7 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Learn Java Easily - Best Java Course in Thane | CNC Web World</title>
+    <title>Java Course in Thane, Mumbai | Top Java Training Institute</title>
+    <meta name="description" content="Upgrade your career with the best Java course in Thane at CNC Web World. Get hands-on training, expert guidance, real-time projects, and assured placement support.">
+    <meta name="keywords" content="java course in thane, java training in thane
+java course fees in thane, java certification course in thane, best java classes in thane
+java classes in thane ,java institute in thane ,learn java in thane , learn java course in thane , java training course in thane , java training institutes in thane, top java training institutes in thane, best java training institute in thane, best institute for java course in thane, best classes for java course in thane, java course with fees in thane, java course near me in thane, java placement training course in thane
+java training and placement in thane, Java Training Institute in Thane Mumbai, Java Coaching Classes in Thane, Java Training Institute in Thane, java classes in thane west ">
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>

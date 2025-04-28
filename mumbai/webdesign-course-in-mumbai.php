@@ -18,7 +18,7 @@
     <div class="popup-screen">
         <div class="popup">
             <div class="d-flex justify-content-between">
-                <h5 class="h4">WebDesigning Course Enquiry</h5>
+                <h5 class="h4">Web Designing Course Enquiry</h5>
                 <button id="close" class="ms-auto">&times;</button>
             </div>
             <iframe src="https://app.topfunnel.in/widget/form/6717d841a44a9"
@@ -130,7 +130,7 @@
     <!-- roadmap-image start -->
     <div class="container  mt-5 mb-3">
         <div class="row mx-3 mx-md-0 mt-5 mb-3 pt-4 rounded" style="box-shadow: rgba(0, 0, 0, 0.5) 0px 4px 24px;">
-            <img src="./assets/img/roadmap-frontend.png" alt="" class="img-fluid">
+            <img src="./assets/img/roadmap-webdesign.png" alt="" class="img-fluid">
         </div>
     </div>
     <!-- roadmap-image end -->

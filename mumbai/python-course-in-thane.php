@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Python Course in Thane - Learn with CNC Web World</title>
+    <title>Python Course in Thane, Mumbai | Practical Python Training with Placement</title>
+    <meta name="description" content="Enroll in CNC Web World's Python course in Thane and gain real-world coding skills. Get expert-led training, hands-on projects, and guaranteed placement support.">
+    <meta name="keywords" content="python course in thane, python training in thane, python course fees in thane, python certification course in thane, python certification training in thane,  python classes in thane, python institutes in thane, learn python in thane, learn python course in thane, python training course in thane, python training institutes in thane,  top python training institutes in thane, best python training institute in thane, best institute for python course in thane, best classes for python course in thane, python course with fees in thane, python course near me in thane, python placement training course in thane, python training and placement in thane, Python Training Institute in Thane Mumbai, python classes thane, python classes in thane west, best python classes in thane">
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>

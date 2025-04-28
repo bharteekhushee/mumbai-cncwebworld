@@ -14,18 +14,17 @@
     <div class="popup-screen">
         <div class="popup">
             <div class="d-flex justify-content-between">
-                <h5 class="h4">Php Fullstack Enquiry</h5>
+                <h5 class="h4">Mern Stack Enquiry</h5>
                 <button id="close" class="ms-auto">&times;</button>
             </div>
             <iframe src="https://app.topfunnel.in/widget/form/67177e38d227d"
-                style="width:100%;height:4200px;border:none;border-radius:3px" id="inline-67177e38d227d"
+                style="width:100%;height:420px;border:none;border-radius:3px" id="inline-67177e38d227d"
                 data-form-name="Nerul - PHP FS Leads" data-layout-iframe-id="inline-67177e38d227d"
                 data-form-id="67177e38d227d" data-height="420" title="Nerul - PHP FS Leads">
             </iframe>
         </div>
     </div>
     <!--PopUp form-->
-    <!-- top header start -->
     <?php include 'common/topheader.php' ?>
     <!-- top header end -->
     <!-- header start -->
@@ -72,7 +71,8 @@
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
-                <h2 class="fw-bold mb-4 text-center">Why <span class="blue">Php?</span></h2>
+                <h2 class="fw-bold mb-4 text-center">PHP Full Stack Course in Mumbai with Certification - <span
+                        class="blue">CNC WEB WORLD</span></h2>
             </div>
             <div class="row ">
                 <div class="col-lg-6 ">
@@ -81,27 +81,27 @@
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center ">
                     <p>
-                        <b>CNC WEB WORLD </b> offers a <b>Python Course in Mumbai</b> to teach students how to use
-                        Python, a widely used programming language, for many different purposes. Python has the
-                        flexibility to work in web development, data analysis, machine learning scientific computing,
-                        and other areas.
+                        Thinking about pursuing a successful path in web development? <strong>CNC WEB WORLD</strong>
+                        offers the <strong>Best PHP Full Stack Course in Mumbai</strong> designed for beginners and
+                        professionals alike. With hands-on training, real-time projects, and guaranteed placement
+                        support, our course is tailored to meet industry standards and skill requirements.
                     </p>
-                    <p>
-                        A standard <b>Python course</b> covers Python syntax, data types, functions, control structures,
-                        object-oriented programming, file input/output, libraries and frameworks, web development, data
-                        analysis and visualization, and machine learning. The python classes in mumbai aims to give
-                        hands-on experience, with practical exercises and projects to strengthen understanding.
-                    </p>
-                    <p> The <b>Python Classes in Mumbai</b> includes tools and frameworks like NumPy, Pandas,
-                        Matplotlib, Flask, Django, TensorFlow, and PyTorch. These tools help to manage data, create
-                        visual representations, build web applications, and put machine learning algorithms into
-                        practice.
-                    </p>
+                    <h5 class="fw-bold blue">Why Learn PHP Full Stack Development?</h5>
+                    <p>The demand for full stack developers is rapidly growing as companies seek versatile professionals
+                        who can manage both front-end and back-end development. PHP is one of the most widely used
+                        server-side scripting languages and continues to power a significant portion of the web. PHP is
+                        a crucial technology behind a wide range of modern web applications, including content
+                        management systems, online stores, and social media platforms.</p>
                 </div>
             </div>
-            <div class="text-center mt-2">
-                <button class="btn btn-dark btn-lg" onclick="enquiry()">Enquire
-                    Now</button>
+            <div>
+                <p>Our <strong>PHP Full Stack Web Development Training</strong> focuses on practical skills using the
+                    LAMP stack – Linux, Apache, MySQL, and PHP – along with HTML, CSS, JavaScript, Bootstrap, AJAX, and
+                    jQuery. We prepare you to become job-ready and highly employable.</p>
+                <div class="text-center mt-2">
+                    <button class="btn btn-dark btn-lg" onclick="enquiry()">Enquire
+                        Now</button>
+                </div>
             </div>
         </div>
     </section>
@@ -113,9 +113,84 @@
         </div>
     </div>
     <!-- roadmap-image end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Top Benefits of Enrolling in Our PHP Full Stack Training in Mumbai</h4>
+            <span>CNC WEB WORLD is known for delivering high-quality training programs that balance theory and practice.
+                Here's what sets us apart:</span>
+            <ul class="list-unstyled">
+                <li> ✅ 100% Job-Oriented Training</li>
+                <li>✅ Placement Assistance with Resume Building & Interview Preparation</li>
+                <li>✅ Certified PHP Full Stack Course in Mumbai</li>
+                <li>✅ Live Projects & Internship Opportunities</li>
+                <li>✅ Offline & Online Batches Available</li>
+                <li>✅ Compact Batches Designed for Personalized Guidance</li>
+                <li> ✅ Expert Trainers from the Industry</li>
+                <li> ✅ Complimentary Learning Resources and Software Tools Provided</li>
+            </ul>
+            <p>Whether you are a fresh graduate, job seeker, or working professional, our <strong>PHP Full Stack Course
+                    in Mumbai for Freshers</strong> offers a structured learning path to help you transition into the
+                tech industry with confidence.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- whoCanJoin start -->
     <?php include 'common/whoCanJoin.php' ?>
     <!-- WhoCanJoin end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">What Will You Learn?</h4>
+            <p>Our <strong>PHP Full Stack Training in Mumbai</strong> provides a comprehensive curriculum designed to
+                build proficiency from the ground up. Here's what our course includes:</p>
+            <div class="row">
+                <div class="col-md-6">
+                    <h6 class="fw-bold blue">📌 Front-End Development</h6>
+                    <ul>
+                        <li> HTML5 and CSS3 – Core technologies for creating and styling websites</li>
+                        <li> Bootstrap – Responsive design and layout</li>
+                        <li> JavaScript – Scripting and interactivity</li>
+                        <li> jQuery – Simplified JavaScript operations</li>
+                        <li> AJAX – Asynchronous page updates</li>
+                    </ul>
+                    <h6 class="fw-bold blue">📌 Back-End Development with PHP</h6>
+                    <ul>
+                        <li> PHP Syntax and Control Structures</li>
+                        <li> Working with Forms and Sessions</li>
+                        <li> PHP Functions and Error Handling</li>
+                        <li> File Handling and File Upload</li>
+                        <li> PHP with MySQL Integration</li>
+                        <li> PDO and Secure Database Interaction</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <h6 class="fw-bold blue">📌 Database Management</h6>
+                    <ul>
+                        <li>Introduction to MySQL</li>
+                        <li>Database Design and Normalization</li>
+                        <li> CRUD Operations</li>
+                        <li> Complex Queries and Joins</li>
+                        <li> Data Backup and Optimization</li>
+                    </ul>
+                    <h6 class="fw-bold blue">📌 Advanced PHP Concepts</h6>
+                    <ul>
+                        <li>OOP in PHP (Classes, Objects, Inheritance, Polymorphism)</li>
+                        <li>PHP Frameworks – Introduction to Laravel or CodeIgniter</li>
+                        <li>RESTful API Creation</li>
+                        <li>MVC Architecture</li>
+                    </ul>
+                    <h6 class="fw-bold blue">📌 Project Work & Deployment </h6>
+                    <ul>
+                       <li> Real-world live projects</li>
+                      <li>  Version Control using Git & GitHub</li>
+                        <li>Hosting and Deployment using cPanel or Cloud  </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- courseDetails section start -->
     <section id="courseDetail">
         <div class="container-lg">
@@ -543,6 +618,22 @@
         </div>
     </section>
     <!-- courseDetails section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Who Can Join This Course?</h4>
+            <span>Our <strong>Certified PHP Full Stack Course in Mumbai</strong> is perfect for:</span>
+            <ul class="list-unstyled">
+                <li>🧑‍🎓 Freshers looking to kickstart their tech career</li>
+                <li>💼 Working professionals seeking a career switch to web development</li>
+                <li>🧑‍💻 Students who want to enhance their skillset alongside studies</li>
+                <li>👨‍🏫 Freelancers wanting to build custom websites for clients </li>
+            </ul>
+            <p>Even if you have zero prior experience, you can join our <strong>PHP Full Stack Course in Mumbai</strong>
+                for Freshers. The course is designed to take you from the basics to advanced level with ease.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- industryProject  section start -->
     <section id="industryProject">
         <div class="container-fluid py-5 px-2 px-md-5">
@@ -646,16 +737,60 @@
         </div>
     </section>
     <!-- industryProject  section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Tools & Technologies Covered</h4>
+            <span>To prepare you for real-world scenarios, our course covers all major tools and technologies used by
+                developers today:</span>
+            <ul>
+                <li>HTML5, CSS3, JavaScript, jQuery, Bootstrap</li>
+                <li>PHP 7 & 8</li>
+                <li>MySQL & phpMyAdmin</li>
+                <li>AJAX & JSON</li>
+                <li>Git & GitHub</li>
+                <li>CodeIgniter / Laravel Framework</li>
+                <li>Visual Studio Code / Sublime Text</li>
+                <li>Apache Server / XAMPP</li>
+                <li>Hosting & Deployment Tools</li>
+            </ul>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- keyHighlights section start -->
     <?php include 'common/keyHighlights.php' ?>
     <!-- keyHighlights section end -->
-
     <!-- benefits  section start -->
     <?php include 'common/benefits.php' ?>
     <!-- benefits  section end -->
     <!-- brochure section start -->
     <?php include 'common/download.php' ?>
     <!-- brochure section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Hands-On Projects & Internships</h4>
+            <p>Hands-on practice is the core of our teaching approach at <strong> CNC WEB WORLD</strong>. Every student
+                will work on live projects throughout the course that simulate real industry challenges. From static
+                websites to dynamic web applications, you’ll build a complete portfolio that can impress future
+                employers.</p>
+            <p>We also provide internship support and opportunities for students to work on real client projects, giving
+                you practical exposure and a competitive edge.</p>
+            <h5 class="fw-bold blue">Placement Assistance & Career Support</h5>
+            <span>Enrolling in our <strong>PHP Full Stack Training in Mumbai</strong> doesn't end with just training –
+                it opens the door to career success.</span>
+            <ul>
+                <li>🧾 Resume Building Workshops</li>
+                <li> 💼 Mock Interviews & HR Training</li>
+                <li>🤝 Direct Referrals to Hiring Partners</li>
+                <li>📄 Internship Certificates</li>
+                <li> 📢 Lifetime Job Alerts</li>
+            </ul>
+            <p>Our placement cell works closely with IT companies and startups to connect our students with job
+                opportunities in Mumbai and beyond.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- programmingTools section start -->
     <section id="programmingTools">
         <div class="container py-5 px-4 px-md-0">
@@ -722,9 +857,55 @@
         </div>
     </section>
     <!-- programmingTools section end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Course Duration & Schedule</h4>
+            <span>We offer flexible course durations and timings to suit your schedule:</span>
+            <ul>
+                <li> 📅 Duration: 3 to 6 months (based on batch type)</li>
+                <li> 🕘 Weekday & Weekend Batches</li>
+                <li> 🧑‍🏫 Classroom + Online Hybrid Options</li>
+            </ul>
+            <h5 class="fw-bold blue">Why Choose CNC WEB WORLD?</h5>
+            <p>
+                <strong>CNC WEB WORLD</strong> is a trusted name in IT training across Mumbai, known for delivering
+                job-oriented courses with a practical approach. Our experienced trainers, industry-relevant curriculum,
+                and strong placement network make us the best choice for your learning journey.
+            </p>
+            <p>Choosing us for your <strong>PHP Full Stack Course in Mumbai with Placement</strong> means choosing
+                quality education that leads to real results.</p>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- roadMapStep start -->
     <?php include 'common/roadMapStep.php' ?>
     <!-- roadMapStep end -->
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">PHP Developer Career Opportunities</h4>
+            <span>
+                After completing our <strong>PHP Full Stack Web Development Training</strong>, you can explore various
+                high-demand job roles, including:
+            </span>
+            <ul>
+                <li> PHP Developer</li>
+                <li> Full Stack Developer</li>
+                <li> Backend Developer</li>
+                <li> Web Application Developer</li>
+                <li> Software Engineer</li>
+                <li> Laravel / CodeIgniter Developer</li>
+                <li> WordPress / CMS Developer</li>
+                <li> Freelance Web Developer</li>
+            </ul>
+            <p>The digital transformation across industries has led to a surge in demand for web developers, especially
+                those with full stack capabilities. With your new skills, you can step into a rewarding career path with
+                endless possibilities.</p>
+
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- placedStudent start -->
     <?php include 'common/placedstudent.php' ?>
     <!-- PlacedStudent end -->
@@ -748,15 +929,15 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                            <span class="fw-semibold">What are the prerequisites for enrolling in a data analytics
-                                course?</span>
+                            <span class="fw-semibold">What is a PHP Full Stack Developer?</span>
                         </button>
                     </h2>
                     <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>There are no strict prerequisites. Basic knowledge of mathematics and logical thinking
-                                can be helpful, but our beginner-friendly approach ensures that even non-programmers can
-                                grasp the concepts effectively.</p>
+                            <p>A <strong>PHP full stack developer</strong> is skilled in handling both front-end and
+                                back-end aspects of web applications. They utilize technologies like HTML, CSS, and
+                                JavaScript for the user interface, while using PHP and MySQL to manage server-side
+                                functionality.</p>
                         </div>
                     </div>
                 </div>
@@ -764,13 +945,13 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                            <span class="fw-semibold"> How long does the data analytics course take to complete?</span>
+                            <span class="fw-semibold"> Is this course suitable for beginners?</span>
                         </button>
                     </h2>
                     <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Our data analytics courses typically range from 3 to 6 months, depending on the level of
-                                the program and the chosen specialization.</p>
+                            <p>Absolutely! Our <strong>PHP Full Stack Course in Mumbai for Freshers</strong> is designed
+                                to start from the basics and gradually progress to advanced topics.</p>
                         </div>
                     </div>
                 </div>
@@ -778,13 +959,13 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                            <span class="fw-semibold">Which tools and technologies are covered in this course?</span>
+                            <span class="fw-semibold">Do I need coding experience to enroll?</span>
                         </button>
                     </h2>
                     <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>You will learn Python, SQL, Tableau, Power BI, Excel, and basic machine learning
-                                concepts, among other essential analytics tools.</p>
+                            <p>No prior coding experience is needed. We begin with the fundamentals and build up your
+                                skills step-by-step.</p>
                         </div>
                     </div>
                 </div>
@@ -792,13 +973,13 @@
                     <h2 class="accordion-header ">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                            <span class="fw-semibold">Do you offer online data analytics courses?</span>
+                            <span class="fw-semibold">Will I receive a certificate after course completion?</span>
                         </button>
                     </h2>
                     <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Yes, CNC WEB WORLD offers both classroom-based and online data analytics courses in
-                                Mumbai to provide flexibility for students and working professionals.
+                            <p>Yes, upon successful completion, you will receive a PHP Full Stack Course Certificate,
+                                recognized by employers across the industry.
                             </p>
                         </div>
                     </div>
@@ -807,14 +988,13 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
-                            <span class="fw-semibold">How does your placement assistance work?</span>
+                            <span class="fw-semibold">Do you offer placement assistance?</span>
                         </button>
                     </h2>
                     <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Our placement assistance includes resume building, interview preparation, job referrals,
-                                and access to an exclusive job portal. We offer internships to help you apply your
-                                skills in real-world scenarios.</p>
+                            <p>Yes, we provide complete <strong>PHP Full Stack Course in Mumbai with Placement</strong>,
+                                including mock interviews, job alerts, and referrals.</p>
                         </div>
                     </div>
                 </div>
@@ -825,10 +1005,10 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 py-5 px-lg-0 ">
-            <h4 class="fw-bold blue">Enroll in the Best PHP Courses in Mumbai Today!</h4>
+            <h4 class="fw-bold blue">Ready to Become a Full Stack Web Developer?</h4>
             <p>
-                Start your journey with the most trusted <b>PHP training institute in Mumbai</b> and shape your future
-                in the booming web development industry.
+                Take the first step toward a bright career in web development. Join the <strong>Best PHP Full Stack
+                    Course in Mumbai at CNC WEB WORLD</strong> and unlock your potential today.
             </p>
             <ul type="none">
                 <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo

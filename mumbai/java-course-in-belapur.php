@@ -4,7 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Learn Java Easily - Best Java Course in Belapur | CNC Web World</title>
+    <title>Java Course in Belapur, Mumbai | Expert Java Training Institute</title>
+    <meta name="description" content="Master Java programming with CNC Web World's course in Belapur. Get practical training, industry-relevant projects, and guaranteed placement support. Enroll now!">
+    <meta name="keywords" content="java course in belapur, java training in belapur, java course fees in belapur, java certification course in belapur, java certification training in belapur, java classes in belapur, java institutes in belapur, learn java in belapur
+learn java course in belapur, Java training course in belapur, java training institutes in belapur, top java training institutes in belapur, best java training institute in belapur,  best institute for java course in belapur, best classes for java course in belapur, java course with fees in belapur,  java course near me in belapur, java placement training course in belapur, java training and placement in belapur, java course in belapur with job guarnatee, java course in belapur and placement, best java course in belapur, best institute for java in belapur, core java course in belapur, core java training in belapur, core java course fees in belapur, core java certification course in belapur, core java certification training in belapur, core java classes in belapur, core java institutes in belapur, learn core java in belapur, learn core java course in belapur, core java training course in belapur, core java training institutes in belapur, top core java training institutes in belapur, best core java training institute in belapur, best institute for core java course in belapur, best classes for core java course in belapur, core java course with fees in belapur, core java course near me in belapur, core java placement training course in belapur, core java training and placement in belapur">
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>

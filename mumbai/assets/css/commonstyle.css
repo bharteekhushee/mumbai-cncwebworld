@@ -741,7 +741,7 @@ footer .social-icons li a:hover {
  @media (min-width: 1083px) and (max-width: 1440px) {
     #roadMapStep #roadMapStepSection::before {
         content: "";
-        background: url(../../../assets/img/roadMap-bg.svg) no-repeat;
+        background: url(../img/roadMap-bg.svg) no-repeat;
         height: 131%;
         width: 100%;
         position: absolute;
@@ -760,6 +760,11 @@ footer .social-icons li a:hover {
  --------------------------------------------------------------*/
 @media (min-width: 1025px) and (max-width: 1199.9px) {
     #roadMapStep #roadMapStepSection::before {
+        content: '';
+        background: url(../img/roadMap-bg.svg) no-repeat;
+        height: 131%;
+        width: 100%;
+        position: absolute;
         top: -7px;
         left: 25px;
         background-size: 85% 94%;

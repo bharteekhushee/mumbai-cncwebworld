@@ -4,7 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Learn Java Easily - Best Java Course in Panvel | CNC Web World</title>
+    <title>Java Course in Panvel, Mumbai | Practical Java Training Institute</title>
+    <meta name="description" content="Enroll in the top Java course in Panvel at CNC Web World. Learn Java with real-time projects, experienced mentors, and 100% placement assistance. Start your journey today!">
+    <meta name="keywords" content="core java course in panvel, core java training in panvel
+core java course fees in panvel, core java certification course in panvel, core java certification training in panvel, core java classes in panvel, core java institutes in panvel, learn core java in panvel, learn core java course in panvel, core java training course in panvel,  core java training institutes in panvel, top core java training institutes in panvel, best core java training institute in panvel, best institute for core java course in panvel, best classes for core java course in panvel, core java course with fees in panvel, core java course near me in panvel, core java placement training course in panvel, core java training and placement in panvel, Java Coaching Classes in Panvel, Java Training Institute in Panvel, java course in panvel, java course fees in panvel, java course in panvel with job guarnatee, java course in panvel and placement, java training in panvel, java institutes in panvel, java classes in panvel,  best java course in panvel, java certification course in panvel, java training and placement in panvel, best institute for java in panvel">
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>

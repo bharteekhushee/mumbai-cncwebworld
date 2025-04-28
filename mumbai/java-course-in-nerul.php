@@ -4,7 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Learn Java Easily - Best Java Course in Nerul | CNC Web World</title>
+    <title>Java Course in Nerul, Mumbai | Best Java Training with Placement</title>
+    <meta name="description"
+        content="Join CNC Web World's Java course in Nerul for expert-led training, hands-on projects, and full placement support. Build your Java skills and launch your tech career today!">
+    <meta name="keywords" content="java course in nerul, java training in nerul , java course fees in nerul, java certification course in nerul,java certification training in nerul, java classes in nerul, java institutes in nerul, learn java in nerul, learn java course in nerul, java training course in nerul, java training institutes in nerul, top java training institutes in nerul, best java training institute in nerul, best institute for java course in nerul, best classes for java course in nerul, java course with fees in nerul, java course near me in nerul, java placement training course in nerul, java training and placement in nerul, Java Coaching Classes in Nerul, Java Training Institute in Nerul">
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
