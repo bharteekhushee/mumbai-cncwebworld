@@ -1,5 +1,5 @@
 <a href="#" class="btn-whatsapp">
-    <img src="../assets/img/whatsapp.svg" alt="" class="img-fluid">
+    <img src="./assets/img/whatsapp.svg" alt="" class="img-fluid">
 </a>
 <!-- <a href="#" class="btn btn-brochure">
     Download Brochure

@@ -5,10 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
-        content="CNC Web World’s Software Testing Course in Navi Mumbai provides hands-on training and career support. Learn essential skills and start your path to success!">
-        <meta name="keywords"
-        content="software testing course in Mumbai, software testing course in mumbai with job guarantee, software testing certification course in Mumbai, software testing course in navi Mumbai, software testing course fees in Mumbai, software testing course in mumbai with course fees, best software testing course in mumbai">
-    <title>Join CNC Web World's Software Testing Course in Mumbai</title>
+        content="Join CNC Web World’s software testing course in Vashi and gain practical skills in manual and automation testing. Get expert training, real-time projects, and placement support.">
+ <meta name="keywords" content="software testing course in vashi, software testing training in vashi, software testing course fees in vashi, software testing certification course in vashi, software testing certification training in vashi, software testing classes in vashi, learn software testing in vashi, learn software testing course in vashi, learn software testing course offline in vashi, software testing offline course in vashi, software testing offline training in vashi, software testing training course in vashi, software testing training institutes in vashi, top software testing training institutes in vashi, best software testing training institute in vashi, best institute for software testing course in vashi, best classes for software testing course in vashi, software testing course with fees in vashi, software testing course near me in vashi, software testing placement training course in vashi, software testing training and placement in vashi, software testing course in vashi mumbai, software testing course fees in vashi mumbai, software testing course in vashi mumbai with job guarnatee, software testing course in vashi mumbai and placement, software testing training in vashi mumbai, software testing institutes in vashi mumbai, software testing classes in vashi mumbai, best software testing course in vashi mumbai, software testing certification course in vashi mumbai, software testing offline classes in vashi mumbai, software testing training and placement in vashi mumbai, best institute for software testing in vashi mumbai">
+        <title> Software Testing Course in Vashi, Mumbai | Best Training with Placement</title>
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
@@ -96,8 +95,8 @@
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
-                <h2 class="fw-bold mb-4 text-center">Software Testing Course in Mumbai – <span class="blue">CNC WEB
-                        WORLD</span></h2>
+                <h4 class="fw-bold mb-4 text-center">Learn Software Testing Course in Vashi with CNC Web World – <span
+                        class="blue">Your Pathway to a High-Demand Tech Career</span></h4>
             </div>
             <div class="row ">
                 <div class="col-lg-6 ">
@@ -105,18 +104,16 @@
                         alt="Saurabh Ganguli">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center ">
-                    <p>
-                        Looking to start a career in software testing? Want to enroll in the <strong>Best Software
-                            Testing Course in Navi Mumbai</strong> with hands-on training and job placement assistance?
-                        <strong>CNC WEB WORLD</strong> offers one of the most comprehensive and industry-relevant
-                        <strong>software testing certification courses in Mumbai</strong> tailored to kick-start your
-                        journey in quality assurance and software testing.
+                    <p>Are you eager to step into the thriving IT industry with a specialized skillset? <strong>CNC Web
+                            World</strong> offers a comprehensive <strong>software testing course in Vashi</strong>
+                        that’s designed to transform beginners and professionals into certified software testers. Our
+                        expert-driven curriculum, real-time projects, and placement support make this the ideal program
+                        for anyone who wants to <strong>learn software testing in Vashi</strong>.
                     </p>
-                    <p>
-                        Whether you're a fresher stepping into the IT industry or a professional looking to switch your
-                        career path, our <strong>software testing course in Mumbai</strong> with job guarantee is
-                        designed to equip you with in-demand skills, practical experience, and assured career
-                        opportunities.
+                    <p>Whether you're a fresh graduate or a working professional seeking a career shift, our
+                        <strong>software testing training in Vashi</strong> equips you with practical skills and
+                        industry-recognized certification to boost your employability in today’s competitive tech
+                        landscape.
                     </p>
                 </div>
             </div>
@@ -137,23 +134,26 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Why Choose CNC WEB WORLD for Software Testing Course?</h4>
-            <p> <strong>CNC WEB WORLD</strong> stands out as a premier institute offering specialized <strong>software
-                    testing training in Mumbai</strong>. Our course is crafted by industry experts to ensure you gain
-                the technical expertise, confidence, and practical exposure required to work as a professional software
-                tester.
+            <h4 class="fw-bold blue">Why Choose CNC Web World for Software Testing Classes in Vashi?</h4>
+            <p> <strong>CNC Web World</strong> stands out as a leading institute offering <strong>software testing
+                    classes in Vashi</strong> with a focus on hands-on learning and career development. Our training
+                model is built around real-world projects, experienced faculty, and personalized mentoring. Here’s what
+                sets us apart:
             </p>
-            <h6 class="fw-bold">Key Highlights:</h6>
-            <ul>
-                <li> Expert Trainers with Industry Experience</li>
-                <li> Real-Time Project Training</li>
-                <li> Hands-on Practice with Latest Testing Tools</li>
-                <li> ISTQB-Oriented Curriculum</li>
-                <li> 100% Placement Assistance</li>
-                <li> Interview Preparation & Resume Building</li>
-                <li> Internship Opportunities</li>
-                <li> Job Guarantee After Course Completion</li>
+            <ul class="list-unstyled">
+                <li>✅ 100% Practical-Based Training</li>
+                <li>✅ Personalized Career Guidance</li>
+                <li>✅ Real-Time Project Assignments</li>
+                <li>✅ Resume Building & Interview Preparation</li>
+                <li>✅ Internship Opportunities</li>
+                <li>✅ Placement Assistance with MNCs & Startups</li>
+                <li>✅ Industry-Recognized Certification</li>
+
+
             </ul>
+            <p>Whether you're aiming for manual testing, automation testing, or a blend of both, our <strong>software
+                    testing certification training in Vashi</strong> ensures you're industry-ready.
+            </p>
         </div>
     </div>
     <!-- course-content end -->
@@ -163,30 +163,28 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Best Software Testing Course in Mumbai – Course Overview</h4>
-            <p> Our <strong>software testing course in Mumbai</strong> offers a solid foundation in both manual and
-                automation testing. You will gain a deep understanding of the software development lifecycle (SDLC),
-                testing methodologies, defect tracking, and test case creation.
+            <h4 class="fw-bold blue">What is the purpose of software testing and its importance in IT?</h4>
+            <p>Software testing is the process of assessing an application to make sure it satisfies the necessary
+                requirements and is error-free. It plays a critical role in software development by detecting bugs,
+                ensuring quality, and maintaining customer satisfaction.
             </p>
-            <h6 class="fw-bold">Curriculum Covers:</h6>
-            <ul>
-                <li> Software Testing Fundamentals</li>
-                <li> SDLC & STLC Processes</li>
-                <li> Requirement Analysis & Test Planning</li>
-                <li> Test Case Design & Execution</li>
-                <li> Defect Life Cycle & Bug Reporting</li>
-                <li> Manual Testing Tools (JIRA, Bugzilla, Mantis)</li>
-                <li> Automation Testing using Selenium</li>
-                <li> TestNG Framework & Maven</li>
-                <li> API Testing with Postman</li>
-                <li>Mobile App Testing Basics</li>
-                <li> Agile Testing & Scrum Methodology</li>
-                <li> Interview Preparation & Mock Interviews</li>
-            </ul>
-            <span>
-                Our program also emphasizes communication skills, analytical thinking, and real-world project scenarios
-                to prepare you for real-time challenges in the testing domain.
-            </span>
+            <p>Quality control is essential in the fast-paced tech world of today. Companies can’t afford software
+                failures, which is why certified testers are in high demand. Our <strong>software testing certification
+                    course in Vashi</strong> is designed to give you the theoretical knowledge and practical skills
+                needed to meet this demand.</p>
+                <h4 class="fw-bold blue">Benefits of Software Testing as a Career</h4>
+                <span>Learning software testing opens doors to countless career opportunities. Here's why you should
+                    <strong>learn software testing in Vashi</strong> with us:</span>
+                <ul class="list-unstyled">
+                    <li><strong>🔹 High Demand –</strong> Software testers are required in every industry, from banking to
+                        e-commerce.</li>
+                    <li><strong>🔹 Attractive Salaries –</strong> QA Engineers and Test Automation Engineers earn
+                        competitive packages.</li>
+                    <li><strong>🔹 Diverse Roles –</strong> Explore roles like Manual Tester, Automation Tester, QA Analyst,
+                        Test Lead, and more.</li>
+                    <li><strong>🔹 Career Growth –</strong> Opportunities to evolve into DevOps, Test Architects, or QA
+                        Managers.</li>
+                    <li><strong>🔹 Global Opportunities –</strong> Software testing skills are universally in demand.</li>
         </div>
     </div>
     <!-- course-content end -->
@@ -833,24 +831,68 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Software Testing Course in Navi Mumbai – Learn Closer to You</h4>
-            <p> If you're located in Navi Mumbai and looking for a professional training institute nearby, <strong>CNC
-                    WEB WORLD</strong> also offers the <strong>best software testing course in Navi Mumbai</strong>. Our
-                training center is easily accessible, equipped with modern labs, and designed to deliver a high-quality
-                learning experience for students and professionals alike.
+            <h4 class="fw-bold blue">Curriculum – What Will You Learn?</h4>
+            <p> Our detailed and job-oriented syllabus is what makes our <strong>software testing training in
+                    Vashi</strong> truly exceptional. Every facet of manual and automated testing is covered in the
+                course's modules:
             </p>
-            <p>Whether you are from Vashi, Nerul, Kharghar, Belapur, or Panvel – our <strong>software testing classes in
-                    Navi Mumbai</strong> are your ideal learning destination.</p>
-            <h5 class="fw-bold blue">Who Can Join This Software Testing Course?</h5>
-            <span>Our course is suitable for:</span>
-            <ul>
-                <li>Fresh Graduates (B.Sc, B.E, B.Tech, BCA, MCA)</li>
-                <li> Working Professionals looking to switch to testing</li>
-                <li>Non-IT background students aiming to enter IT</li>
-                <li>Anyone passionate about software quality assurance</li>
-            </ul>
-            <p>No prior coding or technical background is required. We start from the fundamentals and gradually advance
-                toward complex testing scenarios.</p>
+            <div class="row">
+                <div class="col-md-6">
+                    <span><strong>🧩 Manual Testing</strong></span>
+                    <ul>
+                        <li>Introduction to Software Testing</li>
+                        <li>SDLC, STLC & Testing Life Cycle</li>
+                        <li>Requirement Analysis & Test Planning</li>
+                        <li>Test Case Design Techniques</li>
+                        <li>Defect Reporting and Tracking</li>
+                        <li>Types and Levels of Testing</li>
+                        <li>Functional & Non-Functional Testing</li>
+                        <li>Bug Life Cycle and Tools (JIRA, Bugzilla)</li>
+
+
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <span><strong>🤖 Automation Testing – Selenium</strong></span>
+                    <ul>
+                        <li>Introduction to Selenium WebDriver</li>
+                        <li>Java for Automation Testing</li>
+                        <li>XPath & WebElement Locators</li>
+                        <li>TestNG Framework</li>
+                        <li>Data-Driven Testing</li>
+                        <li>Cross-Browser Testing</li>
+                        <li>Test Automation Strategies</li>
+                        <li>Continuous Integration with Jenkins</li>
+
+
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <span><strong>🧪 Database & API Testing</strong></span>
+                    <ul>
+                        <li>SQL Queries for Testing</li>
+                        <li>Backend Validation</li>
+                        <li>REST API Testing using Postman</li>
+                        <li>Automation of APIs using Java + Rest Assured</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <span><strong>🎯 Tools Covered</strong></span>
+                    <ul>
+                        <li>Selenium</li>
+                        <li>JIRA</li>
+                        <li>Postman</li>
+                        <li>TestNG</li>
+                        <li>Jenkins</li>
+                        <li>Maven</li>
+                        <li>Git & GitHub</li>
+                    </ul>
+                </div>
+            </div>
+            <span>This curriculum ensures students learn <strong>software testing course in Vashi</strong> through
+                real-world examples and hands-on practice, making them ready for their first job from day one.</span>
         </div>
     </div>
     <!-- course-content end -->
@@ -960,29 +1002,20 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Software Testing Certification Course in Mumbai – Become Industry-Ready</h4>
-            <p> Upon successful completion of the course, students will receive a <strong>software testing
-                    certification,</strong> validating their skills and making them job-ready. Our curriculum aligns
-                with current industry standards and best practices, ensuring your learning is practical and
-                career-focused.
+            <h4 class="fw-bold blue">Who Should Enroll in the Software Testing Course?</h4>
+            <p> Aspiring professionals looking to learn about software quality assurance
             </p>
-            <p>
-                <strong>CNC WEB WORLD’s software testing certification course in Mumbai</strong> not only builds your
-                technical knowledge but also focuses on professional grooming to help you succeed in job interviews.
-            </p>
-            <h6 class="fw-bold">What You’ll Learn:</h6>
+
             <ul>
-                <li> How to write effective test cases</li>
-                <li> Defect reporting with clarity and accuracy</li>
-                <li> End-to-end testing lifecycle involvement</li>
-                <li> Web application and mobile app testing</li>
-                <li> Frameworks and tools used in MNCs</li>
-                <li>Version control systems and test environments </li>
+                <li>Fresh Graduates looking to start a career in IT</li>
+                <li>Individuals looking to move into tech-driven careers from non-technical backgrounds</li>
+                <li>Existing QA professionals looking to upgrade with automation skills</li>
+                <li>Freelancers and entrepreneurs managing software projects</li>
+                <li>Aspiring professionals looking to learn about software quality assurance</li>
             </ul>
-            <span>
-                Our program also emphasizes communication skills, analytical thinking, and real-world project scenarios
-                to prepare you for real-time challenges in the testing domain.
-            </span>
+            <p>No prior coding experience is required. We begin with fundamentals and work our way up to more complex
+                subjects.</p>
+            </ul>
         </div>
     </div>
     <!-- course-content end -->
@@ -992,23 +1025,23 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Software Testing Course in Mumbai with Job Guarantee – Your Career Starts Here</h4>
-            <p> One of the biggest advantages of enrolling in <strong>CNC WEB WORLD</strong>’s program is our
-                <strong>software testing course in Mumbai with job guarantee</strong>. Our strong placement network and
-                collaborations with top IT companies ensure that our students get placed in reputed organizations.
-            </p>
-            <h6 class="fw-bold">Placement Support Includes:</h6>
+            <h4 class="fw-bold blue">100% Placement Assistance</h4>
+            <p>Our <strong>software testing classes in Vashi</strong> include job support right from resume building to
+                mock interviews and final placements. We work closely with IT companies to understand their hiring needs
+                and align our training accordingly.</p>
+            <h6 class="fw-bold">Placement Features:</h6>
             <ul>
-                <li> Resume Building Workshops</li>
-                <li> Mock Interviews with Experts</li>
-                <li>Job Alerts & Referrals</li>
-                <li> Campus Interviews</li>
-                <li> Personality Development Sessions</li>
-                <li> Direct Connect with Hiring Managers </li>
+                <li>Dedicated Placement Officer</li>
+                <li>Resume Review Sessions</li>
+                <li>Technical Interview Training</li>
+                <li>Mock Tests & HR Interview Practice</li>
+                <li>Referrals to Hiring Partners</li>
+                <li>Internship Projects for Experience</li>
+
             </ul>
-            <span>
-                We believe in training that results in employment – and that’s what we consistently deliver.
+            <span>Students are placed with prestigious companies in Mumbai and Navi Mumbai by the end of the course.
             </span>
+           
         </div>
     </div>
     <!-- course-content end -->
@@ -1018,24 +1051,18 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Why Software Testing is a Great Career Choice?</h4>
-            <p>With every business going digital, software testing has become a critical part of software development.
-                Today, companies cannot afford bugs in their applications – and this has dramatically increased the
-                demand for skilled software testers.
+            <h4 class="fw-bold blue">Certification – Your Proof of Expertise</h4>
+            <p>On successful course completion, you will receive an industry-recognized certificate from <strong>CNC Web
+                    World</strong>. This certificate validates your skills and boosts your professional credibility.
             </p>
-            <h6 class="fw-bold">Career Opportunities after Software Testing Course:</h6>
-            <ul>
-                <li>Software Test Engineer</li>
-                <li> Quality Assurance Analyst</li>
-                <li> Automation Test Engineer</li>
-                <li> Selenium Tester</li>
-                <li> Mobile App Tester</li>
-                <li> QA Consultant</li>
-                <li> Test Lead or Test Manager (with experience)</li>
+            <h6 class="fw-bold">Why our software testing certification course in Vashi matters:</h6>
+            <ul class="list-unstyled">
+                <li> ✔ Adds credibility to your resume</li>
+                <li> ✔ Proves your practical knowledge</li>
+                <li> ✔ Makes you more attractive to recruiters</li>
+                <li> ✔ Qualifies you for higher-paying roles</li>
             </ul>
-            <span>
-                Software testing is not only a high-demand skill but also offers long-term career growth, attractive
-                salaries, and global opportunities.</span>
+
         </div>
     </div>
     <!-- course-content end -->
@@ -1124,29 +1151,31 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Duration and Course Format</h4>
-            <p> Our <strong>software testing course in Mumbai</strong> typically runs for 2 to 3 months, depending on
-                the learning track you choose (basic/manual, automation, or full-stack testing). You can opt for:
-            </p>
+            <h4 class="fw-bold blue">Acquire knowledge of software testing in Vashi through live projects</h4>
+            <span>At <strong>CNC Web World</strong>, we go beyond theory. Our students work on live projects that
+                reflect current industry demands. You'll:</span>
             <ul>
-                <li>Regular Weekday Batches</li>
-                <li>Weekend Batches (for Working Professionals)</li>
-                <li>Fast Track / Crash Courses </li>
+                <li>Analyze real client requirements</li>
+                <li>Write and execute test cases</li>
+                <li>Detect and report bugs</li>
+                <li>Perform regression testing</li>
+                <li>Run automated test scripts</li>
+                <li>Work in a simulated Agile/Scrum environment</li>
+
             </ul>
+            <p>This real-world exposure gives our students a competitive edge when stepping into their first software
+                testing job.</p>
+            <h4 class="fw-bold blue">Flexible Batch Timings & Small Class Sizes</h4>
+            <p>We understand our students have different schedules. For this reason, we provide customizable batch
+                choices:
             <p>
-                We also provide offline classroom training and online <strong>software testing classes</strong> to suit
-                your convenience and learning style.
-            </p>
-            <h5 class="fw-bold blue">Why CNC WEB WORLD is the Best Choice for Software Testing Training in Mumbai?</h5>
             <ul>
-                <li>Experienced Mentors: Learn from industry veterans who’ve worked with top IT firms.</li>
-                <li>Interactive Classroom Training: Practical-oriented sessions, not boring lectures.</li>
-                <li>Live Projects: Apply your skills on real-time testing assignments.</li>
-                <li>Job-Oriented Curriculum: Aligned with industry needs and placement trends.</li>
-                <li>Support Beyond Training: From career guidance to mock interviews, we walk the extra mile for you.
-                </li>
+                <li>Weekday and Weekend Batches</li>
+                <li>Morning, Afternoon, and Evening Slots</li>
+                <li>Offline Learning Mode</li>
+
             </ul>
-            <span>Our commitment is not just to teach you testing – but to build your career in it.</span>
+            <span>We maintain limited batch sizes to ensure individual attention and effective learning outcomes.</span>
         </div>
     </div>
     <!-- course-content end -->
@@ -1169,20 +1198,18 @@
     <section id="faqs-footer">
         <div class="container-lg py-5 px-4 px-lg-0">
             <h2 class="fw-bold text-center py-3 ">
-                Frequently Asked Questions
-            </h2>
+                FAQs – Software Testing Course in Vashi </h2>
             <div class="accordion" id="accordionExample2">
                 <div class="accordion-item">
                     <h2 class="accordion-header">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                            <span class="fw-semibold">Do you offer a software testing course in Navi Mumbai?</span>
+                            <span class="fw-semibold">Is software testing easy to learn for beginners?</span>
                         </button>
                     </h2>
                     <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Yes, we offer full-fledged software testing training at our Navi Mumbai center with
-                                practical sessions and placement support.</p>
+                            <p>In agreement. Here at <strong>CNC Web World</strong>, we start with the basics. Even if you have no prior programming experience, our structured training ensures a smooth learning curve</p>
                         </div>
                     </div>
                 </div>
@@ -1190,13 +1217,12 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                            <span class="fw-semibold"> Will I get job placement assistance after this course?</span>
+                            <span class="fw-semibold"> What’s the duration of the software testing course?</span>
                         </button>
                     </h2>
                     <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Absolutely. Our course comes with 100% placement support, and we have tie-ups with
-                                several hiring companies.</p>
+                            <p>Our course duration is 2-3 months, including theory, hands-on practice, and placement preparation.</p>
                         </div>
                     </div>
                 </div>
@@ -1204,13 +1230,12 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                            <span class="fw-semibold">Can I join if I don’t have a technical background?</span>
+                            <span class="fw-semibold">  Will I get a job after the course?</span>
                         </button>
                     </h2>
                     <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Yes, our training starts from scratch. Anyone with a passion to learn and work in IT can
-                                join.</p>
+                            <p>Yes, we provide 100% placement assistance as part of our software testing certification training in Vashi. Many of our students have been placed in reputed IT firms.</p>
                         </div>
                     </div>
                 </div>
@@ -1223,8 +1248,7 @@
                     </h2>
                     <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Yes, after course completion, you’ll receive a professional <strong>software testing
-                                    certification from CNC WEB WORLD</strong>.
+                            <p>Absolutely. Upon course completion, you’ll receive a professional certificate that adds value to your resume and helps during job interviews.</strong>.
                             </p>
                         </div>
                     </div>
@@ -1233,12 +1257,12 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
-                            <span class="fw-semibold">Which tools will I learn during the course?</span>
+                            <span class="fw-semibold"> Can I switch to automation testing after manual testing?</span>
                         </button>
                     </h2>
                     <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>You’ll learn tools like Selenium, JIRA, Bugzilla, Postman, TestNG, Maven, Git, and more.
+                            <p>Definitely. Our course is designed to teach both manual and automation testing, helping you scale up your career effectively.
                             </p>
                         </div>
                     </div>
@@ -1250,17 +1274,14 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 py-5 px-lg-0 ">
-            <h4 class="fw-bold blue">Enroll Today and Secure Your Future in Software Testing !</h4>
-            <p>
-                Join the <strong>best software testing course in Navi Mumbai at CNC WEB WORLD</strong> and give your
-                career the right start. With structured learning, practical knowledge, and placement assistance – we
-                make sure your learning translates into a successful job.
-            </p>
+            <h4 class="fw-bold blue">Enroll Today – Your Career in Software Testing Starts Here!</h4>
+            <p>Don’t wait to build a rewarding future in the IT industry. With <strong>CNC Web World’s software testing classes in Vashi</strong>, you can gain job-ready skills, practical experience, and the confidence to excel in your career.</p>
             <ul type="none" class="px-0">
                 <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
                     Session .</li>
-               <li><b>📍 Visit us at:</b> [ <a href="https://maps.app.goo.gl/UBcTuWiEUj2aS1nXA"> Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
-                Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 </a> ]</li>
+                <li><b>📍 Visit us at:</b> [ <a href="https://maps.app.goo.gl/UBcTuWiEUj2aS1nXA"> Second Floor, Nerul
+                        Railway Station Complex, Office No, F-201 & 203, above
+                        Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 </a> ]</li>
                 <li>
                     <b>🌐 Website: </b> [<a
                         href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]

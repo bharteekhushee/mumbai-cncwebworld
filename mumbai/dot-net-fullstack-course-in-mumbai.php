@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Top DOT NET Course in Mumbai: Learn and Succeed!</title>
+    <title>.NET Full Stack Course in Mumbai | Best Full Stack .NET Training with Placement	</title>
+   <meta name="description" content="Enroll in CNC Web World’s .NET Full Stack course in Mumbai to master ASP.NET, MVC, C#, and front-end technologies. Gain hands-on experience and 100% placement assistance.">
+   <meta name="keywords" content="">
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
@@ -1026,11 +1028,11 @@
                 towards
                 becoming a professional Full Stack Developer.
             </p>
-            <ul type="none">
+            <ul type="none" class="px-0">
                 <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
                     Session .</li>
-                <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
-                    Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
+               <li><b>📍 Visit us at:</b> [ <a href="https://maps.app.goo.gl/UBcTuWiEUj2aS1nXA"> Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
+                Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 </a> ]</li>
                 <li>
                     <b>🌐 Website: </b> [<a
                         href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]

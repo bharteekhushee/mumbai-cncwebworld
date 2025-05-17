@@ -633,7 +633,7 @@
                 <li>Freshers seeking ReactJS certificate courses in Mumbai for freshers</li>
             </ul>
             <h5 class="fw-bold blue">ReactJS Certificate Courses in Mumbai – What You Get</h5>
-            <ul>
+            <ul class="list-unstyled ps-3">
                 <li>📚 Printed and Digital Study Materials</li>
                 <li>💻 Free Access to Tools & IDEs</li>
                 <li>🧑‍🏫 Regular Assessments & Doubt Sessions</li>
@@ -817,11 +817,11 @@
                 high-growth tech career. Join us to gain hands-on coding experience, master ReactJS, and land your dream
                 job in IT.
             </p>
-            <ul type="none">
+            <ul type="none" class="px-0">
                 <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
                     Session .</li>
-                <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
-                    Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
+               <li><b>📍 Visit us at:</b> [ <a href="https://maps.app.goo.gl/UBcTuWiEUj2aS1nXA"> Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
+                Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 </a> ]</li>
                 <li>
                     <b>🌐 Website: </b> [<a
                         href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]

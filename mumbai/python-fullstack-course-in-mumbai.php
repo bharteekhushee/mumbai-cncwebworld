@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Python Full stack Course in Mumbai - Learn with CNC Web World</title>
+    <title>Python Full Stack Course in Mumbai | Best Full Stack Python Training with Placement</title>
+<meta name="description" content="Master full stack development with Python at CNC Web World in Mumbai. Learn Django, Flask, and front-end technologies through real-time projects, expert mentors, and 100% placement support.">
+<meta name="keywords" content="">
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
@@ -865,7 +867,7 @@
                 weekend batches. Flexible timing, offline and online learning modes, and personalized mentoring ensure a
                 smooth learning journey for every student.</p>
             <h4 class="fw-bold blue">Key Highlights of Our Full Stack Python Course</h4>
-            <Key>
+            <ul class="list-unstyled ps-3">
                 <li>✅ Industry-experienced faculty</li>
                 <li>✅ Live project work</li>
                 <li>✅ Certification of completion</li>
@@ -991,11 +993,11 @@
         <div class="container-lg px-4 py-5 px-lg-0 ">
             <h4 class="fw-bold blue">Enroll Today and Start Your Journey as a Python Developer!</h4>
 
-            <ul type="none">
+            <ul type="none" class="px-0">
                 <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
                     Session .</li>
-                <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
-                    Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
+               <li><b>📍 Visit us at:</b> [ <a href="https://maps.app.goo.gl/UBcTuWiEUj2aS1nXA"> Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
+                Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 </a> ]</li>
                 <li>
                     <b>🌐 Website: </b> [<a
                         href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]

@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP Full Stack Training in Mumbai - Learn PHP with CNC Web World</title>
+    <title>PHP Full Stack Course in Mumbai | Best Full Stack PHP Training with Placement</title>
+<meta name="description" content="Join CNC Web World’s PHP Full Stack course in Mumbai to master both front-end and back-end development. Learn PHP, MySQL, JavaScript, and more with hands-on projects and 100% placement support.">
+<meta name="keywords" content="">
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
@@ -119,7 +121,7 @@
             <h4 class="fw-bold blue">Top Benefits of Enrolling in Our PHP Full Stack Training in Mumbai</h4>
             <span>CNC WEB WORLD is known for delivering high-quality training programs that balance theory and practice.
                 Here's what sets us apart:</span>
-            <ul class="list-unstyled">
+            <ul class="list-unstyled ps-3">
                 <li> ✅ 100% Job-Oriented Training</li>
                 <li>✅ Placement Assistance with Resume Building & Interview Preparation</li>
                 <li>✅ Certified PHP Full Stack Course in Mumbai</li>
@@ -623,7 +625,7 @@
         <div class="container-lg px-4 px-lg-0 py-5">
             <h4 class="fw-bold blue">Who Can Join This Course?</h4>
             <span>Our <strong>Certified PHP Full Stack Course in Mumbai</strong> is perfect for:</span>
-            <ul class="list-unstyled">
+            <ul class="list-unstyled ps-3">
                 <li>🧑‍🎓 Freshers looking to kickstart their tech career</li>
                 <li>💼 Working professionals seeking a career switch to web development</li>
                 <li>🧑‍💻 Students who want to enhance their skillset alongside studies</li>
@@ -779,7 +781,7 @@
             <h5 class="fw-bold blue">Placement Assistance & Career Support</h5>
             <span>Enrolling in our <strong>PHP Full Stack Training in Mumbai</strong> doesn't end with just training –
                 it opens the door to career success.</span>
-            <ul>
+            <ul class="list-unstyled ps-3">
                 <li>🧾 Resume Building Workshops</li>
                 <li> 💼 Mock Interviews & HR Training</li>
                 <li>🤝 Direct Referrals to Hiring Partners</li>
@@ -862,7 +864,7 @@
         <div class="container-lg px-4 px-lg-0 py-5">
             <h4 class="fw-bold blue">Course Duration & Schedule</h4>
             <span>We offer flexible course durations and timings to suit your schedule:</span>
-            <ul>
+            <ul class="list-unstyled ps-3"> 
                 <li> 📅 Duration: 3 to 6 months (based on batch type)</li>
                 <li> 🕘 Weekday & Weekend Batches</li>
                 <li> 🧑‍🏫 Classroom + Online Hybrid Options</li>
@@ -1010,11 +1012,11 @@
                 Take the first step toward a bright career in web development. Join the <strong>Best PHP Full Stack
                     Course in Mumbai at CNC WEB WORLD</strong> and unlock your potential today.
             </p>
-            <ul type="none">
+            <ul type="none" class="px-0">
                 <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
                     Session .</li>
-                <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
-                    Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
+               <li><b>📍 Visit us at:</b> [ <a href="https://maps.app.goo.gl/UBcTuWiEUj2aS1nXA"> Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
+                Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 </a> ]</li>
                 <li>
                     <b>🌐 Website: </b> [<a
                         href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]

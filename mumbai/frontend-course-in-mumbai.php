@@ -144,7 +144,7 @@
                     Mumbai</strong> for freshers and professionals alike.</p>
             <h5 class="fw-bold blue">Top Features of Our Front-End Developer Course in Mumbai</h5>
             <ul class="list-unstyled">
-                <li> ✅ Fully Practical Learning Experience with Live Project Work</li>
+                <li> ✅ Fully Practical Learning Experience with live Project Work</li>
                 <li> ✅ Experienced Mentors from the Industry</li>
                 <li>✅ Customized Course for Beginners and Freshers</li>
                 <li> ✅ Job Assistance with Personalized Resume Guidance and Mock Interviews</li>
@@ -296,7 +296,7 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                                <li>Github Card List App</li>
+                                                <li>Github Card list App</li>
                                                 <li>JSX</li>
                                                 <li>React Context & Reducers</li>
                                                 <li>Handline Errors in React</li>
@@ -413,7 +413,7 @@
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Introduction to Software Testing</li>
-                                                <li>Software Development Life Cycle (SDLC) & Testing Life Cycle (STLC)
+                                                <li>Software Development life Cycle (SDLC) & Testing life Cycle (STLC)
                                                 </li>
                                                 <li>Types of Software Testing</li>
                                                 <li>Functional Testing & Non-Functional Testing</li>
@@ -424,7 +424,7 @@
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Usability & Accessibility Testing</li>
-                                                <li>Defect Life Cycle & Bug Reporting</li>
+                                                <li>Defect life Cycle & Bug Reporting</li>
                                                 <li>Test Management Tools (JIRA.)</li>
                                                 <li>Agile Testing & Scrum Methodology</li>
                                                 <li>User Acceptance Testing (UAT)</li>
@@ -486,7 +486,7 @@
                         <li> Version control with Git</li>
                         <li> Hosting projects on GitHub </li>
                     </ul>
-                    <h6 class="fw-bold blue">📌 Live Project Work </h6>
+                    <h6 class="fw-bold blue">📌 live Project Work </h6>
                     <ul>
                         <li>Design and develop a full-scale website starting with a blank slate.</li>
                         <li>Collaborate using real-world workflow </li>
@@ -607,7 +607,7 @@
                 <strong>CNC Web World</strong> is known for providing <strong>front end developer classes in Mumbai with
                     placement assistance</strong>. Our committed placement team supports students with:
             </p>
-            <ul class="list-unstyled">
+            <ul class="list-unstyled ps-3">
                 <li>✅ Resume Building & Personal Branding</li>
                 <li>✅ Mock Interviews with Real-time Feedback</li>
                 <li>✅ Career Guidance & Soft Skill Development</li>
@@ -632,7 +632,7 @@
             <p><span class="fw-bold blue"> 🔹 Real-World Projects :-</span> You’ll work on real client projects or
                 simulations that reflect actual job scenarios. </p>
             <p>
-                <span class="fw-bold blue">🔹 Limited Batch Size :- </span> We maintain small batches to ensure personal
+                <span class="fw-bold blue">🔹 limited Batch Size :- </span> We maintain small batches to ensure personal
                 attention for every student.
             </p>
             <p>
@@ -718,12 +718,12 @@
             <h4 class="fw-bold blue">Benefits of Becoming a Front End Developer</h4>
             <SPan> Pursuing a career in front-end development unlocks numerous opportunities. Here are a few key
                 advantages:</SPan>
-            <ul class="list-unstyled">
-                <LI> 💰 High-Paying Jobs in IT, startups, and freelance markets</LI>
-                <LI> 🧑‍💻 Creative & Logical Role that combines design with coding</LI>
-                <LI> 🌍 Remote Work Opportunities across global tech firms</LI>
-                <LI> 📈 High Demand in the ever-growing digital world</LI>
-                <LI> 🔄 Continuous Learning with evolving technologies </LI>
+            <ul class="list-unstyled ps-3">
+                <li> 💰 High-Paying Jobs in IT, startups, and freelance markets</li>
+                <li> 🧑‍💻 Creative & Logical Role that combines design with coding</li>
+                <li> 🌍 Remote Work Opportunities across global tech firms</li>
+                <li> 📈 High Demand in the ever-growing digital world</li>
+                <li> 🔄 Continuous Learning with evolving technologies </li>
             </ul>
             <p>With our course, you’ll have the skills needed to apply for roles like:</p>
             <UL>
@@ -798,7 +798,7 @@
                     <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
                             <p>Yes, upon successful course completion, you’ll be awarded a certificate that can be added
-                                to your resume or LinkedIn profile.</p>
+                                to your resume or linkedIn profile.</p>
                         </div>
                     </div>
                 </div>
@@ -845,11 +845,11 @@
                     Mumbai</strong>, job assistance, and expert mentorship, we ensure your learning journey is smooth,
                 fun, and career-oriented.
             </p>
-            <ul type="none">
+            <ul type="none" class="px-0">
                 <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
                     Session .</li>
-                <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
-                    Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
+               <li><b>📍 Visit us at:</b> [ <a href="https://maps.app.goo.gl/UBcTuWiEUj2aS1nXA"> Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
+                Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 </a> ]</li>
                 <li>
                     <b>🌐 Website: </b> [<a
                         href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]

@@ -4,12 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Join CNC Web World's Web Development Course in Mumbai</title>
+    <title>Web Designing Course in Nerul, Mumbai | Best Web Design Training with Placement</title>
     <meta name="description"
-        content="Join CNC Web World’s Full Stack Web Developer Course in Mumbai Get hands-on training and become a skilled web developer ready for the job market!">
-    <meta name="keywords"
-        content="web development courses in mumbai with placement, web development courses fees in Mumbai, web development courses in Mumbai, web development classes in Mumbai, web development training in Mumbai, web design course in Mumbai, website design course in Mumbai, web developer course in mumbai">
-    <?php include 'common/headerlink.php' ?>
+        content="Enroll in CNC Web World’s web designing course in Nerul to master HTML, CSS, JavaScript, and modern design tools. Learn through live projects with expert mentors and placement support.">
+ <meta name="keywords"
+        content="web development course in nerul, web development training in nerul, web development course fees in nerul, web development certification course in nerul, web development certification training in nerul, web development classes in nerul, web development institutes in nerul, learn web development in nerul, learn web development course in nerul, learn web development course online in nerul, web development online course in nerul, web development online training in nerul, web development training course in nerul, web development training institutes in nerul, top web development training institutes in nerul, best web development training institute in nerul, best institute for web development course in nerul , best classes for web development course in nerul, web development course with fees in nerul, web development course near me in nerul, web development placement training course in nerul, web development training and placement in nerul, web designing course in Nerul, web designing course fees in Nerul">
+        <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
 
@@ -830,11 +830,11 @@
                 Don’t wait to build the future you deserve. Contact us today to join the <b>best web development
                     institutes in Nerul</b>!
             </p>
-            <ul type="none">
+            <ul type="none" class="px-0">
                 <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
                     Session</li>
-                <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
-                    Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
+               <li><b>📍 Visit us at:</b> [ <a href="https://maps.app.goo.gl/UBcTuWiEUj2aS1nXA"> Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
+                Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 </a> ]</li>
                 <li>
                     <b>🌐 Website: </b> [<a
                         href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]

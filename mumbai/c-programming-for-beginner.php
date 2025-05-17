@@ -571,7 +571,7 @@
             <p>At CNC Web World, we believe in teaching through practice, not just theory. Our course combines
                 foundational knowledge with practical coding experience.</p>
             <span>Here’s what makes our <b>Best C Programming Course in Mumbai</b> stand out:</span>
-            <ul type="none" class="ps-1">
+            <ul type="none" class="ps-3">
                 <li> ✅ Experienced Industry Faculty</li>
                 <li>✅ Small Batch Size for Personal Attention</li>
                 <li>✅ Project-Based Learning Approach</li>
@@ -685,15 +685,13 @@
             <h4 class="fw-bold blue">Career Opportunities after C Programming Course</h4>
             <p>After completing our <b>C Programming Course in Mumbai with Certificate</b>, students can pursue the
                 following roles:</p>
-            <ul class="list-unstyled ps-2">
+            <ul>
                 <li> Junior Software Developer</li>
                 <li> Embedded Systems Programmer</li>
                 <li>Application Support Engineer</li>
                 <li> Systems Programmer</li>
                 <li> Firmware Developer</li>
                 <li> C Programmer in Gaming or Automation Domains</li>
-
-
             </ul>
             <p>
                 You can also move forward to learn advanced programming languages like C++, Java, and Python with ease.
@@ -804,11 +802,11 @@
                 mastering C programming. Join the most practical and affordable <b>C Programming Course in Mumbai with
                     Certificate</b> and take the first step towards a successful tech career.
             </p>
-            <ul type="none">
+            <ul type="none" class="px-0">
                 <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
                     Session .</li>
-                <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
-                    Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
+               <li><b>📍 Visit us at:</b> [ <a href="https://maps.app.goo.gl/UBcTuWiEUj2aS1nXA"> Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
+                Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 </a> ]</li>
                 <li>
                     <b>🌐 Website: </b> [<a
                         href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]

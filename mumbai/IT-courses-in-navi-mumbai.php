@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title># Best Java Course | Frontend Development | Python Training Center Online - CNC WEB WORLD</title>
+    <title>IT Courses in Navi Mumbai | Best IT Training Institute with 100% Placement Support</title>
+    <meta name="description" content="Explore CNC Web World’s IT courses in Navi Mumbai, offering expert training in web development, software testing, programming, and more. Gain practical skills with real-time projects and 100% placement assistance.">
+<meta name="keywords" content="">
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"> -->
     <?php include 'common/headerlink.php'?>
     <link rel="stylesheet" href="./assets/css/style.css">

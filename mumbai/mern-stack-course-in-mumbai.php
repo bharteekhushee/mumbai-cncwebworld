@@ -979,23 +979,7 @@
                 career. Join us to gain hands-on coding experience, master full stack development, and land your dream
                 job in IT.
             </p>
-            <ul type="none">
-                <li><b>📞 Call Now:</b> <a href="tel:7400193799">[7400193799]</a></li>
-                <li><b>📍 Visit Us:</b> Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above Union
-                    Bank, Nerul West, Navi Mumbai, Maharashtra 400706 </li>
-            </ul>
-        </div>
-    </div>
-    <!-- course-content end -->
-    <!-- footer section start -->
-    <?php include './common/footer.php' ?>
-    <!-- footer section end -->
-    <!-- course-content start -->
-    <div class="course-content">
-        <div class="container-lg px-4 py-5 px-lg-0 ">
-            <h4 class="fw-bold blue">Enroll Today and Start Your Journey as a Mern Stack Developer!</h4>
-
-            <ul type="none">
+            <ul type="none" class="px-0">
                 <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
                     Session .</li>
                 <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
@@ -1008,6 +992,9 @@
         </div>
     </div>
     <!-- course-content end -->
+    <!-- footer section start -->
+    <?php include './common/footer.php' ?>
+    <!-- footer section end -->
     <!-- fixed section start -->
     <?php include './common/fixedicon.php' ?>
     <!-- fixed section end -->

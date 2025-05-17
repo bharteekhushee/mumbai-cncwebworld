@@ -5,10 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
-        content="CNC Web World’s Software Testing Course in Navi Mumbai provides hands-on training and career support. Learn essential skills and start your path to success!">
-        <meta name="keywords"
-        content="software testing course in Mumbai, software testing course in mumbai with job guarantee, software testing certification course in Mumbai, software testing course in navi Mumbai, software testing course fees in Mumbai, software testing course in mumbai with course fees, best software testing course in mumbai">
-    <title>Join CNC Web World's Software Testing Course in Mumbai</title>
+        content="Learn software testing at CNC Web World in Nerul. Get hands-on training in manual and automation testing, real-time project experience, and 100% placement assistance.">
+   <meta name="keywords" content="software testing course in nerul, software testing training in nerul, software testing course fees in nerul, software testing certification course in nerul, software testing certification training in nerul, software testing classes in nerul, software testing institutes in nerul, learn software testing in nerul, learn software testing course in nerul, learn software testing course offline in nerul, software testing offline course in nerul, software testing offline training in nerul, software testing training course in nerul, software testing training institutes in nerul, top software testing training institutes in nerul, best software testing training institute in nerul, best institute for software testing course in nerul, best classes for software testing course in nerul, software testing course with fees in nerul, software testing course near me in nerul, software testing placement training course in nerul, software testing training and placement in nerul, software testing course in nerul with job guarnatee, software testing course in nerul and placement, software testing training in nerul, software testing institutes in nerul, best software testing course in nerul, software testing offline classes in nerul, best institute for software testing in nerul">
+        <title>Software Testing Course in Nerul, Mumbai | Best Testing Training with Placement</title>
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
@@ -96,8 +95,8 @@
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
-                <h2 class="fw-bold mb-4 text-center">Software Testing Course in Mumbai – <span class="blue">CNC WEB
-                        WORLD</span></h2>
+                <h4 class="fw-bold mb-4 text-center">Best Software Testing Course in Nerul – <span class="blue">Start
+                        Your Career with CNC Web World</span></h4>
             </div>
             <div class="row ">
                 <div class="col-lg-6 ">
@@ -105,18 +104,16 @@
                         alt="Saurabh Ganguli">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center ">
-                    <p>
-                        Looking to start a career in software testing? Want to enroll in the <strong>Best Software
-                            Testing Course in Navi Mumbai</strong> with hands-on training and job placement assistance?
-                        <strong>CNC WEB WORLD</strong> offers one of the most comprehensive and industry-relevant
-                        <strong>software testing certification courses in Mumbai</strong> tailored to kick-start your
-                        journey in quality assurance and software testing.
+                    <p>Are you looking to build a future-proof career in the IT industry? CNC Web World brings you the
+                        most comprehensive <strong>software testing course in Nerul</strong>, designed to equip you with
+                        real-world testing skills, hands-on experience, and guaranteed career support. Whether you're a
+                        fresh graduate or a professional looking to switch careers, our <strong>software testing
+                            training in Nerul</strong> offers a strong foundation to launch your journey in quality
+                        assurance and testing.
                     </p>
-                    <p>
-                        Whether you're a fresher stepping into the IT industry or a professional looking to switch your
-                        career path, our <strong>software testing course in Mumbai</strong> with job guarantee is
-                        designed to equip you with in-demand skills, practical experience, and assured career
-                        opportunities.
+                    <p>Our <strong>software testing certification training in Nerul</strong> is designed to give you a
+                        deep understanding of the core concepts and advanced techniques used by QA professionals. A
+                        summary of the modules is provided here:
                     </p>
                 </div>
             </div>
@@ -137,23 +134,29 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Why Choose CNC WEB WORLD for Software Testing Course?</h4>
-            <p> <strong>CNC WEB WORLD</strong> stands out as a premier institute offering specialized <strong>software
-                    testing training in Mumbai</strong>. Our course is crafted by industry experts to ensure you gain
-                the technical expertise, confidence, and practical exposure required to work as a professional software
-                tester.
+            <h4 class="fw-bold blue">Why Choose CNC Web World for Software Testing Training in Nerul?</h4>
+            <p> <strong>CNC Web World</strong> is among the top-rated <strong>software testing institutes in
+                    Nerul</strong>, known for its industry-oriented curriculum, expert trainers, and personalized
+                mentorship. Our <strong>software testing classes in Nerul</strong> are structured to provide not just
+                theoretical knowledge, but also practical training through real-world projects and assignments.
             </p>
-            <h6 class="fw-bold">Key Highlights:</h6>
+
+            <p>We ensure you gain in-depth knowledge of manual and automation testing, test case writing, bug tracking,
+                and the use of popular tools like Selenium, JIRA, TestNG, and Postman. Moreover, our <strong>software
+                    testing certification course in Nerul</strong> is aligned with the current demands of the software
+                industry, enhancing your employability upon course completion.
+            </p>
+            <h4 class="fw-bold blue">Who Can Join This Course?</h4>
+            <span><strong>Our software testing training in Nerul</strong> is open to anyone passionate about technology
+                and software quality. Ideal candidates include:</span>
             <ul>
-                <li> Expert Trainers with Industry Experience</li>
-                <li> Real-Time Project Training</li>
-                <li> Hands-on Practice with Latest Testing Tools</li>
-                <li> ISTQB-Oriented Curriculum</li>
-                <li> 100% Placement Assistance</li>
-                <li> Interview Preparation & Resume Building</li>
-                <li> Internship Opportunities</li>
-                <li> Job Guarantee After Course Completion</li>
+                <li>Recent graduates (BSc, BCA, B.Tech, MCA, MCS)</li>
+                <li>Working Professionals switching to QA roles</li>
+                <li>Non-technical aspirants looking to enter IT</li>
+                <li>Developers wanting to shift to testing</li>
+                <li>Anyone looking to learn <strong>software testing in Nerul</strong> with placement support</li>
             </ul>
+            <p>No prior coding experience is required to start your journey in software testing with us.</p>
         </div>
     </div>
     <!-- course-content end -->
@@ -163,29 +166,24 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Best Software Testing Course in Mumbai – Course Overview</h4>
-            <p> Our <strong>software testing course in Mumbai</strong> offers a solid foundation in both manual and
-                automation testing. You will gain a deep understanding of the software development lifecycle (SDLC),
-                testing methodologies, defect tracking, and test case creation.
-            </p>
-            <h6 class="fw-bold">Curriculum Covers:</h6>
-            <ul>
-                <li> Software Testing Fundamentals</li>
-                <li> SDLC & STLC Processes</li>
-                <li> Requirement Analysis & Test Planning</li>
-                <li> Test Case Design & Execution</li>
-                <li> Defect Life Cycle & Bug Reporting</li>
-                <li> Manual Testing Tools (JIRA, Bugzilla, Mantis)</li>
-                <li> Automation Testing using Selenium</li>
-                <li> TestNG Framework & Maven</li>
-                <li> API Testing with Postman</li>
-                <li>Mobile App Testing Basics</li>
-                <li> Agile Testing & Scrum Methodology</li>
-                <li> Interview Preparation & Mock Interviews</li>
+            <h4 class="fw-bold blue">Key Features of Our Software Testing Classes in Nerul</h4>
+
+            <h6 class="fw-bold">At CNC Web World , we pride ourselves on delivering more than just technical training.
+                We ensure your overall professional development through:</h6>
+            <ul class="list-unstyled">
+                <li>✅ Experienced & Certified Trainers</li>
+                <li>✅ Limited Batch Sizes for Personalized Attention</li>
+                <li>✅ 100% Practical & Hands-on Learning</li>
+                <li>✅ Daily Assignments & Real-World Projects</li>
+                <li>✅ Free Study Material & Testing Resources</li>
+                <li>✅ Offline Mode</li>
+                <li>✅ Resume Building & Interview Preparation</li>
+                <li>✅ 100% Job Guarantee After Course Completion</li>
+
+
             </ul>
-            <span>
-                Our program also emphasizes communication skills, analytical thinking, and real-world project scenarios
-                to prepare you for real-time challenges in the testing domain.
+            <span>Whether you're looking for <strong>software testing classes in Nerul</strong> that emphasize live
+                practice or one-on-one mentorship, we provide a learning environment that ensures success.
             </span>
         </div>
     </div>
@@ -833,24 +831,49 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Software Testing Course in Navi Mumbai – Learn Closer to You</h4>
-            <p> If you're located in Navi Mumbai and looking for a professional training institute nearby, <strong>CNC
-                    WEB WORLD</strong> also offers the <strong>best software testing course in Navi Mumbai</strong>. Our
-                training center is easily accessible, equipped with modern labs, and designed to deliver a high-quality
-                learning experience for students and professionals alike.
-            </p>
-            <p>Whether you are from Vashi, Nerul, Kharghar, Belapur, or Panvel – our <strong>software testing classes in
-                    Navi Mumbai</strong> are your ideal learning destination.</p>
-            <h5 class="fw-bold blue">Who Can Join This Software Testing Course?</h5>
-            <span>Our course is suitable for:</span>
-            <ul>
-                <li>Fresh Graduates (B.Sc, B.E, B.Tech, BCA, MCA)</li>
-                <li> Working Professionals looking to switch to testing</li>
-                <li>Non-IT background students aiming to enter IT</li>
-                <li>Anyone passionate about software quality assurance</li>
-            </ul>
-            <p>No prior coding or technical background is required. We start from the fundamentals and gradually advance
-                toward complex testing scenarios.</p>
+            <h4 class="fw-bold blue">The Knowledge We Offer in Our Software Testing Course</h4>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <span><strong>Manual Testing</strong></span>
+                    <ul>
+                        <li>Introduction to Testing & SDLC/STLC</li>
+                        <li>Test Planning and Strategy</li>
+                        <li>Writing Test Cases & Test Scenarios</li>
+                        <li>Defect Life Cycle and Bug Reporting</li>
+                        <li>White Box & Black Box Testing Methods</li>
+                        <li>Regression, Smoke, Sanity & Integration Testing</li>
+                    </ul>
+                    <span><strong>Testing Tools & Technologies</strong></span>
+                    <ul>
+                        <li>JIRA for Bug Tracking</li>
+                        <li>Postman for API Testing</li>
+                        <li>Maven & Jenkins for CI/CD Automation</li>
+                        <li>Git/GitHub for Version Control</li>
+                        <li>Apache JMeter for Performance Testing</li>
+                        <li>SQL for Database Testing</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <span><strong>Automation Testing</strong></span>
+                    <ul>
+                        <li>Introduction to Automation and its Benefits</li>
+                        <li>Selenium WebDriver & IDE</li>
+                        <li>TestNG Framework</li>
+                        <li>Writing Automation Scripts in Java</li>
+                        <li>Page Object Model (POM)</li>
+                        <li>Locators & XPath Techniques</li>
+                        <li>Automation Framework Design</li>
+                    </ul>
+                    <span><strong>Real-Time Projects & Case Studies</strong></span>
+                    <p>Each student will work on live projects that simulate actual software testing scenarios in
+                        companies.
+                        From writing test cases to executing automated scripts, students get real-time exposure that
+                        enhances
+                        confidence and job readiness.</p>
+                </div>
+            </div>
+
         </div>
     </div>
     <!-- course-content end -->
@@ -960,29 +983,24 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Software Testing Certification Course in Mumbai – Become Industry-Ready</h4>
-            <p> Upon successful completion of the course, students will receive a <strong>software testing
-                    certification,</strong> validating their skills and making them job-ready. Our curriculum aligns
-                with current industry standards and best practices, ensuring your learning is practical and
-                career-focused.
+            <h4 class="fw-bold blue">Career-Oriented Software Testing Certification in Nerul with Job Placement Support
+            </h4>
+            <p> What sets <strong>CNC Web World</strong> apart is our <strong>software testing classes in Nerul</strong>
+                with placement assistance. We offer a <strong>software testing certification course in Nerul</strong>
+                that not only trains you but also supports you until you get placed.
             </p>
-            <p>
-                <strong>CNC WEB WORLD’s software testing certification course in Mumbai</strong> not only builds your
-                technical knowledge but also focuses on professional grooming to help you succeed in job interviews.
-            </p>
-            <h6 class="fw-bold">What You’ll Learn:</h6>
+            <span><strong>Placement Support Includes:</strong></span>
             <ul>
-                <li> How to write effective test cases</li>
-                <li> Defect reporting with clarity and accuracy</li>
-                <li> End-to-end testing lifecycle involvement</li>
-                <li> Web application and mobile app testing</li>
-                <li> Frameworks and tools used in MNCs</li>
-                <li>Version control systems and test environments </li>
-            </ul>
-            <span>
-                Our program also emphasizes communication skills, analytical thinking, and real-world project scenarios
-                to prepare you for real-time challenges in the testing domain.
-            </span>
+                <li>Job-Oriented Resume Writing</li>
+                <li>Mock Interviews & Aptitude Training</li>
+                <li>Technical Interview Preparation</li>
+                <li>Access to Our Network of Hiring Partners</li>
+                <li>Internship Opportunities with Real Companies</li>
+                <li>On-Campus & Off-Campus Drives</li>
+
+
+                <p>With our structured placement process, you can confidently take your first step toward becoming a
+                    successful QA Engineer.</p>
         </div>
     </div>
     <!-- course-content end -->
@@ -992,23 +1010,23 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Software Testing Course in Mumbai with Job Guarantee – Your Career Starts Here</h4>
-            <p> One of the biggest advantages of enrolling in <strong>CNC WEB WORLD</strong>’s program is our
-                <strong>software testing course in Mumbai with job guarantee</strong>. Our strong placement network and
-                collaborations with top IT companies ensure that our students get placed in reputed organizations.
-            </p>
-            <h6 class="fw-bold">Placement Support Includes:</h6>
-            <ul>
-                <li> Resume Building Workshops</li>
-                <li> Mock Interviews with Experts</li>
-                <li>Job Alerts & Referrals</li>
-                <li> Campus Interviews</li>
-                <li> Personality Development Sessions</li>
-                <li> Direct Connect with Hiring Managers </li>
-            </ul>
-            <span>
-                We believe in training that results in employment – and that’s what we consistently deliver.
-            </span>
+            <h4 class="fw-bold blue">The Advantages of Learning Nerul Software Testing at CNC Web World</h4>
+
+            <h6 class="fw-bold">Choosing <strong>CNC Web World</strong> means you're choosing one of the best
+                <strong>software testing institutes in Nerul</strong>. This is why we have the trust of thousands of
+                students:
+            </h6>
+            <span><strong>📌 Location Advantage</strong></span>
+            <p>Located in Nerul, our training center is easily accessible from various parts of Navi Mumbai. If you are
+                searching for quality <strong>software testing training in Nerul, CNC Web World</strong> is your go-to
+                destination.</p>
+            <span><strong>📌 Career Growth Potential</strong></span>
+            <p>Software testing continues to be a sought-after skill as the field expands across multiple sectors.
+                Learning from one of the best <strong>software testing institutes in Nerul</strong> gives you a strong
+                competitive edge in the job market.</p>
+            <span><strong>📌 Flexibility & Support</strong></span>
+            <p>We provide both weekend and weekday batches so that students and working professionals can study at their
+                own pace. Our trainers are always available for doubt-solving and guidance.</p>
         </div>
     </div>
     <!-- course-content end -->
@@ -1018,24 +1036,24 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Why Software Testing is a Great Career Choice?</h4>
-            <p>With every business going digital, software testing has become a critical part of software development.
-                Today, companies cannot afford bugs in their applications – and this has dramatically increased the
-                demand for skilled software testers.
+            <h4 class="fw-bold blue">Career Opportunities After Completing Software Testing Course in Nerul</h4>
+            <p>After completing our <strong>software testing course in Nerul</strong>, you’ll be ready for multiple
+                roles in the software testing industry, including:
             </p>
-            <h6 class="fw-bold">Career Opportunities after Software Testing Course:</h6>
             <ul>
+                <li>Quality Assurance Analyst</li>
+                <li>Manual Tester</li>
+                <li>Automation Tester</li>
+                <li>QA Engineer</li>
                 <li>Software Test Engineer</li>
-                <li> Quality Assurance Analyst</li>
-                <li> Automation Test Engineer</li>
-                <li> Selenium Tester</li>
-                <li> Mobile App Tester</li>
-                <li> QA Consultant</li>
-                <li> Test Lead or Test Manager (with experience)</li>
+                <li>Selenium Automation Tester</li>
+                <li>API Tester</li>
+                <li>Test Lead (with experience)</li>
+
             </ul>
-            <span>
-                Software testing is not only a high-demand skill but also offers long-term career growth, attractive
-                salaries, and global opportunities.</span>
+            <span>These roles span across sectors like IT services, e-commerce, healthcare, fintech, and many more. A
+                career in QA offers not just job stability but also global opportunities.
+            </span>
         </div>
     </div>
     <!-- course-content end -->
@@ -1124,29 +1142,26 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Duration and Course Format</h4>
-            <p> Our <strong>software testing course in Mumbai</strong> typically runs for 2 to 3 months, depending on
-                the learning track you choose (basic/manual, automation, or full-stack testing). You can opt for:
-            </p>
-            <ul>
-                <li>Regular Weekday Batches</li>
-                <li>Weekend Batches (for Working Professionals)</li>
-                <li>Fast Track / Crash Courses </li>
+            <h4 class="fw-bold blue">Course Duration & Timings</h4>
+
+            <ul class="list-unstyled">
+                <li><strong>Duration:</strong> 2 to 3 Months</li>
+                <li><strong>Mode:</strong> Classroom Option</li>
+                <li><strong>Timings:</strong> Morning, Evening & Weekend Batches</li>
+                <li><strong>Certifications:</strong> Industry-recognized Software Testing Certification</li>
+
             </ul>
-            <p>
-                We also provide offline classroom training and online <strong>software testing classes</strong> to suit
-                your convenience and learning style.
+            <p>Whether you prefer to learn online or join our offline <strong>software testing classes in
+                    Nerul</strong>, we have flexible options to suit your schedule.</p>
+            <h4 class="fw-bold blue">Why Software Testing is a Smart Career Choice?</h4>
+            <p>In today’s software-driven world, quality assurance has become a vital part of every software development
+                lifecycle. Companies are heavily investing in QA professionals to ensure bug-free, high-performance
+                applications. Learning software testing gives you access to a high-demand field with strong career
+                stability and a clear path for growth.</p>
+            <p>According to industry reports, there is a consistent shortage of skilled software testers. This opens a
+                world of opportunities for those who choose to learn <strong>software testing in Nerul</strong> with
+                <strong>CNC Web World</strong>.
             </p>
-            <h5 class="fw-bold blue">Why CNC WEB WORLD is the Best Choice for Software Testing Training in Mumbai?</h5>
-            <ul>
-                <li>Experienced Mentors: Learn from industry veterans who’ve worked with top IT firms.</li>
-                <li>Interactive Classroom Training: Practical-oriented sessions, not boring lectures.</li>
-                <li>Live Projects: Apply your skills on real-time testing assignments.</li>
-                <li>Job-Oriented Curriculum: Aligned with industry needs and placement trends.</li>
-                <li>Support Beyond Training: From career guidance to mock interviews, we walk the extra mile for you.
-                </li>
-            </ul>
-            <span>Our commitment is not just to teach you testing – but to build your career in it.</span>
         </div>
     </div>
     <!-- course-content end -->
@@ -1169,20 +1184,19 @@
     <section id="faqs-footer">
         <div class="container-lg py-5 px-4 px-lg-0">
             <h2 class="fw-bold text-center py-3 ">
-                Frequently Asked Questions
-            </h2>
+                Frequently Asked Questions (FAQs) </h2>
             <div class="accordion" id="accordionExample2">
                 <div class="accordion-item">
                     <h2 class="accordion-header">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                            <span class="fw-semibold">Do you offer a software testing course in Navi Mumbai?</span>
+                            <span class="fw-semibold">Do I need coding knowledge to join this course?</span>
                         </button>
                     </h2>
                     <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Yes, we offer full-fledged software testing training at our Navi Mumbai center with
-                                practical sessions and placement support.</p>
+                            <p>No, our course is beginner-friendly and designed even for those without prior programming
+                                knowledge. Automation testing will introduce you to basic scripting step-by-step.</p>
                         </div>
                     </div>
                 </div>
@@ -1190,13 +1204,14 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                            <span class="fw-semibold"> Will I get job placement assistance after this course?</span>
+                            <span class="fw-semibold">Do I get a certificate once the training is completed?</span>
                         </button>
                     </h2>
                     <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Absolutely. Our course comes with 100% placement support, and we have tie-ups with
-                                several hiring companies.</p>
+                            <p>Yes, upon successful completion, you will receive a <strong>software testing
+                                    certification</strong> from <strong>CNC Web World</strong> that is recognized by top
+                                employers.</p>
                         </div>
                     </div>
                 </div>
@@ -1204,13 +1219,14 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                            <span class="fw-semibold">Can I join if I don’t have a technical background?</span>
+                            <span class="fw-semibold"> Is there job placement support?</span>
                         </button>
                     </h2>
                     <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Yes, our training starts from scratch. Anyone with a passion to learn and work in IT can
-                                join.</p>
+                            <p>Absolutely! Our <strong>software testing certification training in Nerul</strong>
+                                includes 100% job assistance with resume preparation, mock interviews, and job
+                                referrals.</p>
                         </div>
                     </div>
                 </div>
@@ -1218,13 +1234,13 @@
                     <h2 class="accordion-header ">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                            <span class="fw-semibold">Do you provide certification?</span>
+                            <span class="fw-semibold">What industries hire software testers?</span>
                         </button>
                     </h2>
                     <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Yes, after course completion, you’ll receive a professional <strong>software testing
-                                    certification from CNC WEB WORLD</strong>.
+                            <p>Software testers are in demand across various industries such as IT, banking, healthcare,
+                                telecom, retail, and logistics.</strong>.
                             </p>
                         </div>
                     </div>
@@ -1233,12 +1249,12 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
-                            <span class="fw-semibold">Which tools will I learn during the course?</span>
+                            <span class="fw-semibold">Can I take this course while working?</span>
                         </button>
                     </h2>
                     <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>You’ll learn tools like Selenium, JIRA, Bugzilla, Postman, TestNG, Maven, Git, and more.
+                            <p>Yes, we offer flexible weekend and evening batches suitable for working professionals.
                             </p>
                         </div>
                     </div>
@@ -1250,17 +1266,19 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 py-5 px-lg-0 ">
-            <h4 class="fw-bold blue">Enroll Today and Secure Your Future in Software Testing !</h4>
-            <p>
-                Join the <strong>best software testing course in Navi Mumbai at CNC WEB WORLD</strong> and give your
-                career the right start. With structured learning, practical knowledge, and placement assistance – we
-                make sure your learning translates into a successful job.
+            <h4 class="fw-bold blue">Become a Member of Nerul's Top Software Testing Institute Now!</h4>
+            <p>If you're ready to start a rewarding career in software testing, <strong>CNC Web World</strong> is here
+                to help. Our practical, job-oriented approach makes us the top choice for students seeking the best
+                <strong>software testing classes in Nerul</strong>. From training to certification to placement, we
+                support you at every step.
             </p>
+
             <ul type="none" class="px-0">
                 <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
                     Session .</li>
-               <li><b>📍 Visit us at:</b> [ <a href="https://maps.app.goo.gl/UBcTuWiEUj2aS1nXA"> Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
-                Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 </a> ]</li>
+                <li><b>📍 Visit us at:</b> [ <a href="https://maps.app.goo.gl/UBcTuWiEUj2aS1nXA"> Second Floor, Nerul
+                        Railway Station Complex, Office No, F-201 & 203, above
+                        Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 </a> ]</li>
                 <li>
                     <b>🌐 Website: </b> [<a
                         href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]

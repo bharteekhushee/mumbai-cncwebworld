@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Get Expert UI / UX Training in Mumbai at CNC Web World</title>
+    <title> UI/UX Course in Mumbai | Best UI/UX Design Training with Placement Support</title>
+    <meta name="description" content="Join CNC Web World’s UI/UX course in Mumbai and learn the art of user-centered design. Master wireframing, prototyping, and user testing with hands-on projects and expert mentors, plus 100% placement assistance.">
+<meta name="keywords" content="">
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
@@ -850,11 +852,11 @@
                 If you’re looking for a <b>UI UX design institute in Mumbai</b> that offers practical training, career
                 support, and job placement assistance, <b>CNC WEB WORLD</b> is the right choice. Take the first step
                 towards a successful UI/UX design career today! </p>
-            <ul type="none">
+            <ul type="none" class="px-0">
                 <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
                     Session .</li>
-                <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
-                    Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
+               <li><b>📍 Visit us at:</b> [ <a href="https://maps.app.goo.gl/UBcTuWiEUj2aS1nXA"> Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
+                Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 </a> ]</li>
                 <li>
                     <b>🌐 Website: </b> [<a
                         href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]

@@ -5,10 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
-        content="Discover Mumbai's leading DOT NET institute! Gain practical skills, expert knowledge, and advance your tech career with our top-notch training." />
+        content="Join CNC Web World’s MERN Stack Developer course in Thane to master MongoDB, Express.js, React, and Node.js. Get hands-on training, live projects, and 100% placement assistance." />
     <meta name="keywords"
-        content="dot net course in Mumbai, dot net institute in Mumbai, dot net course fees in Mumbai, dot net training institute in Mumbai, dotnet institute in mumbai" />
-    <title>Top DOT NET Course in Mumbai: Learn and Succeed!</title>
+        content="mern stack developer course in thane, mern stack developer training in thane, mern stack developer course fees in thane, mern stack developer certification course in thane, mern stack developer certification training in thane, mern stack developer classes in thane, mern stack developer institutes in thane, learn mern stack developer in thane, learn mern stack developer course in thane, mern stack developer training course in thane, mern stack developer training institutes in thane, top mern stack developer training institutes in thane, best mern stack developer training institute in thane, best institute for mern stack developer course in thane, best classes for mern stack developer course in thane, mern stack developer course with fees in thane, mern stack developer course near me in thane, mern stack developer placement training course in thane, mern stack developer training and placement in thane" />
+    <title>MERN Stack Developer Course in Thane, Mumbai | Best Full Stack Training with Placement</title>
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
@@ -18,13 +18,13 @@
     <div class="popup-screen">
         <div class="popup">
             <div class="d-flex justify-content-between">
-                <h5 class="h4">Dotnet Course Enquiry</h5>
+                <h5 class="h4">Mern Stack Enquiry</h5>
                 <button id="close" class="ms-auto">&times;</button>
             </div>
-            <iframe src="https://app.topfunnel.in/widget/form/671780997c0fe"
-                style="width:100%;height:420px;border:none;border-radius:3px" id="inline-671780997c0fe"
-                data-form-name="Nerul - Dot Net FS Leads" data-layout-iframe-id="inline-671780997c0fe"
-                data-form-id="671780997c0fe" data-height="420" title="Nerul - Dot Net FS Leads">
+            <iframe src="https://app.topfunnel.in/widget/form/6717841bb0026"
+                style="width:100%;height:420px;border:none;border-radius:3px" id="inline-6717841bb0026"
+                data-form-name="Nerul Mern Stack Leads" data-layout-iframe-id="inline-6717841bb0026"
+                data-form-id="6717841bb0026" data-height="420" title="Nerul Mern Stack Leads">
             </iframe>
         </div>
     </div>
@@ -43,8 +43,8 @@
         <div class="container-lg">
             <div class="row py-5">
                 <div class="col-lg-8 col-md-7 col-12 px-5 p-md-0 pb-5">
-                    <img src="./assets/img/dotnet.png" width="60px" alt="">
-                    <h1 class=" pt-3">C# Dot Net <br> Training Program</h1>
+                    <img src="./assets/img/mern.svg" width="60px" alt="">
+                    <h1 class="pe-5">Mern Stack Intensive Training Program</h1>
                     <h3 class="fw-semibold text-center lh-lg"><i>Training + Development + Placement</i></h3>
                     <div class="row">
                         <div class="col-4 ">
@@ -62,30 +62,10 @@
                 </div>
                 <div class="col-lg-4 col-md-5 mx-auto p-4 col-11 bg-white  rounded">
                     <h4 class="text-center text-dark">Enquiry Form</h4>
-                    <!-- <form method="get" class="">
-                        <input class="form-control form-control-lg" id="Name" type="text" placeholder="Name" required
-                            name="Full Name" pattern="[a-zA-Z ~ ]+$" />
-
-                        <input class="form-control form-control-lg mt-3" id="Email" type="email"
-                            placeholder="Email address" name=".1954131211" name="Email ID" required />
-
-                        <input class="form-control form-control-lg mt-3" id="Phone" type="text"
-                            placeholder="Phone Number" name=".316633167" name="Calling Number" pattern="[0-9]{10}"
-                            required />
-                        <input class="form-control form-control-lg mt-3" id="Phone" type="text"
-                            placeholder="Phone Number" name=".316633167" name="Calling Number" pattern="[0-9]{10}"
-                            required />
-
-                        <div class="mt-3">
-                            <button type="submit" name="submit" class="btn btn-dark btn-lg">
-                                Submit
-                            </button>
-                        </div>
-                    </form> -->
-                    <iframe src="https://app.topfunnel.in/widget/form/671780997c0fe"
-                        style="width:100%;height:370px;border:none;border-radius:3px" id="inline-671780997c0fe"
-                        data-form-name="Nerul - Dot Net FS Leads" data-layout-iframe-id="inline-671780997c0fe"
-                        data-form-id="671780997c0fe" data-height="370" title="Nerul - Dot Net FS Leads">
+                    <iframe src="https://app.topfunnel.in/widget/form/6717841bb0026"
+                        style="width:100%;height:370px;border:none;border-radius:3px" id="inline-6717841bb0026"
+                        data-form-name="Nerul Mern Stack Leads" data-layout-iframe-id="inline-6717841bb0026"
+                        data-form-id="6717841bb0026" data-height="370" title="Nerul Mern Stack Leads">
                     </iframe>
                 </div>
             </div>
@@ -96,8 +76,8 @@
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
-                <h2 class="fw-bold mb-4 text-center">The Best .NET Course in Mumbai - <span class="blue"> CNC WEB
-                        WORLD</span></h2>
+                <h2 class="fw-bold mb-4 text-center">MERN Stack Developer Course in Thane – <span class="blue"> CNC Web
+                        World</span></h2>
             </div>
             <div class="row ">
                 <div class="col-lg-6 ">
@@ -105,54 +85,46 @@
                         alt="Saurabh Ganguli">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center ">
-                    <p>
-                        Are you looking for the <b>Best .NET course in Mumbai</b> to build a successful career in
-                        software development? <b>CNC WEB WORLD</b> is a leading <b>.NET training institute in
-                            Mumbai</b>, offering hands-on training, industry-relevant projects, and expert guidance to
-                        help you master .NET development.
+                    <p>Looking to become a full-stack web developer? CNC Web World brings you the most industry-relevant
+                        <strong>MERN Stack Developer Course in Thane</strong>, crafted to make you a professional
+                        developer ready to conquer today's job market.
                     </p>
-                    <h5 class="fw-bold">Why Choose .NET?</h5>
-                    <p>
-                        .NET is a powerful framework developed by Microsoft, widely used for building dynamic web
-                        applications, enterprise software, and mobile applications. It supports multiple languages like
-                        C#, VB.NET, and F#, making it one of the most versatile platforms in software development. With
-                        its strong integration with cloud technologies and extensive libraries, .NET remains a top
-                        choice for developers and organizations worldwide.
-                    </p>
-
+                    <p>Mastering the MERN stack—MongoDB, Express.js, React.js, and Node.js—opens doors to endless
+                        opportunities in web development, application creation, and backend engineering. Our structured
+                        course is perfect whether you are a beginner stepping into the tech world or an experienced
+                        professional wanting to upskill.</p>
                 </div>
             </div>
-            <div class="text-center mt-2">
-                <button class="btn btn-dark btn-lg" onclick="enquiry()">Enquire
-                    Now</button>
-            </div>
+                <div class="text-center mt-2">
+                    <button class="btn btn-dark btn-lg" onclick="enquiry()">Enquire
+                        Now</button>
+                </div>
         </div>
     </section>
     <!-- why-python end -->
     <!-- roadmap-image start -->
     <div class="container  mt-5 mb-3">
         <div class="row mx-3 mx-md-0 mt-5 mb-3 pt-4 rounded" style="box-shadow: rgba(0, 0, 0, 0.5) 0px 4px 24px;">
-            <img src="./assets/img/roadmap-dotnet.png" alt="" class="img-fluid">
+            <img src="./assets/img/roadmap-mern-fullstack.png" alt="" class="img-fluid">
         </div>
     </div>
     <!-- roadmap-image end -->
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">.NET Course in Mumbai - Overview</h4>
-            <p>At <b>CNC WEB WORLD,</b> we offer a structured and industry-relevant <b>.NET course in Mumbai</b> that
-                covers everything from the basics to advanced concepts. Our training is designed to provide you with
-                practical exposure, enabling you to build real-world applications confidently.
-            </p>
-            <h4 class="fw-bold blue">Who Should Enroll in the .NET Course?</h4>
-            <p>Our <b>.NET institute in Mumbai</b> caters to a wide range of learners, including:
-            </p>
+            <h4 class="fw-bold blue">Why Choose CNC Web World’s MERN Stack Developer Training in Thane?</h4>
+            <span>At <strong>CNC Web World</strong>, we understand the dynamic tech industry. That’s why our
+                <strong>MERN Stack Developer Training in Thane</strong> is designed to offer:</span>
             <ul>
-                <li> Freshers looking to start a career in software development.</li>
-                <li>Professionals aiming to upskill in .NET technologies.</li>
-                <li>Web developers who want to transition into full-stack development.</li>
-                <li>IT students seeking hands-on experience with .NET projects.</li>
+                <li><strong>Complete hands-on training on:</strong> live projects.</li>
+                <li><strong>Experienced instructors:</strong> with industry expertise.</li>
+                <li><strong>Multiple Batch Timings:</strong> Choose from Weekend, Weekday, or Fast-Track Programs.</li>
+                <li><strong>100% placement assistance:</strong> with real interview preparation.</li>
+                <li><strong>Certification:</strong> recognized by top companies.</li>
+
             </ul>
+            <span>We focus on practical skills, empowering you to <strong>learn MERN stack developer in Thane</strong>
+                with real-world applications.</span>
         </div>
     </div>
     <!-- course-content end -->
@@ -162,25 +134,17 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">What You Will Learn in Our .NET Course?</h4>
-            <p>Our comprehensive <b>.NET training institute in Mumbai</b> ensures that you master essential skills,
-                including:</p>
+            <h4 class="fw-bold blue">Who Should Join Our MERN Stack Developer Classes in Thane?</h4>
+            <span>Our <strong>MERN Stack Developer Classes in Thane</strong> are perfect for:</span>
             <ul>
-                <li> <b>Fundamentals of .NET Framework –</b> Introduction to .NET, CLR, CTS, and Memory Management.</li>
-                <li><b>C# Programming –</b> Data types, variables, loops, methods, and exception handling.</li>
-                <li><b>Object-Oriented Programming (OOPs) in .NET –</b> Classes, objects, inheritance, polymorphism,
-                    encapsulation, and abstraction.</li>
-                <li><b>Windows Forms and Desktop Applications –</b> Developing user-friendly GUI applications.</li>
-                <li><b>ASP.NET MVC and Web Development –</b> Creating dynamic websites using ASP.NET MVC.</li>
-                <li><b>Entity Framework and Database Management –</b> Working with SQL Server, LINQ, and ADO.NET.</li>
-                <li><b>Web API and RESTful Services –</b> Developing API-based applications for modern web solutions.
-                </li>
-                <li><b>.NET Core and Cloud Integration –</b> Deploying applications on Azure and working with
-                    cloud-based solutions.</li>
-                <li><b>Hands-on Projects –</b> Live project experience to apply theoretical knowledge in real-world
-                    scenarios.</li>
+                <li><strong>Fresh Graduates</strong> wanting to enter the IT industry.</li>
+                <li><strong>Professionals</strong> aiming to switch to full-stack development.</li>
+                <li><strong>Entrepreneurs </strong> who wish to build web applications themselves.</li>
+                <li><strong>Freelancers</strong> looking to sharpen their tech skills.</li>
 
             </ul>
+            <span>If you have a passion for coding and technology, this course will help you <strong>learn MERN stack
+                    developer in Thane</strong> easily—even if you’re starting from scratch!</span>
         </div>
     </div>
     <!-- course-content end -->
@@ -189,7 +153,7 @@
         <div class="container-lg">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h2 class="fw-bold mb-4 text-white">C# Dot Net Curriculum</h2>
+                    <h2 class="fw-bold mb-4 text-white">Mern Stack Developer Curriculum</h2>
                 </div>
             </div>
         </div>
@@ -239,37 +203,39 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#cdotnet" aria-expanded="true" aria-controls="cdotnet">
-                                    C# .Net
+                                    data-bs-target="#webDesign" aria-expanded="true" aria-controls="webDesign">
+                                    Web Design
                                     <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
-                                        style="font-size: 12px;">#Backend</span>
+                                        style="font-size: 12px;">#Frontend</span>
                                     <span class="ms-auto">
                                         <img src="./assets/img/clock.svg" alt="">
                                         4 Weeks
                                     </span>
                                 </button>
                             </h2>
-                            <div id="cdotnet" class="accordion-collapse collapse show"
+                            <div id="webDesign" class="accordion-collapse collapse show"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
-                                                <li>Introduction to C# and .NET Framework</li>
-                                                <li>Data Types, Variables & Operators</li>
-                                                <li>Control Flow (Loops, Conditions)</li>
-                                                <li>Exception Handling & Debugging</li>
-                                                <li>Object-Oriented Programming (Classes, Objects, Inheritance,
-                                                    Polymorphism)</li>
+                                                <li>Weaving the World Wide Web</li>
+                                                <li>Text Formatting tags</li>
+                                                <li>HTML structures</li>
+                                                <li>Transformers of the Web (CSS)</li>
+                                                <li>Unlocking creative toolbox (CSS Properties)</li>
+                                                <li>Responsive Utilities</li>
+                                                <li>Bootstrap</li>
                                             </ul>
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                                <li>Collections & Generics</li>
-                                                <li>File Handling & Serialization</li>
-                                                <li>LINQ (Language Integrated Query)</li>
-                                                <li>Multithreading & Asynchronous Programming</li>
-                                                <li>Entity Framework Core (EF Core)</li>
+                                                <li>Introduction to Javascript</li>
+                                                <li>Conditional and Control Statements</li>
+                                                <li>Javascript Function</li>
+                                                <li>Javascript Objects</li>
+                                                <li>Document Object Model</li>
+                                                <li> Modern Javascript</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -279,35 +245,111 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#aspdotnet" aria-expanded="false" aria-controls="aspdotnet">
-                                    ASP .Net
+                                    data-bs-target="#react" aria-expanded="false" aria-controls="react">
+                                    React
                                     <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
-                                        style="font-size: 12px;">#Backemd</span>
+                                        style="font-size: 12px;">#Frontend</span>
                                     <span class="ms-auto">
                                         <img src="./assets/img/clock.svg" alt="">
                                         4 Weeks
                                     </span>
                                 </button>
                             </h2>
-                            <div id="aspdotnet" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div id="react" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
-                                                <li>Introduction to ASP.NET Core & .NET 6/7/8</li>
-                                                <li>MVC Architecture (Model-View-Controller)</li>
-                                                <li>Razor Pages & Views</li>
-                                                <li>Dependency Injection in ASP.NET Core</li>
-                                                <li>Middleware & Routing</li>
+                                                <li>Introduction to ReactJS</li>
+                                                <li>Component, Props and State</li>
+                                                <li>Displaying Components</li>
+                                                <li>Handling Side-Effects</li>
+                                                <li>React Router (v6)</li>
+                                                <li> Handling Forms in React</li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <ul>
+                                                <li>Github Card List App</li>
+                                                <li>JSX</li>
+                                                <li>React Context & Reducers</li>
+                                                <li>Handline Errors in React</li>
+                                                <li>Testing in React</li>
+                                                <li>React Building & Deployment - Vercel/Netlify</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#node" aria-expanded="false" aria-controls="node">
+                                    Node Js
+                                    <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
+                                        style="font-size: 12px;">#Backend</span>
+                                    <span class="ms-auto">
+                                        <img src="./assets/img/clock.svg" alt="">
+                                        2 Weeks
+                                    </span>
+                                </button>
+                            </h2>
+                            <div id="node" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="row">
+                                        <div class="col-sm-6">
+                                            <ul>
+                                                <li>Introduction to Node.js & Its Architecture</li>
+                                                <li>Setting Up Node.js Environment</li>
+                                                <li> Asynchronous Programming & Event Loop</li>
+                                                <li>Node.js Modules & NPM Packages</li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <ul>
+                                                <li>File System & Streams in Node.js</li>
+                                                <li>Working with HTTP & HTTPS Modules</li>
+                                                <li>Building CLI Applications with Node.js</li>
+                                                <li>Introduction to Web Frameworks (Express.js)</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#express" aria-expanded="false" aria-controls="express">
+                                    Express Js
+                                    <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
+                                        style="font-size: 12px;">#Backend</span>
+                                    <span class="ms-auto">
+                                        <img src="./assets/img/clock.svg" alt="">
+                                        3 Weeks
+                                    </span>
+                                </button>
+                            </h2>
+                            <div id="express" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="row">
+                                        <div class="col-sm-6">
+                                            <ul>
+                                                <li>Introduction to Express.js & Its Features</li>
+                                                <li>Setting Up Express.js Project</li>
+                                                <li>Routing & Middleware in Express.js</li>
+                                                <li>Handling Requests & Responses</li>
+                                                <li>Template Engines (EJS, Handlebars, Pug)</li>
                                             </ul>
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
                                                 <li>Authentication & Authorization (JWT, OAuth)</li>
-                                                <li>Entity Framework Core with ASP.NET Core</li>
-                                                <li>API Development with ASP.NET Core</li>
-                                                <li>ASP.NET Core Identity & Security</li>
-                                                <li>Deployment & Hosting (IIS, Azure, Docker)</li>
+                                                <li>RESTful API Development with Express.js</li>
+                                                <li>Error Handling & Logging in Express.js</li>
+                                                <li>WebSockets & Real-time Communication (Socket.io)</li>
+                                                <li> Deploying Express.js Applications</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -317,78 +359,35 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#webapi" aria-expanded="false" aria-controls="webapi">
-                                    Web API
+                                    data-bs-target="#mangodb" aria-expanded="false" aria-controls="mangodb">
+                                    MangoDB
                                     <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
                                         style="font-size: 12px;">#Database</span>
                                     <span class="ms-auto">
                                         <img src="./assets/img/clock.svg" alt="">
-                                        4 Weeks
+                                        1 Week
                                     </span>
                                 </button>
                             </h2>
-                            <div id="webapi" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div id="mangodb" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <ul>
-                                                <li>Introduction to Web API & RESTful Services</li>
-                                                <li>Creating APIs with ASP.NET Core</li>
-                                                <li>HTTP Methods (GET, POST, PUT, DELETE)</li>
-                                                <li>Request & Response Handling (Model Binding, Validation)</li>
-                                                <li>Authentication & Authorization in Web APIs</li>
+                                                <li>Introduction to NoSQL & MongoDB</li>
+                                                <li>Installing & Setting Up MongoDB</li>
+                                                <li>CRUD Operations in MongoDB</li>
+                                                <li>Indexing & Aggregation Framework</li>
+                                                <li>MongoDB Data Models (Documents, Collections)</li>
                                             </ul>
                                         </div>
                                         <div class="col-sm-6">
                                             <ul>
-                                                <li>Versioning & Documentation (Swagger)</li>
-                                                <li>Exception Handling & Logging</li>
-                                                <li>Consuming APIs in Frontend (Angular, React, Postman)</li>
-                                                <li>Securing APIs with JWT & OAuth</li>
-                                                <li>Deploying Web APIs (Azure, AWS, Docker)</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#sql" aria-expanded="false" aria-controls="sql">
-                                    SQL
-                                    <span class="bg-success text-white rounded-pill fw-normal p-1 ms-2"
-                                        style="font-size: 12px;">#Database</span>
-                                    <span class="ms-auto">
-                                        <img src="./assets/img/clock.svg" alt="">
-                                        4 Weeks
-                                    </span>
-                                </button>
-                            </h2>
-                            <div id="sql" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <div class="row">
-                                        <div class="col-sm-6">
-                                            <ul>
-                                                <li>Introduction to Computer Essentials</li>
-                                                <li>Computational Thinking</li>
-                                                <li>Coding Construct</li>
-                                                <li>SQL Launchpad</li>
-                                                <li>Crafting SQL Databases (DDL)</li>
-                                                <li>ER Diagram and Normalization</li>
-                                                <li>Querying into Data (DQL)</li>
-                                                <li>Mastering Data Control (DML)</li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-sm-6">
-                                            <ul>
-                                                <li>Unlock the Built in Functions</li>
-                                                <li>Subquery</li>
-                                                <li>Connecting Data for Insights (Joins)</li>
-                                                <li>Views</li>
-                                                <li>Customising SQL (Stored Procedure & Functions)</li>
-                                                <li>Cursor</li>
-                                                <li>Automating SQL (Triggers)</li>
+                                                <li>MongoDB Schema Design & Relationships</li>
+                                                <li>Mongoose ODM (Object Data Modeling)</li>
+                                                <li>Authentication & Security in MongoDB</li>
+                                                <li>Replication & Sharding in MongoDB</li>
+                                                <li>MongoDB with Node.js & Express.js</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -529,19 +528,68 @@
         </div>
     </section>
     <!-- courseDetails section end -->
+
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Key Features of Our .NET Training Institute in Mumbai</h4>
-            <ul>
-                <li> <b>Expert Trainers –</b> Learn from experienced industry professionals.</li>
-                <li><b>Practical Training –</b> Hands-on coding and project-based learning.</li>
-                <li><b>Flexible Batch Timings –</b> Weekend and weekday classes available.</li>
-                <li><b>Live Projects –</b> Work on real-time applications to gain industry exposure.</li>
-                <li><b>100% Job Assistance –</b> Resume building, interview preparation, and placement support.</li>
-                <li><b>Industry-Recognized Certification –</b> Enhance your career prospects with our professional
-                    certification.</li>
-            </ul>
+            <h4 class="fw-bold blue">What is Covered in the MERN Stack Developer Certification Course in Thane?</span>
+            </h4>
+            <p>Our <strong>MERN Stack Developer Certification Course in Thane</strong> offers a comprehensive syllabus
+                that makes you job-ready from Day 1. Here’s what you will master:</p>
+            <div class="row">
+                <div class="col-md-6">
+                    <h6 class="fst-italic fw-semibold blue"> <span class=" fw-bold" style="color:#F8312F;"> 📌 MongoDB 1
+                            :</span> Mastering Databases:</h6>
+                    <ul>
+                        <li>Introduction to NoSQL Databases.</li>
+                        <li>CRUD Operations (Create, Read, Update, Delete).</li>
+                        <li>Indexing and Aggregation.</li>
+                        <li>Data Modeling and Schema Design.</li>
+
+                    </ul>
+                    <h6 class="fst-italic fw-semibold blue"> <span class=" fw-bold" style="color:#F8312F;"> 📌
+                            Express.js 2
+                            :</span> Building Server-Side Applications:</h6>
+                    <ul>
+                        <li> RESTful API Development.</li>
+                        <li> Middleware Integration.</li>
+                        <li>Authentication and Authorization.</li>
+                        <li>Connecting Express to MongoDB.</li>
+
+                    </ul>
+                    <h6 class="fst-italic fw-semibold blue"> <span class=" fw-bold" style="color:#F8312F;"> 📌 React.js
+                            3
+                            :</span> Creating Dynamic User Interfaces :</h6>
+                    <ul>
+                        <li>Components, Props, and States.</li>
+                        <li>Hooks: useState, useEffect, useContext.</li>
+                        <li>Router for navigation.</li>
+                        <li>Effective State Management Through Redux and Context API</li>
+
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <h6 class="fst-italic fw-semibold blue"> <span class=" fw-bold" style="color:#F8312F;"> 📌 Node.js 4
+                            :</span> Powering the Server :</h6>
+                    <ul>
+                        <li>Core Node Modules.</li>
+                        <li>Asynchronous Programming with Callbacks, Promises, and Async/Await.</li>
+                        <li>File System Handling.</li>
+                        <li>Building scalable network applications.</li>
+                    </ul>
+                    <h6 class="fst-italic fw-semibold blue"> <span class=" fw-bold" style="color:#F8312F;"> 📌 5
+                            :</span> Additional Skills :</h6>
+                    <ul>
+                        <li>Deployment on Heroku and Netlify.</li>
+                        <li>Git, GitHub, and Version Control.</li>
+                        <li>Best Practices for Secure Web Development.</li>
+                        <li>Debugging, Testing, and Optimization.</li>
+                    </ul>
+                </div>
+                <p>By enrolling in CNC Web World's <strong>mern stack developer certification training in
+                        Thane</strong>, you are not just learning theory—you are building real projects that reflect
+                    real-world needs.</p>
+            </div>
         </div>
     </div>
     <!-- course-content end -->
@@ -651,57 +699,71 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">.NET Training in Mumbai with Placement Assistance</h4>
-            <p><b>CNC WEB WORLD</b> is not just a <b>.NET training institute in Mumbai</b> we also provide job-oriented
-                .NET training
-                with placement support. Our career assistance services include:</p>
+            <h4 class="fw-bold blue">Career Advantages Upon Completing MERN Stack Developer Training in Thane </h4>
+            <span>Upon completing the course, you can expect exciting career opportunities such as:</span>
             <ul>
-                <li>Resume building and LinkedIn profile optimization.</li>
-                <li>Mock interviews and soft skills training.</li>
-                <li>Job referrals and placement opportunities with top IT firms.</li>
-                <li>Internship programs for practical industry exposure.</li>
+                <li>Full Stack Developer</li>
+                <li>Frontend Developer (React.js Specialist)</li>
+                <li>Backend Developer (Node.js Expert)</li>
+                <li>Web Application Developer</li>
+                <li>Software Engineer</li>
+
             </ul>
+            <p>Thanks to the high demand for web developers, certified MERN Stack professionals often enjoy salaries
+                ranging between ₹5 lakh to ₹15 lakh per annum. Joining our <strong> mern stack developer institutes in Thane</strong> guarantees you access to countless
+                job opportunities in startups, MNCs, and tech giants.</p>
+            <h4 class="fw-bold blue"> Why MERN Stack? – The Future of Web Development</h4>
+            <span>Learning the MERN Stack is crucial because:</span>
+            <ul>
+                <li> <strong>JavaScript Dominance: </strong> One language across the full stack.</li>
+                <li> <strong>High Performance:</strong> Node.js ensures scalable, high-performing apps.</li>
+                <li><strong>Dynamic UI:</strong> React.js provides smooth, modern user interfaces.</li>
+                <li><strong>Powerful Backend:</strong> Express.js and MongoDB create robust server-side functionality.
+                </li>
+                <li><strong>Massive Demand:</strong> Full Stack Developers are among the most sought-after professionals
+                    globally.</li>
+            </ul>
+            <span>Opting to learn <strong>MERN Stack development in Thane</strong> is your move toward securing a
+                future-proof career!</span>
         </div>
     </div>
     <!-- course-content end -->
     <!-- keyHighlights section start -->
     <?php include 'common/keyHighlights.php' ?>
     <!-- keyHighlights section end -->
-    <!-- course-content start -->
-    <div class="course-content">
-        <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Career Opportunities After Completing Our .NET Course</h4>
-            <p>After completing the <b>.NET course in Mumbai</b>, you can explore various career opportunities,
-                including:</p>
-            <ul>
-                <li> .NET Developer</li>
-                <li> Software Engineer</li>
-                <li> Full-Stack Developer</li>
-                <li> Web Application Developer</li>
-                <li> Cloud Application Developer</li>
-                <li> Backend Developer</li>
-                <li> Database Administrator</li>
-            </ul>
-        </div>
-    </div>
-    <!-- course-content end -->
+    <!-- benefits  section start -->
+    <?php include 'common/benefits.php' ?>
+    <!-- benefits  section end -->
     <!-- brochure section start -->
     <?php include 'common/download.php' ?>
     <!-- brochure section end -->
+
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Why CNC WEB WORLD is the Best .NET Institute in Mumbai?</h4>
-            <p>Choosing the right <b>.NET training institute in Mumbai</b> is crucial for a successful career in
-                software
-                development. Here’s why CNC WEB WORLD stands out:</p>
-            <ul>
-                <li><b>Industry-Updated Curriculum –</b> Learn the latest trends and technologies in .NET.</li>
-                <li><b>Hands-on Training Approach –</b> Get extensive coding experience through live projects.</li>
-                <li><b>Affordable Course Fees –</b> Quality training at an affordable price.</li>
-                <li><b>Dedicated Placement Cell –</b> 100% job assistance with career guidance.</li>
-                <li><b>Interactive Learning Environment –</b> Small batch sizes for personalized attention.</li>
+            <h4 class="fw-bold blue">Practical Learning Approach</h4>
+            <p>At CNC Web World, we believe in "learning by doing." Our <strong>mern stack developer certification
+                    training in Thane</strong> emphasizes:</p>
+            <ul class="fw-semibold">
+                <li>Real-world projects like E-commerce websites, Social Media apps, Blog platforms.</li>
+                <li>Hands-on sessions every week.</li>
+                <li>Regular coding challenges to test and improve your skills.</li>
+                <li>Deployment training on AWS, Heroku, Netlify.</li>
+                <li>Resume building workshops and mock interviews.</li>
             </ul>
+            <p>Our aim is to make you confident to attend technical interviews and land high-paying jobs.</p>
+            <h4 class="fw-bold blue">Job Placement Assistance with Our MERN Stack Developer Certification Course in
+                Thane
+            </h4>
+            <span>CNC Web World is proud to provide <strong>100% placement assistance</strong> to every student. We help
+                you with:</span>
+            <ul class="fw-semibold">
+                <li>Resume building and LinkedIn optimization.</li>
+                <li>Conducting mock interviews and technical tests.</li>
+                <li>Scheduling interviews with top companies.</li>
+                <li>Internship opportunities for freshers.</li>
+            </ul>
+            <p>Our strong industry network ensures you get placed in reputed IT companies once you complete the <strong>MERN Stack Developer Course in Thane</strong>.</p>
         </div>
     </div>
     <!-- course-content end -->
@@ -710,30 +772,40 @@
         <div class="container py-5 px-4 px-md-0">
             <div class="row">
                 <div class="col-12 text-center my-3">
-                    <h2 class="fw-bolder">Programming Languages & Tools Covered in C# Dot Net Developer Course
+                    <h2 class="fw-bolder">Programming Languages & Tools Covered in Mern Stack Developer Course
                     </h2>
                 </div>
 
             </div>
             <div class="row">
                 <div class="col-12 rounded-4 border py-3 px-4 bg-white shadow">
-                    <div class="row text-center row-cols-lg-6 row-cols-md-3 row-cols-sm-3 row-cols-2  mx-auto">
-
-
+                    <div class="row text-center row-cols-lg-6 row-cols-md-4 row-cols-sm-3 row-cols-2  mx-auto">
                         <div class="col">
-                            <img src="./assets/img/dotnet.png" alt="" class="img-fluid">
+                            <img src="./assets/img/HTML-b.svg" alt="" class="img-fluid">
                         </div>
                         <div class="col">
-                            <img src="./assets/img/asp-net-core.webp" alt="" class="img-fluid">
+                            <img src="./assets/img/CSS3.svg" alt="" class="img-fluid">
                         </div>
                         <div class="col">
-                            <img src="./assets/img/asp-net-mvc.png" alt="" class="img-fluid">
+                            <img src="./assets/img/javascript-b.svg" alt="" class="img-fluid">
                         </div>
                         <div class="col">
-                            <img src="./assets/img/api.png" alt="" class="img-fluid">
+                            <img src="./assets/img/bootstrap.png" alt="" class="img-fluid">
                         </div>
                         <div class="col">
-                            <img src="./assets/img/mysql.png" alt="" class="img-fluid">
+                            <img src="./assets/img/tailwind-css-b.svg" alt="" class="img-fluid">
+                        </div>
+                        <div class="col">
+                            <img src="./assets/img/React-b.svg" alt="" class="img-fluid">
+                        </div>
+                        <div class="col">
+                            <img src="./assets/img/nodejs.png" alt="" class="img-fluid">
+                        </div>
+                        <div class="col">
+                            <img src="./assets/img/express-js.png" alt="" class="img-fluid">
+                        </div>
+                        <div class="col">
+                            <img src="./assets/img/mongodb-b.svg" alt="" class="img-fluid">
                         </div>
                         <div class="col">
                             <img src="./assets/img/aws.png" alt="" class="img-fluid">
@@ -750,6 +822,23 @@
         </div>
     </section>
     <!-- programmingTools section end -->
+
+    <!-- course-content start -->
+    <div class="course-content">
+        <div class="container-lg px-4 px-lg-0 py-5">
+            <h4 class="fw-bold blue">Key Highlights of CNC Web World's MERN Stack Developer Classes in Thane</h4>
+            <ul>
+                <li><strong>Experienced Faculty:</strong> Learn from tech leaders.</li>
+                <li><strong>Live Projects:</strong> Work on real-time applications.</li>
+                <li><strong>Limited Batch Size:</strong> Focused guidance for each student.</li>
+                <li><strong>Lifetime Access:</strong> To study material and coding assignments.</li>
+                <li><strong>Soft Skills Training:</strong> Improve your communication and interview skills.</li>
+                <li><strong>Certificate:</strong> Get your MERN Stack Developer Certification.</li>
+            </ul>
+            <span>Choosing <strong>CNC Web World’s mern stack developer institutes in Thane </strong> ensures your career is in safe hands!</span>
+        </div>
+    </div>
+    <!-- course-content end -->
     <!-- roadMapStep start -->
     <?php include 'common/roadMapStep.php' ?>
     <!-- roadMapStep end -->
@@ -765,26 +854,24 @@
     <!-- linkWhatsapp start -->
     <?php include './common/linkwhatsapp.php' ?>
     <!-- linkWhatsapp end -->
-
     <!-- faqs-footer section start -->
     <section id="faqs-footer">
         <div class="container-lg py-5 px-4 px-lg-0">
-            <h2 class="fw-bold text-center py-3 ">
-                Frequently Asked Questions
+            <h2 class="fw-bold text-center py-3">
+                FAQs About MERN Stack Developer Training in Thane
             </h2>
             <div class="accordion" id="accordionExample2">
                 <div class="accordion-item">
                     <h2 class="accordion-header">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                            <span class="fw-semibold">What is .NET and why should I learn it? </span>
+                            <span class="fw-semibold">How long does it take to finish the MERN Stack Developer Course in Thane?</span>
                         </button>
                     </h2>
                     <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>.NET is a software framework by Microsoft used for developing web, desktop, and mobile
-                                applications. Learning .NET enhances your coding skills and opens doors to numerous job
-                                opportunities in the IT industry.</p>
+                            <p> The course runs for approximately <strong>4-5 months</strong>, depending on the batch type (regular/fast-track).
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -792,14 +879,14 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                            <span class="fw-semibold">What are the prerequisites for enrolling in the .NET course?
-                            </span>
+                            <span class="fw-semibold">Do I need prior coding experience?</span>
                         </button>
                     </h2>
                     <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Basic programming knowledge is beneficial, but beginners can also enroll as we start from
-                                fundamentals.</p>
+                            <p>
+                                No prior experience is needed. Our training is beginner-friendly, and we start from the basics.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -807,13 +894,12 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                            <span class="fw-semibold">What is the duration of the .NET course in Mumbai? </span>
+                            <span class="fw-semibold"> What certifications will I receive?</span>
                         </button>
                     </h2>
                     <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Our .NET course runs for 2-3 months, covering all essential concepts along with hands-on
-                                projects.</p>
+                            <p> Once you complete the course, CNC Web World will give you a recognized <strong>MERN Stack Developer Certificate</strong>.</p>
                         </div>
                     </div>
                 </div>
@@ -821,13 +907,13 @@
                     <h2 class="accordion-header ">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                            <span class="fw-semibold">Do I get a certification upon course completion?</span>
+                            <span class="fw-semibold">What companies hire MERN Stack Developers?</span>
                         </button>
                     </h2>
                     <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Yes! Upon successful completion, you will receive an industry-recognized certification
-                                from CNC WEB WORLD. </p>
+                            <p> Big names like Infosys TCS, Capgemini Wipro, Cognizant, and many new companies are on the lookout for MERN stack developers.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -835,13 +921,13 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
-                            <span class="fw-semibold">Do you offer placement support?</span>
+                            <span class="fw-semibold">How much can you expect to earn after finishing this course?</span>
                         </button>
                     </h2>
                     <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p> Yes, CNC WEB WORLD provides 100% job assistance through resume building, interview
-                                preparation, and direct placement opportunities with top IT firms.</p>
+                            <p> Freshers typically start at <strong>₹4.5 LPA to ₹6 LPA</strong>, while experienced candidates can earn up to <strong>₹15 LPA or more</strong>.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -849,13 +935,13 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
-                            <span class="fw-semibold">What real-world projects will be included in the training?</span>
+                            <span class="fw-semibold">What if I miss a class?</span>
                         </button>
                     </h2>
                     <div id="collapse6" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>You will work on real-world projects, including web applications, e-commerce platforms,
-                                and database-driven systems to enhance your practical skills.</p>
+                            <p> We provide backup sessions and access to recorded lectures so you can catch up easily.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -866,25 +952,20 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 py-5 px-lg-0 ">
-            <h4 class="fw-bold blue">Enroll in the Best .NET Training Institute in Mumbai Today!</h4>
-            <p>
-                If you’re looking to build a strong foundation in .NET and secure a promising career, <b>CNC WEB
-                    WORLD</b> is
-                the perfect place to start. Join our <b>.NET training institute in Mumbai</b> and take the first step
-                toward a
-                successful career in software development.
+            <h4 class="fw-bold blue">Enroll in CNC Web World's MERN Stack Developer Course in Thane Today!</h4>
+            <p>If you are serious about building a future in web development, there’s no better place to start than <strong>CNC Web World</strong>. Our <strong>MERN Stack Developer Course in Thane</strong> is designed to help you learn the skills, gain practical experience, and land your dream job.
             </p>
             <ul type="none" class="px-0">
                 <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
                     Session .</li>
-               <li><b>📍 Visit us at:</b> [ <a href="https://maps.app.goo.gl/UBcTuWiEUj2aS1nXA"> Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
-                Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 </a> ]</li>
+                <li><b>📍 Visit us at:</b> [ <a href="https://maps.app.goo.gl/UBcTuWiEUj2aS1nXA"> Second Floor, Nerul
+                        Railway Station Complex, Office No, F-201 & 203, above
+                        Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 </a> ]</li>
                 <li>
                     <b>🌐 Website: </b> [<a
                         href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]
                 </li>
             </ul>
-            <span>Kickstart your journey with the <b>Best .NET course in Mumbai</b> today!</span>
         </div>
     </div>
     <!-- course-content end -->

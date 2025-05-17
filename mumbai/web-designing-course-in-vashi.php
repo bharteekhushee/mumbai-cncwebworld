@@ -4,11 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Join CNC Web World's Web Development Course in Mumbai</title>
+    <title>Web Designing Course in Vashi, Mumbai | Best Web Design Training with Placement</title>
     <meta name="description"
-        content="Join CNC Web World’s Full Stack Web Developer Course in Mumbai Get hands-on training and become a skilled web developer ready for the job market!">
+        content="Learn professional web designing at CNC Web World in Vashi. Master HTML, CSS, JavaScript, and UI/UX tools with hands-on projects, expert trainers, and 100% placement support.">
     <meta name="keywords"
-        content="web development courses in mumbai with placement, web development courses fees in Mumbai, web development courses in Mumbai, web development classes in Mumbai, web development training in Mumbai, web design course in Mumbai, website design course in Mumbai, web developer course in mumbai">
+        content="web designing course in Vashi, web designing course fees in Vashi, web development course in vashi, web development training in vashi, web development course fees in vashi , web development certification course in vashi, web development certification training in vashi, web development classes in vashi, web development institutes in vashi , learn web development in vashi, learn web development course in vashi,  web development training and placement in vashi , web development online course in vashi, web development online training in vashi , web development training course in vashi, web development training institutes in vashi, top web development training institutes in vashi, best web development training institute in vashi, best institute for web development course in vashi, best classes for web development course in vashi, web development course with fees in vashi, web development course near me in vashi, web development placement training course in vashi">
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
@@ -848,11 +848,11 @@
             <p>
                 If you’re looking for a trusted institute to learn <b>web development course in Vashi</b>, your search ends here. <b>CNC Web World</b> has been transforming beginners into professionals for over a decade. With experienced faculty, live project training, and career support, you’ll have everything you need to succeed. </p>
           
-            <ul type="none">
+            <ul type="none" class="px-0">
                 <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
                     Session</li>
-                <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
-                    Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
+               <li><b>📍 Visit us at:</b> [ <a href="https://maps.app.goo.gl/UBcTuWiEUj2aS1nXA"> Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
+                Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 </a> ]</li>
                 <li>
                     <b>🌐 Website: </b> [<a
                         href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]

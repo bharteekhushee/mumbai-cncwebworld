@@ -4,12 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Join CNC Web World's Web Development Course in Thane</title>
+    <title>Web Designing Course in Thane, Mumbai | Best Web Design Training with Placement</title>
     <meta name="description"
-        content="Join CNC Web World’s Full Stack Web Developer Course in Mumbai Get hands-on training and become a skilled web developer ready for the job market!">
-    <meta name="keywords"
-        content="web development courses in mumbai with placement, web development courses fees in Mumbai, web development courses in Mumbai, web development classes in Mumbai, web development training in Mumbai, web design course in Mumbai, website design course in Mumbai, web developer course in mumbai">
-    <?php include 'common/headerlink.php' ?>
+        content="Learn web design at CNC Web World in Thane. Master HTML, CSS, JavaScript, and design tools with hands-on projects and expert instructors. Get placement support and kickstart your design career.">
+     <meta name="keywords"
+        content="web designing course in Thane, web designing course fees in Thane, web designing course in thane, web designing training in thane, web designing certification course in thane, web designing certification training in thane, web designing classes in thane, web designing institutes in thane, learn web designing in thane, learn web designing course in thane, web designing training course in thane, web designing training institutes in thane, top web designing training institutes in thane, web development course in thane, web designing in thane, web development classes in thane, web developer course in thane">
+         <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
 
@@ -806,11 +806,11 @@
             </p>
             <span>🚀 Enroll now in the best web designing and web development course in Thane and take the first step
                 towards a bright digital career!</span>
-            <ul type="none">
+            <ul type="none" class="px-0">
                 <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
                     Session</li>
-                <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
-                    Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
+               <li><b>📍 Visit us at:</b> [ <a href="https://maps.app.goo.gl/UBcTuWiEUj2aS1nXA"> Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
+                Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 </a> ]</li>
                 <li>
                     <b>🌐 Website: </b> [<a
                         href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]

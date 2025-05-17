@@ -4,12 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Join CNC Web World's Web Development Course in Mumbai</title>
+    <title>Web Designing Course in Belapur, Mumbai | Top Web Design Training Institute</title>
     <meta name="description"
-        content="Join CNC Web World’s Full Stack Web Developer Course in Mumbai Get hands-on training and become a skilled web developer ready for the job market!">
-    <meta name="keywords"
-        content="web development courses in mumbai with placement, web development courses fees in Mumbai, web development courses in Mumbai, web development classes in Mumbai, web development training in Mumbai, web design course in Mumbai, website design course in Mumbai, web developer course in mumbai">
-    <?php include 'common/headerlink.php' ?>
+        content="Join CNC Web World’s web designing course in Belapur and learn HTML, CSS, JavaScript, and UI/UX design with hands-on training, expert faculty, and 100% placement support. ">
+    <meta name="keywords" content="web development course in belapur , web development training in belapur, web development course fees in belapur, web development certification course in belapur, web development certification training in belapur, web development classes in belapur, web development institutes in belapur, learn web development in belapur, learn web development course in belapur, learn web development course online in belapur, web development online course in belapur, web development online training in belapur, web development training course in belapur, web development training institutes in belapur, top web development training institutes in belapur, best web development training institute in belapur, best institute for web development course in belapur, best classes for web development course in belapur, web development course with fees in belapur, web development course near me in belapur, web development placement training course in belapur, web development training and placement in belapur">
+        <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
 
@@ -828,11 +827,11 @@
             <p>
                 If you're ready to step into the exciting world of web development and design, <strong>CNC Web World’s web development classes in Belapur </strong>are your gateway to success. With expert mentorship, project-based learning, and full placement support, you're not just learning – you're building your future.
             </p>
-            <ul type="none">
+            <ul type="none" class="px-0">
                 <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
                     Session</li>
-                <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
-                    Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 ]</li>
+               <li><b>📍 Visit us at:</b> [ <a href="https://maps.app.goo.gl/UBcTuWiEUj2aS1nXA"> Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
+                Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 </a> ]</li>
                 <li>
                     <b>🌐 Website: </b> [<a
                         href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]

@@ -5,10 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
-        content="CNC Web World’s Software Testing Course in Navi Mumbai provides hands-on training and career support. Learn essential skills and start your path to success!">
-        <meta name="keywords"
-        content="software testing course in Mumbai, software testing course in mumbai with job guarantee, software testing certification course in Mumbai, software testing course in navi Mumbai, software testing course fees in Mumbai, software testing course in mumbai with course fees, best software testing course in mumbai">
-    <title>Join CNC Web World's Software Testing Course in Mumbai</title>
+        content="Enroll in CNC Web World’s software testing course in Thane and learn manual and automation testing with real-time projects, expert trainers, and guaranteed placement support.">
+   <meta name="keywords" content="software testing institute in Thane, software testing course in thane, software testing training in thane, software testing course fees in thane, software testing certification course in thane, software testing certification training in thane, software testing institutes in thane, software testing classes in thane, learn software testing in thane, learn software testing course in thane, learn software testing course offline in thane, software testing offline course in thane, software testing offline training in thane, software testing training course in thane, software testing training institutes in thane, top software testing training institutes in thane, best software testing training institute in thane, best institute for software testing course in thane, best classes for software testing course in thane, software testing course with fees in thane, software testing course near me in thane, software testing placement training course in thane, software testing training and placement in thane">
+        <title>Software Testing Course in Thane, Mumbai | Practical Training with Placement</title>
     <?php include 'common/headerlink.php' ?>
     <link rel="stylesheet" href="./assets/css/commonstyle-course.css">
 </head>
@@ -96,8 +95,8 @@
     <section id="why-python">
         <div class="container py-5">
             <div class="row">
-                <h2 class="fw-bold mb-4 text-center">Software Testing Course in Mumbai – <span class="blue">CNC WEB
-                        WORLD</span></h2>
+                <h2 class="fw-bold mb-4 text-center">Software Testing Course in Thane – <span class="blue">CNC Web
+                        World</span></h2>
             </div>
             <div class="row ">
                 <div class="col-lg-6 ">
@@ -105,18 +104,16 @@
                         alt="Saurabh Ganguli">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center ">
-                    <p>
-                        Looking to start a career in software testing? Want to enroll in the <strong>Best Software
-                            Testing Course in Navi Mumbai</strong> with hands-on training and job placement assistance?
-                        <strong>CNC WEB WORLD</strong> offers one of the most comprehensive and industry-relevant
-                        <strong>software testing certification courses in Mumbai</strong> tailored to kick-start your
-                        journey in quality assurance and software testing.
+                    <p>Are you searching for a trusted <strong>software testing institute in Thane</strong> to begin
+                        your IT career or enhance your skill set? <strong>CNC Web World</strong> proudly offers one of
+                        the most comprehensive and practical <strong>software testing courses in Thane</strong>,
+                        tailored for beginners, graduates, job seekers, and working professionals aiming to step
+                        confidently into the QA and software testing domain.
                     </p>
-                    <p>
-                        Whether you're a fresher stepping into the IT industry or a professional looking to switch your
-                        career path, our <strong>software testing course in Mumbai</strong> with job guarantee is
-                        designed to equip you with in-demand skills, practical experience, and assured career
-                        opportunities.
+                    <p>With software quality playing a crucial role in the success of applications across industries,
+                        the demand for skilled software testers has never been higher. At <strong>CNC Web
+                            World</strong>, we prepare you with job-oriented that combines theory with real-time
+                        practice, tools, and project-based learning — ensuring you're ready for the market from day one.
                     </p>
                 </div>
             </div>
@@ -137,23 +134,23 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Why Choose CNC WEB WORLD for Software Testing Course?</h4>
-            <p> <strong>CNC WEB WORLD</strong> stands out as a premier institute offering specialized <strong>software
-                    testing training in Mumbai</strong>. Our course is crafted by industry experts to ensure you gain
-                the technical expertise, confidence, and practical exposure required to work as a professional software
-                tester.
+            <h4 class="fw-bold blue">Why Choose CNC Web World for Software Testing Classes in Thane?</h4>
+            <p> We are not just another <strong>software testing institute in Thane</strong> — we’re your gateway to a
+                fulfilling career in the IT industry. Here's what sets us apart:
             </p>
-            <h6 class="fw-bold">Key Highlights:</h6>
-            <ul>
-                <li> Expert Trainers with Industry Experience</li>
-                <li> Real-Time Project Training</li>
-                <li> Hands-on Practice with Latest Testing Tools</li>
-                <li> ISTQB-Oriented Curriculum</li>
-                <li> 100% Placement Assistance</li>
-                <li> Interview Preparation & Resume Building</li>
-                <li> Internship Opportunities</li>
-                <li> Job Guarantee After Course Completion</li>
+            <ul class="list-unstyled">
+                <li>✅ Hands-on Training with Real-time Projects</li>
+                <li>✅ Experienced Mentors with Industry Expertise</li>
+                <li>✅ Job-Oriented Curriculum</li>
+                <li>✅ 100% Placement Assistance</li>
+                <li>✅ Resume Building & Interview Preparation</li>
+                <li>✅ Access to Latest Testing Tools & Software</li>
+
+
             </ul>
+            <p>Our <strong>software testing certification course in Thane</strong> is curated to align with current
+                industry demands, ensuring that you stay updated with the latest techniques, tools, and best practices.
+            </p>
         </div>
     </div>
     <!-- course-content end -->
@@ -163,30 +160,32 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Best Software Testing Course in Mumbai – Course Overview</h4>
-            <p> Our <strong>software testing course in Mumbai</strong> offers a solid foundation in both manual and
-                automation testing. You will gain a deep understanding of the software development lifecycle (SDLC),
-                testing methodologies, defect tracking, and test case creation.
-            </p>
-            <h6 class="fw-bold">Curriculum Covers:</h6>
+            <h4 class="fw-bold blue">Thane Job-Oriented Software Testing Training With Help Finding a Job </h4>
+
+            <span>Our <strong>software testing course in Thane</strong> goes beyond theory. We ensure you are job-ready
+                with the right technical skills, domain knowledge, and communication abilities. We provide:</span>
             <ul>
-                <li> Software Testing Fundamentals</li>
-                <li> SDLC & STLC Processes</li>
-                <li> Requirement Analysis & Test Planning</li>
-                <li> Test Case Design & Execution</li>
-                <li> Defect Life Cycle & Bug Reporting</li>
-                <li> Manual Testing Tools (JIRA, Bugzilla, Mantis)</li>
-                <li> Automation Testing using Selenium</li>
-                <li> TestNG Framework & Maven</li>
-                <li> API Testing with Postman</li>
-                <li>Mobile App Testing Basics</li>
-                <li> Agile Testing & Scrum Methodology</li>
-                <li> Interview Preparation & Mock Interviews</li>
+                <li>Mock Interviews</li>
+                <li>Resume Building Sessions</li>
+                <li>Soft Skills & Communication Training</li>
+                <li>One-on-One Mentorship</li>
+                <li>Regular Aptitude Test Practice</li>
+
+
             </ul>
-            <span>
-                Our program also emphasizes communication skills, analytical thinking, and real-world project scenarios
-                to prepare you for real-time challenges in the testing domain.
+            <span>Upon completing the course, our placement support team helps you connect with top IT companies hiring
+                for roles such as:
             </span>
+            <ul>
+                <li>Software Tester</li>
+                <li>QA Analyst</li>
+                <li>Test Engineer</li>
+                <li>Automation Tester</li>
+                <li>QA Engineer</li>
+
+            </ul>
+            <p>We’ve already helped hundreds of students from our <strong>software testing institutes in Thane</strong>
+                secure positions in leading MNCs and startups.</p>
         </div>
     </div>
     <!-- course-content end -->
@@ -833,24 +832,71 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Software Testing Course in Navi Mumbai – Learn Closer to You</h4>
-            <p> If you're located in Navi Mumbai and looking for a professional training institute nearby, <strong>CNC
-                    WEB WORLD</strong> also offers the <strong>best software testing course in Navi Mumbai</strong>. Our
-                training center is easily accessible, equipped with modern labs, and designed to deliver a high-quality
-                learning experience for students and professionals alike.
+            <h4 class="fw-bold blue">What You Will Discover During Our Thane Software Testing Certification Training
+            </h4>
+            <p> Our course is designed to help you gain both conceptual and practical expertise in manual and automated
+                testing. The curriculum's main topics include:
             </p>
-            <p>Whether you are from Vashi, Nerul, Kharghar, Belapur, or Panvel – our <strong>software testing classes in
-                    Navi Mumbai</strong> are your ideal learning destination.</p>
-            <h5 class="fw-bold blue">Who Can Join This Software Testing Course?</h5>
-            <span>Our course is suitable for:</span>
+            <div class="row">
+                <div class="col-md-6">
+                    <span><strong>Manual Testing</strong></span>
+                    <ul>
+                        <li>Software Development Life Cycle (SDLC)</li>
+                        <li>Software Testing Life Cycle (STLC)</li>
+                        <li>Types and Levels of Testing</li>
+                        <li>Test Case Writing</li>
+                        <li>Bug Life Cycle</li>
+                        <li>Black Box and White Box Testing</li>
+
+
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <span><strong>Automation Testing</strong></span>
+                    <ul>
+                        <li>Introduction to Automation</li>
+                        <li>Selenium WebDriver</li>
+                        <li>TestNG Framework</li>
+                        <li>Locators and XPath</li>
+                        <li>Automation Scripts Writing & Execution</li>
+
+
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <span><strong>Performance Testing</strong></span>
+                    <ul>
+                        <li>Load Testing</li>
+                        <li>JMeter Basics</li>
+                        <li>Real-time Scenarios</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <span><strong>Agile Testing</strong></span>
+                    <ul>
+                        <li>Agile Methodology Overview</li>
+                        <li>Scrum Framework</li>
+                        <li>Role of Testers in Agile Projects</li>
+                    </ul>
+                </div>
+            </div>
+
+
+            <span><strong>Tools You Will Master</strong></span>
             <ul>
-                <li>Fresh Graduates (B.Sc, B.E, B.Tech, BCA, MCA)</li>
-                <li> Working Professionals looking to switch to testing</li>
-                <li>Non-IT background students aiming to enter IT</li>
-                <li>Anyone passionate about software quality assurance</li>
+                <li>Selenium</li>
+                <li>JIRA</li>
+                <li>Bugzilla</li>
+                <li>JMeter</li>
+                <li>Postman (for API Testing)</li>
+                <li>TestLink</li>
+
+
             </ul>
-            <p>No prior coding or technical background is required. We start from the fundamentals and gradually advance
-                toward complex testing scenarios.</p>
+            <p>With <strong>CNC Web World's</strong> in-depth <strong>software testing classes in Thane</strong>, you'll
+                be able to confidently execute manual and automation testing tasks across different projects.</p>
         </div>
     </div>
     <!-- course-content end -->
@@ -960,29 +1006,29 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Software Testing Certification Course in Mumbai – Become Industry-Ready</h4>
-            <p> Upon successful completion of the course, students will receive a <strong>software testing
-                    certification,</strong> validating their skills and making them job-ready. Our curriculum aligns
-                with current industry standards and best practices, ensuring your learning is practical and
-                career-focused.
+            <h4 class="fw-bold blue">Who Can Join This Course?</h4>
+            <p> The following are ideal candidates for our <strong>Thane software testing certification
+                </strong>training:
             </p>
-            <p>
-                <strong>CNC WEB WORLD’s software testing certification course in Mumbai</strong> not only builds your
-                technical knowledge but also focuses on professional grooming to help you succeed in job interviews.
-            </p>
-            <h6 class="fw-bold">What You’ll Learn:</h6>
+
             <ul>
-                <li> How to write effective test cases</li>
-                <li> Defect reporting with clarity and accuracy</li>
-                <li> End-to-end testing lifecycle involvement</li>
-                <li> Web application and mobile app testing</li>
-                <li> Frameworks and tools used in MNCs</li>
-                <li>Version control systems and test environments </li>
+                <li>Fresh Graduates from Any Stream</li>
+                <li>B.E. / B.Tech / MCA / BSc (IT/CS) Students</li>
+                <li>Professionals Looking to Switch Careers</li>
+                <li>Job Seekers and Final Year Students</li>
+                <li>Non-IT Professionals aiming for IT domain</li>
             </ul>
-            <span>
-                Our program also emphasizes communication skills, analytical thinking, and real-world project scenarios
-                to prepare you for real-time challenges in the testing domain.
-            </span>
+            <p>Even if you have no prior coding experience, you can still succeed in our course, as we provide a solid
+                foundation and beginner-friendly teaching methods.</p>
+            <h4 class="fw-bold blue">Course Duration & Batch Timings</h4>
+            <ul>
+                <li><strong>Duration:</strong> 2 to 3 Months</li>
+                <li><strong>Mode:</strong> Classroom</li>
+                <li><strong>Batch Types:</strong> Fast Track, Weekend, and Weekday</li>
+                <li><strong>Batch Size:</strong> Small, Personalized Batches</li>
+            </ul>
+            <p>Our flexible timings make it easy for working professionals and students to attend without disrupting
+                their regular schedules.</p>
         </div>
     </div>
     <!-- course-content end -->
@@ -992,23 +1038,23 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Software Testing Course in Mumbai with Job Guarantee – Your Career Starts Here</h4>
-            <p> One of the biggest advantages of enrolling in <strong>CNC WEB WORLD</strong>’s program is our
-                <strong>software testing course in Mumbai with job guarantee</strong>. Our strong placement network and
-                collaborations with top IT companies ensure that our students get placed in reputed organizations.
-            </p>
-            <h6 class="fw-bold">Placement Support Includes:</h6>
+            <h4 class="fw-bold blue">Why Software Testing?</h4>
+
+            <h6 class="fw-bold">One of the IT industry's most exciting and fulfilling job paths is software
+                testing.Here's why:</h6>
             <ul>
-                <li> Resume Building Workshops</li>
-                <li> Mock Interviews with Experts</li>
-                <li>Job Alerts & Referrals</li>
-                <li> Campus Interviews</li>
-                <li> Personality Development Sessions</li>
-                <li> Direct Connect with Hiring Managers </li>
+                <li>High Demand Across IT Companies</li>
+                <li>Less Coding-Intensive Role</li>
+                <li>Fast Career Growth with Automation</li>
+                <li>Opportunities in Every Industry – Finance, Healthcare, Retail, etc.</li>
+                <li>Competitive Salaries and Job Security</li>
+
+
             </ul>
-            <span>
-                We believe in training that results in employment – and that’s what we consistently deliver.
+            <span>By joining a reputed <strong>software testing institute in Thane</strong> like <strong>CNC Web
+                    World</strong>, you gain the skills needed to thrive in this ever-growing industry.
             </span>
+            
         </div>
     </div>
     <!-- course-content end -->
@@ -1018,24 +1064,18 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Why Software Testing is a Great Career Choice?</h4>
-            <p>With every business going digital, software testing has become a critical part of software development.
-                Today, companies cannot afford bugs in their applications – and this has dramatically increased the
-                demand for skilled software testers.
-            </p>
-            <h6 class="fw-bold">Career Opportunities after Software Testing Course:</h6>
+            <h4 class="fw-bold blue">What Makes Our Software Testing Certification Course in Thane Unique?</h4>
+
             <ul>
-                <li>Software Test Engineer</li>
-                <li> Quality Assurance Analyst</li>
-                <li> Automation Test Engineer</li>
-                <li> Selenium Tester</li>
-                <li> Mobile App Tester</li>
-                <li> QA Consultant</li>
-                <li> Test Lead or Test Manager (with experience)</li>
+                <li>Updated Syllabus as per Latest Industry Trends</li>
+                <li>Exposure to Real Tools Used in Companies</li>
+                <li>Focus on Practical Knowledge & Test Cases</li>
+                <li>Comprehensive Training from Basics to Advanced</li>
+                <li>Excellent Reviews and Feedback from Alumni</li>
+
             </ul>
-            <span>
-                Software testing is not only a high-demand skill but also offers long-term career growth, attractive
-                salaries, and global opportunities.</span>
+            <span>Our students consistently rate us among the best <strong>software testing institutes in Thane</strong> because we help them achieve their career goals effectively.
+            </span>
         </div>
     </div>
     <!-- course-content end -->
@@ -1124,29 +1164,20 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Duration and Course Format</h4>
-            <p> Our <strong>software testing course in Mumbai</strong> typically runs for 2 to 3 months, depending on
-                the learning track you choose (basic/manual, automation, or full-stack testing). You can opt for:
-            </p>
-            <ul>
-                <li>Regular Weekday Batches</li>
-                <li>Weekend Batches (for Working Professionals)</li>
-                <li>Fast Track / Crash Courses </li>
-            </ul>
-            <p>
-                We also provide offline classroom training and online <strong>software testing classes</strong> to suit
-                your convenience and learning style.
-            </p>
-            <h5 class="fw-bold blue">Why CNC WEB WORLD is the Best Choice for Software Testing Training in Mumbai?</h5>
-            <ul>
-                <li>Experienced Mentors: Learn from industry veterans who’ve worked with top IT firms.</li>
-                <li>Interactive Classroom Training: Practical-oriented sessions, not boring lectures.</li>
-                <li>Live Projects: Apply your skills on real-time testing assignments.</li>
-                <li>Job-Oriented Curriculum: Aligned with industry needs and placement trends.</li>
-                <li>Support Beyond Training: From career guidance to mock interviews, we walk the extra mile for you.
+            <h4 class="fw-bold blue">Essential Features of CNC Web World’s Software Testing Program in Thane</h4>
+
+            <ul class="list-unstyled">
+                <li><strong>✅ Expert Faculty:</strong> Learn from working professionals with 5+ years of QA experience.
                 </li>
+                <li><strong>✅ Hands-On Training:</strong> Work on live scenarios to build real-world testing skills.
+                </li>
+                <li><strong>✅ Interview Preparation:</strong> Get trained to crack interviews confidently.</li>
+                <li><strong>✅ Certification:</strong> Get an industry-recognized certificate on course completion.</li>
+                <li><strong>✅ Affordable Fees:</strong> Quality education at a reasonable investment.</li>
+                <li><strong>✅ Personal Mentorship:</strong> Individual doubt-clearing and guidance sessions.</li>
+
             </ul>
-            <span>Our commitment is not just to teach you testing – but to build your career in it.</span>
+
         </div>
     </div>
     <!-- course-content end -->
@@ -1169,20 +1200,18 @@
     <section id="faqs-footer">
         <div class="container-lg py-5 px-4 px-lg-0">
             <h2 class="fw-bold text-center py-3 ">
-                Frequently Asked Questions
-            </h2>
+                Frequently Asked Questions (FAQs) </h2>
             <div class="accordion" id="accordionExample2">
                 <div class="accordion-item">
                     <h2 class="accordion-header">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                            <span class="fw-semibold">Do you offer a software testing course in Navi Mumbai?</span>
+                            <span class="fw-semibold">Do I need programming knowledge to join the software testing course?</span>
                         </button>
                     </h2>
                     <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Yes, we offer full-fledged software testing training at our Navi Mumbai center with
-                                practical sessions and placement support.</p>
+                            <p>No, basic computer skills are sufficient. We start from scratch and guide you through both manual and automation testing.</p>
                         </div>
                     </div>
                 </div>
@@ -1190,13 +1219,12 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                            <span class="fw-semibold"> Will I get job placement assistance after this course?</span>
+                            <span class="fw-semibold">Will I get a certificate after the course?</span>
                         </button>
                     </h2>
                     <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Absolutely. Our course comes with 100% placement support, and we have tie-ups with
-                                several hiring companies.</p>
+                            <p>Yes, after successful completion, you will receive a recognized certificate that helps boost your professional credibility.</p>
                         </div>
                     </div>
                 </div>
@@ -1204,13 +1232,12 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                            <span class="fw-semibold">Can I join if I don’t have a technical background?</span>
+                            <span class="fw-semibold">Does the course include placement assistance?</span>
                         </button>
                     </h2>
                     <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Yes, our training starts from scratch. Anyone with a passion to learn and work in IT can
-                                join.</p>
+                            <p>Absolutely. We offer full placement support, including interview preparation, resume building, and job referrals.</p>
                         </div>
                     </div>
                 </div>
@@ -1218,13 +1245,12 @@
                     <h2 class="accordion-header ">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                            <span class="fw-semibold">Do you provide certification?</span>
+                            <span class="fw-semibold">What career options are available after this course?</span>
                         </button>
                     </h2>
                     <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>Yes, after course completion, you’ll receive a professional <strong>software testing
-                                    certification from CNC WEB WORLD</strong>.
+                            <p>You can apply for roles such as QA Analyst, Manual Tester, Automation Tester, Test Engineer, or even specialize in tools like Selenium.
                             </p>
                         </div>
                     </div>
@@ -1233,12 +1259,12 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
-                            <span class="fw-semibold">Which tools will I learn during the course?</span>
+                            <span class="fw-semibold">Is it possible to switch to a development role later?</span>
                         </button>
                     </h2>
                     <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
-                            <p>You’ll learn tools like Selenium, JIRA, Bugzilla, Postman, TestNG, Maven, Git, and more.
+                            <p>Yes. Once you're comfortable with testing, you can branch out into DevOps, Development, or even Project Management.
                             </p>
                         </div>
                     </div>
@@ -1250,17 +1276,14 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 py-5 px-lg-0 ">
-            <h4 class="fw-bold blue">Enroll Today and Secure Your Future in Software Testing !</h4>
-            <p>
-                Join the <strong>best software testing course in Navi Mumbai at CNC WEB WORLD</strong> and give your
-                career the right start. With structured learning, practical knowledge, and placement assistance – we
-                make sure your learning translates into a successful job.
-            </p>
+            <h4 class="fw-bold blue">Enroll Today in Thane’s Leading Software Testing Institute</h4>
+            <p>If you’re serious about building a career in software testing, <strong>CNC Web World</strong> is your best choice among <strong>software testing institutes in Thane</strong>. Our job-ready, hands-on approach ensures that you're fully prepared for a successful career in the IT industry.</p>
             <ul type="none" class="px-0">
                 <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
                     Session .</li>
-               <li><b>📍 Visit us at:</b> [ <a href="https://maps.app.goo.gl/UBcTuWiEUj2aS1nXA"> Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
-                Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 </a> ]</li>
+                <li><b>📍 Visit us at:</b> [ <a href="https://maps.app.goo.gl/UBcTuWiEUj2aS1nXA"> Second Floor, Nerul
+                        Railway Station Complex, Office No, F-201 & 203, above
+                        Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 </a> ]</li>
                 <li>
                     <b>🌐 Website: </b> [<a
                         href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]
