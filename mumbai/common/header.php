@@ -151,13 +151,13 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Job Portal</a>
+                        <a class="nav-link" href="https://t.me/joinchat/Qw1ajuE5tHJhYmU1">Job Portal</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Internship Portal</a>
+                        <a class="nav-link" href="./IT-Internship-in-Nerul-Navi-Mumbai.php">Internship Portal</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Placed Student</a>
+                        <a class="nav-link" href="./placed-student.php">Placed Student</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="./refer.php">
@@ -165,7 +165,7 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Contact Us</a>
+                        <a class="nav-link" href="./contact.php">Contact Us</a>
                     </li>
                     <li class="nav-item hamburger">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
@@ -173,13 +173,13 @@
                             <i class="fa-solid fa-bars"></i>
                         </a>
                         <ul class="dropdown-menu" id="hamburger_menu">
-                            <li><a class="dropdown-item" href="#">
+                            <!-- <li><a class="dropdown-item" href="#">
                                     Support System
-                                </a></li>
+                                </a></li> -->
                             <li><a class="dropdown-item" href="#">
                                     For Working Professional
                                 </a></li>
-                            <li><a class="dropdown-item" href="#">
+                            <li><a class="dropdown-item" href="https://cncwebworld.com/blog.html">
                                     Blog
                                 </a></li>
                             <li><a class="dropdown-item" href="#">
@@ -225,22 +225,22 @@
                     </a>
                 </li>
                 <li>
-                    <a href="#">Job Portal</a>
+                    <a href="https://t.me/joinchat/Qw1ajuE5tHJhYmU1">Job Portal</a>
                 </li>
                 <li>
-                    <a href="#">Internship Portal</a>
+                    <a href="./IT-Internship-in-Nerul-Navi-Mumbai.php">Internship Portal</a>
                 </li>
                 <li>
                     <a href="#">Refer &amp; Earn</a>
                 </li>
                 <li>
-                    <a href="#">Placed Student</a>
+                    <a href="./placed-student.php">Placed Student</a>
                 </li>
                 <li>
                     <a href="#">For Working Professional</a>
                 </li>
                 <li>
-                    <a href="#">
+                    <a href="https://cncwebworld.com/blog.html">
                         Blog
                     </a>
                 </li>
@@ -257,7 +257,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="#">Contact Us</a>
+                    <a href="./contact.php">Contact Us</a>
                 </li>
                 <a href="tel:+917400332999" class="btn" id="telbtn">+91-7400332999</a>
 

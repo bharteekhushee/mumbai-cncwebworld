@@ -861,8 +861,10 @@
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->
-    <!-- fixed section start -->
-    <?php include './common/fixedicon.php' ?>
+     <!-- fixed section start -->
+     <a href="https://wa.link/3q4zgx" class="btn-whatsapp">
+        <img src="./assets/img/whatsapp.svg" alt="" class="img-fluid">
+    </a>
     <!-- fixed section end -->
     <?php include './common/footerlink.php' ?>
     <script>

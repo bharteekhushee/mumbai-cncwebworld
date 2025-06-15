@@ -14,6 +14,7 @@
 </head>
 
 <body class="body">
+    <?php include 'common/popup-msg.php' ?>
     <!--PopUp form-->
     <div class="popup-screen">
         <div class="popup">
@@ -783,7 +784,7 @@
                 <b>Angular training in Mumbai</b>,<b> CNC WEB WORLD</b> is your one-stop destination. Join our
                 career-focused program and build a future-ready skill set that employers value.
             </p>
-            <ul type="none">
+            <ul type="none" class="px-0">
                 <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
                     Session .</li>
                 <li><b>📍 Visit us at:</b> [ Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above
@@ -800,7 +801,9 @@
     <?php include './common/footer.php' ?>
     <!-- footer section end -->
     <!-- fixed section start -->
-    <?php include './common/fixedicon.php' ?>
+    <a href="https://wa.link/h5unv9" class="btn-whatsapp">
+        <img src="./assets/img/whatsapp.svg" alt="" class="img-fluid">
+    </a>
     <!-- fixed section end -->
     <?php include './common/footerlink.php' ?>
     <script>

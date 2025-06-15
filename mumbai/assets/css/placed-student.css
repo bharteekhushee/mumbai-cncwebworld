@@ -15,7 +15,6 @@
 	text-align: center;
 	position: relative;
 }
-
 .gallery .gallery-items .item.hide {
 	display: none;
 }
@@ -51,15 +50,17 @@
 }
 
 .gallery .gallery-items .item p {
+	text-transform: uppercase;
 	color: white;
 	position: absolute;
 	height: 0%;
 	width: 100%;
-	bottom: -10%;
+	bottom: -16%;
 	left: 0;
 	right: 0;
-	background: linear-gradient(rgba(5, 5, 5, 0.5), rgba(0, 0, 0, 0.5));
-	transition: all 0.5s;
+	background: linear-gradient(rgba(5, 5, 5, 0.7), rgba(0, 0, 0, 0.7));
+	transition: all 0.7s;
+	font-weight: bold;
 }
 
 .gallery .gallery-items .item:hover img {
@@ -102,3 +103,14 @@
 	color: gray;
 	pointer-events: none;
 }
+
+/* ---------------------------------------
+#course-content section start
+------------------------------------------ */
+.course-content{
+    font-family: "Poppins", serif;
+    font-size: 15px;
+}
+/* ---------------------------------------
+#course-content section end
+------------------------------------------ */

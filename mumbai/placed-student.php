@@ -8,7 +8,7 @@
       content="Boost your career with PHP training at CNC Web World in Mumbai. Gain practical skills and expert guidance in web development." />
    <meta name="keywords"
       content="php course in Mumbai, php training institute in Mumbai, php classes in Mumbai, php course fees in Mumbai, php training in Mumbai, php classes in navi mumbai       " />
-   <title>PHP Training in Mumbai - Learn PHP with CNC Web World</title>
+   <title>Placed Students | CNC WEB WORLD</title>
    <?php include 'common/headerlink.php' ?>
    <link rel="stylesheet" href="./assets/css/commonstyle.css">
    <link rel="stylesheet" href="./assets/css/placed-student.css">
@@ -36,441 +36,315 @@
          <div class="gallery-items shadow-lg py-5 ">
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/1.jpg" alt="">
+                  <img src="./assets/img/student/1.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Chetan</p>
+               <p class="  h4">Shruti</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/2.jpg" alt="">
+                  <img src="./assets/img/student/2.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Pratiksha</p>
+               <p class="  h4">Akash</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/3.jpg" alt="">
+                  <img src="./assets/img/student/3.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Kshitij</p>
+               <p class="  h4">Sonali</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/4.jpg" alt="">
+                  <img src="./assets/img/student/4.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Aditya</p>
+               <p class="  h4">Nilkanth</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/5.jpg" alt="">
+                  <img src="./assets/img/student/5.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Yash</p>
+               <p class="  h4">Omkar</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/6.jpg" alt="">
+                  <img src="./assets/img/student/6.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Akshat</p>
+               <p class="  h4">Saurabh</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/7.jpg" alt="">
+                  <img src="./assets/img/student/7.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Siddhi</p>
+               <p class="  h4">Shital</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/8.jpg" alt="">
+                  <img src="./assets/img/student/8.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Rekha</p>
+               <p class="  h4">Govind</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/9.jpg" alt="">
+                  <img src="./assets/img/student/9.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Dayanand</p>
+               <p class="  h4">Ranjit</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/10.jpg" alt="">
+                  <img src="./assets/img/student/10.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Mohd Sabir</p>
+               <p class="  h4">Karthik</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/11.jpg" alt="">
+                  <img src="./assets/img/student/11.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Ranjeet</p>
+               <p class="  h4">Shikhar</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/12.jpg" alt="">
+                  <img src="./assets/img/student/12.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Ragani</p>
+               <p class="  h4">Niraj</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/13.jpg" alt="">
+                  <img src="./assets/img/student/13.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Ravi</p>
+               <p class="  h4">Ashish</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/14.jpg" alt="">
+                  <img src="./assets/img/student/14.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Priyanka</p>
+               <p class="  h4">Ranu</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/15.jpg" alt="">
+                  <img src="./assets/img/student/15.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Hemant</p>
+               <p class="  h4">Sneha</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/16.jpg" alt="">
+                  <img src="./assets/img/student/16.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Niraj</p>
+               <p class="  h4">Kalyani</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/17.jpg" alt="">
+                  <img src="./assets/img/student/17.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Ashish</p>
+               <p class="  h4">Muskaan</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/18.jpg" alt="">
+                  <img src="./assets/img/student/18.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Shital</p>
+               <p class="  h4">Reshma</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/19.jpg" alt="">
+                  <img src="./assets/img/student/19.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Swapanali</p>
+               <p class="  h4">Santosh</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/20.jpg" alt="">
+                  <img src="./assets/img/student/20.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Shivani</p>
+               <p class="  h4">Navanit</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/21.jpg" alt="">
+                  <img src="./assets/img/student/21.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Rohan</p>
+               <p class="  h4">Rasika</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/22.jpg" alt="">
+                  <img src="./assets/img/student/22.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Kunal</p>
+               <p class="  h4">Hiralal</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/23.jpg" alt="">
+                  <img src="./assets/img/student/23.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Ashish</p>
+               <p class="  h4">Shubham</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/24.jpg" alt="">
+                  <img src="./assets/img/student/24.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Ranjit</p>
+               <p class="  h4">Asmita</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/25.jpg" alt="">
+                  <img src="./assets/img/student/25.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Divya</p>
+               <p class="  h4">Isha</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/26.jpg" alt="">
+                  <img src="./assets/img/student/26.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Karthik</p>
+               <p class="  h4">Swati</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/27.jpg" alt="">
+                  <img src="./assets/img/student/27.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Snehal</p>
+               <p class="  h4">Aayushi</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/28.jpg" alt="">
+                  <img src="./assets/img/student/28.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Govind</p>
+               <p class="  h4">Komal</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/29.jpg" alt="">
+                  <img src="./assets/img/student/29.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Akshay</p>
+               <p class="  h4">Himanshu</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/30.jpg" alt="">
+                  <img src="./assets/img/student/30.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Shikhar</p>
+               <p class="  h4">Deepak</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/31.jpg" alt="">
+                  <img src="./assets/img/student/31.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Devendra</p>
+               <p class="  h4">Prasad</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/32.jpg" alt="">
+                  <img src="./assets/img/student/32.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Ashish</p>
+               <p class="  h4">Komal</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/33.jpg" alt="">
+                  <img src="./assets/img/student/33.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Rohani</p>
+               <p class="  h4">Sanika</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/34.jpg" alt="">
+                  <img src="./assets/img/student/34.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Shamshad</p>
+               <p class="  h4">Shubham</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/Anil Singh.jpg" alt="">
+                  <img src="./assets/img/student/35.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Anil Singh</p>
+               <p class="  h4">Chandan</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/Gayatri Mankar.jpg" alt="">
+                  <img src="./assets/img/student/36.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Gayatri Mankar</p>
+               <p class="  h4">Usama</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/Monika Desai.jpg" alt="">
+                  <img src="./assets/img/student/37.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Monika Desai</p>
+               <p class="  h4">Alivasakhi</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/Pritam Thakur.jpg" alt="">
+                  <img src="./assets/img/student/38.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Pritam Thakur</p>
+               <p class="  h4">Nitin</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/Priyanka Kedar.jpg" alt="">
+                  <img src="./assets/img/student/39.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Priyanka Kedar</p>
+               <p class="  h4">Tarun</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/Rajeev Singh.jpg" alt="">
+                  <img src="./assets/img/student/40.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Rajeev Singh</p>
+               <p class="  h4">Shilpa</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/Rohit Joshi.jpg" alt="">
+                  <img src="./assets/img/student/41.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Rohit Joshi</p>
+               <p class="  h4">Hemant</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/Shitesh Pawar.jpg" alt="">
+                  <img src="./assets/img/student/42.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Shitesh Pawar</p>
+               <p class="  h4">Chetan</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/Vijay Got.jpg" alt="">
+                  <img src="./assets/img/student/43.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Vijay Got</p>
+               <p class="  h4">Siddhi</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/Yash Singh.jpg" alt="">
+                  <img src="./assets/img/student/44.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Yash Singh</p>
+               <p class="  h4">Rekha</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/Suraj Sabale.jpg" alt="">
+                  <img src="./assets/img/student/45.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Suraj Sabale</p>
+               <p class="  h4">Dayanand</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/Tushar Tripathi.jpg" alt="">
+                  <img src="./assets/img/student/46.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Tushar Tripathi</p>
+               <p class="  h4">Ragani</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-1.jpeg" alt="">
+                  <img src="./assets/img/student/47.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Dinesh Kumar</p>
+               <p class="  h4">Ashish</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-2.jpeg" alt="">
+                  <img src="./assets/img/student/48.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Nikhil Rarnaparkhi</p>
+               <p class="  h4">Rohan</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-3.jpeg" alt="">
+                  <img src="./assets/img/student/49.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Sachin Singh</p>
+               <p class="  h4">Kunal</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-4.jpeg" alt="">
+                  <img src="./assets/img/student/50.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Gaurav Singh</p>
+               <p class="  h4">Akshay</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-5.jpeg" alt="">
+                  <img src="./assets/img/student/51.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Harshit Wagh</p>
+               <p class="  h4">Devendra</p>
             </div>
             <div class="item">
                <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-6.jpeg" alt="">
+                  <img src="./assets/img/student/52.jpg" alt="">
                </div>
-               <p class="fw-semibold h4">Naveen Yadav</p>
-            </div>
-            <div class="item">
-               <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-7.jpeg" alt="">
-               </div>
-               <p class="fw-semibold h4">Reshma Dixit</p>
-            </div>
-            <div class="item">
-               <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-8.jpeg" alt="">
-               </div>
-               <p class="fw-semibold h4">Komal Nawale</p>
-            </div>
-            <div class="item">
-               <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-9.jpeg" alt="">
-               </div>
-               <p class="fw-semibold h4">Sarfaraj Alam</p>
-            </div>
-            <div class="item">
-               <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-10.jpeg" alt="">
-               </div>
-               <p class="fw-semibold h4">Shweta Nagrale</p>
-            </div>
-            <div class="item">
-               <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-11.jpeg" alt="">
-               </div>
-               <p class="fw-semibold h4">Prateek Bhatnagar</p>
-            </div>
-            <div class="item">
-               <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-12.jpeg" alt="">
-               </div>
-               <p class="fw-semibold h4">Rohan Gupta</p>
-            </div>
-            <div class="item">
-               <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-13.jpeg" alt="">
-               </div>
-               <p class="fw-semibold h4">Bhavesh Jadhav</p>
-            </div>
-            <div class="item">
-               <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-14.jpeg" alt="">
-               </div>
-               <p class="fw-semibold h4">Nikita Rawat</p>
-            </div>
-            <div class="item">
-               <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-15.jpeg" alt="">
-               </div>
-               <p class="fw-semibold h4">Shilpa Singh</p>
-            </div>
-            <div class="item">
-               <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-16.jpeg" alt="">
-               </div>
-               <p class="fw-semibold h4">Vishal Patil</p>
-            </div>
-            <div class="item">
-               <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-17.jpeg" alt="">
-               </div>
-               <p class="fw-semibold h4">Saurabh Sachdeva</p>
-            </div>
-            <div class="item">
-               <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-18.jpeg" alt="">
-               </div>
-               <p class="fw-semibold h4">Shraddha Joshi</p>
-            </div>
-            <div class="item">
-               <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-19.jpeg" alt="">
-               </div>
-               <p class="fw-semibold h4">Sohan Rawat</p>
-            </div>
-            <div class="item">
-               <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-20.jpeg" alt="">
-               </div>
-               <p class="fw-semibold h4">Meena Rajput</p>
-            </div>
-            <div class="item">
-               <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-21.jpeg" alt="">
-               </div>
-               <p class="fw-semibold h4">Mahima Kumari</p>
-            </div>
-            <div class="item">
-               <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-22.jpeg" alt="">
-               </div>
-               <p class="fw-semibold h4">Rutik Londhe</p>
-            </div>
-            <div class="item">
-               <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-23.jpeg" alt="">
-               </div>
-               <p class="fw-semibold h4">Vishwajit Rajput</p>
-            </div>
-            <div class="item">
-               <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-24.jpeg" alt="">
-               </div>
-               <p class="fw-semibold h4">Shivam Shukla</p>
-            </div>
-            <div class="item">
-               <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-25.jpeg" alt="">
-               </div>
-               <p class="fw-semibold h4">Sakshi Maurya</p>
-            </div>
-            <div class="item">
-               <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-26.jpeg" alt="">
-               </div>
-               <p class="fw-semibold h4">Prerana Hiremath</p>
-            </div>
-            <div class="item">
-               <div class="img">
-                  <img src="https://cncwebworld.com/image/placed-student/std-27.jpeg" alt="">
-               </div>
-               <p class="fw-semibold h4">Vidisha Agnihotri</p>
+               <p class="  h4">Shamshad</p>
             </div>
             <div class="pagination justify-content-center">
                <div class="prev ">Prev</div>
@@ -482,12 +356,34 @@
       </div>
    </section>
    <!--image section end-->
-
+   <!-- course-content start -->
+   <div class="course-content">
+      <div class="container-lg px-4 py-5 px-lg-0 ">
+         <h4 class="fw-bold blue">Enroll in CNC Web World</h4>
+         <ul type="none" class="px-0">
+            <li><b>📞 Contact Us Now :- </b> <a href="tel:7400193799">[7400193799]</a> Today to Book Your Free Demo
+               Session .</li>
+            <li><b>📍 Visit us at:</b> [ <a href="https://maps.app.goo.gl/UBcTuWiEUj2aS1nXA"> Second Floor, Nerul
+                  Railway Station Complex, Office No, F-201 & 203, above
+                  Union Bank, Nerul West, Navi Mumbai, Maharashtra 400706 </a> ]</li>
+            <li>
+               <b>🌐 Website: </b> [<a
+                  href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php</a>]
+            </li>
+         </ul>
+      </div>
+   </div>
+   <!-- course-content end -->
+   <!-- linkwhatsapp start -->
+   <?php include './common/linkwhatsapp.php' ?>
+   <!-- linkwhatsapp end -->
    <!-- footer section start -->
    <?php include './common/footer.php' ?>
    <!-- footer section end -->
    <!-- fixed section start -->
-   <?php include './common/fixedicon.php' ?>
+   <a href="https://api.whatsapp.com/send?phone=917400332999" class="btn-whatsapp">
+      <img src="./assets/img/whatsapp.svg" alt="" class="img-fluid">
+   </a>
    <!-- fixed section end -->
    <?php include './common/footerlink.php' ?>
    <script>
@@ -516,7 +412,7 @@
          else {
             prev.classList.remove('disabled')
          }
-         if (index == 13) {
+         if (index == 9) {
             next.classList.add('disabled')
          }
          else {

@@ -129,7 +129,9 @@ header .navbar-nav .nav-item .dropdown-menu .dropdown-item:hover {
 header #telbtn {
     margin: 0px 15px;
 }
-
+.offcanvas{
+    max-width:300px
+}
 header .offcanvas-body #telbtn {
     margin: 10px 0px;
     display: block;

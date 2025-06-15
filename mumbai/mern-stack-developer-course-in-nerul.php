@@ -961,9 +961,10 @@ mern course in nerul, mern training in nerul, mern course fees in nerul, mern ce
     <!-- footer section start -->
     <?php include './common/footer.php' ?>
     <!-- footer section end -->
-
     <!-- fixed section start -->
-    <?php include './common/fixedicon.php' ?>
+    <a href="https://wa.link/r7ij03" class="btn-whatsapp">
+    <img src="./assets/img/whatsapp.svg" alt="" class="img-fluid">
+    </a>
     <!-- fixed section end -->
     <?php include './common/footerlink.php' ?>
     <script>

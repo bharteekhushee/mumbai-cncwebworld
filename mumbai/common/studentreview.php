@@ -46,7 +46,7 @@
                             transformative. The session helped me enhance my communication skills, build better
                             relationships with colleagues, and boost my self-confidence. I highly recommend it to
                             anyone looking to improve their professional and personal skills! Thank for giving
-                            unlimited interview Call and got job in KPIT.
+                            unlimited interview Call and got job in Infosys.
                         </p>
                     </div>
                 </div>

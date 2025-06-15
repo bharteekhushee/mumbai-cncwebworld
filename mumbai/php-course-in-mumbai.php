@@ -913,6 +913,9 @@
     <?php include './common/footer.php' ?>
     <!-- footer section end -->
     <!-- fixed section start -->
+     <a href="https://wa.link/amrp0c" class="btn-whatsapp">
+    <img src="./assets/img/whatsapp.svg" alt="" class="img-fluid">
+    </a>
     <?php include './common/fixedicon.php' ?>
     <!-- fixed section end -->
     <?php include './common/footerlink.php' ?>

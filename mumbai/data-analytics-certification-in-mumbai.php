@@ -992,7 +992,9 @@
     <?php include './common/footer.php' ?>
     <!-- footer section end -->
     <!-- fixed section start -->
-    <?php include './common/fixedicon.php' ?>
+    <a href="https://wa.link/snmcad" class="btn-whatsapp">
+        <img src="./assets/img/whatsapp.svg" alt="" class="img-fluid">
+    </a>
     <!-- fixed section end -->
     <?php include './common/footerlink.php' ?>
     <script>

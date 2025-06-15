@@ -48,7 +48,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="./assets/img/slider-2.PNG" class="d-block w-100" alt="...">
+                    <img src="./assets/img/slider-2.png" class="d-block w-100" alt="...">
                     <div class="carousel-caption">
                         <h2 class="fw-bolder display-4 mb-3"> Get Day 1 <br> Offer Letter</h2>
                         <div class='mb-3'>
@@ -62,7 +62,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="./assets/img/slider-3.PNG" class="d-block w-100" alt="...">
+                    <img src="./assets/img/slider-3.png" class="d-block w-100" alt="...">
                     <div class="carousel-caption">
                         <h2 class="fw-bolder display-4 mb-3"> Get Day 1 <br> Offer Letter</h2>
                         <div class='mb-3'>
@@ -442,7 +442,9 @@
     <!-- footer section end -->
 
     <!-- fixed section start -->
-    <?php include './common/fixedicon.php' ?>
+    <a href="https://api.whatsapp.com/send?phone=917400332999" class="btn-whatsapp">
+        <img src="./assets/img/whatsapp.svg" alt="" class="img-fluid">
+    </a>
     <!-- fixed section end -->
 
     <?php include './common/footerlink.php' ?>

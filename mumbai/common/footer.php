@@ -11,7 +11,7 @@
                                 <i class="fa-solid fa-location-dot"></i>
                                 <span>
                                     Second Floor, Nerul Railway Station Complex, Office No, F-201 & 203, above Union
-                                    Bank, Nerul West, Navi Mumbai, Maharashtra 400706 Mob.: 7400193799
+                                    Bank, Nerul West, Navi Mumbai, Maharashtra 400706 
                                 </span>
                             </a>
                         </li>
@@ -46,7 +46,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="https://cncwebworld.com/placed-studend.php">
+                            <a href="./placed-student.php">
                                 Our Placed Students
                             </a>
                         </li>
@@ -60,7 +60,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="blog.html">
+                            <a href="https://cncwebworld.com/blog.html">
                                 Blog
                             </a>
                         </li>
@@ -111,7 +111,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="https://cncwebworld.com/mumbai/index.php">
+                            <a href="https://cncwebworld.com/mumbai/IT-courses-in-navi-mumbai.php">
                                 Navi Mumbai
                             </a>
                         </li>
