@@ -1024,7 +1024,7 @@
             <p>
                 Take the first step toward a rewarding career in <b>Full Stack .NET development</b> with <b>CNC WEB
                     WORLD</b>. Contact
-                us today to know more about the <b>Full Stack .NET course in Navi Mumbai</b> and start your journey
+                us today to know more about the <b><a href="dot-net-course-in-mumbai.php">Full Stack .NET course in Navi Mumbai</a></b> and start your journey
                 towards
                 becoming a professional Full Stack Developer.
             </p>

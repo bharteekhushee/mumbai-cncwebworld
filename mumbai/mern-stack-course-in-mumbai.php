@@ -741,8 +741,7 @@
                 <li>Internship Opportunities & Live Projects</li>
             </ul>
             <p>
-                With strong industry ties and a proven track record, our <b>MERN Stack Training in Mumbai with Placement
-                    Support</b> is your gateway to joining top IT firms and startups as a Full Stack Developer.</p>
+                With strong industry ties and a proven track record, our <b><a href="mern-stack-developer-course-in-belapur.php">MERN Stack Training in Mumbai with Placement Support</a></b> is your gateway to joining top IT firms and startups as a Full Stack Developer.</p>
         </div>
     </div>
     <!-- course-content end -->
@@ -770,10 +769,10 @@
                 <li>Freelancers seeking in-demand skills</li>
             </ul>
             <p>
-                Whether you come from a tech background or not, our <b>MERN Stack course</b> is designed to make you
+                Whether you come from a tech background or not, our <b><a href="mern-stack-developer-course-in-vashi.php">MERN Stack course</a></b> is designed to make you
                 job-ready from scratch.</p>
             <h5 class="fw-bold blue">Why Our Certification Matters?</h5>
-            <p>Upon successful completion, you’ll receive the <b>MERN Stack Developer Certification in Mumbai</b>,
+            <p>Upon successful completion, you’ll receive the <b> <a href="mern-stack-developer-course-in-nerul.php">MERN Stack Developer Certification in Mumbai</a></b>,
                 proving your expertise in full-stack development. Our certification opens doors to:</p>
             <ul>
                 <li> Entry-level and mid-level developer roles</li>
@@ -845,7 +844,7 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Key Features of MERN Stack Developer Training at CNC WEB WORLD</h4>
+            <h4 class="fw-bold blue">Key Features of <a href="mern-stack-developer-course-in-panvel.php">MERN Stack Developer Training at CNC WEB WORLD</a></h4>
             <ul type="none">
                 <li>🔹 Industry-Relevant Curriculum</li>
                 <li>🔹 Hands-on Coding Practice</li>
@@ -975,7 +974,7 @@
             <h4 class="fw-bold blue">Take the First Step Towards Your Web Development Career</h4>
             <h5 class="fw-bsemiold">Enroll Today and Start Your Journey as a MERN Stack Developer </h5>
             <p>
-                <b>CNC WEB WORLD’s MERN Stack Developer Course in Mumbai</b> is your gateway to a high-growth tech
+                <b><a href="mern-stack-developer-course-in-thane.php">CNC WEB WORLD’s MERN Stack Developer Course in Mumbai</a> </b> is your gateway to a high-growth tech
                 career. Join us to gain hands-on coding experience, master full stack development, and land your dream
                 job in IT.
             </p>

@@ -741,7 +741,7 @@
         <div class="container-lg px-4 px-lg-0 py-5">
             <h4 class="fw-bold blue">Java Full Stack Developer Career Opportunities</h4>
             <p>With the rise in digital transformation across industries, <b>Full Stack Developers with Java </b> skills
-                are in high demand. After completing our <b>Java Full Stack Developer Course</b>, you can confidently
+                are in high demand. After completing our <b><a href="java-course-in-vashi.php">Java Full Stack Developer Course</a></b>, you can confidently
                 apply for job roles such as:</p>
             <ul>
                 <li>Java Full Stack Developer</li>
@@ -864,8 +864,8 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Java Full Stack Course with Placement in Mumbai</h4>
-            <p><b>CNC WEB WORLD offers a Java Full Stack Developer Course in Mumbai with Placement Assistance</b>. We go
+            <h4 class="fw-bold blue"><a href="java-course-in-thane.php">Java Full Stack Course</a> with Placement in Mumbai</h4>
+            <p><b>CNC WEB WORLD offers a <a href="java-course-in-panvel.php">Java Full Stack Developer Course in Mumbai</a> with Placement Assistance</b>. We go
                 beyond classroom teaching — our placement cell provides resume support, interview training, mock
                 interviews, and connects you with hiring partners in the IT industry. Our goal is to help you get placed
                 in top companies with a competitive salary package.</p>
@@ -894,7 +894,7 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Why Java Full Stack Development is a Smart Career Move</h4>
+            <h4 class="fw-bold blue">Why <a href="java-course-in-belapur.php">Java Full Stack Development</a> is a Smart Career Move</h4>
             <ul type="none">
                 <li>✔ <b>High Industry Demand:</b> Java is the most widely used programming language in enterprise-level
                     applications.</li>
@@ -970,7 +970,7 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Key Features of Java Full Stack Developer Training at CNC WEB WORLD</h4>
+            <h4 class="fw-bold blue">Key Features of <a href="java-course-in-nerul.php">Java Full Stack Developer Training</a> at CNC WEB WORLD</h4>
             <ul type="none">
                 <li>🎯 Experienced Trainers from Industry</li>
                 <li>🎯 Small Batch Size for Personalized Attention</li>
@@ -1085,7 +1085,7 @@
         <div class="container-lg px-4 py-5 px-lg-0 ">
             <h4 class="fw-bold blue">Key Features of Java Full Stack Developer Training at CNC WEB WORLD</h4>
             <p>
-                <b>CNC WEB WORLD’s Java Full Stack Developer Course in Mumbai</b> is your gateway to a high-growth tech
+                <b>CNC WEB WORLD’s <a href="java-course-in-mumbai.php">Java Full Stack Developer Course in Mumbai</a></b> is your gateway to a high-growth tech
                 career. Join us to gain hands-on coding experience, master full stack development, and land your dream
                 job in IT.
             </p>

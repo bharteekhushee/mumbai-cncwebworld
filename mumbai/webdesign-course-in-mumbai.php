@@ -137,10 +137,10 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Why Choose CNC WEB WORLD for Web Development Courses in Mumbai?</h4>
+            <h4 class="fw-bold blue">Why Choose CNC WEB WORLD for <a href="web-designing-course-in-panvel.php">Web Development Courses in Mumbai</a>?</h4>
             <ol>
                 <li class="mb-2"> <b>Comprehensive Curriculum : </b>
-                    Our <b>Web developer course in Mumbai</b> covers everything from front-end to back-end development,
+                    Our <b><a href="web-designing-course-in-nerul.php">Web developer course in Mumbai</a></b> covers everything from front-end to back-end development,
                     ensuring that you gain expertise in the latest web technologies.
                 </li>
                 <li class="mb-2">
@@ -591,7 +591,7 @@
     <!-- course-content start -->
     <div class="course-content">
         <div class="container-lg px-4 px-lg-0 py-5">
-            <h4 class="fw-bold blue">Who Can Enroll in Our Web Development Classes in Mumbai?</h4>
+            <h4 class="fw-bold blue">Who Can Enroll in Our <a href="web-designing-course-in-belapur.php">Web Development Classes in Mumbai</a>?</h4>
             <ul>
                 <li> Freshers and students looking for a career in web development</li>
                 <li>Professionals looking to switch to web development</li>
@@ -784,11 +784,11 @@
         <div class="container-lg px-4 py-5 px-lg-0 ">
             <h4 class="fw-bold blue">Enroll Today in the Best Web Design Course in Mumbai</h4>
             <p>
-                Kickstart your web development career with <b>CNC WEB WORLD’s web development training in Mumbai</b>.
+                Kickstart your web development career with <b>CNC WEB WORLD’s <a href="web-designing-course-in-thane.php">Web Development Training in Mumbai</a></b>.
                 Gain real-world experience, industry-recognized certifications, and job placement support.
             </p>
             <p>
-                Contact us today to learn more about our <b>web development courses in Mumbai</b> and take the first
+                Contact us today to learn more about our <b><a href="web-designing-course-in-vashi.php">Web Development Courses in Mumbai</a></b> and take the first
                 step toward a rewarding career!
             </p>
             <ul type="none" class="px-0">
